@@ -6,8 +6,26 @@ PSP용 **The Sims 2: Castaway (USA / ULUS-10296)** 한국어 패치 프로젝트
 
 > **Beta:** 파일 수준의 빌드·패치 재현 검사는 통과했지만, 모든 플레이 화면의 번역 적용 상태·글자 잘림·위치·문구 자연스러움까지 완전히 검증된 완성판은 아닙니다.
 
-## 대상 원본
+<!-- SCREENSHOTS:START -->
+## 스크린샷
 
+> FINAL_20261017_R5 기반 실제 PPSSPP 사용자 확인 화면입니다. 현재 베타 버전으로, 일부 문구의 잘림·위치·자연스러움은 계속 수정될 수 있습니다.
+
+<p align="center">
+  <img src="docs/screenshots/01_title_ko.jpg" alt="한국어 타이틀 화면" width="800">
+</p>
+
+| 메인 메뉴 | 게임 플레이 |
+| --- | --- |
+| ![한국어 메인 메뉴](docs/screenshots/02_main_menu_ko.jpg) | ![한국어 게임 플레이](docs/screenshots/03_gameplay_ko.jpg) |
+
+| 일시정지 메뉴 | 제작/설계도 화면 |
+| --- | --- |
+| ![한국어 일시정지 메뉴](docs/screenshots/04_pause_menu_ko.jpg) | ![한국어 제작 화면](docs/screenshots/05_crafting_ko.jpg) |
+
+<!-- SCREENSHOTS:END -->
+
+## 대상 원본
 - Platform: PSP
 - Region / Game ID: USA / ULUS-10296
 - Original ISO SHA-256: `fd46c3b338fc6ee1a15d2c29aadd300425b263ddc14e859a4ac80d3396a2e21c`
