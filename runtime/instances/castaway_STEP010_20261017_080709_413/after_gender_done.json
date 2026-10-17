@@ -1,0 +1,11 @@
+{
+  "run_id": "castaway_STEP010_20261017_080709_413",
+  "game_id": "ULUS10296",
+  "source": "software-rendered PSP VRAM",
+  "address": "0x4000000",
+  "stride": 512,
+  "width": 480,
+  "height": 272,
+  "format": "PSP RGB565, low bits red",
+  "png": "after_gender_done.png"
+}

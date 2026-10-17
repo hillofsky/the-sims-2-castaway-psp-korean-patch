@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "TXT_SimsObjects_12651",
+    "source_sha256": "fcaade10a2f7fd0d679b4457574fcd62308ed401c8c5b3d45745f25d888c6648",
+    "ko": "<WT>카드_묘기_보여_주기. 교류하며 심에게 눈먼 자들의 나라에서는 외눈 잭이 왕인 이유를 보여 주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12652",
+    "source_sha256": "91fe719effbe23afcf196dbc2c3f9ef3a2452a2327f5097e5fbc3c4de07a309d",
+    "ko": "카드 묘기 보여 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_12653",
+    "source_sha256": "7720a368a431a06319f2e74ddb3c093c3c6f7b8d81243408e088854bd8aad7fd",
+    "ko": "<WT>카드_묘기_보여_주기. $sim과 교류하며 눈먼 자들의 나라에서는 외눈 잭이 왕임을 증명하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12654",
+    "source_sha256": "48a4a6a11fcaee06a025c9e5240922ff6ff6521e42537f1d927bfa7f3113289c",
+    "ko": "$sim에게 카드 묘기 보여 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_12655",
+    "source_sha256": "7720a368a431a06319f2e74ddb3c093c3c6f7b8d81243408e088854bd8aad7fd",
+    "ko": "<WT>카드_묘기_보여_주기. $sim과 교류하며 눈먼 자들의 나라에서는 외눈 잭이 왕임을 증명하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12656",
+    "source_sha256": "48a4a6a11fcaee06a025c9e5240922ff6ff6521e42537f1d927bfa7f3113289c",
+    "ko": "$sim에게 카드 묘기 보여 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_12657",
+    "source_sha256": "0de33da29d4da2f31b27a6aae5589143f22efc9f28d9baaa8bf10dee6ac7551c",
+    "ko": "<WT>심에게_속마음_털어놓기. 개인적인 고민에 공감하며 귀 기울여 줄 사람이 있을지도 모릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12658",
+    "source_sha256": "a828130fd5afd3fd1414e3174412a428fe0f5367550e82a18734d9bedbf7c739",
+    "ko": "심에게 속마음 털어놓기"
+  },
+  {
+    "id": "TXT_SimsObjects_12659",
+    "source_sha256": "d9c1ffee8fbf65f35f730ae9bbcfba931d8b70d7d18d9973336d6a1777782f9d",
+    "ko": "<WT>$sim에게 속마음 털어놓기. $sim도 공감하며 들어 줄지도 모릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12660",
+    "source_sha256": "4256612903eac75f5d081b880d069572707c7a6ccd504a7a219826935214a7d3",
+    "ko": "$sim에게 속마음 털어놓기"
+  },
+  {
+    "id": "TXT_SimsObjects_12661",
+    "source_sha256": "d9c1ffee8fbf65f35f730ae9bbcfba931d8b70d7d18d9973336d6a1777782f9d",
+    "ko": "<WT>$sim에게 속마음 털어놓기. $sim도 공감하며 들어 줄지도 모릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12662",
+    "source_sha256": "4256612903eac75f5d081b880d069572707c7a6ccd504a7a219826935214a7d3",
+    "ko": "$sim에게 속마음 털어놓기"
+  },
+  {
+    "id": "TXT_SimsObjects_12663",
+    "source_sha256": "1344b84d8e0a18abf6c2899f526173e58e10a8637bfa1525ba5959bc75c14521",
+    "ko": "<WT>심과_추억_나누기. 옛날이야기를 시적으로 풀어놓으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12664",
+    "source_sha256": "1142a96c52652e4356a926d1437234e9dec1b051a6abc815021ce6c82fd28fb5",
+    "ko": "심과 추억 나누기"
+  },
+  {
+    "id": "TXT_SimsObjects_12665",
+    "source_sha256": "3374b6b02710f3e0552d174e988e819bcecd0c1d789a2e01564a4749a931221d",
+    "ko": "<WT>$sim과 추억 나누기. 옛날이야기를 시적으로 풀어놓으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12666",
+    "source_sha256": "be0c39c43a0b57a184631f884108757c4b81dd6ce4586817e67163535a266199",
+    "ko": "$sim과 추억 나누기"
+  },
+  {
+    "id": "TXT_SimsObjects_12667",
+    "source_sha256": "3374b6b02710f3e0552d174e988e819bcecd0c1d789a2e01564a4749a931221d",
+    "ko": "<WT>$sim과 추억 나누기. 옛날이야기를 시적으로 풀어놓으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12668",
+    "source_sha256": "be0c39c43a0b57a184631f884108757c4b81dd6ce4586817e67163535a266199",
+    "ko": "$sim과 추억 나누기"
+  },
+  {
+    "id": "TXT_SimsObjects_12669",
+    "source_sha256": "9aafeb96f622aaca0c77bf21ec62ddb109ef9e678964f598d96bda368c40301d",
+    "ko": "<WT>심과_게임하기. 여가 시간입니다! 다른 심과 함께할 게임을 찾으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12670",
+    "source_sha256": "8ed6edaed0534e1f6a3c1ad3522120d00ae4cfa510f46d872cda22d0a2fcf3d0",
+    "ko": "심과 게임하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12671",
+    "source_sha256": "7bd58330d092e5cc9b7df16acc123fd49b61848366cd6fdd8279acb31bc455da",
+    "ko": "<WT>게임하기. 여가 시간입니다! $sim과 함께할 게임을 찾으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12672",
+    "source_sha256": "a8b99a035a8fa3d974b13a19157591c08beaf8ce720630f68c838ae2ac3f5f3f",
+    "ko": "$sim과 게임하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12673",
+    "source_sha256": "7bd58330d092e5cc9b7df16acc123fd49b61848366cd6fdd8279acb31bc455da",
+    "ko": "<WT>게임하기. 여가 시간입니다! $sim과 함께할 게임을 찾으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12674",
+    "source_sha256": "a8b99a035a8fa3d974b13a19157591c08beaf8ce720630f68c838ae2ac3f5f3f",
+    "ko": "$sim과 게임하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12675",
+    "source_sha256": "230d38917c021f4d47d31141f017597ec071b55d6ef08dd024a2e85da05d6af4",
+    "ko": "<WT>심과_게임하기. 이 심들이 조금 긴장을 풀도록 도와주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12676",
+    "source_sha256": "172ea21d8b792a81e020d105fae50434eb3109eb0585dc718ba70d7f3b3c65fd",
+    "ko": "심과 게임하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12677",
+    "source_sha256": "5a9694d3da07abc4c77766ff00cfd70726be1ccc0887dd39ce163af217313d84",
+    "ko": "<WT>심에게_전화하기. 전화로 인맥을 유지하세요. 누구에게든 연락해 보세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_12678",
+    "source_sha256": "871f23db1c2aec66638139617c87769eee717a78ff6d1249910b59783cf6fa5d",
+    "ko": "심에게 전화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12679",
+    "source_sha256": "ede829fe342ebfaf21463baeff1d249164117675bde09727a09f547bc4e959ab",
+    "ko": "<WT>$sim에게 전화하기. 인맥과 계속 연락하세요. $sim에게 전화를 걸어 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12680",
+    "source_sha256": "122f9a0139c29cef7c6d0caceda76146952765a9c5d5bfd71b8b1d5d4adb2f11",
+    "ko": "$sim에게 전화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12681",
+    "source_sha256": "ede829fe342ebfaf21463baeff1d249164117675bde09727a09f547bc4e959ab",
+    "ko": "<WT>$sim에게 전화하기. 인맥과 계속 연락하세요. $sim에게 전화를 걸어 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12682",
+    "source_sha256": "122f9a0139c29cef7c6d0caceda76146952765a9c5d5bfd71b8b1d5d4adb2f11",
+    "ko": "$sim에게 전화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12683",
+    "source_sha256": "bcdc85db35abe2d4df557e4ecfaa350761a818161a0f37971fbc20bd0bf2837f",
+    "ko": "<WT>취직하기. 어떻게든 청구서를 내야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12684",
+    "source_sha256": "6abd4a7e622e9a046b0324d69ea824db55f04f7641d0e1aacd072df6aeee5c17",
+    "ko": "취직하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12685",
+    "source_sha256": "21f2f91247c433998e01533adc378c85fc424e9bcd0649ba7048daf17c71db2d",
+    "ko": "<WT>$career 직종에 취직하기. 어린 시절 꿈을 이루세요. 직업이 아니라 모험입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12686",
+    "source_sha256": "89ed902faf8b3692933643b43bbb5b22443d07344764c2b2fe78af4e2b149ddb",
+    "ko": "$career 직종에 취직하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12687",
+    "source_sha256": "08426da5595159089a5b1179d20ae458e54b94e1626f1e29d17d6c45c03def3e",
+    "ko": "<WT>$career 직종에 취직하기. 어린 시절 꿈을 이루세요. 직업이 아니라 모험입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12688",
+    "source_sha256": "89ed902faf8b3692933643b43bbb5b22443d07344764c2b2fe78af4e2b149ddb",
+    "ko": "$career 직종에 취직하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12689",
+    "source_sha256": "13821d6e4980e1cc31e9d881f1053dfac707db8603d469013357ed6b8c47c297",
+    "ko": "<WT>취직하기. 경력을 시작할 때입니다! 신문은 어디 있죠?"
+  },
+  {
+    "id": "TXT_SimsObjects_12690",
+    "source_sha256": "34fabf6128ab65d3d799717c6730e989126b80038bf00a2acd5bf9fb0cdb8c9f",
+    "ko": "취직하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12691",
+    "source_sha256": "2e42f562c2209989bfaf0c6e985f73bbde42e7bbbc34d997fe6e73aeddd38dca",
+    "ko": "<WT>인생을 바꿀 때입니다! 새 직업은 새로운 출발입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12692",
+    "source_sha256": "0338c0db68b1e05dc1199b400ab793bd2e3499f81eb2ac457dcd81541db8b242",
+    "ko": "$career 직종에 취직하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12693",
+    "source_sha256": "b3c76625f041d214e85f9bb9fcb842687f09b205b120cdc145314302749d091b",
+    "ko": "<WT>취직하기. 외계인에게도 직업은 필요합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12694",
+    "source_sha256": "34fabf6128ab65d3d799717c6730e989126b80038bf00a2acd5bf9fb0cdb8c9f",
+    "ko": "취직하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12695",
+    "source_sha256": "752a1803b44d1baac33f752d64de092a2eba07987e7815eb03cb4aa11b6a542d",
+    "ko": "<WT>심과_뒷이야기하기. 최신 소식 들었나요? 다른 심과 뒷이야기를 하며 무엇을 아는지 알아보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12696",
+    "source_sha256": "541d50fcba04e4b4c1f48b2a7bdc95bb3994cd5ad7072ba0015f0c6911e5c5d8",
+    "ko": "심과 뒷이야기하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12697",
+    "source_sha256": "bc09982b632d3abc9a0f1b778513531cb49ea9fb8d6b6f1c34fd6d193fad12b5",
+    "ko": "<WT>$sim과 뒷이야기하기. 최신 소식 들었나요? $sim과 뒷이야기를 하며 무엇을 아는지 알아보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12698",
+    "source_sha256": "a81997f9559152bef0b12609f46e7e342298bc34d74bd0dbfcad55ce657140a6",
+    "ko": "$sim과 뒷이야기하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12699",
+    "source_sha256": "812fed59cd79eb1064736e37bafd87a16dcdd81b0820914b1099ab57ae41613c",
+    "ko": "<WT>$sim과 뒷이야기하기. 최신 소식 들었나요? $sim과 뒷이야기를 하며 무엇을 아는지 알아보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12700",
+    "source_sha256": "a81997f9559152bef0b12609f46e7e342298bc34d74bd0dbfcad55ce657140a6",
+    "ko": "$sim과 뒷이야기하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12701",
+    "source_sha256": "e61573e1a591be09b301d43cc972cc8452c08a589313d6b2ec106fbd52cb17b4",
+    "ko": "<WT>$sim과 뒷이야기하기. 모든 심에게는 비밀이 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12702",
+    "source_sha256": "a81997f9559152bef0b12609f46e7e342298bc34d74bd0dbfcad55ce657140a6",
+    "ko": "$sim과 뒷이야기하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12703",
+    "source_sha256": "c9e9f9c202d2c85979837d8d25fc32cc68bb0154e3120ffbd81a68f242a6e7f8",
+    "ko": "<WT>심에게_뒷이야기_듣기. 쓸데없는 소문만큼 나쁜 것은 없습니다. 듣지 마세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_12704",
+    "source_sha256": "e424f53abd9d687a058529799a866d899fa174e497be44c2f597edbf655a454f",
+    "ko": "심에게 뒷이야기 듣기"
+  },
+  {
+    "id": "TXT_SimsObjects_12705",
+    "source_sha256": "61a3aa7f2b86742315c58662092fc65078d837cce1ce2abbf7453fe62d90421c",
+    "ko": "<WT>$sim에게 뒷이야기 듣기. $sim은 정말 소문꾼입니다. 듣지 마세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_12706",
+    "source_sha256": "77f20498067ba057bf3e4af343d9f3df415a33119b873175053e42d28707ff04",
+    "ko": "$sim에게 뒷이야기 듣기"
+  },
+  {
+    "id": "TXT_SimsObjects_12707",
+    "source_sha256": "61a3aa7f2b86742315c58662092fc65078d837cce1ce2abbf7453fe62d90421c",
+    "ko": "<WT>$sim에게 뒷이야기 듣기. $sim은 정말 소문꾼입니다. 듣지 마세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_12708",
+    "source_sha256": "77f20498067ba057bf3e4af343d9f3df415a33119b873175053e42d28707ff04",
+    "ko": "$sim에게 뒷이야기 듣기"
+  },
+  {
+    "id": "TXT_SimsObjects_12709",
+    "source_sha256": "b67da9a6a96ea2cb965d57cea746aa89a20551204aa8f90693645cc38469fe5f",
+    "ko": "<WT>초대_거절당하기. 무슨 말을 잘못했을까요? 초대를 거절당하지 않기를 바라세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12710",
+    "source_sha256": "ae47bf04d0d118bb4acd2bc3d8b66ce88778d64ebdf1983ec9f5a1f7334cb926",
+    "ko": "초대 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12711",
+    "source_sha256": "47878af07c9320e14ed8b92c90d2acd2824c66fa9beb2fdfaedb5aa5401720ea",
+    "ko": "<WT>초대_거절당하기. 다음에 $sim을 초대하면 거절하지 않기를 바라세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12712",
+    "source_sha256": "1094c96b6fb6e4c6acbda8fb974e80258082f44efb9072fd54d4c647ea17fd28",
+    "ko": "$sim에게 초대 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12713",
+    "source_sha256": "47878af07c9320e14ed8b92c90d2acd2824c66fa9beb2fdfaedb5aa5401720ea",
+    "ko": "<WT>초대_거절당하기. 다음에 $sim을 초대하면 거절하지 않기를 바라세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12714",
+    "source_sha256": "1094c96b6fb6e4c6acbda8fb974e80258082f44efb9072fd54d4c647ea17fd28",
+    "ko": "$sim에게 초대 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12717",
+    "source_sha256": "e553db090c8327254be463cbe00c62c44cef5615a59661d497722508309286f1",
+    "ko": "<WT>협박당하기. 다른 심이 그 부끄러운 사진 폴더를 발견하지 않기를 바랍니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_12718",
+    "source_sha256": "661a3e322ffcdce5de3fa058231bfd996b556f618b92cf1189c22d4c2fd3a6ec",
+    "ko": "협박당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12719",
+    "source_sha256": "a5219e04caf8289dc1560b20d6804396e2acf3cf66deebd5aa23422faa6298a7",
+    "ko": "<WT>협박당하기. $sim이 그 부끄러운 사진 폴더를 발견하지 않았기를 바랍니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_12720",
+    "source_sha256": "f063cc872f4cb91e0ce64ef10590d752c5c3050a81611deee0f768fa98029c42",
+    "ko": "$sim에게 협박당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12721",
+    "source_sha256": "a5219e04caf8289dc1560b20d6804396e2acf3cf66deebd5aa23422faa6298a7",
+    "ko": "<WT>협박당하기. $sim이 그 부끄러운 사진 폴더를 발견하지 않았기를 바랍니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_12722",
+    "source_sha256": "f063cc872f4cb91e0ce64ef10590d752c5c3050a81611deee0f768fa98029c42",
+    "ko": "$sim에게 협박당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12723",
+    "source_sha256": "f94a355165c39c67c5f24088b6a9b70fbfdf254a379ff9ca20db16ceb0363afa",
+    "ko": "<WT>협박당하기. 성공한 심이라면 늘 돈을 노리는 누군가가 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12724",
+    "source_sha256": "c057e69fffec78adb8ea416971a91697530bd742111177cf6ba4581f292f5783",
+    "ko": "협박당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12725",
+    "source_sha256": "9819ad977badb2e2cf86ddc67752fdd330d5856e225be89828a79069c2494d1a",
+    "ko": "<WT>심_초대하기. 심에게 전화를 걸어 초대하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12726",
+    "source_sha256": "85ad4fe4b48b8e2b4ea16aa8ad5844dee1e95460178a98b65d7a9d253cb64945",
+    "ko": "심 초대하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12727",
+    "source_sha256": "ae2bf4dd97f66692a7d775c9e46c51c54170c82dcf87fa1020d4952136b840e9",
+    "ko": "<WT>$sim_Over 초대하기. $sim을 본 지 오래됐나요? 전화를 들고 초대하세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_12728",
+    "source_sha256": "b07e3ef196c70bd7399994efdb1f2a7f859d1c0f74b2dfadf1b19db3cd3cf831",
+    "ko": "$sim 초대하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12729",
+    "source_sha256": "ae2bf4dd97f66692a7d775c9e46c51c54170c82dcf87fa1020d4952136b840e9",
+    "ko": "<WT>$sim_Over 초대하기. $sim을 본 지 오래됐나요? 전화를 들고 초대하세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_12730",
+    "source_sha256": "141aa83f3e3b27e7ef3bbd9b4b5e3cf34ffe03f21850c17d4a255a8efc42f514",
+    "ko": "$sim 초대하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12731",
+    "source_sha256": "b88efc787be4bb7af57a2d7b8a92d3cd0635628757c6ceef5ac669aa9f8d343b",
+    "ko": "<WT>심_초대하기. 저택에 새로운 사람을 불러 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12732",
+    "source_sha256": "6925b4510301a24d9f966f0af9aa68069ae3d0efe94c7fcfb6f26cf330f3f73b",
+    "ko": "심 초대하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12733",
+    "source_sha256": "c780bf778e6d153314f0d1531b10746e2158038d36d4e027737e8e2101e5507a",
+    "ko": "<WT>$sim 초대하기. 이 동네에서 창업 자금을 얻는 방법은 하나뿐이며 그 이름은 $sim입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12734",
+    "source_sha256": "26a402b5b5cd0c64afffabc7698dfd032d4b06a6d6417e2cde1bccd72758e512",
+    "ko": "$sim 초대하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12735",
+    "source_sha256": "b7fce7e1958527884a70084fb367a51643059713fe1de7b34b3c7159bd2796c9",
+    "ko": "<WT>심과_키스하기. 사랑의 기운이 감돕니다! 심을 찾아 입맞춤하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12736",
+    "source_sha256": "71ffb4eda6f56329bc482b73a3c80d408731c5e82293c2cbef02736c7307866c",
+    "ko": "심과 키스하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12737",
+    "source_sha256": "1d9fd2df2737f6fdd09f584fd5b05943800bd9f57d2ff4cd5d04867819021842",
+    "ko": "<WT>$sim과 키스하기. 어떤 두 심은 서로를 위해 태어난 것 같습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12738",
+    "source_sha256": "7fc6ec684f23af614a5071516daf403aa1ff1fcbd30e3b965fafa0b95256e188",
+    "ko": "$sim과 키스하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12739",
+    "source_sha256": "1d9fd2df2737f6fdd09f584fd5b05943800bd9f57d2ff4cd5d04867819021842",
+    "ko": "<WT>$sim과 키스하기. 어떤 두 심은 서로를 위해 태어난 것 같습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12740",
+    "source_sha256": "7fc6ec684f23af614a5071516daf403aa1ff1fcbd30e3b965fafa0b95256e188",
+    "ko": "$sim과 키스하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12741",
+    "source_sha256": "ac58348312edd6fd95364563597860bee78e6c8eee6f4c1b9e3d797d241a4689",
+    "ko": "<WT>$sim과 키스하기. 다시 살아나니 정말 매력적이군요..."
+  },
+  {
+    "id": "TXT_SimsObjects_12742",
+    "source_sha256": "7fc6ec684f23af614a5071516daf403aa1ff1fcbd30e3b965fafa0b95256e188",
+    "ko": "$sim과 키스하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12743",
+    "source_sha256": "21288331cda988335867061a5180aad23b5087937df8b4f81628b3167efd3397",
+    "ko": "<WT>심_포옹하기. 좋은 포옹은 천 마디 말보다 낫습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12744",
+    "source_sha256": "36c97ca09ae15e05d8168d1f9c50e7d673055673a54aa5476f0ba33412e2d744",
+    "ko": "심 포옹하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12745",
+    "source_sha256": "e137c927df8a1e7d1727d7a583a9864b2d51719869d3a2e3e8c5fddb02e01acc",
+    "ko": "<WT>$sim에게 포옹이 필요해 보입니다. 안아 주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12746",
+    "source_sha256": "f50b835d06a06b42050011d7f394586f5b07cbd501347ce3b631d4cd67a57fd5",
+    "ko": "$sim 포옹하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12747",
+    "source_sha256": "e137c927df8a1e7d1727d7a583a9864b2d51719869d3a2e3e8c5fddb02e01acc",
+    "ko": "<WT>$sim에게 포옹이 필요해 보입니다. 안아 주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12748",
+    "source_sha256": "f50b835d06a06b42050011d7f394586f5b07cbd501347ce3b631d4cd67a57fd5",
+    "ko": "$sim 포옹하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12749",
+    "source_sha256": "36a1da56f77e397f445a0ff816760a8b2645157bf666948431ee7c81b0ff4d57",
+    "ko": "<WT>심에게_매력_발산하기. 사교 행동마다 반응이 다를 수 있습니다. 매력을 발산해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12750",
+    "source_sha256": "8a1ab17c059a8106a62fc898e8c08a4d922525252634bf35f07e5b89652f2774",
+    "ko": "심에게 매력 발산하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12751",
+    "source_sha256": "41ed3e18fed69bb3bf6d2d66e46506918dbcfb4115afe893e14ec8565e8deb87",
+    "ko": "<WT>$sim에게 매력 발산하기. 예전에 이 심에게 실수했나요? 매력을 켜세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_12752",
+    "source_sha256": "509349497dffb788669ae09ea1ac607708b7e4855e31eafab7a2f0b9f032727c",
+    "ko": "$sim에게 매력 발산하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12753",
+    "source_sha256": "41ed3e18fed69bb3bf6d2d66e46506918dbcfb4115afe893e14ec8565e8deb87",
+    "ko": "<WT>$sim에게 매력 발산하기. 예전에 이 심에게 실수했나요? 매력을 켜세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_12754",
+    "source_sha256": "509349497dffb788669ae09ea1ac607708b7e4855e31eafab7a2f0b9f032727c",
+    "ko": "$sim에게 매력 발산하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12755",
+    "source_sha256": "d5987c64ab862556fbb69b1d9a856ac8914fc3d141fa6be84120e603b1ee7562",
+    "ko": "기력 상승 음식 만들기 플래티넘"
+  },
+  {
+    "id": "TXT_SimsObjects_12756",
+    "source_sha256": "d5987c64ab862556fbb69b1d9a856ac8914fc3d141fa6be84120e603b1ee7562",
+    "ko": "기력 상승 음식 만들기 플래티넘"
+  },
+  {
+    "id": "TXT_SimsObjects_12757",
+    "source_sha256": "d5987c64ab862556fbb69b1d9a856ac8914fc3d141fa6be84120e603b1ee7562",
+    "ko": "기력 상승 음식 만들기 플래티넘"
+  },
+  {
+    "id": "TXT_SimsObjects_12758",
+    "source_sha256": "d5987c64ab862556fbb69b1d9a856ac8914fc3d141fa6be84120e603b1ee7562",
+    "ko": "기력 상승 음식 만들기 플래티넘"
+  },
+  {
+    "id": "TXT_SimsObjects_12759",
+    "source_sha256": "d5987c64ab862556fbb69b1d9a856ac8914fc3d141fa6be84120e603b1ee7562",
+    "ko": "기력 상승 음식 만들기 플래티넘"
+  },
+  {
+    "id": "TXT_SimsObjects_12760",
+    "source_sha256": "d5987c64ab862556fbb69b1d9a856ac8914fc3d141fa6be84120e603b1ee7562",
+    "ko": "기력 상승 음식 만들기 플래티넘"
+  },
+  {
+    "id": "TXT_SimsObjects_12761",
+    "source_sha256": "382fe51e6b4672d57c2c467f18a716496571eb28737a6256dc81c85fb4bb5d00",
+    "ko": "<WT>특별한_효과가_있는_식사_만들기. 창의력 야망을 지닌 심은 실험하고 예술을 만들어야 삶에 만족합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12762",
+    "source_sha256": "cfc96a5c0fae047fb4658455c056b25931a8c4031ddb968d34d0693d14f5f12a",
+    "ko": "특별한 효과가 있는 식사 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_12763",
+    "source_sha256": "234913420ae1cfb8410298d49dff972b86083e81b80e97fd60d1c36351ea2835",
+    "ko": "<WT>야한_농담하기. 품위가 의심스러운 농담을 들었나요? 청중을 신중하게 고르세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12764",
+    "source_sha256": "4319a4d92a222b07a60807aa018f997c08ffce5c2f30d82a9bdd491db9f585d1",
+    "ko": "야한 농담하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12765",
+    "source_sha256": "1f6e619e25d3ac3f2699dfc602991d3daf74be1b29291aef9ee674d89bfdf68a",
+    "ko": "<WT>$sim에게 야한 농담하기. $sim이 재미있어 하기를 바랍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12766",
+    "source_sha256": "2dcde41484f2c49f157aed9a3fe03b76dd86495065609077cbf4f16b6cb9de5c",
+    "ko": "$sim에게 야한 농담하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12767",
+    "source_sha256": "1f6e619e25d3ac3f2699dfc602991d3daf74be1b29291aef9ee674d89bfdf68a",
+    "ko": "<WT>$sim에게 야한 농담하기. $sim이 재미있어 하기를 바랍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12768",
+    "source_sha256": "2dcde41484f2c49f157aed9a3fe03b76dd86495065609077cbf4f16b6cb9de5c",
+    "ko": "$sim에게 야한 농담하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12769",
+    "source_sha256": "6684b5fe82670e69bcff52ab961baf0eab3fdaaae0e85d9746c8bb1383741b07",
+    "ko": "<WT>승진하기. 기술과 인간관계를 개선하면 발전의 톱니바퀴가 부드럽게 돌아갑니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12770",
+    "source_sha256": "6c8212edf9ee7f8717e59f923da34aad196449cba8ccadb7227138c3fc5a83fa",
+    "ko": "승진하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12771",
+    "source_sha256": "08d49e9b4524b64ecc313aadf13b1accc5513707e5b06452b420341b960a3799",
+    "ko": "<WT>$career 직종에서 승진하기. 기술과 인간관계를 개선하면 세상에서 성공하기 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12772",
+    "source_sha256": "a270f65fd0af0721e7aed86ed19b34313238d53d9c2f738ca831a671b3afb985",
+    "ko": "$career 직종에서 승진하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12773",
+    "source_sha256": "08d49e9b4524b64ecc313aadf13b1accc5513707e5b06452b420341b960a3799",
+    "ko": "<WT>$career 직종에서 승진하기. 기술과 인간관계를 개선하면 세상에서 성공하기 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12774",
+    "source_sha256": "a270f65fd0af0721e7aed86ed19b34313238d53d9c2f738ca831a671b3afb985",
+    "ko": "$career 직종에서 승진하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12775",
+    "source_sha256": "db2e04da9a581c45436bc68cc0a18c05adb0f474ad5d55c5c1eb2058f6290938",
+    "ko": "<WT>승진하기. 좋은 기분으로 출근하면 더 빨리 승진합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_12776",
+    "source_sha256": "ccd3eaa2a836aaf6a10c411c72ab6a71c033d095cc64b1060a5c4630ef64224a",
+    "ko": "승진하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12777",
+    "source_sha256": "b8a2fc1ac5b47ccdef35133ff1d92af61378921ea8f153be8c7eb555f1c9d53a",
+    "ko": "친구 15명 사귀기 플래티넘"
+  },
+  {
+    "id": "TXT_SimsObjects_12778",
+    "source_sha256": "b8a2fc1ac5b47ccdef35133ff1d92af61378921ea8f153be8c7eb555f1c9d53a",
+    "ko": "친구 15명 사귀기 플래티넘"
+  },
+  {
+    "id": "TXT_SimsObjects_12779",
+    "source_sha256": "b8a2fc1ac5b47ccdef35133ff1d92af61378921ea8f153be8c7eb555f1c9d53a",
+    "ko": "친구 15명 사귀기 플래티넘"
+  },
+  {
+    "id": "TXT_SimsObjects_12780",
+    "source_sha256": "b8a2fc1ac5b47ccdef35133ff1d92af61378921ea8f153be8c7eb555f1c9d53a",
+    "ko": "친구 15명 사귀기 플래티넘"
+  },
+  {
+    "id": "TXT_SimsObjects_12781",
+    "source_sha256": "b8a2fc1ac5b47ccdef35133ff1d92af61378921ea8f153be8c7eb555f1c9d53a",
+    "ko": "친구 15명 사귀기 플래티넘"
+  },
+  {
+    "id": "TXT_SimsObjects_12782",
+    "source_sha256": "b8a2fc1ac5b47ccdef35133ff1d92af61378921ea8f153be8c7eb555f1c9d53a",
+    "ko": "친구 15명 사귀기 플래티넘"
+  },
+  {
+    "id": "TXT_SimsObjects_12783",
+    "source_sha256": "d399cdbf03ca4534e4914fd718412d6bbd8bb75e37202e09d366c696f97a4b6f",
+    "ko": "<WT>친구_$int_friends 사귀기. 인기 야망을 지닌 심은 친구가 최대한 많아야 삶에 만족합니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_12784",
+    "source_sha256": "cc519a81b5c8953af076d35cf09dd6de4bc0fe80ef3ea0d4ce6cf5897f8dbbea",
+    "ko": "친구 $int명 사귀기"
+  },
+  {
+    "id": "TXT_SimsObjects_12785",
+    "source_sha256": "0b3b2f60088d7994796f4bb065f47220c468d17c3e98f9bd9b37d51b50738e67",
+    "ko": "<WT>온수_욕조에서_놀기. 온수 욕조에서 놀면 어떤 관계든 확실히 뜨거워집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12786",
+    "source_sha256": "b45dcd9e1992a643943886374eb259eab931e52d5574808969ca6e5e1a98affc",
+    "ko": "온수 욕조에서 놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_12787",
+    "source_sha256": "4ee8ec96940b8d131ab7010a3dc9c8d763fdbc935142bd7e1be1212921d27a36",
+    "ko": "<WT>$sim과 온수 욕조에서 놀기. 온수 욕조에서 놀면 어떤 관계든 확실히 뜨거워집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12788",
+    "source_sha256": "9177bdc3d75b7d2975f55c7a75a238d43a9144162bf079cd4bd44071e858bc1b",
+    "ko": "$sim과 온수 욕조에서 놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_12789",
+    "source_sha256": "4ee8ec96940b8d131ab7010a3dc9c8d763fdbc935142bd7e1be1212921d27a36",
+    "ko": "<WT>$sim과 온수 욕조에서 놀기. 온수 욕조에서 놀면 어떤 관계든 확실히 뜨거워집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12790",
+    "source_sha256": "9177bdc3d75b7d2975f55c7a75a238d43a9144162bf079cd4bd44071e858bc1b",
+    "ko": "$sim과 온수 욕조에서 놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_12791",
+    "source_sha256": "a48cc16f2c989f5ee817f11f5e543415b2083c9d653995cf12678ac274ad2cca",
+    "ko": "<WT>키스_거절당하기. 입술을 내밀었다가 거절당하는 것보다 당황스러운 일은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12792",
+    "source_sha256": "9d4ea57d5f11549a8ef33b042401c9c7ba459cdd5587a15ad2a0f508eaad38f6",
+    "ko": "키스 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12793",
+    "source_sha256": "d2098ecad7a423bc1c2856c796364f75dd706a04cc11ccb2452cec181677f24d",
+    "ko": "<WT>$sim에게 키스를 거절당하기. 입술을 내밀었다가 거절당하는 것보다 당황스러운 일은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12794",
+    "source_sha256": "f1d3751f779971aaded9ad630feb4fb421f4d284ddbf2087d1d06fbe05ec7a6b",
+    "ko": "$sim에게 키스 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12795",
+    "source_sha256": "d2098ecad7a423bc1c2856c796364f75dd706a04cc11ccb2452cec181677f24d",
+    "ko": "<WT>$sim에게 키스를 거절당하기. 입술을 내밀었다가 거절당하는 것보다 당황스러운 일은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12796",
+    "source_sha256": "f1d3751f779971aaded9ad630feb4fb421f4d284ddbf2087d1d06fbe05ec7a6b",
+    "ko": "$sim에게 키스 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12797",
+    "source_sha256": "c2ccc07d26d5ee69e8d67394933b565c71ac5eab37e542ce4102315f7af103fd",
+    "ko": "<WT>진한_키스_거절당하기. 성공을 확신하지 못하면 키스를 시도하지 마세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_12798",
+    "source_sha256": "1bf0362d5f239ada59db85bac4878e7772ed19672f5dfcd3a85269f30cab0878",
+    "ko": "진한 키스 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12799",
+    "source_sha256": "c0823f1d3ddccc5773e48179dc63bf2aaff5c8a30a6689c3906a7fd14aef236a",
+    "ko": "<WT>진한_키스_거절당하기. 엄청난 창피를 당할 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12800",
+    "source_sha256": "1bf0362d5f239ada59db85bac4878e7772ed19672f5dfcd3a85269f30cab0878",
+    "ko": "진한 키스 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12801",
+    "source_sha256": "2084807bb3c5d97d1b3736aaeb454aa3096fc78b5dc55e29f7438a4d4517069f",
+    "ko": "<WT>사랑_나누기_거절당하기. 적극적인 것은 좋지만 너무 적극적이면 참사가 될 수 있습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_12802",
+    "source_sha256": "efa75cb84910b8d2ebe5d733482263da766c362ebf2c9ab19b6a491b3b618d7f",
+    "ko": "사랑 나누기 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12803",
+    "source_sha256": "3c6e8d8f61b5088d6f8e041beb806e658d55e122963446328c406a38ad5820cd",
+    "ko": "<WT>$sim에게 사랑 나누기를 거절당하기. 적극적인 것은 좋지만 너무 적극적이면 참사가 될 수 있습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_12804",
+    "source_sha256": "19ea551f9af9635b9fc6c4d6cd1921eaef62c087dac4c378f7fc6caaae4f25d4",
+    "ko": "$sim에게 사랑 나누기 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12805",
+    "source_sha256": "3c6e8d8f61b5088d6f8e041beb806e658d55e122963446328c406a38ad5820cd",
+    "ko": "<WT>$sim에게 사랑 나누기를 거절당하기. 적극적인 것은 좋지만 너무 적극적이면 참사가 될 수 있습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_12806",
+    "source_sha256": "19ea551f9af9635b9fc6c4d6cd1921eaef62c087dac4c378f7fc6caaae4f25d4",
+    "ko": "$sim에게 사랑 나누기 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12807",
+    "source_sha256": "201832ed1d02e5fb217e499a839b9b94280766ebff7cceeb90e0eea2f3d1bd55",
+    "ko": "<WT>사랑_나누기_거절당하기. 사랑 나누기는 $me의 특기입니다. 거절은 곧 죽음과 같습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12808",
+    "source_sha256": "06203735b198db16e3ab99eb81e14b370b3b847ff2aaad6caf7f374eb4528976",
+    "ko": "사랑 나누기 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12809",
+    "source_sha256": "ecd04d673cf97605f1f4d1db6a59e2d31fba9aade0d8850d1dc7470fbc367de5",
+    "ko": "<WT>심의_바람_현장_목격하기. 백문이 불여일견이고 안 보면 잊히는 법입니다. 이 길 끝에는 질투와 고통이 기다립니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12810",
+    "source_sha256": "9b048a12ccca83c97833c5bb83c4d983aa1c0e38e928a4800ba70206029cf86c",
+    "ko": "심의 바람 현장 목격하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12811",
+    "source_sha256": "59c778258e7432aca40c533cc4ed04862f1e794d098569fee3a492f0d13bc916",
+    "ko": "<WT>$sim_cheating 바람 현장 목격하기. 관계가 틀어지는 것을 보고 싶은 심은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12812",
+    "source_sha256": "799f850dc68b52d64007908581fc80f58cea4f25eb0b8d2cbc62b2629a894f3a",
+    "ko": "$sim의 바람 현장 목격하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12813",
+    "source_sha256": "59c778258e7432aca40c533cc4ed04862f1e794d098569fee3a492f0d13bc916",
+    "ko": "<WT>$sim_cheating 바람 현장 목격하기. 관계가 틀어지는 것을 보고 싶은 심은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12814",
+    "source_sha256": "799f850dc68b52d64007908581fc80f58cea4f25eb0b8d2cbc62b2629a894f3a",
+    "ko": "$sim의 바람 현장 목격하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12817",
+    "source_sha256": "544a30c63d0192527e195100a61d42060614c3458cf95e97b435c450a53d519a",
+    "ko": "<WT>바람피우다_들키기. 좋은 관계가 끝날 수도 있습니다. 신중히 결정하세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_12818",
+    "source_sha256": "aa897b88a36575fdaf77274034ebae53b3f850e5f2fc145457fee85d453434da",
+    "ko": "바람피우다 들키기"
+  },
+  {
+    "id": "TXT_SimsObjects_12819",
+    "source_sha256": "3a61ebaf72024bd850f45125ee216a4b8396a07effefdb553c0bd4bead469937",
+    "ko": "<WT>$sim에게 바람피우다 들키기. 좋은 관계가 끝날 수도 있습니다. 신중히 결정하세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_12820",
+    "source_sha256": "4b6b9ac59980f613f44e8ba3c4d7d87e8edc31e23fb87ac1f2bbee2a4a437038",
+    "ko": "$sim에게 바람피우다 들키기"
+  },
+  {
+    "id": "TXT_SimsObjects_12821",
+    "source_sha256": "3a61ebaf72024bd850f45125ee216a4b8396a07effefdb553c0bd4bead469937",
+    "ko": "<WT>$sim에게 바람피우다 들키기. 좋은 관계가 끝날 수도 있습니다. 신중히 결정하세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_12822",
+    "source_sha256": "4b6b9ac59980f613f44e8ba3c4d7d87e8edc31e23fb87ac1f2bbee2a4a437038",
+    "ko": "$sim에게 바람피우다 들키기"
+  },
+  {
+    "id": "TXT_SimsObjects_12823",
+    "source_sha256": "b1c69f16aeb41f4ddb754a66ce471ff68ab1089ed0bdaa80ca4df389443887ce",
+    "ko": "<WT>바람피우다_들키기. $me의 자유를 한 연인에게 묶을 수는 없지만 바람을 들키는 것은 원치 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12824",
+    "source_sha256": "aa897b88a36575fdaf77274034ebae53b3f850e5f2fc145457fee85d453434da",
+    "ko": "바람피우다 들키기"
+  },
+  {
+    "id": "TXT_SimsObjects_12825",
+    "source_sha256": "1758f4b7bc6c8921c27599182bf3eb8ca724d78d126587e32de39831f3505a2e",
+    "ko": "<WT>연인에게_추궁당하기. 서로 이해하지 못한다면 여러 사람과의 연애는 어려울 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12826",
+    "source_sha256": "588671a1b7899793067aa560fd6929a6ed0f97e99f7676e2821058d07e30a123",
+    "ko": "연인에게 추궁당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12827",
+    "source_sha256": "ede3a929cf8410204573164c52cf505124e04870623e2139e440a64c50bb5b7b",
+    "ko": "<WT>기술_통달하기. 연습하면 완벽해집니다. 계속 갈고닦아 기술에 통달하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12828",
+    "source_sha256": "8cbe59f15a25375238269f48f9814d19903c01134f7cb6a886942ad1f27818cb",
+    "ko": "기술 통달하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12829",
+    "source_sha256": "1cdbd9ce543e7b76d547bc01dbe21f059c22657b3707ee8ab175d345d5bb9dcb",
+    "ko": "<WT>$skill_Skill 기술 통달하기. 연습하면 완벽해집니다. 계속 갈고닦아 기술에 통달하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12830",
+    "source_sha256": "e99e67a8cbbd6cff00b9ab1fb7fcd5c58928a345cd6644c490490b7bfa0ac499",
+    "ko": "$skill 기술 통달하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12831",
+    "source_sha256": "1cdbd9ce543e7b76d547bc01dbe21f059c22657b3707ee8ab175d345d5bb9dcb",
+    "ko": "<WT>$skill_Skill 기술 통달하기. 연습하면 완벽해집니다. 계속 갈고닦아 기술에 통달하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12832",
+    "source_sha256": "e99e67a8cbbd6cff00b9ab1fb7fcd5c58928a345cd6644c490490b7bfa0ac499",
+    "ko": "$skill 기술 통달하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12833",
+    "source_sha256": "94f7bd5cf61a219eee9ab920a8986dbfa0d0a5aef6b828c90d409fbbe77de5dd",
+    "ko": "<WT>$skill_skill 기술 통달하기. 예술가는 언제나 실력을 유지해야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12834",
+    "source_sha256": "2ec7565ea81333312dda7c1472d238fe5b935ff3691776cc1be3726a9ae73711",
+    "ko": "$skill 기술 통달하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12835",
+    "source_sha256": "0f9227fc5140e4404ed0964fcdba9b56bcf8cc57ea0f9e49ceadece3e39cab3b",
+    "ko": "<WT>$skill_skill 기술 통달하기. 사업에 성공하려면 말을 잘할 줄 알아야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12836",
+    "source_sha256": "2ec7565ea81333312dda7c1472d238fe5b935ff3691776cc1be3726a9ae73711",
+    "ko": "$skill 기술 통달하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12837",
+    "source_sha256": "e7daf8a0310cb848ce0a1cb1c90886929cb0aecb78d5bce285670281a7bc5077",
+    "ko": "<WT>책_읽기. 책은 기술을 기르고 쉬기에 좋습니다.  "
+  },
+  {
+    "id": "TXT_SimsObjects_12838",
+    "source_sha256": "f62fa1e5cd53171f5cbd8a5bbe40674b7b29e8f8c084aef9d84027133533e269",
+    "ko": "책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_12839",
+    "source_sha256": "95152563b8ca4e7722fe8dda17c8a15e027f5d03ea767873e7d92c7455fb891a",
+    "ko": "책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_12840",
+    "source_sha256": "95152563b8ca4e7722fe8dda17c8a15e027f5d03ea767873e7d92c7455fb891a",
+    "ko": "책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_12841",
+    "source_sha256": "95152563b8ca4e7722fe8dda17c8a15e027f5d03ea767873e7d92c7455fb891a",
+    "ko": "책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_12842",
+    "source_sha256": "95152563b8ca4e7722fe8dda17c8a15e027f5d03ea767873e7d92c7455fb891a",
+    "ko": "책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_12843",
+    "source_sha256": "0e69cfc79253ca42b18388c0ff3d5fe2a7e3f99ad43756d5e3e38240ca175fe3",
+    "ko": "<WT>책_읽기. 심 문화는 참 이상할 때가 있습니다... 책을 읽으면 도움이 될지도 모릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12844",
+    "source_sha256": "cb040ef4ff1cbcec3c87352d6ef3c351942728d39f2f34efa7e795ae06253176",
+    "ko": "책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_12845",
+    "source_sha256": "d28ada62568af8758d0de4a8e2c0964b72849c332b8b7516864cf182de7e8539",
+    "ko": "<WT>블로그_쓰기. 블로그는 컴퓨터에서 웹사이트로 직접 공개하는 일기입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12846",
+    "source_sha256": "e9a132dccd5efc47f47fb831e98c63c33f9a906a973a75571304990859fcc858",
+    "ko": "블로그 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_12847",
+    "source_sha256": "9c364fb8d0f90137e6dc84d8501f4bab3a4d2a0390fd837c65c77dc69f801118",
+    "ko": "블로그 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_12848",
+    "source_sha256": "9c364fb8d0f90137e6dc84d8501f4bab3a4d2a0390fd837c65c77dc69f801118",
+    "ko": "블로그 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_12849",
+    "source_sha256": "9c364fb8d0f90137e6dc84d8501f4bab3a4d2a0390fd837c65c77dc69f801118",
+    "ko": "블로그 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_12850",
+    "source_sha256": "9c364fb8d0f90137e6dc84d8501f4bab3a4d2a0390fd837c65c77dc69f801118",
+    "ko": "블로그 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_12851",
+    "source_sha256": "6e093f99792d0c2c0ac418368fd56069cc36fff79baf3e26da82910d080dc694",
+    "ko": "<WT>블로그_쓰기. 외계인들 사이에서 사는 삶을 바깥세상에 알려야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12852",
+    "source_sha256": "2b77fa80138946e506712bc10c2ae7105ca1ef593add8d76c1be8b32a44eaa97",
+    "ko": "블로그 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_12853",
+    "source_sha256": "85060023b7cd021a72efa34b265066638b9415485a9f89dd32c19a2acd88d034",
+    "ko": "<WT>블로그_쓰기. $me의 생각을 최소한의 노력으로 최대한 많은 심에게 퍼뜨리는 가장 빠른 방법은 무엇일까요? 물론 인터넷이죠!"
+  },
+  {
+    "id": "TXT_SimsObjects_12854",
+    "source_sha256": "2b77fa80138946e506712bc10c2ae7105ca1ef593add8d76c1be8b32a44eaa97",
+    "ko": "블로그 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_12855",
+    "source_sha256": "1ed7e8091848edd9919be062a001bb2c5e2a170e337ce2e1ab15b881d2121313",
+    "ko": "<WT>체스_두기. 논리 게임은 확실히 심을 똑똑하게 만듭니다.  "
+  },
+  {
+    "id": "TXT_SimsObjects_12856",
+    "source_sha256": "42d89127b0105d26504ff4c0b17e4227d557bd1d16a2ca942d77dc812e4b7a8c",
+    "ko": "체스 두기"
+  },
+  {
+    "id": "TXT_SimsObjects_12857",
+    "source_sha256": "d6e6205c23def34e5cebfc3773459de2ba00449a0d55184a9ff875f30b892600",
+    "ko": "<WT>$sim과 체스 두기. 다른 심에게 논리 게임을 도전해 누가 더 똑똑한지 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12858",
+    "source_sha256": "5d75d75e9e5081fe3e0c96cc0481a8dcf013d9378a66009db8f0b102e196ddd1",
+    "ko": "$sim과 체스 두기"
+  },
+  {
+    "id": "TXT_SimsObjects_12859",
+    "source_sha256": "d6e6205c23def34e5cebfc3773459de2ba00449a0d55184a9ff875f30b892600",
+    "ko": "<WT>$sim과 체스 두기. 다른 심에게 논리 게임을 도전해 누가 더 똑똑한지 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_12860",
+    "source_sha256": "5d75d75e9e5081fe3e0c96cc0481a8dcf013d9378a66009db8f0b102e196ddd1",
+    "ko": "$sim과 체스 두기"
+  },
+  {
+    "id": "TXT_SimsObjects_12861",
+    "source_sha256": "2ef3045813e2e79d1fe1452698548fc86d41310aa5a371d883eaa68158d47b57",
+    "ko": "<WT>체스_두기. 좋은 체스 한 판은 정신을 단련합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_12862",
+    "source_sha256": "f1a481a2de15f45bd9e59ba43a8a7529c030d8bdef8c8e073a53cbc0cb00304b",
+    "ko": "체스 두기"
+  }
+]

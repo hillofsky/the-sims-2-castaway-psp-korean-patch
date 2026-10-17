@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "TXT_SimsObjects_10900",
+    "source_sha256": "4560f2de4edfb3e2550a7c8ef5987d0374e4fc4df6ee146ea128a3d42c9b4227",
+    "ko": "<WT>결근하기. 경력이 막 잘 풀리기 시작했을 때 하루를 빠지면 치명적일 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10902",
+    "source_sha256": "da377e88b59ac1e2b7827fb0b5cb439f0381986232e269f92c2390e1bd596f3d",
+    "ko": "<WT>결근하기. 성실한 외계인이 게으름 피우는 모습을 보일 수는 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10904",
+    "source_sha256": "903dfd9a78c9bab6d16b0df43b98608f66cabd5d01654d2070e61385e4fd39b0",
+    "ko": "<WT>하루_휴가_내기. 게으른 심도 가끔은 쉬어야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10905",
+    "source_sha256": "ba7191db3505b38208dcb999d03aa3d1378ff6365809de2a25712b290d7bc09e",
+    "ko": "하루 휴가 내기"
+  },
+  {
+    "id": "TXT_SimsObjects_10906",
+    "source_sha256": "98b0d1c99dcd685f08259d090dc00b818fa8876923c664baa9e7ae7f552ecd3f",
+    "ko": "일 빠지기"
+  },
+  {
+    "id": "TXT_SimsObjects_10907",
+    "source_sha256": "98b0d1c99dcd685f08259d090dc00b818fa8876923c664baa9e7ae7f552ecd3f",
+    "ko": "일 빠지기"
+  },
+  {
+    "id": "TXT_SimsObjects_10908",
+    "source_sha256": "98b0d1c99dcd685f08259d090dc00b818fa8876923c664baa9e7ae7f552ecd3f",
+    "ko": "일 빠지기"
+  },
+  {
+    "id": "TXT_SimsObjects_10909",
+    "source_sha256": "98b0d1c99dcd685f08259d090dc00b818fa8876923c664baa9e7ae7f552ecd3f",
+    "ko": "일 빠지기"
+  },
+  {
+    "id": "TXT_SimsObjects_10910",
+    "source_sha256": "4869bbd8de10bfed2546cb1a7634a6461171595b1dd359b91858f38f3f2d1ece",
+    "ko": "<WT>일_빠지기. 심의 삶이 일로만 가득할 필요는 없습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_10911",
+    "source_sha256": "df7f774ee5165b4db70cd46ba174b969b0c2b8b1d0c2542778f0e4dae150aae1",
+    "ko": "일 빠지기"
+  },
+  {
+    "id": "TXT_SimsObjects_10912",
+    "source_sha256": "de64de3582697681ad6fa93dae62c740bd0a5f33d78a751fe99df8b5a5100530",
+    "ko": "<WT>심의_무덤에서_춤추기. 적은 살아 있든 죽었든 적입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10913",
+    "source_sha256": "339153c0e0c7542c16eb92371929a42ddc292d46a54d710edbcea355b63c139e",
+    "ko": "심의 무덤에서 춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_10914",
+    "source_sha256": "fa2e83083e42f0b8febc28ff231650f4dc98bf4a098867eac602a8c0dd4fece3",
+    "ko": "<WT>$sim의 무덤에서 춤추기. 적은 살아 있든 죽었든 적입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10915",
+    "source_sha256": "dc0c012feab2790ff0a2c75f9f668731fe1a250d1039632ce3a940af4d299e05",
+    "ko": "$sim의 무덤에서 춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_10916",
+    "source_sha256": "fa2e83083e42f0b8febc28ff231650f4dc98bf4a098867eac602a8c0dd4fece3",
+    "ko": "<WT>$sim의 무덤에서 춤추기. 적은 살아 있든 죽었든 적입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10917",
+    "source_sha256": "dc0c012feab2790ff0a2c75f9f668731fe1a250d1039632ce3a940af4d299e05",
+    "ko": "$sim의 무덤에서 춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_10918",
+    "source_sha256": "947f8a3544dc8bf22f6b49b5c2e0cec3ae6c2b2b1de3d9a82ade34d2414f5a95",
+    "ko": "<WT>$sim의 무덤에서 춤추기. $me의 취향에 그녀는 애초부터 마음에 들지 않았습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10919",
+    "source_sha256": "dc0c012feab2790ff0a2c75f9f668731fe1a250d1039632ce3a940af4d299e05",
+    "ko": "$sim의 무덤에서 춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_10920",
+    "source_sha256": "2c226664bb8f69e0b8a76d6e694ca0b822ced530fe1138b8ff0aed26a863ad46",
+    "ko": "<WT>추모받기. 살아 있을 때 좋은 심이었다면 죽어서도 추모받습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10921",
+    "source_sha256": "55b31e41fe9f044420bb726662ff5ea8d0adf017e3f56257373d0ae034870465",
+    "ko": "추모받기"
+  },
+  {
+    "id": "TXT_SimsObjects_10922",
+    "source_sha256": "14ef87a8fa0ae2b56568c296e50ffbc9b57ff14884d554a05f9e8e9bf8da164f",
+    "ko": "<WT>$sim에게 추모받기. 살아 있을 때 좋은 심이었다면 죽어서도 추모받습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10923",
+    "source_sha256": "9896b9d6096f3893b2d1d4ef248bf37b35f5c252c4ecd227e45fe7971f9b3327",
+    "ko": "$sim에게 추모받기"
+  },
+  {
+    "id": "TXT_SimsObjects_10924",
+    "source_sha256": "14ef87a8fa0ae2b56568c296e50ffbc9b57ff14884d554a05f9e8e9bf8da164f",
+    "ko": "<WT>$sim에게 추모받기. 살아 있을 때 좋은 심이었다면 죽어서도 추모받습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10925",
+    "source_sha256": "9896b9d6096f3893b2d1d4ef248bf37b35f5c252c4ecd227e45fe7971f9b3327",
+    "ko": "$sim에게 추모받기"
+  },
+  {
+    "id": "TXT_SimsObjects_10926",
+    "source_sha256": "abfd0db5634189e607d899ddf5bb27d0bb2cae906247123ccce4eaea7b6093ba",
+    "ko": "<WT>추모받기. 악당도 사람들이 자신을 그리워한다는 기분은 좋아합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10927",
+    "source_sha256": "55b31e41fe9f044420bb726662ff5ea8d0adf017e3f56257373d0ae034870465",
+    "ko": "추모받기"
+  },
+  {
+    "id": "TXT_SimsObjects_10928",
+    "source_sha256": "1e7731ac3f5dd6bc9122d31669adfcc5649f235f1aa74b553c03f975b1e45f60",
+    "ko": "<WT>되살아나기. 죽어 있는 것보다 나쁜 일은 없습니다. 이 심이 복귀할 때입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10929",
+    "source_sha256": "5e59e78e60e3082b6c307bccfcb0673230f68934728d383d33871b243db3e8ed",
+    "ko": "되살아나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10930",
+    "source_sha256": "2f5a63680c2e19326c3f5395c2a470b3670158fbc1adc946b2647e419230c03d",
+    "ko": "되살아나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10931",
+    "source_sha256": "2f5a63680c2e19326c3f5395c2a470b3670158fbc1adc946b2647e419230c03d",
+    "ko": "되살아나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10932",
+    "source_sha256": "2f5a63680c2e19326c3f5395c2a470b3670158fbc1adc946b2647e419230c03d",
+    "ko": "되살아나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10933",
+    "source_sha256": "2f5a63680c2e19326c3f5395c2a470b3670158fbc1adc946b2647e419230c03d",
+    "ko": "되살아나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10934",
+    "source_sha256": "25a1121b946a2f7c66f5165fcade5c9d91a01b8391048a5cb2f5c43c91f89dbe",
+    "ko": "<WT>되살아나기. 죽은 채로 선셋에서 즐길 수 있는 일에는 한계가 있습니다..."
+  },
+  {
+    "id": "TXT_SimsObjects_10935",
+    "source_sha256": "5e59e78e60e3082b6c307bccfcb0673230f68934728d383d33871b243db3e8ed",
+    "ko": "되살아나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10936",
+    "source_sha256": "e786108bd3c45e81861ecccbfcc69c2e4e0a3ecccc536837f1c1148f3900c985",
+    "ko": "<WT>유령과_교류하기. 유령에게도 감정이 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10937",
+    "source_sha256": "2d0806b315e541738cad925b1dd03c8b24573fe14dce1581fc7d401a9350af3f",
+    "ko": "유령과 교류하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10938",
+    "source_sha256": "66ce7f6afda5bcd6009f803a73601b8a25723dfaf6e7e5aaca0fd8f3a7c1d7bf",
+    "ko": "<WT>$sim의 유령과 교류하기. 유령에게도 감정이 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10939",
+    "source_sha256": "1601b1dac46155448e85a5a0cac83c53687c893eb9226641cbc29572dd6cd955",
+    "ko": "$sim의 유령과 교류하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10940",
+    "source_sha256": "66ce7f6afda5bcd6009f803a73601b8a25723dfaf6e7e5aaca0fd8f3a7c1d7bf",
+    "ko": "<WT>$sim의 유령과 교류하기. 유령에게도 감정이 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10941",
+    "source_sha256": "1601b1dac46155448e85a5a0cac83c53687c893eb9226641cbc29572dd6cd955",
+    "ko": "$sim의 유령과 교류하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10942",
+    "source_sha256": "0dcb96769754fbd493d51b56bd076f140b4b5653ce54a243fc8764a732cac233",
+    "ko": "<WT>심_놀라게_하기! 즐거운 시간을 보내는 데 죽음이 방해가 될 수는 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10943",
+    "source_sha256": "f22ccd0db99ce284c554a43e51f11fd37a477ef995b2a51fd4f82d43e6867c65",
+    "ko": "심 놀라게 하기!"
+  },
+  {
+    "id": "TXT_SimsObjects_10944",
+    "source_sha256": "b399a63459fb22a5a17a77ae9246b1ff4f2972df45afe4254627d06a3a1292f8",
+    "ko": "<WT>$sim 놀라게 하기. 즐거운 시간을 보내는 데 죽음이 방해가 될 수는 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10945",
+    "source_sha256": "2bcd1ba6f3c49e0e6b17b5e13db55f347996aff19ba3838bacbd892222e54b09",
+    "ko": "$sim 놀라게 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10946",
+    "source_sha256": "b399a63459fb22a5a17a77ae9246b1ff4f2972df45afe4254627d06a3a1292f8",
+    "ko": "<WT>$sim 놀라게 하기. 즐거운 시간을 보내는 데 죽음이 방해가 될 수는 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10947",
+    "source_sha256": "2bcd1ba6f3c49e0e6b17b5e13db55f347996aff19ba3838bacbd892222e54b09",
+    "ko": "$sim 놀라게 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10948",
+    "source_sha256": "f2df0bfb8b75510f626aad9e0e100b47250495d1b1348cce838dcda96e200e3f",
+    "ko": "<WT>$sim 놀라게 하기. 저 돌팔이 여배우는 서부극에 한 번도 나온 적이 없습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_10949",
+    "source_sha256": "2bcd1ba6f3c49e0e6b17b5e13db55f347996aff19ba3838bacbd892222e54b09",
+    "ko": "$sim 놀라게 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10950",
+    "source_sha256": "61ba4130d9d90b9c78e7d3ec615b33558d7fa079d5265c9a2eef66a90e85dfcb",
+    "ko": "<WT>심에게_음식_주기. 갓 만든 요리만큼 다른 심의 마음을 사로잡는 것도 없습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_10951",
+    "source_sha256": "33cd53136544f91d737b6db2f9a436d1e67b91f29d7ec483cc9299dd81ae7938",
+    "ko": "심에게 음식 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_10952",
+    "source_sha256": "50efaed05b20338eb5ad8e8f19bc99ce3d2165fa81c72b938f55df58b25cd091",
+    "ko": "<WT>$sim에게 음식 주기. 대부분의 심은 위장을 공략하면 마음을 얻을 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10953",
+    "source_sha256": "4257f8bf165601c10d4b010455b4abaed2eeea8c4fa9d6d96dc9629568821f46",
+    "ko": "$sim에게 음식 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_10954",
+    "source_sha256": "50efaed05b20338eb5ad8e8f19bc99ce3d2165fa81c72b938f55df58b25cd091",
+    "ko": "<WT>$sim에게 음식 주기. 대부분의 심은 위장을 공략하면 마음을 얻을 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10955",
+    "source_sha256": "4257f8bf165601c10d4b010455b4abaed2eeea8c4fa9d6d96dc9629568821f46",
+    "ko": "$sim에게 음식 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_10956",
+    "source_sha256": "e01865a6b5ca1553075b4128fba2600e7596465a9eb8767cab2cfcb471cd28c0",
+    "ko": "<WT>$sim에게 음식 주기. 심은 인간관계와 개인적인 취향에 따라 음식을 받습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10957",
+    "source_sha256": "64e247ebca74cc7e4b4cab7c47668841e2a41ea407f0de28c069f5c8599180cd",
+    "ko": "$sim에게 음식 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_10958",
+    "source_sha256": "545c8259146aea138c4867dbb1e3fdaac7615e0f6b772aeb5cb838cef671c81c",
+    "ko": "<WT>$sim에게 식사 대접하기. 제대로 된 식사를 하면 기분이 좀 나아질까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_10959",
+    "source_sha256": "44f2e6e202847c282e89dc6a1be8dcdc5360d736b4383518b6ff4af285a47288",
+    "ko": "$sim에게 식사 대접하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10960",
+    "source_sha256": "a009b8677193df9622ce2638462aa21dec3e6a69754e3c16eac340b5c5380557",
+    "ko": "<WT>$sim에게 음식 주기. 어떤 식사가 가장 웃긴 결과를 낳을까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_10961",
+    "source_sha256": "64e247ebca74cc7e4b4cab7c47668841e2a41ea407f0de28c069f5c8599180cd",
+    "ko": "$sim에게 음식 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_10962",
+    "source_sha256": "30870563d1e279857adfeed7015015e3253646ecd2a42d39544f64c5cf12f785",
+    "ko": "<WT>$sim에게 음식 주기. 좋은 식사는 무뚝뚝한 이웃도 기분 좋게 만듭니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10963",
+    "source_sha256": "64e247ebca74cc7e4b4cab7c47668841e2a41ea407f0de28c069f5c8599180cd",
+    "ko": "$sim에게 음식 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_10964",
+    "source_sha256": "cdd5226c0fa2d6f4b60348287e61bd7288547fe3fcea8d4a862bcb503d96e864",
+    "ko": "<WT>심에게_빙의하기. 유령인 것만으로는 부족할 때가 있죠."
+  },
+  {
+    "id": "TXT_SimsObjects_10965",
+    "source_sha256": "7a5c2eec4ac6c97498528d50f7d20b80dac613cba429c37b49d130002f78691d",
+    "ko": "심에게 빙의하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10966",
+    "source_sha256": "d29502c013fdc37d2de8a2c084b8e171b6f87df5a83eca5f7abe17f399af22f5",
+    "ko": "<WT>$sim에게 빙의하기. 남의 처지에서 세상을 경험해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10967",
+    "source_sha256": "4290ede329885d0082f3c95be4612292b4dc10cd747022c9f08f36495e01f8cd",
+    "ko": "$sim에게 빙의하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10968",
+    "source_sha256": "d29502c013fdc37d2de8a2c084b8e171b6f87df5a83eca5f7abe17f399af22f5",
+    "ko": "<WT>$sim에게 빙의하기. 남의 처지에서 세상을 경험해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10969",
+    "source_sha256": "4290ede329885d0082f3c95be4612292b4dc10cd747022c9f08f36495e01f8cd",
+    "ko": "$sim에게 빙의하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10970",
+    "source_sha256": "113ac666daa0eca0db6df68742c44316d06760558039f879b1773b5a7810f29b",
+    "ko": "<WT>$sim에게 빙의하기. 한심하군요. 여배우, 특히 죽은 여배우에게 집착하는 사람에게는 따끔한 놀라움이 필요합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_10971",
+    "source_sha256": "4290ede329885d0082f3c95be4612292b4dc10cd747022c9f08f36495e01f8cd",
+    "ko": "$sim에게 빙의하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10972",
+    "source_sha256": "88f7ced059511b63db35b49d2655640664c0a84ca9e68fb5e759c48abb7983cd",
+    "ko": "<WT>유령에게_빙의당하기. 어떤 심은 죽은 채로 조용히 있을 예의도 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10973",
+    "source_sha256": "27d3e2f746cd4678ddcfaeeff24fbcb23b563c9a112f0c46681f9213c47db6ea",
+    "ko": "유령에게 빙의당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10974",
+    "source_sha256": "809b35440434cf50a2f58ca499accc594498a56a9064622d6633fb3f3124fee7",
+    "ko": "<WT>$sim에게 빙의당하기. 빙의당하는 것을 좋아하는 심은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10975",
+    "source_sha256": "12359975ea780ed2da8c78f25f9122c5c7ec883366debdef93bf394579b2e3df",
+    "ko": "$sim에게 빙의당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10976",
+    "source_sha256": "809b35440434cf50a2f58ca499accc594498a56a9064622d6633fb3f3124fee7",
+    "ko": "<WT>$sim에게 빙의당하기. 빙의당하는 것을 좋아하는 심은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10977",
+    "source_sha256": "12359975ea780ed2da8c78f25f9122c5c7ec883366debdef93bf394579b2e3df",
+    "ko": "$sim에게 빙의당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10978",
+    "source_sha256": "e0073c6fde71213f26c40700ef637d29a613c370d00207c7751da79baa0f1043",
+    "ko": "<WT>빙의당하기. 어떤 심은 유령에게 빙의당하는 것이 소름 끼치고 부당하다고 생각합니다. 우웩."
+  },
+  {
+    "id": "TXT_SimsObjects_10979",
+    "source_sha256": "e11bd963bd41896b49d33692982072914b48eebdaa5e80088e6f94c8a10ec803",
+    "ko": "빙의당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10980",
+    "source_sha256": "1a4a8607000135a53760d5d1d71fc1f34c436d576470df19ed3c57c88236a490",
+    "ko": "<WT>저승사자와의_바이올린_대결에서_지기. 어떤 심은 야망 수치를 도저히 채우지 못합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10981",
+    "source_sha256": "0cc1be2794351c93c0474e67711ee96a59699235c5617557fec35689847b8467",
+    "ko": "저승사자와의 바이올린 대결에서 지기"
+  },
+  {
+    "id": "TXT_SimsObjects_10982",
+    "source_sha256": "93b8a75784c457bfd771978bfb0e26a6f3535491758db379869864311344a3d8",
+    "ko": "저승사자와의 바이올린 대결에서 지기"
+  },
+  {
+    "id": "TXT_SimsObjects_10983",
+    "source_sha256": "0cc1be2794351c93c0474e67711ee96a59699235c5617557fec35689847b8467",
+    "ko": "저승사자와의 바이올린 대결에서 지기"
+  },
+  {
+    "id": "TXT_SimsObjects_10984",
+    "source_sha256": "93b8a75784c457bfd771978bfb0e26a6f3535491758db379869864311344a3d8",
+    "ko": "저승사자와의 바이올린 대결에서 지기"
+  },
+  {
+    "id": "TXT_SimsObjects_10985",
+    "source_sha256": "0cc1be2794351c93c0474e67711ee96a59699235c5617557fec35689847b8467",
+    "ko": "저승사자와의 바이올린 대결에서 지기"
+  },
+  {
+    "id": "TXT_SimsObjects_10986",
+    "source_sha256": "6af29d5974dfa31560268e4b76ff27bbe194728d39469b4b71ab0228d5032e58",
+    "ko": "<WT>토하기. 먹는 것을 조심하세요. 내려간 것이 바로 다시 올라올 수도 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10987",
+    "source_sha256": "7063b4e478ec7e8318a2cfe62d57ab6a8c8abdcaca45a6dab9c3b67c14569385",
+    "ko": "토하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10988",
+    "source_sha256": "b0aa03f7445d04a0cde5ae2aaa2c8cc006f512a936f7d053cbd187abf1924e6c",
+    "ko": "토하기 (8213과 중복?)"
+  },
+  {
+    "id": "TXT_SimsObjects_10989",
+    "source_sha256": "b0aa03f7445d04a0cde5ae2aaa2c8cc006f512a936f7d053cbd187abf1924e6c",
+    "ko": "토하기 (8213과 중복?)"
+  },
+  {
+    "id": "TXT_SimsObjects_10990",
+    "source_sha256": "b0aa03f7445d04a0cde5ae2aaa2c8cc006f512a936f7d053cbd187abf1924e6c",
+    "ko": "토하기 (8213과 중복?)"
+  },
+  {
+    "id": "TXT_SimsObjects_10991",
+    "source_sha256": "b0aa03f7445d04a0cde5ae2aaa2c8cc006f512a936f7d053cbd187abf1924e6c",
+    "ko": "토하기 (8213과 중복?)"
+  },
+  {
+    "id": "TXT_SimsObjects_10992",
+    "source_sha256": "0ed496e970f0c4ddd3ae351de69000ac30759d70047e22cf821aeea3333a6b13",
+    "ko": "<WT>토하기. 무엇을 요리하는지 조심하세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_10993",
+    "source_sha256": "921f284ca1e75f4a75d9376079b6f5b7a511e51a8ff3c25b0a947a1bf7b31ba1",
+    "ko": "토하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10994",
+    "source_sha256": "68d3056484b3300db71ddaeaf2d664dec6ff33d0b2e8eeee88c52d89bd746c35",
+    "ko": "<WT>심_쫓아내기. 가끔은 어떤 심을 내보내야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10995",
+    "source_sha256": "ad7f7f6900d6b762c4e0f5973c098e186d1e8a58dabcd139d2aadf6c0020f4cf",
+    "ko": "심 쫓아내기"
+  },
+  {
+    "id": "TXT_SimsObjects_10996",
+    "source_sha256": "47b20c319cfbab39c9f2530b8500482385320fb855895ac6336c5dc1ef101c0f",
+    "ko": "<WT>$sim 쫓아내기. 가끔은 어떤 심을 내보내야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10997",
+    "source_sha256": "d02132a8448c1b464be5c580215ef5fcf2ecb8571d8676623c7f70d2f23f7465",
+    "ko": "$sim 쫓아내기"
+  },
+  {
+    "id": "TXT_SimsObjects_10998",
+    "source_sha256": "47b20c319cfbab39c9f2530b8500482385320fb855895ac6336c5dc1ef101c0f",
+    "ko": "<WT>$sim 쫓아내기. 가끔은 어떤 심을 내보내야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10999",
+    "source_sha256": "d02132a8448c1b464be5c580215ef5fcf2ecb8571d8676623c7f70d2f23f7465",
+    "ko": "$sim 쫓아내기"
+  },
+  {
+    "id": "TXT_SimsObjects_11000",
+    "source_sha256": "9cc9a97303b30391905477749622a48daf8b0eb800ad5743915b931748897afc",
+    "ko": "<WT>심에게_쫓겨나기. 함께 지낼 수 없다면 문 하나 너머가 곧 길거리입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11001",
+    "source_sha256": "f61e9f745c50d83aaea347f1081c53c91033f55ed1e3847ea74df51a91522303",
+    "ko": "심에게 쫓겨나기"
+  },
+  {
+    "id": "TXT_SimsObjects_11002",
+    "source_sha256": "aec0afcf2f8f4506d672680c24f98991601017c8b1f230f4aa0ba11d94ee2c59",
+    "ko": "<WT>$sim에게 쫓겨나기. 친구가 되어 두면 길거리 생활을 피할 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11003",
+    "source_sha256": "2d74c87c44d110df07a51c70a518affc14dd7fe68065de2b37b9e1f8bd69bb7f",
+    "ko": "$sim에게 쫓겨나기"
+  },
+  {
+    "id": "TXT_SimsObjects_11004",
+    "source_sha256": "aec0afcf2f8f4506d672680c24f98991601017c8b1f230f4aa0ba11d94ee2c59",
+    "ko": "<WT>$sim에게 쫓겨나기. 친구가 되어 두면 길거리 생활을 피할 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11005",
+    "source_sha256": "2d74c87c44d110df07a51c70a518affc14dd7fe68065de2b37b9e1f8bd69bb7f",
+    "ko": "$sim에게 쫓겨나기"
+  },
+  {
+    "id": "TXT_SimsObjects_11006",
+    "source_sha256": "613b28be14a4662c6fe156625ccd442672f101c956b2e60d52295794a96bf409",
+    "ko": "<WT>심과_헤어지기. 이 심의 뜻을 따르든가 떠나든가 해야 합니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_11007",
+    "source_sha256": "59342c654d89e65912d298dabfab79bf6c4a3beab7f52d160ba45307b4cbfe3a",
+    "ko": "심과 헤어지기"
+  },
+  {
+    "id": "TXT_SimsObjects_11008",
+    "source_sha256": "94bed32515a2599246c891e49ae694916cc46ec03df3b45ba8bba50e740e509e",
+    "ko": "<WT>$sim과 헤어지기. 이제는 도무지 잘 풀리지 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11009",
+    "source_sha256": "20f128aa879662329d813c9d2f03c3d08348a9b6841a2ee83b220a888531e26c",
+    "ko": "$sim과 헤어지기"
+  },
+  {
+    "id": "TXT_SimsObjects_11010",
+    "source_sha256": "94bed32515a2599246c891e49ae694916cc46ec03df3b45ba8bba50e740e509e",
+    "ko": "<WT>$sim과 헤어지기. 이제는 도무지 잘 풀리지 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11011",
+    "source_sha256": "20f128aa879662329d813c9d2f03c3d08348a9b6841a2ee83b220a888531e26c",
+    "ko": "$sim과 헤어지기"
+  },
+  {
+    "id": "TXT_SimsObjects_11012",
+    "source_sha256": "39be291f1340c3c987f71c55a9c7a5957092b21e5429b9474e5485fe4c70b054",
+    "ko": "<WT>심에게_차이기. 모든 관계가 잘되는 것은 아닙니다. 이제 앞으로 나아갈 때입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11013",
+    "source_sha256": "9e2e8e62e85bddd691c456f97fb54d0259d7dad94f36b579ea922c89dd1cf18d",
+    "ko": "심에게 차이기  "
+  },
+  {
+    "id": "TXT_SimsObjects_11014",
+    "source_sha256": "4058694545b5459281e6b87feb98020a117c89d3c6927d4621034c06a1db800e",
+    "ko": "<WT>$sim에게 차이기. 아무리 좋은 관계도 가끔 틀어집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11015",
+    "source_sha256": "865b72c02ca922212a0feb10b94fd99fa9d542a8afe6182afe531d6bf147b32d",
+    "ko": "$sim에게 차이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11016",
+    "source_sha256": "4058694545b5459281e6b87feb98020a117c89d3c6927d4621034c06a1db800e",
+    "ko": "<WT>$sim에게 차이기. 아무리 좋은 관계도 가끔 틀어집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11017",
+    "source_sha256": "865b72c02ca922212a0feb10b94fd99fa9d542a8afe6182afe531d6bf147b32d",
+    "ko": "$sim에게 차이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11018",
+    "source_sha256": "99c583ae8f154a7374f00f8fc9dc2f441db3aa964cae45cecbe61ce0c07a2677",
+    "ko": "<WT>심과_싸워_이기기. 말로는 안 될 때도 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11019",
+    "source_sha256": "5692f1ae3a6bcd049c0efa33c7849fc9567f410d533c7f769a141665aaf5405e",
+    "ko": "심과 싸워 이기기"
+  },
+  {
+    "id": "TXT_SimsObjects_11020",
+    "source_sha256": "fb4ba286c0b80c416e446ba180d29659207c54264023279f4f90882b2733e7ba",
+    "ko": "<WT>$sim과 싸워 이기기. 말로는 안 될 때도 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11021",
+    "source_sha256": "cadc61fdd3544d76f030ad5b53e4b7384b542885e6ff6d677669d518eb239cc4",
+    "ko": "$sim과 싸워 이기기"
+  },
+  {
+    "id": "TXT_SimsObjects_11022",
+    "source_sha256": "fb4ba286c0b80c416e446ba180d29659207c54264023279f4f90882b2733e7ba",
+    "ko": "<WT>$sim과 싸워 이기기. 말로는 안 될 때도 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11023",
+    "source_sha256": "cadc61fdd3544d76f030ad5b53e4b7384b542885e6ff6d677669d518eb239cc4",
+    "ko": "$sim과 싸워 이기기"
+  },
+  {
+    "id": "TXT_SimsObjects_11024",
+    "source_sha256": "443988f5f0306f8f5010e2e4f0a5d0f647b461a5e92c918887a1acd3d7ecbe1e",
+    "ko": "<WT>심과_싸우기. 관계가 너무 나빠지지 않도록 조심하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_11025",
+    "source_sha256": "a8548c0063fd6877f93543afc9f64caedb70ad6cadab294ab13ad89bdf53bf6d",
+    "ko": "심과 싸우기"
+  },
+  {
+    "id": "TXT_SimsObjects_11026",
+    "source_sha256": "39345a1bd2f699de7d07f7085761f4106e2eeff99c11f283355bd1ae9a1fab8a",
+    "ko": "<WT>$sim과 싸우기. 관계가 너무 나빠지지 않도록 조심하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_11027",
+    "source_sha256": "383d71d6dee7c47af84f6b6f5dd4aeb4165748f5af2137b92307cc578180c057",
+    "ko": "$sim과 싸우기"
+  },
+  {
+    "id": "TXT_SimsObjects_11028",
+    "source_sha256": "39345a1bd2f699de7d07f7085761f4106e2eeff99c11f283355bd1ae9a1fab8a",
+    "ko": "<WT>$sim과 싸우기. 관계가 너무 나빠지지 않도록 조심하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_11029",
+    "source_sha256": "383d71d6dee7c47af84f6b6f5dd4aeb4165748f5af2137b92307cc578180c057",
+    "ko": "$sim과 싸우기"
+  },
+  {
+    "id": "TXT_SimsObjects_11030",
+    "source_sha256": "b93b6098081d86477d08bf67860b0bf8ed6a1e30e9cde371c9c01eec66ebfcb0",
+    "ko": "<WT>서핑_시뮬레이터에서_사고_내기. 멋지게 타다가 차갑게 나가떨어지는 모습은 보기 좋지 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11031",
+    "source_sha256": "3911048d6e45129d1fcfc1698f7941ecdcc8868cc8c8e000214c5b8a474a10b5",
+    "ko": "서핑 시뮬레이터에서 사고 내기"
+  },
+  {
+    "id": "TXT_SimsObjects_11032",
+    "source_sha256": "bc6700e7af0056cf9d05b63d4eb64c66ecd458bf2408e53a9211c5d7687721dc",
+    "ko": "서핑 시뮬레이터에서 사고 내기"
+  },
+  {
+    "id": "TXT_SimsObjects_11033",
+    "source_sha256": "bc6700e7af0056cf9d05b63d4eb64c66ecd458bf2408e53a9211c5d7687721dc",
+    "ko": "서핑 시뮬레이터에서 사고 내기"
+  },
+  {
+    "id": "TXT_SimsObjects_11034",
+    "source_sha256": "bc6700e7af0056cf9d05b63d4eb64c66ecd458bf2408e53a9211c5d7687721dc",
+    "ko": "서핑 시뮬레이터에서 사고 내기"
+  },
+  {
+    "id": "TXT_SimsObjects_11035",
+    "source_sha256": "bc6700e7af0056cf9d05b63d4eb64c66ecd458bf2408e53a9211c5d7687721dc",
+    "ko": "서핑 시뮬레이터에서 사고 내기"
+  },
+  {
+    "id": "TXT_SimsObjects_11036",
+    "source_sha256": "8460b7c4af1b55267afa1ab095d499e9efdb0922fbd23506c36d5d8eb2279e55",
+    "ko": "<WT>서핑_사고_내기. 서핑 시뮬레이터에서 넘어지지 마세요. 망신에 망신이 겹칩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11037",
+    "source_sha256": "98228478d77db2be4d33e8bb55b5a9475c62d88eb97b91b39ebccb9af50b4516",
+    "ko": "서핑 사고 내기"
+  },
+  {
+    "id": "TXT_SimsObjects_11038",
+    "source_sha256": "6437e96c186a3ae3374e60fb4aafac3b61c63924706ea8194d99589b3026c8c4",
+    "ko": "<WT>싸움에서_지기. 싸움에서 지는 것을 좋아하는 사람은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11039",
+    "source_sha256": "b319183bde07efdec3ed27a87cf6fe974ec5ed35c8eef47069904234c1d25f87",
+    "ko": "싸움에서 지기"
+  },
+  {
+    "id": "TXT_SimsObjects_11040",
+    "source_sha256": "cd3ba8a801c48b12f263a9e8f9b5e774eee08964da3c30adbb8173f931e3c8de",
+    "ko": "<WT>$sim과 싸워 지기. 싸움에서 지는 것은 누구나 싫지만, 특히 $sim에게 지는 것은 더 싫습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11041",
+    "source_sha256": "3224c6a13b4db585c549fe5d96455316c905da3dd80e662e52212eb1eb2fbb5a",
+    "ko": "$sim과 싸워 지기"
+  },
+  {
+    "id": "TXT_SimsObjects_11042",
+    "source_sha256": "cd3ba8a801c48b12f263a9e8f9b5e774eee08964da3c30adbb8173f931e3c8de",
+    "ko": "<WT>$sim과 싸워 지기. 싸움에서 지는 것은 누구나 싫지만, 특히 $sim에게 지는 것은 더 싫습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11043",
+    "source_sha256": "383d71d6dee7c47af84f6b6f5dd4aeb4165748f5af2137b92307cc578180c057",
+    "ko": "$sim과 싸우기"
+  },
+  {
+    "id": "TXT_SimsObjects_11044",
+    "source_sha256": "1f94fdf08b619996707c9e4a5fd11a1089c41b6d95c477d9885576feb081cf6f",
+    "ko": "<WT>싸움에서_지기. 싸움이 필요하다면 승리도 필요합니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_11045",
+    "source_sha256": "e70b2d68048e3e199d1f5dd37e50f1b9d0bc09bedd4f84c5973944f49096554e",
+    "ko": "싸움에서 지기"
+  },
+  {
+    "id": "TXT_SimsObjects_11046",
+    "source_sha256": "1f94fdf08b619996707c9e4a5fd11a1089c41b6d95c477d9885576feb081cf6f",
+    "ko": "<WT>싸움에서_지기. 싸움이 필요하다면 승리도 필요합니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_11047",
+    "source_sha256": "e70b2d68048e3e199d1f5dd37e50f1b9d0bc09bedd4f84c5973944f49096554e",
+    "ko": "싸움에서 지기"
+  },
+  {
+    "id": "TXT_SimsObjects_11048",
+    "source_sha256": "c28af82b441c94790b472cb355c4fc3858af11f268e2d418ad5b9b81159cd4fe",
+    "ko": "<WT>사과를_거절당하기. 최선을 다할 뿐입니다. 관계를 회복하는 일은 아무리 사정이 좋아도 어렵습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11049",
+    "source_sha256": "4bd7c8e6d37a68cb083b5bf928ea40bf0b9835ed77f88af4018a894c2f67f5c3",
+    "ko": "사과를 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11050",
+    "source_sha256": "4c463bd2935e9b8a6285460c2a21d36f0c4188b9f0f1cd096c3c539180c103df",
+    "ko": "<WT>$sim에게 사과를 거절당하기. $sim에게 사과하는 것만으로도 충분히 괴롭습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11051",
+    "source_sha256": "875fe9c71c979ffb7b3ffea8b4d10b1ddd0a729e866dee1dddfa0cf41c196a55",
+    "ko": "$sim에게 사과를 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11052",
+    "source_sha256": "4c463bd2935e9b8a6285460c2a21d36f0c4188b9f0f1cd096c3c539180c103df",
+    "ko": "<WT>$sim에게 사과를 거절당하기. $sim에게 사과하는 것만으로도 충분히 괴롭습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11053",
+    "source_sha256": "875fe9c71c979ffb7b3ffea8b4d10b1ddd0a729e866dee1dddfa0cf41c196a55",
+    "ko": "$sim에게 사과를 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11054",
+    "source_sha256": "a009610f77446bffd2f7c8b3ac6054a200e8d0ef9f62cdff7867bb130fc5f527",
+    "ko": "<WT>애원을_거절당하기. 굽실거리는 것만으로도 충분히 괴롭습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11055",
+    "source_sha256": "3b62bd3e76d10623c4246e78807fca1f589948800c26cc01d050cca726fea5ec",
+    "ko": "애원을 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11056",
+    "source_sha256": "b368f9faf8708961c9c184f431a6c5cfa3da22f334effdc5ae703a0f30d6c5ae",
+    "ko": "<WT>놀림받기. 심은 가끔 잔인합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11057",
+    "source_sha256": "57004f3cd21e7929e0d9e2a4d18ef7a398540c357960511439600c24107f2221",
+    "ko": "놀림받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11058",
+    "source_sha256": "eacee61042255f433e423f860b626e96aec1311bad14c81e76134579abd0529c",
+    "ko": "<WT>$sim에게 놀림받기. $sim의 행동은 가끔 아주 잔인합니다.  "
+  },
+  {
+    "id": "TXT_SimsObjects_11059",
+    "source_sha256": "14839c666a55cf15f0792c75ce0261ce24b8fab0bde788bc9ce4cd887118e7b3",
+    "ko": "$sim에게 놀림받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11060",
+    "source_sha256": "eacee61042255f433e423f860b626e96aec1311bad14c81e76134579abd0529c",
+    "ko": "<WT>$sim에게 놀림받기. $sim의 행동은 가끔 아주 잔인합니다.  "
+  },
+  {
+    "id": "TXT_SimsObjects_11061",
+    "source_sha256": "14839c666a55cf15f0792c75ce0261ce24b8fab0bde788bc9ce4cd887118e7b3",
+    "ko": "$sim에게 놀림받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11062",
+    "source_sha256": "ff1ad53942ee7d109e87a661352eaf92ea1607d21fbad2c1dd47fdf6da94c5ee",
+    "ko": "<WT>위협받기. 친절하게 지내면 괴롭힘을 피하기 좋지만, 태어날 때부터 불량배인 심도 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11063",
+    "source_sha256": "2499c581cb34a687c1f5b3c0ecdae6fd1c32de327b11970acd23cf2e06850416",
+    "ko": "위협받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11064",
+    "source_sha256": "30681d46554d9e20bf7a196ad4ed490a4212573ddb56037b8b5d64541c26380a",
+    "ko": "<WT>$sim에게 위협받기. 친절하게 지내면 괴롭힘을 피하기 좋지만, 태어날 때부터 불량배인 심도 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11065",
+    "source_sha256": "bee208431c0dca2d89f97fc3342e79b8c50ff6544bda3b9bc51d6a4f8c279107",
+    "ko": "$sim에게 위협받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11066",
+    "source_sha256": "30681d46554d9e20bf7a196ad4ed490a4212573ddb56037b8b5d64541c26380a",
+    "ko": "<WT>$sim에게 위협받기. 친절하게 지내면 괴롭힘을 피하기 좋지만, 태어날 때부터 불량배인 심도 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11067",
+    "source_sha256": "bee208431c0dca2d89f97fc3342e79b8c50ff6544bda3b9bc51d6a4f8c279107",
+    "ko": "$sim에게 위협받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11068",
+    "source_sha256": "1eaf9d7197926f03a6170873ce76359f65a888b6a4f10b8271f981f32c12c462",
+    "ko": "<WT>공포의_팬티_당기기. 극단적인 행동이 필요할 때 쓸 수 있는 기술은 하나뿐입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11069",
+    "source_sha256": "7596bf0cbebfcda57b505646b7e49dcf8b0619fc175b077fcec38c8be9f69961",
+    "ko": "팬티 당기기"
+  },
+  {
+    "id": "TXT_SimsObjects_11070",
+    "source_sha256": "967d2fd6fc286bec36f51c082b18ca9e8c066d08f4dc338d9f38f89a8a2ef4a4",
+    "ko": "<WT>$sim의 팬티 당기기. 극단적인 행동이 필요할 때 쓸 수 있는 기술은 하나뿐입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11071",
+    "source_sha256": "8966d7ebff7e618ec2372258a307ab5231f54bb2bc00a8a831f0f812424b8496",
+    "ko": "$sim의 팬티 당기기"
+  },
+  {
+    "id": "TXT_SimsObjects_11072",
+    "source_sha256": "967d2fd6fc286bec36f51c082b18ca9e8c066d08f4dc338d9f38f89a8a2ef4a4",
+    "ko": "<WT>$sim의 팬티 당기기. 극단적인 행동이 필요할 때 쓸 수 있는 기술은 하나뿐입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11073",
+    "source_sha256": "8966d7ebff7e618ec2372258a307ab5231f54bb2bc00a8a831f0f812424b8496",
+    "ko": "$sim의 팬티 당기기"
+  },
+  {
+    "id": "TXT_SimsObjects_11074",
+    "source_sha256": "626adb9c693dddf4d623a77cf6c716c2c2e4a70d951ca82993bae3b6874e27f9",
+    "ko": "<WT>$sim의 팬티 당기기. 분명 $sim도 웃을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11075",
+    "source_sha256": "8966d7ebff7e618ec2372258a307ab5231f54bb2bc00a8a831f0f812424b8496",
+    "ko": "$sim의 팬티 당기기"
+  },
+  {
+    "id": "TXT_SimsObjects_11076",
+    "source_sha256": "ed7cc3dd6ca13ff93346d2f6b473a0c01d1679fcfbf134ee1f02ac49a3faac96",
+    "ko": "<WT>팬티_당기기_당하기. 속옷이 머리 위로 올라간 것만큼 의사소통 실패를 잘 보여 주는 일도 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11077",
+    "source_sha256": "e44cba5ddf9bdf919cdc57aefcca4a621f07f157ed59460a6bbf74af15e6fbe5",
+    "ko": "팬티 당기기 당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11078",
+    "source_sha256": "817c601395d607c35a1e834da53c42b34d1168700595ff4bbcc85a906c99f4bb",
+    "ko": "<WT>$sim에게 팬티 당기기 당하기. 속옷이 머리 위로 올라간 것만큼 의사소통 실패를 잘 보여 주는 일도 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11079",
+    "source_sha256": "fc3b560a7d8208f1c90626a4727d8bbe5a88a7e66883dce8bff7ab16122f5119",
+    "ko": "$sim에게 팬티 당기기 당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11080",
+    "source_sha256": "817c601395d607c35a1e834da53c42b34d1168700595ff4bbcc85a906c99f4bb",
+    "ko": "<WT>$sim에게 팬티 당기기 당하기. 속옷이 머리 위로 올라간 것만큼 의사소통 실패를 잘 보여 주는 일도 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11081",
+    "source_sha256": "fc3b560a7d8208f1c90626a4727d8bbe5a88a7e66883dce8bff7ab16122f5119",
+    "ko": "$sim에게 팬티 당기기 당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11082",
+    "source_sha256": "83abf8ea3717209f5c782f76f7a150a1d73c2802424586883dd43a8c91e50a3f",
+    "ko": "<WT>팬티_당기기_당하기. 팬티는 절대 이마 위로 올라가서는 안 됩니다. 절대로요."
+  },
+  {
+    "id": "TXT_SimsObjects_11083",
+    "source_sha256": "e44cba5ddf9bdf919cdc57aefcca4a621f07f157ed59460a6bbf74af15e6fbe5",
+    "ko": "팬티 당기기 당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11084",
+    "source_sha256": "4de8326d285a2d87e81f0fb806759a0bbb6cb1531b97280ec0da85119ccb49ea",
+    "ko": "<WT>썰렁한_농담하기. 무대에서 망해 가는 코미디언을 둘러싼 침묵보다 고통스러운 것은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11085",
+    "source_sha256": "725cc6ea99a0f8f3602cbfa2e5f1f1bcce5ea45cf11ca46a3fd97179341c54d5",
+    "ko": "썰렁한 농담하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11086",
+    "source_sha256": "9a61e87a5dd0a61cf7c3090e092e992dbf75c9a99f25581c37e5f256d8eb2991",
+    "ko": "<WT>$sim에게 썰렁한 농담하기. 무대에서 망해 가는 코미디언을 둘러싼 침묵보다 고통스러운 것은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11087",
+    "source_sha256": "548cec03b1ad8b09b58a592d4de9fde3bc0ec3c132a348111a1c0139a34e485f",
+    "ko": "$sim에게 썰렁한 농담하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11088",
+    "source_sha256": "9a61e87a5dd0a61cf7c3090e092e992dbf75c9a99f25581c37e5f256d8eb2991",
+    "ko": "<WT>$sim에게 썰렁한 농담하기. 무대에서 망해 가는 코미디언을 둘러싼 침묵보다 고통스러운 것은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11089",
+    "source_sha256": "548cec03b1ad8b09b58a592d4de9fde3bc0ec3c132a348111a1c0139a34e485f",
+    "ko": "$sim에게 썰렁한 농담하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11090",
+    "source_sha256": "5a0e3099928e4d505ec11eadfe7a17eb1edbd0a21030ebfb6de93f4f5d71b7bb",
+    "ko": "<WT>농담을_외면당하기. 아무도 웃지 않는다면 농담일까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_11091",
+    "source_sha256": "f1ce9bd50297f2503251458ec403b91ef6a72858f9fc807d8fdbe960a188e2fd",
+    "ko": "농담을 외면당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11092",
+    "source_sha256": "c3dd67deb67f79c1281520df43bb75ae50588b15fea92181c05ce07ca9fa613d",
+    "ko": "<WT>경찰에게_파티_중단당하기. 이 파티는 지금 끝내기에는 너무 재미있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11093",
+    "source_sha256": "c996c59e7f32f71c82abbc336e1bfd5bd2fc26ac066874511cd37173f476b64f",
+    "ko": "경찰에게 파티 중단당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11094",
+    "source_sha256": "05f8d1eadcbb0e9e682136bdad37ce81c606476640d6b21e3e063ce9802dc059",
+    "ko": "경찰에게 파티 중단당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11095",
+    "source_sha256": "05f8d1eadcbb0e9e682136bdad37ce81c606476640d6b21e3e063ce9802dc059",
+    "ko": "경찰에게 파티 중단당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11096",
+    "source_sha256": "05f8d1eadcbb0e9e682136bdad37ce81c606476640d6b21e3e063ce9802dc059",
+    "ko": "경찰에게 파티 중단당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11097",
+    "source_sha256": "05f8d1eadcbb0e9e682136bdad37ce81c606476640d6b21e3e063ce9802dc059",
+    "ko": "경찰에게 파티 중단당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11098",
+    "source_sha256": "9560297bf3cba5f6b753d8fc5c019b3ab3fc12e56af9b2d297e583065cae42fb",
+    "ko": "<WT>경찰에게 파티_중단당하기. 경찰이 $me의 즐거움을 망치게 두지 마세요."
+  },
+  {
+    "id": "TXT_SimsObjects_11099",
+    "source_sha256": "37d786e81ec6c8ee74382fc4a48a1f71dc506ab30bcef846512490c547dfe393",
+    "ko": "경찰에게 파티 중단당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11102",
+    "source_sha256": "acd1fb6f829b074a79dd345118e5a62751bea88ef7d2935e33c06cfa41c8c237",
+    "ko": "<WT>분장_의상_입기. 아무리 나이가 들어도 의상 상자를 열고 변장 놀이를 즐길 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11103",
+    "source_sha256": "2cf3261685df56dfb3ffea29728933f31fa19e1a670a1a82f5ae4352983ab684",
+    "ko": "분장 의상 입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11104",
+    "source_sha256": "8d5ee9969a1939d970b24551b19c62e07d310b55278852dc8089859c075770d9",
+    "ko": "분장 의상 입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11105",
+    "source_sha256": "8d5ee9969a1939d970b24551b19c62e07d310b55278852dc8089859c075770d9",
+    "ko": "분장 의상 입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11106",
+    "source_sha256": "8d5ee9969a1939d970b24551b19c62e07d310b55278852dc8089859c075770d9",
+    "ko": "분장 의상 입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11107",
+    "source_sha256": "8d5ee9969a1939d970b24551b19c62e07d310b55278852dc8089859c075770d9",
+    "ko": "분장 의상 입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11108",
+    "source_sha256": "2e60f8f01ed2f05a1443ceb7a6f2f3f2222f4733344945d7cdbb971bb11620f5",
+    "ko": "<WT>분장_의상_입기. 어떤 곳에서는 주민들과 어울리려면 조금 꾸며 입어야 합니다. 의상 상자를 사서 역할에 몰입하세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_11109",
+    "source_sha256": "b73b575954ce9a051eb469fbecbd8c35b5c47aa589ab5ac61e36d4d1f60d2841",
+    "ko": "분장 의상 입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11110",
+    "source_sha256": "2c92e6ae1ca0876191b94c968cff04021f81e20bdbf727d03a89ba1e5e8ea5c3",
+    "ko": "<WT>분장_의상_입기. $me의 속에 숨은 파티 본능을 풀어놓고 의상 상자의 옷을 입어 보세요... 아예 안 입어도 좋고요!"
+  },
+  {
+    "id": "TXT_SimsObjects_11111",
+    "source_sha256": "b73b575954ce9a051eb469fbecbd8c35b5c47aa589ab5ac61e36d4d1f60d2841",
+    "ko": "분장 의상 입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11112",
+    "source_sha256": "054dbfbbde146b56612ee266031ce4ecc646f5077ef431e8c090fbcdbde5aab4",
+    "ko": "<WT>다른_장소_방문하기. 좁은 연못의 큰 심도 가끔은 세상을 탐험해야 합니다.  "
+  },
+  {
+    "id": "TXT_SimsObjects_11113",
+    "source_sha256": "80dc5ee7ded0d4c7d19c3256215a3fc4a695fb25dabd14e2977f96f39dd009ce",
+    "ko": "다른 장소 방문하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11114",
+    "source_sha256": "fc1c9d3f2f756e66dbc15f8ba9e89b9657a6fc92841713b9d0d2ed3183f76a10",
+    "ko": "부지 방문하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11115",
+    "source_sha256": "fc1c9d3f2f756e66dbc15f8ba9e89b9657a6fc92841713b9d0d2ed3183f76a10",
+    "ko": "부지 방문하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11116",
+    "source_sha256": "fc1c9d3f2f756e66dbc15f8ba9e89b9657a6fc92841713b9d0d2ed3183f76a10",
+    "ko": "부지 방문하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11117",
+    "source_sha256": "fc1c9d3f2f756e66dbc15f8ba9e89b9657a6fc92841713b9d0d2ed3183f76a10",
+    "ko": "부지 방문하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11118",
+    "source_sha256": "badb73bc5d60879b29b83ef093f62ed5931ff636b91bc91321ed6a20a2ce8ba6",
+    "ko": "<WT>다른_장소_방문하기. 마을 곳곳의 사정을 살펴보는 일은 언제나 가치가 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11119",
+    "source_sha256": "020a74c47e02293cb12e9fe9e6d9fda73b40fc1446c7a80939974ea36b1f77e4",
+    "ko": "다른 장소 방문하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11120",
+    "source_sha256": "d25703ab1b67b4f12eb440796cd1c73dd66222a0069adf8eb77f1d01daa29de2",
+    "ko": "<WT>심과_대화하기. 대화는 다른 심의 관심사를 알아내기에 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11121",
+    "source_sha256": "4d8e9a1fe0f3d30bcae703a5c617984405a611b34762b5ef8507abc301167722",
+    "ko": "심과 대화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11122",
+    "source_sha256": "4ce052881ff0b2f6eb14fd7985d9df65a9f5eb0f2980c5286b95b934ea0abcf9",
+    "ko": "<WT>$sim과 대화하기. 말솜씨가 좋으신가요? $sim에게 실력을 보여 주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_11123",
+    "source_sha256": "2a6a8c7fa502c6e508f98af0540290411d0c6c068da6c44ec36ba736d96a37f5",
+    "ko": "$sim과 대화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11124",
+    "source_sha256": "4ce052881ff0b2f6eb14fd7985d9df65a9f5eb0f2980c5286b95b934ea0abcf9",
+    "ko": "<WT>$sim과 대화하기. 말솜씨가 좋으신가요? $sim에게 실력을 보여 주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_11125",
+    "source_sha256": "2a6a8c7fa502c6e508f98af0540290411d0c6c068da6c44ec36ba736d96a37f5",
+    "ko": "$sim과 대화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11126",
+    "source_sha256": "8182bd8b0a133af6d78a8565f8a3677a85c36db292dd5a45bd52ee632027174b",
+    "ko": "<WT>심과_대화하기! 새 장소로 이사했다면 새 동거인과 대화를 나눠야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11127",
+    "source_sha256": "689764b61d5a86759d710882b36c53bf3aadba714745f63024d2daa82ca748d1",
+    "ko": "심과 대화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11128",
+    "source_sha256": "d58eea4cf99b97be7076581207f9dc790cc05f673662be72eea54d3a28907aa7",
+    "ko": "<WT>$sim과 대화하기. 새 장소로 이사했다면 먼저 새 이웃과 대화를 나눠야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11129",
+    "source_sha256": "965eb05622995240e8f62a4b3852633f7638b1643915bedc34ce7d2430fed4e9",
+    "ko": "$sim과 대화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11130",
+    "source_sha256": "6e130a286a36300b4d9dbe0a95e434a0d930ca5b76d4a933a3279ba88d0455e5",
+    "ko": "<WT>$sim과 대화하기. 자기소개도 없이 남의 집에 머무르는 것은 무례합니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_11131",
+    "source_sha256": "87d1fdd682a0e994bb9ccfe6b64571046987254886844e3271bcddcd1e7bafc9",
+    "ko": "$sim과 대화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11132",
+    "source_sha256": "75ab99055387e4eec024ad6392afde2d7babd9e120535a8514ecc649c103dfe4",
+    "ko": "<WT>심과_손잡기. 아름다운 관계는 작은 손길 하나로 시작될 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11133",
+    "source_sha256": "0c3b9e162af0d9ffda1447bc9fea3eebd1af4d1965c1ee9109a0a4ac38b70200",
+    "ko": "심과 손잡기"
+  },
+  {
+    "id": "TXT_SimsObjects_11134",
+    "source_sha256": "03dbe6c3d6c0438a424d86c4aef037e19a4d555e8496ddd0a929614375a93dfa",
+    "ko": "<WT>$sim과 손잡기. 아름다운 관계는 작은 손길 하나로 시작될 수 있습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_11135",
+    "source_sha256": "570e611f749c61e222a066cb41981e1993bf675579a502e964d1e114a826391a",
+    "ko": "$sim과 손잡기"
+  },
+  {
+    "id": "TXT_SimsObjects_11136",
+    "source_sha256": "03dbe6c3d6c0438a424d86c4aef037e19a4d555e8496ddd0a929614375a93dfa",
+    "ko": "<WT>$sim과 손잡기. 아름다운 관계는 작은 손길 하나로 시작될 수 있습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_11137",
+    "source_sha256": "570e611f749c61e222a066cb41981e1993bf675579a502e964d1e114a826391a",
+    "ko": "$sim과 손잡기"
+  },
+  {
+    "id": "TXT_SimsObjects_11138",
+    "source_sha256": "ed9bbdf89834cfb5100f6d1df79336fd7b199e1c68c5361ba6e022ee95ce1e88",
+    "ko": "<WT>$sim과 손잡기. 우정을 연애로 발전시키려면 낭만적인 행동이 필요합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11139",
+    "source_sha256": "570e611f749c61e222a066cb41981e1993bf675579a502e964d1e114a826391a",
+    "ko": "$sim과 손잡기"
+  },
+  {
+    "id": "TXT_SimsObjects_11140",
+    "source_sha256": "b54c23472b3c0400da1c161528b055e96667ed181271586b86a22bcf0c6f62ac",
+    "ko": "<WT>심과_결혼하기. 영원히 혼자 살 수는 없습니다.  "
+  },
+  {
+    "id": "TXT_SimsObjects_11141",
+    "source_sha256": "f506ef9c13af026cb54ba647b2f0042d2cfd80606fbb1769002f1769235e4420",
+    "ko": "심과 결혼하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11142",
+    "source_sha256": "b1e21b8694f992fb5416d42ae6712f10f4337e9329147d6cc7b180b923793934",
+    "ko": "<WT>$sim과 결혼하기. 모든 심은 언젠가 정착하여 행복하게 살아야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11143",
+    "source_sha256": "b60ea60a769a17c1619b6f68c4ef59558630b962f9a5f124f0057f57b161322f",
+    "ko": "$sim과 결혼하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11144",
+    "source_sha256": "b1e21b8694f992fb5416d42ae6712f10f4337e9329147d6cc7b180b923793934",
+    "ko": "<WT>$sim과 결혼하기. 모든 심은 언젠가 정착하여 행복하게 살아야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11145",
+    "source_sha256": "b60ea60a769a17c1619b6f68c4ef59558630b962f9a5f124f0057f57b161322f",
+    "ko": "$sim과 결혼하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11146",
+    "source_sha256": "e09c38954d2db76e57b63a31443044bec5ff2494984a39e7b0896f89a93839d3",
+    "ko": "<WT>병_돌리기_놀이. 특별한 심과 입맞춤할 기회입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11147",
+    "source_sha256": "8135e67d3bb0c726dc6e032a9f5dae308b002100c07f6ab2773b96188f1cb94e",
+    "ko": "병 돌리기 놀이"
+  },
+  {
+    "id": "TXT_SimsObjects_11148",
+    "source_sha256": "73b883747384f36daaf2246ffe42fbf6c9ac1eeec30ca4cada5826debfb7f096",
+    "ko": "<WT>$sim과 병 돌리기 놀이. 어디까지 이어질지 누가 알겠어요?"
+  },
+  {
+    "id": "TXT_SimsObjects_11149",
+    "source_sha256": "3a0fec273c3cbc8267287050dc47fb882d240334c8c7dead1885f3e8b5e01279",
+    "ko": "$sim과 병 돌리기 놀이"
+  }
+]

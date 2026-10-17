@@ -1,0 +1,687 @@
+[
+  {
+    "id": "TXT_urbzui_01456",
+    "source_sha256": "ba0eebf379567c645b1edd9382142898e897046ba001ecc8c343ad19f338650f",
+    "ko": "불러오는 중"
+  },
+  {
+    "id": "TXT_SimsObjects_07603",
+    "source_sha256": "db42653570b7e2d424375b575d002dee822b7dbf142fdd5c769678d4c97fcbf2",
+    "ko": "정글 탐험하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07606",
+    "source_sha256": "11d7cee6233ab2f016435d205c6554499c95aeac517cd8d00c3a451b41eb1670",
+    "ko": "거처 만들기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07612",
+    "source_sha256": "94e078feade8a6dd7e2cc367756e5592707cb7c3233ced617ec5d1696a1268d3",
+    "ko": "침대 만들기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07614",
+    "source_sha256": "1402987e774948ce305052c4f5d557dac60d9a3d2570c9ba065351e336803020",
+    "ko": "탁자 만들기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07616",
+    "source_sha256": "4951d3bff3ce29cbd1b6475d7ae3e0437ad51488d6dcc9c06176cc46ccfa23f3",
+    "ko": "셔츠 제작하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07618",
+    "source_sha256": "18cade9625701511b225d9d689e1c79e3dcb89d55ecab072ab297663e6abfdc6",
+    "ko": "보금자리 생활: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07621",
+    "source_sha256": "d7168da41f249f03395a402c90f4b6946232f1767d9587575704b9011ac20d31",
+    "ko": "뗏목 만들기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07624",
+    "source_sha256": "2377efe8f5aa1446be712b59bdc25105bcb68358ee4d4258007cc561673054bc",
+    "ko": "작업대 만들기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07626",
+    "source_sha256": "9f7ac40ea90089cb18c55cd4729e94b105431babc0858c68f56f72e2cf1e6ce8",
+    "ko": "생선 요리하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07628",
+    "source_sha256": "0718cbebb6ec08bac1fe80b857dff509b2855a6706137f04fb8573cd47134598",
+    "ko": "기본 생존: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07632",
+    "source_sha256": "c06b68a071201dfab129bd2ef7bbdb9c76ef4832096484db493569e44bfba8cc",
+    "ko": "정글 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07638",
+    "source_sha256": "1c80efed28dce307d0c2926494cb41e5cdfaa65ea21662df123b77049644d5f9",
+    "ko": "동굴 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07640",
+    "source_sha256": "95303eff5906840eb2bba4d218d5b6680176abdeb573c031c87c6cdc7ada5802",
+    "ko": "강 평원 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07642",
+    "source_sha256": "358a28ef07a46c3975ca3ca2ce986752d7b16c05720e36456cb8048c518915fd",
+    "ko": "다른 해변 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07643",
+    "source_sha256": "3d77f222735e6735fce529d1e9958e8c0b296be4367ca2485b39f8b2e30d5585",
+    "ko": "두 번째 섬 탐험하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07645",
+    "source_sha256": "a6398bf9cd8ea6ad17fc5d9a38147f317bdd2916703f37bd8317787a89df8d21",
+    "ko": "침팬지와 친구 되기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07646",
+    "source_sha256": "e0f90079e04dd86fb78f753cc48b64da603be813d0d4186fc7010b590974f20a",
+    "ko": "침팬지에게 채집 맡기기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07647",
+    "source_sha256": "0f81ae41cdb370c27f317fb21a38f37a088d7d77da56e2f55be0d9d1dec98f59",
+    "ko": "침팬지들의 속셈: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07649",
+    "source_sha256": "5ef81c471788ed54fc06fa5182e9bb90e08c6314f3a20daca0bf8ea5aeaa6e0d",
+    "ko": "동료에게 인사하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07650",
+    "source_sha256": "94b9c6b845fed0cb48084f2feff6ec804e2133ca6a475854c8565db9f28084b5",
+    "ko": "동료와 친구 되기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07652",
+    "source_sha256": "b9e555d8a85f81bb82aa12317cb65ce6e255bb8bf4710f9f7e8514192e876da5",
+    "ko": "심을 부족에 초대하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07654",
+    "source_sha256": "4088e6a117f910312f07889b80a4b01f29341a1b73fb4aa7e80fdd64ead1c3f0",
+    "ko": "모든 동료 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07655",
+    "source_sha256": "95f486449810636c930b2362f3b361acc79ae8942b7b2bef9b273e1715961307",
+    "ko": "동료 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07659",
+    "source_sha256": "b7baa171c1787657fc2104825fe7d9c3278c0d90bb85e984ad5c03f9b0235a99",
+    "ko": "무선 송신기 조립하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07660",
+    "source_sha256": "42fe4f879efecc806b81236cf3c7ca9f532ce738cdbb7ba0181eb72fe67c2c50",
+    "ko": "높은 곳에서 구조 신호 보내기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07661",
+    "source_sha256": "e43a0a7814049b56d2fdff1e4b8223b727db2b3606f890d019f522c5b1793730",
+    "ko": "바다를 건널 배 만들기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07662",
+    "source_sha256": "7cabf38530c938bbf2bdb7b6a689ff68371ef6d5eca5acfa180e15419cfbd4a6",
+    "ko": "작물 심기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07664",
+    "source_sha256": "04ef71b04c7ba16fd822288d3499650c37c4a406e0bf700be28935de7477a0ef",
+    "ko": "작물 수확하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07666",
+    "source_sha256": "35d993d9450eff23f67473f3934e4124d3bbc9029a33495a9f9b7c642025ece1",
+    "ko": "알 모으기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07667",
+    "source_sha256": "f9a1e9e6f9d8687df08d3a67d5e9979b57c88184cafc769e367a34308ac6828e",
+    "ko": "농사 생활: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07670",
+    "source_sha256": "452fb4331a52d946b1d5d998ab0f6cb57ebe75aa1d4a1d97c9173e8add97ff58",
+    "ko": "카누 만들기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07671",
+    "source_sha256": "f479a768e3969f1bfc8d26ee7d4ecc10d7446aa9cda90516b8ba7d3ff1cb2d70",
+    "ko": "세 번째 섬에 도착하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07672",
+    "source_sha256": "fb6e5930c8d4e58a44dfb57dcf0b555d553aa29968d02af4f966e5c327566562",
+    "ko": "마지막 섬에 도착하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07676",
+    "source_sha256": "a836cf842537b75d2570b5205a755f18c2b5eea3ef4a5e29a1e5da45f57897f5",
+    "ko": "온천 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07677",
+    "source_sha256": "ac2c6029bc7e09a45feb1433ec9b10a33ebb38881320f994c0048f0e380f5f9c",
+    "ko": "라마 사원 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07678",
+    "source_sha256": "f312e9c69139f5724ed3ba986fc3842622f0ac8c933e5624b59a31f79f2c26e9",
+    "ko": "화산 정상에 도착하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07679",
+    "source_sha256": "d6bb1c455966abdb700fbf60285af9a79232be0cae37d8e2a9036893a72bfe39",
+    "ko": "다른 해변 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07680",
+    "source_sha256": "29865830cb1e79b010cf18aceb0f173d9659ba7773d2aef18b4212700779c865",
+    "ko": "세 번째 섬 탐험하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07683",
+    "source_sha256": "4aeff2cd2a4b7626879a3080cb9554a48b2017b4fab088bd73be9d6c7ecde644",
+    "ko": "왕실 조각상 네 개 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07684",
+    "source_sha256": "637e043d2d477abf4f31c14695dfc1ee88e69493a368f9224ce2cefa5a33d9a7",
+    "ko": "의식용 대장간 수리하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07686",
+    "source_sha256": "aae611f6e0fa3b256c4f58800b56b8fd2773d7a3c15414c0e089252c62d042b7",
+    "ko": "라마 왕의 왕관 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07687",
+    "source_sha256": "0af3bc060cbec24ca9766d4b64cf30c1794dc324751b3525f9c71b3b55282200",
+    "ko": "절벽 다이빙 하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07688",
+    "source_sha256": "c44c9e421b9a532e61c2113d6bd796bd2cc49d04c523957232e9a287e8d4577b",
+    "ko": "라마족 연구하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07691",
+    "source_sha256": "a38cd6c62c188e68398c4d4ee687feb3b635e523ddb0a06aa283e56386ef88e4",
+    "ko": "쾌락의 궁전: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07695",
+    "source_sha256": "8c093532a3187efde56110b1e2691dbd70c6768e371c7ca855991aa858d090c2",
+    "ko": "통나무집 짓기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07697",
+    "source_sha256": "3feedcb25cec9b6b9c46be537466d14c6c04067cead835d6a7195765ee6404e7",
+    "ko": "튼튼한 의자 만들기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07698",
+    "source_sha256": "8c093532a3187efde56110b1e2691dbd70c6768e371c7ca855991aa858d090c2",
+    "ko": "통나무집 짓기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07701",
+    "source_sha256": "8b8f8b1343a3c0243e7ba51dac5ce3fd225aa7a9ce2b10dc8c4b12057c719a92",
+    "ko": "방갈로 짓기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07703",
+    "source_sha256": "0a177c8c6077eaea52ae19e83594c78cc500136f306f92c8c61db6e2592c901e",
+    "ko": "호화로운 샤워 시설 만들기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07704",
+    "source_sha256": "9b6d92816ff5a9ed1f88ccfda28e59f4902efee4489308fc6ca521dc4d9494f8",
+    "ko": "조개 셔츠 만들기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07705",
+    "source_sha256": "97ffbea85e14b1922e1a13bad426174110f84300df4937ab43f1dad1f856ee85",
+    "ko": "만찬 만들기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07706",
+    "source_sha256": "7a472cf670d197fe378e585b4f256f0bb92c3305a712d19fdd44fc59459b5e6a",
+    "ko": "휴양지 만들기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07709",
+    "source_sha256": "be86309e3ebf329d28c92605382f72b12c51008a1db95a347f3ee19b52e4bf81",
+    "ko": "해적의 보물상자 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07711",
+    "source_sha256": "c06b68a071201dfab129bd2ef7bbdb9c76ef4832096484db493569e44bfba8cc",
+    "ko": "정글 찾기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07712",
+    "source_sha256": "f1c5efd3c0334a6d368ab5025b7549b2a3c77c81635167970e0a0eb7228ce4a0",
+    "ko": "닭 잡기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07714",
+    "source_sha256": "f78ba879411653d06a8cd2db7a7b9c90796e4f5076895335db53dc8b4dab7c25",
+    "ko": "멧돼지 사냥하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07716",
+    "source_sha256": "9f47ab3aa5006c17e875134a44f8635d6722669b6e9a3188518bc7161f3dec2b",
+    "ko": "상어 잡기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07719",
+    "source_sha256": "84c8f2a533cdc53dcf26078139aa460488e96d5be04c230ee0a0efb46527e680",
+    "ko": "궁전 즐기기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07720",
+    "source_sha256": "d341fb9aa070a97477a743f3e01d6409312513b7b17c914816104d2aeae5c13c",
+    "ko": "궁전에서 결혼하기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07727",
+    "source_sha256": "556dfc5396225e766f4e621fff939db3e0a28785ced447e32af9e3fd58208097",
+    "ko": "자연에서 먹고살기: 완료!"
+  },
+  {
+    "id": "TXT_SimsObjects_07601",
+    "source_sha256": "2b365a06cf091cc32f47e1d832927dedbb561e746bd84671af84f9bdcc7b5d51",
+    "ko": "이런 장애물을 통과하려면 시간이 걸리고 <COLOR_FF0B0077>에너지도 소모됩니다. 옷이 손상될 수도 있습니다. \r\n\r\n<COLOR_FF0B0077>새_설계도: 섬 의상. 작업대에서 제작해 너덜너덜해진 옷을 갈아입으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_07604",
+    "source_sha256": "57d3ea5029abfb8381fe4064881363b5398d17933d682f1ab52faba212ce093d",
+    "ko": "새로운 책"
+  },
+  {
+    "id": "TXT_SimsObjects_07605",
+    "source_sha256": "d5a6b18fbdc1033e0341db990b434c3d256eb6fa8e21aed32057c8efed2a2f40",
+    "ko": "<COLOR_FF0B0077>거주지_횃불_켜기:_완료! 이제 이곳이 여러분의 집입니다. 횃불로 거주지를 관리하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_07607",
+    "source_sha256": "173fb494359a7967070c1d8ed51e9a304bf6bbe11f5f47c116201cdc92ee374d",
+    "ko": "새 설계도: 오두막, 조개 괭이"
+  },
+  {
+    "id": "TXT_SimsObjects_07608",
+    "source_sha256": "c3f26dee6bd40bbb0110c61ac651905090d9c64f29a778ee13e548c11621537d",
+    "ko": "잘했습니다. 심이 이 페이지의 모든 목표를 달성했습니다. 보상을 받고 새로운 물건의 제작법을 배우는 가장 좋은 방법입니다.\r\n\r\n<COLOR_FF0B0077>새_설계도: 대나무 낚싯대."
+  },
+  {
+    "id": "TXT_SimsObjects_07609",
+    "source_sha256": "faedff63dc0cd790e9ae5c7831d54a8c07064776b4faa81ef8ce8e57d1b47912",
+    "ko": "보금자리 생활"
+  },
+  {
+    "id": "TXT_SimsObjects_07611",
+    "source_sha256": "f065ed119776ce9b98198ca8e03c42da46646d2d59b21cd75bd5880b824f1a94",
+    "ko": "<COLOR_FF0B0077>새_설계도: 판잣집 가구와 새로운 작업대"
+  },
+  {
+    "id": "TXT_SimsObjects_07613",
+    "source_sha256": "c62abe87a3db3364829064a1e328f048d40811e2e96fcaac95e30a95ce513075",
+    "ko": "<COLOR_FF0B0077>새_설계도: 급조한 장식품과 램프"
+  },
+  {
+    "id": "TXT_SimsObjects_07617",
+    "source_sha256": "b2d8a183d5960ecad15ee6791f142be1cd93a857c7302afc2ef375dbe9372396",
+    "ko": "새 설계도: 대나무 작업대"
+  },
+  {
+    "id": "TXT_SimsObjects_07619",
+    "source_sha256": "8889d86b4d6b74b1e166ef39546f614a81d1479c985bee50a78b0103a53b073b",
+    "ko": "<COLOR_FF0B0077>새_목표: 섬은 하나만 있는 것이 아닙니다! 다른 섬에 도착하는 것이 심의 새로운 목표입니다. \r\n\r\n<COLOR_FF0B0077>새_설계도: 뗏목"
+  },
+  {
+    "id": "TXT_SimsObjects_07620",
+    "source_sha256": "7802d00f71e91411ec1a09cd1820899a34e32282384f2750b280d1cfc21b5813",
+    "ko": "다른 섬에 도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07623",
+    "source_sha256": "c598809b14902bbb45bb9f0a54842b26ec9bf5b1170c45c0eb1e0cfbf5fe2e2a",
+    "ko": "<COLOR_FF0B0077>새_설계도: 이제 간단한 거처와 대나무 낚시용 창, 그 밖의 유용한 도구를 제작할 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07625",
+    "source_sha256": "6982920f39574081ba0cc1db707a44870b159c967be572113e52ab6247cd9304",
+    "ko": "새 욕구: 용변. 화장지를 사용해 이 욕구를 해결하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_07627",
+    "source_sha256": "a04cf15bd922a154412df371aea771d9b934bcd4256af9ce8dd05b8769bda0ff",
+    "ko": "<COLOR_FF0B0077>새_설계도: 의상 장신구"
+  },
+  {
+    "id": "TXT_SimsObjects_07629",
+    "source_sha256": "e502aa3b18a69206ac3afaa26ce7e691bb4670b8e809a368c2f8aa197e01a492",
+    "ko": "심이 제정신을 유지하려면 <COLOR_FF0B0077>목표가 필요합니다. 섬에 흩어진 책들이 무엇을 해야 할지 알려줄 것입니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_07630",
+    "source_sha256": "e807421d30fddb52e90b514f7e62fbb7abbae3aeb3765a1ded339abc9906d5fc",
+    "ko": "목표를 세우세요"
+  },
+  {
+    "id": "TXT_SimsObjects_07631",
+    "source_sha256": "47349dc6664de74047e6894c72c1688f3080f45b76afe30127b96decc2252aea",
+    "ko": "앞으로 새로운 도전과 탐험할 장소가 기다리고 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07634",
+    "source_sha256": "de5c7624302d59050518c2e98e68bb954b6130b556a39374247dff15d13ec660",
+    "ko": "심이 <COLOR_FF0B0077>레지널드_스티키윅_경의\r\n<COLOR_FF0B0077>난파_일지를 발견했습니다. 심을 위한 새로운 <COLOR_FF0B0077>목표가 담겨 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07635",
+    "source_sha256": "0bc1cdcdccf728fb346083ad8f8b7dbf1903c90663cfb79b12f7f94a748018be",
+    "ko": "심이 두 번째 섬에 도착했습니다. 아직 발견할 것이 아주 많습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07636",
+    "source_sha256": "57d3ea5029abfb8381fe4064881363b5398d17933d682f1ab52faba212ce093d",
+    "ko": "새로운 책"
+  },
+  {
+    "id": "TXT_SimsObjects_07637",
+    "source_sha256": "b4d9c393356710d06c5405a63562bc4e580d3885ad11f02e3bd7608c495966fc",
+    "ko": "심이 <COLOR_FF0B0077>해적_수염수염의\r\n<COLOR_FF0B0077>마지막_항해\r\n<COLOR_FF0B0077>일지를\r\n<COLOR_FF0B0077>발견했습니다. 심을 위한 새로운 <COLOR_FF0B0077>목표가 담겨 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07639",
+    "source_sha256": "0ff6b42543325b247f36d76dc150798681a4cbe20aa8374717534ed6a23fba29",
+    "ko": "<COLOR_FF0B0077>새_설계도: 흑요석 도구"
+  },
+  {
+    "id": "TXT_SimsObjects_07641",
+    "source_sha256": "8a53112e717fade3da895a944b6f0c0d71cf0ecf9776bc8d81220298ee456fea",
+    "ko": "<COLOR_FF0B0077>새_설계도: 더 나은 거처와 농사 도구"
+  },
+  {
+    "id": "TXT_SimsObjects_07644",
+    "source_sha256": "72138cb3bfec74bb23a617abab7c791c835cd8f36f97de75eba57e351a63348e",
+    "ko": "<COLOR_FF0B0077>새_설계도: 집 장식품과 악기"
+  },
+  {
+    "id": "TXT_SimsObjects_07648",
+    "source_sha256": "4295d9a06ea983d3d596bcf1b160a132f54ad62e211c8dd17b9cc5c4a8146a16",
+    "ko": "<COLOR_FF0B0077>새_설계도: \"예언의 침팬지\" 미술품"
+  },
+  {
+    "id": "TXT_SimsObjects_07653",
+    "source_sha256": "afb2aa437e85f43c866565f56760600b12f2ba6a9a5781f2b29d6dbf6709ff4a",
+    "ko": "<COLOR_FF0B0077>새_설계도: 더 좋은 가구\r\n\r\n부족이 커졌습니다. 이제 심 전환 기능으로 두 심을 모두 조종할 수 있습니다. 거주지에서 할 일도 맡길 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07656",
+    "source_sha256": "bb4f08243c572240c62ff3423bbadf11fd1f6d0dfe33fd26891a596fe3a6b1c0",
+    "ko": "동료들이 다시 모였으니 이제 좀 수월해지겠죠?\r\n\r\n<COLOR_FF0B0077>새_설계도: 죽음의 데이지 물약. 심을 되살릴 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07657",
+    "source_sha256": "57d3ea5029abfb8381fe4064881363b5398d17933d682f1ab52faba212ce093d",
+    "ko": "새로운 책"
+  },
+  {
+    "id": "TXT_SimsObjects_07658",
+    "source_sha256": "af242c155d983961e2a5a44614b4227e775322afb75f36b4c56b047609208b4e",
+    "ko": "심이 <COLOR_FF0B0077>머니웰의_생존\r\n<COLOR_FF0B0077>대백과_2를 발견했습니다. 심을 위한 새로운 <COLOR_FF0B0077>목표가 담겨 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07665",
+    "source_sha256": "d6a4a3fbc1fa3f01bb430d5cd8fa3dfb81ff38dfc4f1af7ac620534fbedb76f0",
+    "ko": "<COLOR_FF0B0077>새_설계도: 농사 도구와 부속품"
+  },
+  {
+    "id": "TXT_SimsObjects_07668",
+    "source_sha256": "2e77364360d2fcb0b79b149ecc93ef99c67aa3902084841874ef09f43e593c2a",
+    "ko": "<COLOR_FF0B0077>새_설계도: 울타리"
+  },
+  {
+    "id": "TXT_SimsObjects_07669",
+    "source_sha256": "4d106435de36ff2a2cbe316884ce0c94173400c69b6d97ca40ebf648613b8b80",
+    "ko": "<COLOR_FF0B0077>새_목표: 화산이 손짓하고 있습니다. 그곳에 도착하는 것이 심의 새로운 목표입니다. \r\n\r\n<COLOR_FF0B0077>새_설계도: 카누"
+  },
+  {
+    "id": "TXT_SimsObjects_07673",
+    "source_sha256": "1ed343db9f4cbe232ee6505d5bb393844b301962a73dcea22409cded837771ad",
+    "ko": "지금까지 중 가장 멋진 섬입니다.\r\n\r\n<COLOR_FF0B0077>새_설계도: 더 다양한 통나무집 거처"
+  },
+  {
+    "id": "TXT_SimsObjects_07674",
+    "source_sha256": "57d3ea5029abfb8381fe4064881363b5398d17933d682f1ab52faba212ce093d",
+    "ko": "새로운 책"
+  },
+  {
+    "id": "TXT_SimsObjects_07675",
+    "source_sha256": "3a40a8744ccc246a14111825db1548ffb7f36f391b4261d134fd6628dea2d0c8",
+    "ko": "심이 <COLOR_FF0B0077>R._스티키윅_경의\r\n<COLOR_FF0B0077>비스킷_제도를 발견했습니다. 심을 위한 새로운 <COLOR_FF0B0077>목표가 담겨 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07681",
+    "source_sha256": "ea3d47acea29d482f7c520687af5f1e29853d5a8724f2069e4e0764ca2cf92d8",
+    "ko": "심이 섬에서 볼 수 있는 모든 것을 둘러보았습니다.\r\n\r\n<COLOR_FF0B0077>새_설계도: 화려한 장신구"
+  },
+  {
+    "id": "TXT_SimsObjects_07682",
+    "source_sha256": "00da38138eb6fcd1bfcecfa15346ca58238588bbdb23d71e1dd74e801d4b94a7",
+    "ko": "<COLOR_FF0B0077>새_목표: 레지널드 경은 라마족이 중요하다고 생각했습니다. 심이 더 알아봐야겠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07685",
+    "source_sha256": "c6339a438b0215bdb076c0761e8c39716fd8cb2bfa8721f1e416fb26de55c2e8",
+    "ko": "<COLOR_FF0B0077>새_설계도: 금속 도구"
+  },
+  {
+    "id": "TXT_SimsObjects_07689",
+    "source_sha256": "1486810d8548e281c339ec16b8cbc860b680d81caf96070fd3c87df33717c1ba",
+    "ko": "<COLOR_FF0B0077>새_설계도: 의상 염료 "
+  },
+  {
+    "id": "TXT_SimsObjects_07690",
+    "source_sha256": "8202c1a46ed7c04c4e7c6984f9d9be94129b2b1841ff56b93ba065e433e228e5",
+    "ko": "<COLOR_FF0B0077>새_목표: 라마족은 이곳에서 즐겁게 지냈습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07692",
+    "source_sha256": "8cd4178320e1f84c60aed3c41409419e1efe8c72c7334bcc45a3670765d95142",
+    "ko": "<COLOR_FF0B0077>새_설계도: 부족 의상"
+  },
+  {
+    "id": "TXT_SimsObjects_07693",
+    "source_sha256": "57d3ea5029abfb8381fe4064881363b5398d17933d682f1ab52faba212ce093d",
+    "ko": "새로운 책"
+  },
+  {
+    "id": "TXT_SimsObjects_07694",
+    "source_sha256": "ae0b9d4e315f5cdfd2343d0d76f2189392245c1154268968c705db3f5e0b9c84",
+    "ko": "심이 <COLOR_FF0B0077>해적의_은퇴\r\n<COLOR_FF0B0077>안내서_원고를 발견했습니다. 심을 위한 새로운 <COLOR_FF0B0077>목표가 담겨 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07696",
+    "source_sha256": "73c1cda031bcff4e753b9a008a65948d26e893ebdae2c48f9b1211942a1954aa",
+    "ko": "<COLOR_FF0B0077>새_설계도: 더 튼튼한 가구"
+  },
+  {
+    "id": "TXT_SimsObjects_07699",
+    "source_sha256": "84bc3917980f4bd2543eb8cb1cf5490bb53b85b32c68e29cfc133de8fab0842d",
+    "ko": "<COLOR_FF0B0077>새_설계도: 야외 화장실과 샤워 시설"
+  },
+  {
+    "id": "TXT_SimsObjects_07700",
+    "source_sha256": "56c25169593135c0c2ab672f00be46ce040c9e4874c71ed7ae1e66b0fabccecc",
+    "ko": "<COLOR_FF0B0077>새_목표: 해적들은 멋지게 사는 법을 알았습니다. 이제 심의 차례입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07702",
+    "source_sha256": "9880c5e0d0f40ee19cb43cb8e1522926921249c5da8dafde85d0c2951951bbfa",
+    "ko": "<COLOR_FF0B0077>새_설계도: 편안한 가구"
+  },
+  {
+    "id": "TXT_SimsObjects_07707",
+    "source_sha256": "6a730e82a05d391d800fb7cd3b7501cc790488ae727118cfd0d887e91c8ec2b2",
+    "ko": "<COLOR_FF0B0077>새_설계도: 유리 제품 세트"
+  },
+  {
+    "id": "TXT_SimsObjects_07708",
+    "source_sha256": "ef637923abe1af8fd9508635c1590c1b8167975693fc6e33c1c0e20f294fcaa7",
+    "ko": "<COLOR_FF0B0077>새_목표: 이 지도는 종잇조각에 불과한 것이 아닙니다. 보물로 가는 길을 알려줍니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07710",
+    "source_sha256": "0e6d0befcc9060831e58001bf7ee2b4e7c6b0a92c70f77cf69f04b610408dd5e",
+    "ko": "만세! 다음 목적지는 집입니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07713",
+    "source_sha256": "419cc1b8e05718a5b5e33e9769625d30f91df67386003632557518f3b3058210",
+    "ko": "<COLOR_FF0B0077>새_설계도: 닭장"
+  },
+  {
+    "id": "TXT_SimsObjects_07715",
+    "source_sha256": "1945862d3da4b93f1ce661e050134d4342c36475ac07e112424ba2b1c10d95ff",
+    "ko": "<COLOR_FF0B0077>새_설계도: 멧돼지 가죽 의상과 허수아비"
+  },
+  {
+    "id": "TXT_SimsObjects_07718",
+    "source_sha256": "f449ec49be469d221d492e54c97e6d48b0e6790b2f98342ef8f7511201e6c04f",
+    "ko": "<COLOR_FF0B0077>새_설계도: 멧돼지 가죽과 상어 가죽 의상"
+  },
+  {
+    "id": "TXT_SimsObjects_07721",
+    "source_sha256": "7c85b266f2115b9f5a493321786d93ddf2a7002f7c218f292e8348abdc6d8b2d",
+    "ko": "<COLOR_FF0B0077>새_설계도: 티나무 잎 의상"
+  },
+  {
+    "id": "TXT_SimsObjects_07722",
+    "source_sha256": "3adb65da086c13a1fdfa6dae35662627d7aacc3e3bb01db6b314723320236f75",
+    "ko": "<COLOR_FF0B0077>새_설계도: 방갈로 건축 재료"
+  },
+  {
+    "id": "TXT_SimsObjects_07723",
+    "source_sha256": "bf3ae9319031b90d02355811c32f2539e59891ac7cffea901e45785b736d361d",
+    "ko": "<COLOR_FF0B0077>새_설계도: 라탄 의상"
+  },
+  {
+    "id": "TXT_SimsObjects_07724",
+    "source_sha256": "a839d8208f20ae586d6b473f815c07c324e7d76a471f49f24dd2a9b9701b73aa",
+    "ko": "<COLOR_FF0B0077>새_설계도: 깃털 의상"
+  },
+  {
+    "id": "TXT_SimsObjects_07725",
+    "source_sha256": "71fed8195fabe684b6f6807b7ca35010c4c0a553c88bc0d77c1f6433ea1ad659",
+    "ko": "맛있는 생선 요리가 먹고 싶나요? 창을 만들어 물고기가 뛰어오를 때 찌른 다음, 화덕이나 조리대에서 요리하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_07726",
+    "source_sha256": "fc74bb67a58bc01cfece3a1476c38978cf8cf409a5d6ccc132e27842df783870",
+    "ko": "이 길은 정글로 이어집니다. 아직 심은 섬을 탐험할 만큼 충분히 배우지 못했습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07728",
+    "source_sha256": "9d939f859a8be7900548c53a7207992c84785c6bd9ed1c7b352c10bfaf99979c",
+    "ko": "새 설계도: 단단한 목재 작업대"
+  },
+  {
+    "id": "TXT_SimsObjects_07729",
+    "source_sha256": "6183d04dbb57089ebee99e702dcd9cc914fad6d32d0f411f4288747a6609c2f8",
+    "ko": "새 설계도: 멋진 의상과 미술품"
+  },
+  {
+    "id": "TXT_SimsObjects_07730",
+    "source_sha256": "7f41a150ae7fd3c6cb33c200cfb49ab4996080eb75b28f20e4a205f2fdfbb4c9",
+    "ko": "새 설계도: 상형 문자 비석"
+  },
+  {
+    "id": "TXT_SimsObjects_07731",
+    "source_sha256": "f47d3b3be8415147c6934af867d12cfeb9daf744d6b6fd01618869817bbc6a9b",
+    "ko": "상형 문자 비석을 모두 찾았습니다! "
+  },
+  {
+    "id": "TXT_SimsObjects_07732",
+    "source_sha256": "07c68e1a6a7e77862b9fc1a2440d93e5b7c6309f4af0d8fb0bd143c00b6f7273",
+    "ko": "새 설계도: 보물 지도 벽 장식"
+  },
+  {
+    "id": "TXT_SimsObjects_07733",
+    "source_sha256": "3ff22fb81738e5c25bc45f1ec70aefca04faf8636ad1ba3dccee39325139fe7e",
+    "ko": "보물 지도의 모든 조각을 찾았습니다! "
+  },
+  {
+    "id": "TXT_SimsObjects_07734",
+    "source_sha256": "680012dd4e217adc7da980516c333a257f5a4149099644bc993438308a9fdc0f",
+    "ko": "이것은 <COLOR_FF0B0077>사교_욕구입니다. 친구들과 시간을 보내세요. 상상 속 친구나 영장류라도 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07735",
+    "source_sha256": "f107624d17fbc46d53953e953f4f477f356b2fe78b855c09f84816d4560b8f21",
+    "ko": "사교 욕구 활성화"
+  },
+  {
+    "id": "TXT_SimsObjects_07736",
+    "source_sha256": "bce42f58d88bd6d0160edc4340e6c53314ad235cd879d06f7d11c447117987d6",
+    "ko": "이것은 <COLOR_FF0B0077>편안함_욕구입니다. 침대와 의자로 채울 수 있습니다. \r\n\r\n <COLOR_FF0B0077>새_설계도: 급조한 간이침대"
+  },
+  {
+    "id": "TXT_SimsObjects_07737",
+    "source_sha256": "0dc012a2b605f298f3409ed4800cc7675128d1bbee7ee69c4eab55ae706b21b0",
+    "ko": "편안함 욕구 활성화"
+  },
+  {
+    "id": "TXT_SimsObjects_07738",
+    "source_sha256": "8b74682cb3cf948e56fa896f05d5f1fc2985bc62d2405dce2fb2210a5e383141",
+    "ko": "이것은 <COLOR_FF0B0077>위생_욕구입니다. 다른 이들과 지내게 되었으니 다시 청결에 신경 써야 합니다. 자주 씻으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_07739",
+    "source_sha256": "6870076ce1970c2b3c6fe38d12a74421512f326d3970dd4563c07fa00ba5791a",
+    "ko": "위생 욕구 활성화"
+  },
+  {
+    "id": "TXT_SimsObjects_07740",
+    "source_sha256": "59c74c6afc69b0151361000bc1f622c9af80ae9a0a53c23c2e72a7f43bca95a6",
+    "ko": "이것은 <COLOR_FF0B0077>재미_욕구입니다. 섬에 고립된 신세조차 웃어넘길 수 없다면 무엇을 보고 웃겠어요? 음악을 만들고 놀이를 즐기세요. \r\n\r\n<COLOR_FF0B0077>새_설계도: 셰이커 악기와 모래 친구"
+  },
+  {
+    "id": "TXT_SimsObjects_07741",
+    "source_sha256": "154e78c7b0ead0f6649fce366564e3060c844537dd4dfd09c8b535a7b1b62bf5",
+    "ko": "재미 욕구 활성화"
+  },
+  {
+    "id": "TXT_SimsObjects_07742",
+    "source_sha256": "98ec358285d12214eae5b3552607e1fb58f60abd412fe52f10f0d8cbc8762c26",
+    "ko": "이것은 <COLOR_FF0B0077>환경_욕구입니다. 심이 멋지게 꾸민 곳에서 지내면 높은 점수를 유지할 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07743",
+    "source_sha256": "1f4b283f65f47aa9aef929b8b3a6c6c74a99aab8ee67dbb768b0a049e9a7d9fe",
+    "ko": "환경 욕구 활성화"
+  },
+  {
+    "id": "TXT_SimsObjects_07744",
+    "source_sha256": "29ddd54859b673acf88b87105dcc40ea4665bc66054162fcbe6c63f37bcad1e5",
+    "ko": "이것은 <COLOR_FF0B0077>용변_욕구입니다. 음식을 먹으면 줄어들고, 화장지나 변기를 쓰면 채울 수 있습니다."
+  }
+]

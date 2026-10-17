@@ -1,0 +1,692 @@
+[
+  {
+    "id": "TXT_SimsObjects_10155",
+    "source_sha256": "c8a61760e3c342dab0de22bd1a57f0085304f6605b89dbefa54efd028611aa4a",
+    "ko": "조개 안에서 금을 찾았습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_10156",
+    "source_sha256": "14727756238ab4f80d9e72fa4552d1fd1d95bbbc663bb3a7c2f6f629db4580c1",
+    "ko": "조개 안에서 진주를 찾았습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_10157",
+    "source_sha256": "0c213eabddefee54daf96d55e72eff49b11fa3ded8643ac48a6d6daa0493cef2",
+    "ko": "조개 안에서 옥 조각을 찾았습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_10158",
+    "source_sha256": "131abf5041a4a5acbe716bbe0ab088c7bed512f432c7f3dd690067ac510cbf08",
+    "ko": "조개 안에서 월장석을 찾았습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_10159",
+    "source_sha256": "69fb9d56fc91f262eac94b487c6d2d593328c17ca5e3d5b3a6e6d7d5f64dd8f3",
+    "ko": "보물 지도 조각을 찾았습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_10191",
+    "source_sha256": "81b81b0d695f9f4ab134650315c247d1a8a91adfd33147afb01a31d5fccd390f",
+    "ko": "코코넛 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10192",
+    "source_sha256": "9f4eab4dd48a2ad6b3cef0d367f75d4970ecc19338954d6181e28f59be5daeb3",
+    "ko": "목재 채집하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10193",
+    "source_sha256": "eba272268317867a129c4b1c23ce2fe3b8850544fb729a94acd20f4489635b03",
+    "ko": "야자수 잎 채집하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10269",
+    "source_sha256": "b374a6f22cd072958f148f95e2bb885025c261976d9ddd8b0c245a3fc64a0ed7",
+    "ko": "재료 가져오기"
+  },
+  {
+    "id": "TXT_SimsObjects_10270",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10271",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10272",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10273",
+    "source_sha256": "28b08e27bbe2aa64a107ce2bbf5eea882c01697ac302231f0016ad8e9508fc22",
+    "ko": "일반 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10274",
+    "source_sha256": "b374a6f22cd072958f148f95e2bb885025c261976d9ddd8b0c245a3fc64a0ed7",
+    "ko": "재료 가져오기"
+  },
+  {
+    "id": "TXT_SimsObjects_10275",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10276",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10277",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10278",
+    "source_sha256": "28b08e27bbe2aa64a107ce2bbf5eea882c01697ac302231f0016ad8e9508fc22",
+    "ko": "일반 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10279",
+    "source_sha256": "b374a6f22cd072958f148f95e2bb885025c261976d9ddd8b0c245a3fc64a0ed7",
+    "ko": "재료 가져오기"
+  },
+  {
+    "id": "TXT_SimsObjects_10280",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10281",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10282",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10283",
+    "source_sha256": "28b08e27bbe2aa64a107ce2bbf5eea882c01697ac302231f0016ad8e9508fc22",
+    "ko": "일반 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10285",
+    "source_sha256": "c466bd0718854bc59b4dc19864b8b6564d023c5d21258c3c506e33ab55167549",
+    "ko": "가족이 이미 아주 많습니다. 반려동물을 더 들이면 이웃이 불평할지도 모릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10293",
+    "source_sha256": "f43a6d4b8c0373fff0d222c86eed5f33d0d5a2646ab273e06e7cb0dd84c9f430",
+    "ko": "반려동물에게 조용한 공간을 주지 않으면 새끼를 가질 수 없습니다! 반려동물 집을 구입하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10295",
+    "source_sha256": "94ba20f78cd74191bb2d73907738720a7016204bae19bdea885d0b34e9260590",
+    "ko": "대화하기.../의상 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10296",
+    "source_sha256": "5f1db76fce1a6261239833fb2980f8d6042a96ae37767c237d403d16f96ee000",
+    "ko": "대화하기.../스포츠 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10297",
+    "source_sha256": "bb5ae2d0671a7446590bd6b550d3fd63a5ca77e7d9b5f7f92a0ab5cc39f498fb",
+    "ko": "대화하기.../음식 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10298",
+    "source_sha256": "9266c6aabf5a9e407f44e57b3e4f9c029bc1ec649ea010222afc549f6491b451",
+    "ko": "대화하기.../범죄 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10299",
+    "source_sha256": "dcc023889e7e608353a0c1a2f1a2080ac90168ba5afde1fc60d052ce0dcd7e67",
+    "ko": "대화하기.../정치 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10300",
+    "source_sha256": "75123ed2981672970871f157a5dfbfd10521fc2569d7288607ee041066dab961",
+    "ko": "대화하기.../우주 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10301",
+    "source_sha256": "af547b7cb4543159cc6ff2397ed9591a8fba4925c1f6a0044d720319a3b32a25",
+    "ko": "대화하기.../건강 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10302",
+    "source_sha256": "fdb116dca056aa0f91f6aae75cbe126c65b37507e80cbd19dc45163016a70d16",
+    "ko": "대화하기.../여행 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10303",
+    "source_sha256": "aaebdc28e53819b4d49bc0267eaf3c648b6cdd5c29ea1912adca47b69f98cd39",
+    "ko": "대화하기.../시몰레온 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10304",
+    "source_sha256": "bb99c447743b4f0a4dbc42ec4a71f0d085978644c35ec52fff68b1b0b145e9a9",
+    "ko": "대화하기.../일 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10305",
+    "source_sha256": "19b13b8ffde60c7b3427ce44dc215a7a1407bf93688004e5a397bfe877193380",
+    "ko": "대화하기.../날씨 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10306",
+    "source_sha256": "3d5f9bcbe3a3a20eb846a9dee59321e9b61fb4f1167342b3554553fa882d1578",
+    "ko": "대화하기.../동물 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10307",
+    "source_sha256": "68d4c352db19500ff53d8dead6dc53f326e144d893e3494b5df34996f86dc86c",
+    "ko": "대화하기.../초자연 현상 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_10308",
+    "source_sha256": "2684e8fec9de9eae3d0a9079cc231d3e442da2ab95f745a7fb7d857f66d4d3c0",
+    "ko": "반려동물 간식 주기.../다람쥐"
+  },
+  {
+    "id": "TXT_SimsObjects_10309",
+    "source_sha256": "dbb36a41f8c4346729bc8aedcf90f63de6e3fd010a0c1d252123f504657f0535",
+    "ko": "반려동물 간식 주기.../베이글"
+  },
+  {
+    "id": "TXT_SimsObjects_10310",
+    "source_sha256": "0261bd445687960da3baa80c8ba27c0a2687ea79efb7761505e66b0cb4fd3286",
+    "ko": "반려동물 간식 주기.../비스코티"
+  },
+  {
+    "id": "TXT_SimsObjects_10311",
+    "source_sha256": "936d2c2419a7c11963a0156227c2687e24cad8c20d228cfff1a97f99b466ca94",
+    "ko": "반려동물 간식 주기.../생선"
+  },
+  {
+    "id": "TXT_SimsObjects_10312",
+    "source_sha256": "0a09c0bb75b87883e74d6414b1c2ef958d31abea3a783ca3d2074199b7d7b5cd",
+    "ko": "반려동물 간식 주기.../뼈다귀"
+  },
+  {
+    "id": "TXT_SimsObjects_10313",
+    "source_sha256": "d4228ace35f55438a7ece27c6c1aae1415de15923f889f9d2e7cfd09fc025c2a",
+    "ko": "반려동물 간식 주기.../우편배달부"
+  },
+  {
+    "id": "TXT_SimsObjects_10314",
+    "source_sha256": "5c66779a1604e2047ee3829cb7fb631464f625948da79c4ed88df421d31ba251",
+    "ko": "반려동물 간식 주기.../프레첼"
+  },
+  {
+    "id": "TXT_SimsObjects_10315",
+    "source_sha256": "6bed8b37e359d4d91323d50afe1c54a5f940ae7fb2c2d3a0378ce4ce80210286",
+    "ko": "반려동물 간식 주기.../외계인"
+  },
+  {
+    "id": "TXT_SimsObjects_10316",
+    "source_sha256": "a8f6e1c9122d5a47d8245c9b8e44f050062e4a9c3bb51facbede51f466e3ef50",
+    "ko": "가르치기.../엎드려"
+  },
+  {
+    "id": "TXT_SimsObjects_10317",
+    "source_sha256": "eb51de0ec27be79dc164a80b376a4bfb85f6320183754b1c4eeaa67a6c499fa5",
+    "ko": "가르치기.../춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_10318",
+    "source_sha256": "e754afc55f3521269152fca849bd013e59806e18d455133650a0a88310b84d9a",
+    "ko": "가르치기.../따라와"
+  },
+  {
+    "id": "TXT_SimsObjects_10319",
+    "source_sha256": "aea7e88383d031bcaef49e92d8c35861027508f9018efab0427c13e17b35ea54",
+    "ko": "가르치기.../지켜"
+  },
+  {
+    "id": "TXT_SimsObjects_10320",
+    "source_sha256": "555f9d4adb97bfaec163d908184210eecaff886349985fb5740a6889deba0355",
+    "ko": "가르치기.../굴러"
+  },
+  {
+    "id": "TXT_SimsObjects_10321",
+    "source_sha256": "59b3ed18434c9849706a073d85e1a52d7aecfda59d467ef4e88d4962adf78f54",
+    "ko": "가르치기.../노래하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10322",
+    "source_sha256": "294ede503e400a17e93366f220bbfff17de7914dbd4157fe6feda359e559cf7c",
+    "ko": "가르치기.../앉아"
+  },
+  {
+    "id": "TXT_SimsObjects_10323",
+    "source_sha256": "d7ba9f6de97aa21e95b25f26d6f44b0b2269a19a4097cf149575f6bd47657188",
+    "ko": "가르치기.../손"
+  },
+  {
+    "id": "TXT_SimsObjects_10324",
+    "source_sha256": "a00d4ff73e87df8da871c5e06cc64e4befa394f7f80c36de90d3dff2925b377f",
+    "ko": "가르치기.../새끼 갖기"
+  },
+  {
+    "id": "TXT_SimsObjects_10325",
+    "source_sha256": "a3970c5dd8a0ca866ce60e0f2fd62eedfd7ad423354fe364cd0b140383732bd2",
+    "ko": "가르치기.../죽은 척"
+  },
+  {
+    "id": "TXT_SimsObjects_10326",
+    "source_sha256": "d7ba9f6de97aa21e95b25f26d6f44b0b2269a19a4097cf149575f6bd47657188",
+    "ko": "가르치기.../손"
+  },
+  {
+    "id": "TXT_SimsObjects_10327",
+    "source_sha256": "e6fa529203dfb17cef76663a09562d373c7fa69921e767f2dde63cdd8136fe45",
+    "ko": "가르치기.../짖어"
+  },
+  {
+    "id": "TXT_SimsObjects_10328",
+    "source_sha256": "7c79c801edae5ade56fe93ec62bc4c11210258b922b17be5cf1e5e6f2c202b09",
+    "ko": "가르치기.../기다려"
+  },
+  {
+    "id": "TXT_SimsObjects_10329",
+    "source_sha256": "0996966292cdc5a01de5c3ecd1ff1acd245752776d9a46785d4e492cc95b1205",
+    "ko": "명령하기.../엎드려"
+  },
+  {
+    "id": "TXT_SimsObjects_10330",
+    "source_sha256": "7f4b1a0bad34942c5ef65120a03e4fba4484619583ddd24da2b031cf7023a3cc",
+    "ko": "명령하기.../춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_10331",
+    "source_sha256": "816987aa31856bf1fac31a17a82d430a76dc49d39958d241db16df5c3115ed84",
+    "ko": "명령하기.../따라와"
+  },
+  {
+    "id": "TXT_SimsObjects_10332",
+    "source_sha256": "aa7690990b018da76777dcb2fcd637a8412d34ddf1fcda36e7842145cad0eb33",
+    "ko": "명령하기.../지켜"
+  },
+  {
+    "id": "TXT_SimsObjects_10333",
+    "source_sha256": "82f435813c9cbe0b5a9289ffec872f986e5ca8668b835830e26f6d87f3623920",
+    "ko": "명령하기.../굴러"
+  },
+  {
+    "id": "TXT_SimsObjects_10334",
+    "source_sha256": "0c8d15e6b961222890411cbacddaf4cce9b790adb9f9b9defc584a6fcd313ef3",
+    "ko": "명령하기.../노래하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10335",
+    "source_sha256": "bcb137a40f90b098cfa8dfdf02979afc7b5377466740ca895e82a97a263a6b50",
+    "ko": "명령하기.../앉아"
+  },
+  {
+    "id": "TXT_SimsObjects_10336",
+    "source_sha256": "f1d2f8faf17f39a6a595f5eb2c5c99470d087e4841138eb927c74fcf2c6c276b",
+    "ko": "명령하기.../이리 와"
+  },
+  {
+    "id": "TXT_SimsObjects_10337",
+    "source_sha256": "06866c604a881f0c8f1ca702464a054ae932f54562c4c2062d1be8ed0cdd1e95",
+    "ko": "명령하기.../새끼 갖기"
+  },
+  {
+    "id": "TXT_SimsObjects_10338",
+    "source_sha256": "4b1622f1a08192de850cf7f2305f33da927773662f188eb472d5710955906ec5",
+    "ko": "명령하기.../죽은 척"
+  },
+  {
+    "id": "TXT_SimsObjects_10339",
+    "source_sha256": "6af654c24f00c8d76e550405f6c8258ee8f61ddddd6b5e2830ddb0d9def1b676",
+    "ko": "명령하기.../손"
+  },
+  {
+    "id": "TXT_SimsObjects_10340",
+    "source_sha256": "ca5e82f7ca7d0c0cdc4a6b3add9e52b99f8bd165d8cecba3243651d5d32b777d",
+    "ko": "명령하기.../짖어"
+  },
+  {
+    "id": "TXT_SimsObjects_10341",
+    "source_sha256": "887176da49d24c7afab3644f8e641db43d6d5aa50c7570f258804f8041fa1a85",
+    "ko": "명령하기.../기다려"
+  },
+  {
+    "id": "TXT_SimsObjects_10342",
+    "source_sha256": "9189268fa50796390037383f98c7e88d87bb068386d1aeee7ee54fd044a8a606",
+    "ko": "반려동물 간식 주기.../만두"
+  },
+  {
+    "id": "TXT_SimsObjects_10343",
+    "source_sha256": "a9f8665f1c530279fc1b5dadce6ab3f6c37f8e3c8574452dc3657138243813f7",
+    "ko": "반려동물 간식 주기.../컵케이크"
+  },
+  {
+    "id": "TXT_SimsObjects_10344",
+    "source_sha256": "f21ce396af94654bfa5f409837775409b4146de20f0d9b89267d7749b93b33fd",
+    "ko": "반려동물 간식 주기.../크루아상"
+  },
+  {
+    "id": "TXT_SimsObjects_10345",
+    "source_sha256": "f21ce396af94654bfa5f409837775409b4146de20f0d9b89267d7749b93b33fd",
+    "ko": "반려동물 간식 주기.../크루아상"
+  },
+  {
+    "id": "TXT_SimsObjects_10346",
+    "source_sha256": "c43a42879bd4b7cf2aa12e2004bfd9813bc4edef19040744df041ddc0cd811e0",
+    "ko": "소변 실수 꾸짖기"
+  },
+  {
+    "id": "TXT_SimsObjects_10347",
+    "source_sha256": "add398541992608cbb10a3a7dce916b6778dfc293e4f64b270035b49e2cbba4a",
+    "ko": "긁기 꾸짖기"
+  },
+  {
+    "id": "TXT_SimsObjects_10348",
+    "source_sha256": "ae273907cd531dd256a9aa35a98b678d09537fbe0548e1505a25b1d99f891307",
+    "ko": "물어뜯기 꾸짖기"
+  },
+  {
+    "id": "TXT_SimsObjects_10349",
+    "source_sha256": "0029e244608fc90a5a49450dc40487a7056af70a124099ab77c53bd4045a388e",
+    "ko": "땅 파기 꾸짖기"
+  },
+  {
+    "id": "TXT_SimsObjects_10350",
+    "source_sha256": "a903f49bb1bf19dfa2de1878a79ed071dab7f19df6aa06d02f83fafde86e7755",
+    "ko": "놀기.../깃털 흔들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10351",
+    "source_sha256": "5e490bbc601217846a47b5eccd5ada4aa7c947b43805a56874f80f6d67f8ff4b",
+    "ko": "놀기.../물고기 흔들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10352",
+    "source_sha256": "b3a7c7e39778dd28ce0ed863068d0c7d8656b036f5c62993a66a1bd0843c8aa7",
+    "ko": "물어오기 놀이.../원반"
+  },
+  {
+    "id": "TXT_SimsObjects_10353",
+    "source_sha256": "dd8df6ddbed3c605209200d91abb7f92410d8c8208e21b6e3fe6068e573c67c9",
+    "ko": "물어오기 놀이.../플라스틱 공"
+  },
+  {
+    "id": "TXT_SimsObjects_10354",
+    "source_sha256": "8a599540fc75d36a84f34231800bcde7a2e2812c18ae749c826596d59f64a338",
+    "ko": "물어오기 놀이.../고무공"
+  },
+  {
+    "id": "TXT_SimsObjects_10355",
+    "source_sha256": "5c9a32ef15aebae6d08a0dfce8079ed3d718a50dd720698bcf5f429cad23cd09",
+    "ko": "물어오기 놀이.../테니스공"
+  },
+  {
+    "id": "TXT_SimsObjects_10356",
+    "source_sha256": "8180d320a74cbf9b8287b5a289905ba256dc6c2ef21667b5cc06ba3c72fdc1cd",
+    "ko": "줄다리기 놀이.../밧줄"
+  },
+  {
+    "id": "TXT_SimsObjects_10357",
+    "source_sha256": "ff79c5500bd79f172794926738fae3f97fb4d0369fa51a2f7049c5afd8512851",
+    "ko": "줄다리기 놀이.../고무 당기기 장난감"
+  },
+  {
+    "id": "TXT_SimsObjects_10358",
+    "source_sha256": "265a205f876d515769b70947ae6a39438a96cc47c0fe2bf75c1e48ebe4702e9c",
+    "ko": "줄다리기 놀이.../우편배달부"
+  },
+  {
+    "id": "TXT_SimsObjects_10359",
+    "source_sha256": "a4119a15e25edc68523ecf49f2f5d24bbc0e0728aa1eaae18cb50a89891e1964",
+    "ko": "줄다리기 놀이.../동물 인형"
+  },
+  {
+    "id": "TXT_SimsObjects_10360",
+    "source_sha256": "9d5b71b495eedcf73df52a9140a6c26d5d59119ec4251cd622243ff09010fcd7",
+    "ko": "가르치기.../이리 와"
+  },
+  {
+    "id": "TXT_SimsObjects_10361",
+    "source_sha256": "c9ff625bcdbfd65698e09d76205653775a88bdccc4fdc440c1f6229e04b18036",
+    "ko": "새끼 갖기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_10362",
+    "source_sha256": "6d081be745240faa15a2ff68b46e240438269e805fead7998941b90bddc26704",
+    "ko": "가르치기.../변기 사용"
+  },
+  {
+    "id": "TXT_SimsObjects_10363",
+    "source_sha256": "bbcd50ba29342dfe07704326630391aabfbf4106e2268097a7cb9b6d07afbd9f",
+    "ko": "명령하기.../변기 사용"
+  },
+  {
+    "id": "TXT_SimsObjects_10364",
+    "source_sha256": "99ab9b1725431e9580b52fdda32f4c7753aaddfebe9c21940c481ab9c5aba87f",
+    "ko": "하악질하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10365",
+    "source_sha256": "fb6a8db52d79d4accd30b9b5aa5d65bc1101ab430428c725b852b8e3459b5dad",
+    "ko": "으르렁거리기"
+  },
+  {
+    "id": "TXT_SimsObjects_10366",
+    "source_sha256": "b9214661ec7f2e299a4e4ca9ddc79c0dab52d5e562ed9a6ef9eb80994cb91237",
+    "ko": "물어오기 놀이.../막대기"
+  },
+  {
+    "id": "TXT_SimsObjects_10367",
+    "source_sha256": "d95051f6a45cc878a60853ddf46d59f3216009194bba9268801a2fbf684c5bf4",
+    "ko": "물어오기 놀이.../고리 원반"
+  },
+  {
+    "id": "TXT_SimsObjects_10368",
+    "source_sha256": "82762c0085e13ba846e0510ffaf8ef271fdf71f8909ad6af29bc986d842c4f76",
+    "ko": "주기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_10369",
+    "source_sha256": "ef7ea74b435fbd003a00119c68a15d9cf8eb4279c9f95ffe46b93c2044e398a0",
+    "ko": "놀기.../쥐 흔들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10370",
+    "source_sha256": "5d77f6dee75a7c85f9343849cdde03a0bdfa03b364735df5e2e37a2abfcc3ae1",
+    "ko": "놀기.../거미 흔들기"
+  },
+  {
+    "id": "TXT_SimsObjects_10375",
+    "source_sha256": "35a12a186c1d76ffbf8c8d784e0490bd63ef49979c6551febc085e4c6f809f77",
+    "ko": "너무 마음이 아파서 말도 못 하겠어"
+  },
+  {
+    "id": "TXT_SimsObjects_10379",
+    "source_sha256": "35a12a186c1d76ffbf8c8d784e0490bd63ef49979c6551febc085e4c6f809f77",
+    "ko": "너무 마음이 아파서 말도 못 하겠어"
+  },
+  {
+    "id": "TXT_SimsObjects_10383",
+    "source_sha256": "4768043d386e2a5348af076d3832048fa80bdaeac913f3edd9754bc79f017b3e",
+    "ko": "$Neighbor 되살리기"
+  },
+  {
+    "id": "TXT_SimsObjects_10412",
+    "source_sha256": "37cfed5d6ce0214d2a50b88c3885dd5642406490f1b1c055a7ff17004b0de217",
+    "ko": "심 부르기.../$Neighbor"
+  },
+  {
+    "id": "TXT_SimsObjects_10413",
+    "source_sha256": "223a82b7a74296ebfdd9ed7ae6ef49a0a35ecfbd54ba32ce676df605de8030a8",
+    "ko": "불기"
+  },
+  {
+    "id": "TXT_SimsObjects_10415",
+    "source_sha256": "8ce62e68d44793c4d2c3cd6a11243a065a0246329878d128715af914ea3c8ba4",
+    "ko": "낚시하기 더 좋은 장소를 찾아야겠어."
+  },
+  {
+    "id": "TXT_SimsObjects_10419",
+    "source_sha256": "8ce62e68d44793c4d2c3cd6a11243a065a0246329878d128715af914ea3c8ba4",
+    "ko": "낚시하기 더 좋은 장소를 찾아야겠어."
+  },
+  {
+    "id": "TXT_SimsObjects_10459",
+    "source_sha256": "47486194d54e1674dcb69e8c21fbb7caf168f71d97b2ffdc88718b1346b562d5",
+    "ko": "옷 수선하기.../상의"
+  },
+  {
+    "id": "TXT_SimsObjects_10460",
+    "source_sha256": "39279b819bf62545b50b802d6aaef4893ceb1a42b483783f001d12b696525019",
+    "ko": "옷 수선하기.../하의"
+  },
+  {
+    "id": "TXT_SimsObjects_10461",
+    "source_sha256": "ee86371702edef579f419c2547f6790d73fe0009fb0b25e59707481de9c5ba84",
+    "ko": "옷 수선하기.../신발"
+  },
+  {
+    "id": "TXT_SimsObjects_10462",
+    "source_sha256": "fe822bf52411c24df9a23b7c5ee5ef4f9428bf742c8dee1d1187a7b1029c86e9",
+    "ko": "머리 자르기"
+  },
+  {
+    "id": "TXT_SimsObjects_10511",
+    "source_sha256": "38807a3ec2f449b5cf2a81c110dedfbfbb3b3a01d6b0b74fbdac2781cc720370",
+    "ko": "버디를 두고 갈 뻔했어요! 보도의 화살표를 다시 사용하고 갈 사람 선택 메뉴에서 버디의 이름을 체크하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10512",
+    "source_sha256": "6d7b17bc46b3a43a53f0309f08c1eb8cd4d18b5cc37080c7171b13bcc3ac0667",
+    "ko": "부지 $Local:0 입장 ($LocationName:0)"
+  },
+  {
+    "id": "TXT_SimsObjects_10513",
+    "source_sha256": "9eeb88316e53a503d188659bf571d8117afb1432dbc76d9c2b94fac4addded05",
+    "ko": "<COLOR_FFBF692A>반려동물이 가출했습니다! 집으로 돌아갔는지 <COLOR_FFBF692A>아파트를 확인하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10514",
+    "source_sha256": "48c3fe7ad03e1224855c5b10c51f1b21c1a8092da1828967d0822f781ee5b850",
+    "ko": "아직 새 옷을 사지 않았습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_10515",
+    "source_sha256": "04e193f2feb94b528f7c76ad2335cbff92f48dfb9e5a97941ceda1b00712ab97",
+    "ko": "<COLOR_FFBF692A>스타일에 맞춰 구입한 옷은 모두 여기에 보관됩니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_10516",
+    "source_sha256": "b10caa6ffee7767697797032559ea55ce3482591638987a807f174db969ea227",
+    "ko": "각 <COLOR_FFBF692A><PARTICLE_06>구역에는 고유한 <COLOR_FFBF692A>스타일이 있습니다. <COLOR_FFFFFF33>평판 <COLOR_FFFFFF33><FONT_96><ROCK_L_5C19>`을 높이려면 알맞은 <COLOR_FFBF692A>스타일로 입는 것이 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10517",
+    "source_sha256": "908c72df6b6fd7199f8a416f9d5cd93d0b226bb054f766377da79e9b6cb90565",
+    "ko": "잠깐! 이 구역을 떠나기 전에 일을 그만둬야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10518",
+    "source_sha256": "44a225459b1895b2abe9648ffcdbd604ede8ea918198d3fb45ab5d6aa9220df1",
+    "ko": "잠깐! 스타일을 바꾸기 전에 일을 그만둬야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10523",
+    "source_sha256": "38807a3ec2f449b5cf2a81c110dedfbfbb3b3a01d6b0b74fbdac2781cc720370",
+    "ko": "버디를 두고 갈 뻔했어요! 보도의 화살표를 다시 사용하고 갈 사람 선택 메뉴에서 버디의 이름을 체크하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10524",
+    "source_sha256": "501f51b26c80857658cdd9d94f480a7294c452ca6b0995f4d43885ebb0f001f1",
+    "ko": "$LocationNameLocal:0(으)로 여정 시작"
+  },
+  {
+    "id": "TXT_SimsObjects_10526",
+    "source_sha256": "17bc1edadb719af178f7b1c5a2c1f0710fae4f4c7100f3e2a6741e2561b44ca2",
+    "ko": "생존 요령 3: 먹기! \r\n\r\n이것은 허기 욕구입니다. 음식을 먹으면 채워집니다. 바닥나면 심이 굶어 죽습니다. Wii 리모컨을 화면으로 향해 허기를 확인하세요. 그런 다음 먹을 것을 찾으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10530",
+    "source_sha256": "2439d0b1ad51223a16aaa417e306a16ceb2e5715ea5c3f7e90f6a5bcf57776d4",
+    "ko": "심이 무엇을 모았는지 확인하세요. <BUTTON_1C>을 가리키고 <BUTTON_1B> 버튼을 누르세요. 그런 다음 <BUTTON_1E>을 선택하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10532",
+    "source_sha256": "9bbe8d508ed72e21cba523ca6ed04624eb7682580c038292352ddb3a83ae4625",
+    "ko": "생존 요령 3: 먹기! 이것은 허기 욕구입니다. 음식을 먹으면 채워집니다. 바닥나면 심이 굶어 죽습니다. Wii 리모컨을 화면으로 향해 허기를 확인하세요. 그런 다음 먹을 것을 찾으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10535",
+    "source_sha256": "d93dd95199a864a4c23a0bf3f984c7f2a1ad154f8134787ee9b3727fff173d7e",
+    "ko": "생존 요령 4: 자기! \r\n\r\n이것은 기력 욕구입니다. 잠을 자면 채워집니다. Wii 리모컨을 화면으로 향해 기력을 확인하세요. 그런 다음 잠자리 매트에서 휴식을 취하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10539",
+    "source_sha256": "6644b5919b284521fa7bd384d373e67d38f2d812317b3bb23761e9da6ac5d6c2",
+    "ko": "잠을 좀 자세요. <BUTTON_1D>을 가리키고 <BUTTON_1B> 버튼을 누르세요. 잠자리 매트를 선택해 손에 든 다음 자기 항목을 선택하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10541",
+    "source_sha256": "3b4af32e5a7f1eef0c43d9d55775e5f91c8fcab9fcbad1f16c4e0476e1234100",
+    "ko": "생존 요령 5: 불이 살린다. \r\n\r\n따뜻한 불은 요리를 돕고 보금자리 같은 기분을 줍니다. <BUTTON_1C>을 가리키고 <BUTTON_1B> 버튼을 누른 다음 설계도로 가서 비상화덕을 만드세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10551",
+    "source_sha256": "01c3020ad9848e35cde5881b7f7ed9e3bf4db0cb0a529689cf0279d3b5000672",
+    "ko": "불을 피우려면 <BUTTON_1C>을 가리키고 <BUTTON_1B> 버튼을 누른 다음 설계도에서 비상화덕을 선택하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10552",
+    "source_sha256": "5dceff4a25bfd2b9b299122e0cda67eec41696b97c7ff927e1c0c9a5d7321ff2",
+    "ko": "캐스트어웨이에서는 주로 눈차크로 심을 조작합니다. <BUTTON_11> 버튼으로 움직여 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10553",
+    "source_sha256": "cf1571e179e9775245c9d25fbf88686fbbdef90e692c0e70540a104551066186",
+    "ko": "<BUTTON_17> 및 <BUTTON_18> 버튼으로 좌우를 둘러보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10554",
+    "source_sha256": "95e2ee47d66b42b34c3d9d06c76c396d19bd3bbbd9d0f00592e824c8cb84edf4",
+    "ko": "Wii 리모컨을 화면 밖으로 향하면 인터페이스가 사라집니다. 이제 Wii 리모컨을 화면으로 향하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10555",
+    "source_sha256": "4bd4652e8a1bca6603467c613bba6f7f053899eb9dc3e831abc60bb5077536eb",
+    "ko": "일부 물건에는 여러 행동이 있습니다. 눈차크를 위아래로 기울여 선택하세요. 코코넛을 찾아 소지품에 넣기를 선택하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10556",
+    "source_sha256": "2a854ffd77d0d1da0ba102601f1d1985e78c1333c3e9afcc6b1901a54ed05f3a",
+    "ko": "생존 요령 2: 물자를 모으세요! 물건에 다가가 <BUTTON_00> 버튼을 누르세요. 행동이 여러 개라면 눈차크를 위아래로 기울여 선택하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10557",
+    "source_sha256": "5f3b31d6dab91c3bdaee0cef1b2708b5776b22278b381df71a47ab358366e35e",
+    "ko": "잠을 좀 자세요. <BUTTON_1D>을 가리키고 <BUTTON_1B> 버튼을 누르세요. 잠자리 매트를 선택해 손에 든 다음 자기 항목을 선택하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10558",
+    "source_sha256": "f224c277b4b2e08138503ab4f08c791dc4c60019289c0ac799ffdf69972094ef",
+    "ko": "Wii 리모컨을 화면으로 향하면 인터페이스가 다시 나타납니다. Wii 리모컨을 화면 밖으로 향하면 플레이하기 편합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10559",
+    "source_sha256": "49b7b31d3d7ba8981629cd9b5f6e0182cb2f3d5a080873acf0ccd388efb08c2d",
+    "ko": "생존 요령 1: 주변을 살펴보세요. <BUTTON_19> 및 <BUTTON_1A> 버튼으로 확대하거나 축소하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10560",
+    "source_sha256": "4081a2df5d56d4683ae4c11b9efd6ab050a46943f7707985b605c201cf079b02",
+    "ko": "Wii 리모컨은 인터페이스를 조작합니다. Wii 리모컨을 화면 밖으로 향하세요."
+  }
+]

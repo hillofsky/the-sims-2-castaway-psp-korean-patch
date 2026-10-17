@@ -1,0 +1,387 @@
+[
+  {
+    "id": "TXT_urbzui_01526",
+    "source_sha256": "07711517a010479c2d6d565df364eb590df634a9864800415cf30dc67c812741",
+    "ko": "에어데일 테리어"
+  },
+  {
+    "id": "TXT_urbzui_01527",
+    "source_sha256": "35056f9e89c3f225c8051ff656ca960ddaa4055759fb0712b56671d4e7e8d85f",
+    "ko": "아키타"
+  },
+  {
+    "id": "TXT_urbzui_01528",
+    "source_sha256": "c24a7aa9bfa9a294dd551961d684a01368cfcb17c0b35e7f0f50442760b8246b",
+    "ko": "저먼 쇼트헤어드 포인터"
+  },
+  {
+    "id": "TXT_urbzui_01529",
+    "source_sha256": "1e41d25e1761e6337ec1cbead48c0c01239f7f19194c93831b0e678806f20b22",
+    "ko": "저먼 와이어헤어드 포인터"
+  },
+  {
+    "id": "TXT_urbzui_01530",
+    "source_sha256": "054729fcaf78943e389a785c7230603cdef3d4b7de32c8bf208850d071de4c0e",
+    "ko": "자이언트 슈나우저"
+  },
+  {
+    "id": "TXT_urbzui_01531",
+    "source_sha256": "2eb35bd40e2217d8d1471717d5742af8bb3c241f487b42e86e9cc0f98e206679",
+    "ko": "골든 리트리버"
+  },
+  {
+    "id": "TXT_urbzui_01532",
+    "source_sha256": "19bec8cf04c5c49e4721fb2f86848a8b643f8c66e82c8bdb83c47bc47f56c6a5",
+    "ko": "그레이트데인"
+  },
+  {
+    "id": "TXT_urbzui_01533",
+    "source_sha256": "b730ea25dde3addfa6e3fadd29be8ec2ec78b4166ce298eb05683121ef50f091",
+    "ko": "그레이트 피레니즈"
+  },
+  {
+    "id": "TXT_urbzui_01534",
+    "source_sha256": "1969862d472cebfff30f4c8bcd949772c8330a2c7b68fed64b12c71b1e611af0",
+    "ko": "그레이터 스위스 마운틴 도그"
+  },
+  {
+    "id": "TXT_urbzui_01535",
+    "source_sha256": "55df212450afa8fede4fe4c4bee921df2de3405b17df6ca902797c02ce3675b2",
+    "ko": "그레이하운드"
+  },
+  {
+    "id": "TXT_urbzui_01536",
+    "source_sha256": "1ef7f8d6243cd2b8e1ff53a1b877fc1a831869fb377c5476ae0ef1491d9eee47",
+    "ko": "아이리시 세터"
+  },
+  {
+    "id": "TXT_urbzui_01537",
+    "source_sha256": "087a6fb3e18ad3b5c62153dfb345904161f1d6001e95039c1ac00179f226968f",
+    "ko": "아이리시 테리어"
+  },
+  {
+    "id": "TXT_urbzui_01538",
+    "source_sha256": "48e5905ab2242336969e99db409ab0beb764953e70a496a254f899d2300956eb",
+    "ko": "버니즈 마운틴 도그"
+  },
+  {
+    "id": "TXT_urbzui_01539",
+    "source_sha256": "64c54760e4bead1d0a9589e4cbb3c6f29038cd3aa7b75b29c7e8089aeac8939b",
+    "ko": "래브라두들"
+  },
+  {
+    "id": "TXT_urbzui_01540",
+    "source_sha256": "6e524bc44496cef69097230a598ade5c250e0121278650750fb5e9f00744f49c",
+    "ko": "래브라도 리트리버\r\n"
+  },
+  {
+    "id": "TXT_urbzui_01541",
+    "source_sha256": "71834a9937ecabef1a7db869e393977f4cfc03e4020502db7f5e63a9e6410c99",
+    "ko": "파라오 하운드"
+  },
+  {
+    "id": "TXT_urbzui_01542",
+    "source_sha256": "d00f1e4dc001635a70cbbd2667023bbc4fbdbbc0cecc54ee9f075d440f255982",
+    "ko": "포인터"
+  },
+  {
+    "id": "TXT_urbzui_01543",
+    "source_sha256": "0388b3e3748d36d961844e5737dc6b95639f41b506e2ecc5f7568e875402cf41",
+    "ko": "푸들"
+  },
+  {
+    "id": "TXT_urbzui_01544",
+    "source_sha256": "25508e7e8877c747a8382741be86d6359ad8313f1307e09091e0c1cee30f1fd1",
+    "ko": "로트와일러"
+  },
+  {
+    "id": "TXT_urbzui_01545",
+    "source_sha256": "9f63494838b59b0e1ddc4d9475c3dacae32353a4a39aae88b1d66fa74051ea95",
+    "ko": "사모예드"
+  },
+  {
+    "id": "TXT_urbzui_01546",
+    "source_sha256": "82b752d96bb81328922f737ddbf90c78b15dd57b614fb37263c0539b0cc88424",
+    "ko": "시베리안 허스키"
+  },
+  {
+    "id": "TXT_urbzui_01547",
+    "source_sha256": "13e01bf2fc6b92dcf453017b9cf18c3261504847604a095eb87685f7df2ca131",
+    "ko": "비즐라"
+  },
+  {
+    "id": "TXT_urbzui_01548",
+    "source_sha256": "9bc788cd7224674453b882566068d0a4efd019b3d1567e226c7302ea3d15ed16",
+    "ko": "바이마라너"
+  },
+  {
+    "id": "TXT_urbzui_01549",
+    "source_sha256": "8a7a261010662fb87ae97d6b6bc07e90d9e36e2a3f8966646a744b7b640b4bba",
+    "ko": "복서"
+  },
+  {
+    "id": "TXT_urbzui_01550",
+    "source_sha256": "62197845ea81e8840c1e1f99acfc3db207feab39ef2be18a1829fd71967e4c27",
+    "ko": "차우차우"
+  },
+  {
+    "id": "TXT_urbzui_01551",
+    "source_sha256": "8922cf05292c2d3518c4184304186192a3c69d7f146a500e97601ab3af97d831",
+    "ko": "콜리"
+  },
+  {
+    "id": "TXT_urbzui_01552",
+    "source_sha256": "4d14164e4bbdaad6114f1b2556489f5be3c4b86869ea038fca519f369cb96bb7",
+    "ko": "달마시안"
+  },
+  {
+    "id": "TXT_urbzui_01553",
+    "source_sha256": "6bb9ff8832bf6aaf2d7aefecb28306ea7fbc9724b4f6b32d986d8c5c8824074d",
+    "ko": "도베르만 핀셔"
+  },
+  {
+    "id": "TXT_urbzui_01554",
+    "source_sha256": "03325547b0477cf282687c2426cf8365f87b65310627d47326a87ebe8c85c510",
+    "ko": "잉글리시 폭스하운드"
+  },
+  {
+    "id": "TXT_urbzui_01555",
+    "source_sha256": "7467c95f340fe19bdc64bdcab09b41b1089842096c3ba863eec8ef015349120a",
+    "ko": "저먼 셰퍼드"
+  },
+  {
+    "id": "TXT_urbzui_01556",
+    "source_sha256": "0772339654fbf1a448dfa02a3ac5c6180b23279dc15cc9b7dae0d75a29057762",
+    "ko": "아비시니안"
+  },
+  {
+    "id": "TXT_urbzui_01557",
+    "source_sha256": "080063589a8cb510822dcb435459ea43f6bf72c4bfa67fb2aefa22a4710344ea",
+    "ko": "아메리칸 쇼트헤어 "
+  },
+  {
+    "id": "TXT_urbzui_01558",
+    "source_sha256": "54b0bff947fbfc16f8ee2eb7dad04748e8eedc8c525af4be6adadde32002b272",
+    "ko": "맹크스"
+  },
+  {
+    "id": "TXT_urbzui_01559",
+    "source_sha256": "fbcde87aa2b0629044daa7d6cbd51700080f6db8dff096f4ead6c96a9a3a3a06",
+    "ko": "노르웨이숲"
+  },
+  {
+    "id": "TXT_urbzui_01560",
+    "source_sha256": "59dced60e395d820f91c422255ec96c3396e5b433c354e7d227538a75a4f5250",
+    "ko": "오시캣"
+  },
+  {
+    "id": "TXT_urbzui_01561",
+    "source_sha256": "2ab1a5f57da2a0f3f013a0c4f0f29d8b198a956f0ab1a0317ca921764e7dc53b",
+    "ko": "주황색 태비"
+  },
+  {
+    "id": "TXT_urbzui_01562",
+    "source_sha256": "517a32b7a33e7a464c6e20e383e2a3ebbd2009de80ab2bf6548e021b457ea722",
+    "ko": "오리엔탈"
+  },
+  {
+    "id": "TXT_urbzui_01563",
+    "source_sha256": "7428909a1062757c7c7886759e31a39dc90a074ec63262814ef39e6bb56505d4",
+    "ko": "페르시안"
+  },
+  {
+    "id": "TXT_urbzui_01564",
+    "source_sha256": "0fb851b1d588b2c6ab8a97fac671bfb6c9e22f832b3d66738b6607d4c29fa749",
+    "ko": "래그돌"
+  },
+  {
+    "id": "TXT_urbzui_01565",
+    "source_sha256": "bb54a8d5190bc2d3912ceec2eafeedced079c72be1acaebefea73ca57b57b83c",
+    "ko": "러시안 블루"
+  },
+  {
+    "id": "TXT_urbzui_01566",
+    "source_sha256": "f47b05ba621a931d15b533136ae5f510f970fdfccbc05382b63f7313b8f820fc",
+    "ko": "스코티시 폴드"
+  },
+  {
+    "id": "TXT_urbzui_01567",
+    "source_sha256": "bac1b671bb1901ff9adf39904dd7e671bb96ea55d8b0e10db96c2cf65e7cae97",
+    "ko": "샴"
+  },
+  {
+    "id": "TXT_urbzui_01568",
+    "source_sha256": "e2694bb78cb4a685118e1066fae83d2c9e77f83c39cd8d5f91140d8f4b5028a8",
+    "ko": "버만 "
+  },
+  {
+    "id": "TXT_urbzui_01569",
+    "source_sha256": "6ac87d823fc826b44b2fa2ad44e564cac1dfa8f315dd110be30c5c3be6e747da",
+    "ko": "통키니즈"
+  },
+  {
+    "id": "TXT_urbzui_01570",
+    "source_sha256": "ab1f8de52e02c3a5a8e723117cc3d4b56f772c93e197785ed2274c119076631a",
+    "ko": "봄베이"
+  },
+  {
+    "id": "TXT_urbzui_01571",
+    "source_sha256": "4990ee2771865de5b2593cb61407a20ea49c09d0fac9480dc0f4abf37d09ddf8",
+    "ko": "브리티시 블루"
+  },
+  {
+    "id": "TXT_urbzui_01572",
+    "source_sha256": "9b19fc5d64d003c0a938518368fa0d49303b1e2c9a182abb0688536110c8040e",
+    "ko": "갈색 태비"
+  },
+  {
+    "id": "TXT_urbzui_01573",
+    "source_sha256": "0a38d2317807bf6f7236749827996ac31d70f4cc126ffbef867b0bb854da7b5e",
+    "ko": "샤르트뢰"
+  },
+  {
+    "id": "TXT_urbzui_01574",
+    "source_sha256": "540bcf747223adadfbb9c67ddeb3b61a8a3658ef74cd96ef0be84584642cfea7",
+    "ko": "이집션 마우"
+  },
+  {
+    "id": "TXT_urbzui_01575",
+    "source_sha256": "a280e8b75ea08ad71337cad9a1c906af0da0acea7970dce4aa127e08af6bed56",
+    "ko": "엑조틱"
+  },
+  {
+    "id": "TXT_urbzui_01576",
+    "source_sha256": "e62666f286f76d68f3747cc1d71a5d184d7f2b7fdbf93bc8d907672a4e742147",
+    "ko": "메인쿤"
+  },
+  {
+    "id": "TXT_urbzui_01577",
+    "source_sha256": "419bb9337269ca797889b3f084e0da911c5cf69aafd6ffe7c2f8c3dc1780176b",
+    "ko": "아메리칸 에스키모"
+  },
+  {
+    "id": "TXT_urbzui_01578",
+    "source_sha256": "8a352402a08d6b9c98b2f58525641bd1589175fd3d1d0ef40d44f8be6a176b9a",
+    "ko": "바센지"
+  },
+  {
+    "id": "TXT_urbzui_01579",
+    "source_sha256": "f1d290d340d3f487a65ed15f7032db49ca8b8fed86f311c458b3f8a440722054",
+    "ko": "프렌치 불도그"
+  },
+  {
+    "id": "TXT_urbzui_01580",
+    "source_sha256": "de2987b1e9b20ae3c7a08f05bc3d7d606fd6e4e1509a557565be603c8cadfdba",
+    "ko": "해리어"
+  },
+  {
+    "id": "TXT_urbzui_01581",
+    "source_sha256": "5427fdf6fd02d7e77e83ddcaa3fce9cf404af156095a61f209a2288499d5648c",
+    "ko": "이탈리안 그레이하운드"
+  },
+  {
+    "id": "TXT_urbzui_01582",
+    "source_sha256": "24668bcda4e1deaf7c27b63270a4662ddf8a478df6bc1b8e9d1218844c96e27a",
+    "ko": "잭 러셀 테리어"
+  },
+  {
+    "id": "TXT_urbzui_01583",
+    "source_sha256": "0e2096cdec02af210baa0be764c9a2c195d1cf3be0ca7a7da9b3fb7faa44d632",
+    "ko": "미니어처 핀셔"
+  },
+  {
+    "id": "TXT_urbzui_01584",
+    "source_sha256": "23e2e0475d57dd645feefea7afd57f5ef0560341bf9716af8d37e68b6dc7681a",
+    "ko": "미니어처 푸들"
+  },
+  {
+    "id": "TXT_urbzui_01585",
+    "source_sha256": "decd94f527b0a72df4c8af1a86de17a219b75b941ec4fc23a8d6f7610c8443e3",
+    "ko": "미니어처 슈나우저"
+  },
+  {
+    "id": "TXT_urbzui_01586",
+    "source_sha256": "3fde12bb480866e2745c7e014c145ecc7fd470a4cc9e35ed3f6e731bd2188e43",
+    "ko": "포메라니안"
+  },
+  {
+    "id": "TXT_urbzui_01587",
+    "source_sha256": "da95ccd92a874d2169839cd90d9045be61d17df779fb28fe520a7465c6063723",
+    "ko": "퍼그"
+  },
+  {
+    "id": "TXT_urbzui_01588",
+    "source_sha256": "752529f3ebea5dc27417aa8d859a950eebcbf9eb1334698e96ddfda2fbd525a7",
+    "ko": "퍼글"
+  },
+  {
+    "id": "TXT_urbzui_01589",
+    "source_sha256": "6502cf86318aa7e4aa29a3d91f935749788bc75395d97d2fbdc7b0e35a0114e0",
+    "ko": "비글"
+  },
+  {
+    "id": "TXT_urbzui_01590",
+    "source_sha256": "bad1748b8d28b477fb07aa414c736a5c284cb7e85b8e24c79e8ae6ba7193ec8a",
+    "ko": "스키퍼키"
+  },
+  {
+    "id": "TXT_urbzui_01591",
+    "source_sha256": "7d025987e34b34f3f2ce4a97df6fa0066d93c550a1023a4594cf70fb00aaff0d",
+    "ko": "시바견"
+  },
+  {
+    "id": "TXT_urbzui_01592",
+    "source_sha256": "9e09039a9779665b8e45ebbec16377361e663efab95d5b063502cf4cf44bb077",
+    "ko": "슈누들"
+  },
+  {
+    "id": "TXT_urbzui_01593",
+    "source_sha256": "a29d47794ca5846822af11d652fe9baffa7261f7896872f12c825193507fdb5f",
+    "ko": "스태퍼드셔 불 테리어"
+  },
+  {
+    "id": "TXT_urbzui_01594",
+    "source_sha256": "5e2eab20acd0c8325cf3e5cd706f6d5fe91d25e51b5af28d9f46097f5764601d",
+    "ko": "웰시 테리어"
+  },
+  {
+    "id": "TXT_urbzui_01595",
+    "source_sha256": "c8444a90cf49ed110d0a1c1aa26ab9ac3e0b35978a5f30c8c11eb9a698e70727",
+    "ko": "비숑 프리제"
+  },
+  {
+    "id": "TXT_urbzui_01596",
+    "source_sha256": "3d9388c485ec320b9d47ce973880403e498c8c3a7dfc3d86384394fd3b708408",
+    "ko": "보스턴 테리어"
+  },
+  {
+    "id": "TXT_urbzui_01597",
+    "source_sha256": "3d93e232010a53bbc18fad2f9bf209d79c52720759f3961ad88487d99942d4c1",
+    "ko": "브리타니"
+  },
+  {
+    "id": "TXT_urbzui_01598",
+    "source_sha256": "b7ea427460ed56e6c006f49176edbf34ff9308ec784ea70cde8fa9252a2c0720",
+    "ko": "불도그"
+  },
+  {
+    "id": "TXT_urbzui_01599",
+    "source_sha256": "2e47a75c773bcff1f51a9680ce550e8b6f4da6fa78399cba4ec20b2e0f59d96b",
+    "ko": "불 테리어"
+  },
+  {
+    "id": "TXT_urbzui_01600",
+    "source_sha256": "c4b84b916670f0ff5285afd585a35e2c193885f028ac802261506602d38018aa",
+    "ko": "치와와"
+  },
+  {
+    "id": "TXT_urbzui_01601",
+    "source_sha256": "9daef17551726fef2bf4800a1250f9c6d3e5a4cdb8590ebd9a90048c0c8a14e8",
+    "ko": "코커 스패니얼"
+  },
+  {
+    "id": "TXT_urbzui_01602",
+    "source_sha256": "c6a63d411d5348f7d9d7dbde61ddab2e0b74f8b122d7008519ee870b47279f3b",
+    "ko": "혼종"
+  }
+]

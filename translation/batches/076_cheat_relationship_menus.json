@@ -1,0 +1,832 @@
+[
+  {
+    "id": "TXT_SimsObjects_07411",
+    "source_sha256": "9696e58f9a40880fb97b4415021787c25b54e9c8eafccb9047a108a830bf48c1",
+    "ko": "지급.../모든 도구"
+  },
+  {
+    "id": "TXT_SimsObjects_07412",
+    "source_sha256": "d4c290b4b9064d443c024707e95bbffe6454fa809f25ca48464e1b0443c112ed",
+    "ko": "설계도.../모든 의상 잠금 해제"
+  },
+  {
+    "id": "TXT_SimsObjects_07413",
+    "source_sha256": "295ce8c1f82203c14e14442f9e8bbe7a5dfac4ef6f80cb59919e1196e899ecab",
+    "ko": "지급.../모든 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_07414",
+    "source_sha256": "4bd292a5ca73f8e248e9d37186ac074d0d36a74c7fe9fbad9158c9e4e34230a0",
+    "ko": "디버그 지급.../모든 책"
+  },
+  {
+    "id": "TXT_SimsObjects_07415",
+    "source_sha256": "c13732ffc991f05a08db63484677d2308dd14aac8077a6577066ac1173b8f2ff",
+    "ko": "최대화.../모든 욕구"
+  },
+  {
+    "id": "TXT_SimsObjects_07416",
+    "source_sha256": "47ccdf62474d570d5671516fad32817961cb74bf8faf66c68ff3d97f0cd5ffb3",
+    "ko": "기술 1 증가.../신체"
+  },
+  {
+    "id": "TXT_SimsObjects_07417",
+    "source_sha256": "4e3cbc1b8a99a4c292d73444d3ef7a663e7c4e306524ddd5a7a3097af0e0fc9e",
+    "ko": "기술 1 증가.../매력"
+  },
+  {
+    "id": "TXT_SimsObjects_07418",
+    "source_sha256": "3d02e5e88a5e2495e37dfacf60563ab298f36a8ec06b4773b8cf21e2615e9416",
+    "ko": "최대화.../현재 음식 및 자원"
+  },
+  {
+    "id": "TXT_SimsObjects_07419",
+    "source_sha256": "1ac4860a6cc97ed4a046467627eb0b28732005000ab0fd307c8d2a01637779ba",
+    "ko": "기술 1 증가.../요리"
+  },
+  {
+    "id": "TXT_SimsObjects_07420",
+    "source_sha256": "ba39cad72be21216f86532420a5fb6e987acd4c5b518dbeb7967df2e23a0dbbf",
+    "ko": "기술 1 증가.../창의력"
+  },
+  {
+    "id": "TXT_SimsObjects_07424",
+    "source_sha256": "583c4be892aa7280f5e0b5331c88f41370464683579f1c5accd66e1085b8261b",
+    "ko": "시간.../오전 6시로 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07425",
+    "source_sha256": "a1c3939cd4995cebbe78b5280658606b0ad77a7940e4f1f06b3028c28d40fd76",
+    "ko": "시간.../오후 12시로 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07426",
+    "source_sha256": "21df19c95d81f62c282513dd226e4fc730d410129e416e73c399e14fcf152562",
+    "ko": "시간.../오후 6시로 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07427",
+    "source_sha256": "ed721472923ac7f03eb6a36d5b75106671c7f222add99b28cb55b60509923b05",
+    "ko": "시간.../오전 12시로 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07428",
+    "source_sha256": "ffb2b79ba2b7e18553fffc8d22d5f056c2e174e2109088340078fe55be6ae611",
+    "ko": "최대화.../모든 관계"
+  },
+  {
+    "id": "TXT_SimsObjects_07429",
+    "source_sha256": "47ebe18a135bc4f6f086127b39f0ab03be8e48287b1aca78349b1f96a0aae629",
+    "ko": "관계.../모두 최저로"
+  },
+  {
+    "id": "TXT_SimsObjects_07430",
+    "source_sha256": "37c4351b30c33c03c61d18e9ba23ab5eb7a432ea02abc42db8ee90d9797752c5",
+    "ko": "관계.../모두 0으로 초기화"
+  },
+  {
+    "id": "TXT_SimsObjects_07431",
+    "source_sha256": "74edab0a152b90e2c0e6fbc5139a3cf8e8730d3cf86a1f344c3018446bfc04b2",
+    "ko": "디버그 - UI 시험.../비모달 대화창 시험"
+  },
+  {
+    "id": "TXT_SimsObjects_07432",
+    "source_sha256": "62ad10897d058fc8def2581eb3de75551432ca1d2d20970e283e5e84f913726f",
+    "ko": "디버그 - UI 시험.../모달 대화창 시험"
+  },
+  {
+    "id": "TXT_SimsObjects_07433",
+    "source_sha256": "201f27f0bc240c2daf750a5962918735c9e4057b872a26217597d20029ea049e",
+    "ko": "디버그.../심 죽이기"
+  },
+  {
+    "id": "TXT_SimsObjects_07434",
+    "source_sha256": "8f4cc3d39f60533ab6baa5439f3b979abb081a87fde048b6765e73b43e108099",
+    "ko": "디버그.../심을 방문자로 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_07435",
+    "source_sha256": "d712f793a80c9016d2883ac57fa9ffbda3fe7fb1433692e760e185c0922403ad",
+    "ko": "디버그 - UI 시험.../모든 대화창 표시"
+  },
+  {
+    "id": "TXT_SimsObjects_07436",
+    "source_sha256": "830ab11ab21f8fd9211b8d7a7c3315a5c137508f19a379eb9d221760d63fa665",
+    "ko": "디버그 - 사교.../선택 대화창 활성화"
+  },
+  {
+    "id": "TXT_SimsObjects_07437",
+    "source_sha256": "8188bde00355573b8ef3d02d1942b7d2255b294936f9328c328a3d97254512fd",
+    "ko": "디버그 - 사교.../선택 대화창 비활성화"
+  },
+  {
+    "id": "TXT_SimsObjects_07438",
+    "source_sha256": "7d8f567bafde32457e1a8aa93b93204ae6cabc0174f5e2835609b3804dc0c2c2",
+    "ko": "디버그 - 사교 결과.../활성화"
+  },
+  {
+    "id": "TXT_SimsObjects_07439",
+    "source_sha256": "5e7d3116b13771dae22c9be6406af2df9e2e384fc3e69657db87ee7fc406c727",
+    "ko": "디버그 - 사교 결과.../비활성화"
+  },
+  {
+    "id": "TXT_SimsObjects_07440",
+    "source_sha256": "cf59c24b33264ef6383ce83a3aa810ad17f7597014043708d22b3d6ce8a1f6b1",
+    "ko": "디버그.../모든 조명 켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_07441",
+    "source_sha256": "5ef14cd8a142941f70859a9ff1d4ba1cd5a4d90e8e61e321b98c9bcb5689430d",
+    "ko": "디버그.../심 만들기로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_07442",
+    "source_sha256": "889c3284bee4f5356c46f1ccd25dd642e3ab3d15f50702e9f05ed9e8968af5a2",
+    "ko": "디버그.../모든 사교 행동 잠금 해제"
+  },
+  {
+    "id": "TXT_SimsObjects_07443",
+    "source_sha256": "0157080b48018070ae24c14701ba323952a02b6b9c2f71775b25a136dbfa0480",
+    "ko": "디버그 - 수동적 영향.../춤 PI 시작"
+  },
+  {
+    "id": "TXT_SimsObjects_07444",
+    "source_sha256": "c03ac9c9a427a8ee78eca92eefa8b08fc3a3f466d5e4ff8997b0e891bcd582f1",
+    "ko": "디버그 - 수동적 영향.../허기 PI 시작"
+  },
+  {
+    "id": "TXT_SimsObjects_07445",
+    "source_sha256": "c0e7561553d7f257c63335a6dd4815a1d3f6b02b33ff64f1751d8158f1e3f64e",
+    "ko": "디버그 - 수동적 영향.../쓰레기 PI 시작"
+  },
+  {
+    "id": "TXT_SimsObjects_07446",
+    "source_sha256": "18584a6697fcc6b9dcda7e66e3b9fe18ae8b89bcf94646f62876bb47091f4362",
+    "ko": "디버그 - 수동적 영향.../PI 중지"
+  },
+  {
+    "id": "TXT_SimsObjects_07447",
+    "source_sha256": "a0645fc26ed2bfd7778c680f16d5f23219caac1877c7410dcdbafc8834487a35",
+    "ko": "디버그.../NPC 생성"
+  },
+  {
+    "id": "TXT_SimsObjects_07448",
+    "source_sha256": "73a60890b250f06e5af8fae9e3659b4c193e6e34942af4ad731c2479b3e4fa03",
+    "ko": "지급.../모든 제작 자원"
+  },
+  {
+    "id": "TXT_SimsObjects_07449",
+    "source_sha256": "d78b066a1104c464d1d184093111696cbb493078099a93c886470a4bdf7b6bf2",
+    "ko": "디버그 지급.../모든 욕구 잠금 해제"
+  },
+  {
+    "id": "TXT_SimsObjects_07450",
+    "source_sha256": "4c1cf9949b9e65474487d9c87994685a89f856897993024c398421d5258a8ed9",
+    "ko": "디버그.../모든 오두막 건축"
+  },
+  {
+    "id": "TXT_SimsObjects_07451",
+    "source_sha256": "300ce445aec939214df416da70ac392ad897dc056c00d13aa8c297a01b1b6775",
+    "ko": "지급.../지도의 모든 장소"
+  },
+  {
+    "id": "TXT_SimsObjects_07452",
+    "source_sha256": "1a9bbf7a26fef11461479a87063aaba5ebc3fedf007a214e68d155c9c679b8b0",
+    "ko": "디버그.../튜토리얼 비활성화"
+  },
+  {
+    "id": "TXT_SimsObjects_07453",
+    "source_sha256": "90a5748b4dd51c0429c7d3ad3f6a0e0515f360bad0d23e3799eb6efa083658ff",
+    "ko": "수리.../현재 장소의 모든 물건"
+  },
+  {
+    "id": "TXT_SimsObjects_07454",
+    "source_sha256": "f89833fba5b813a147a00915ee50c885236ac85e435ebefd8fd77ed5c199e05a",
+    "ko": "디버그.../이벤트 잠금 해제"
+  },
+  {
+    "id": "TXT_SimsObjects_07455",
+    "source_sha256": "6c6190b03499705de4c1b552075e67adfe1dea6141bc2212c13d90a4a7835a3b",
+    "ko": "디버그.../통근 차량 부르기"
+  },
+  {
+    "id": "TXT_SimsObjects_07456",
+    "source_sha256": "18dd6696daf25187279010697c61ebc9499dfb0e1ba3b1dd49381e5402002872",
+    "ko": "디버그.../부지 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_07457",
+    "source_sha256": "7077101b8bed4569a7b22817338f61cfb3b3f68b71940e75c3f1d41081c03c77",
+    "ko": "수리.../모든 의상"
+  },
+  {
+    "id": "TXT_SimsObjects_07458",
+    "source_sha256": "3de5306ab2eb514508e26f1375c307282ec5c2d57cad550f730d8597883656ab",
+    "ko": "디버그.../엔딩 영상"
+  },
+  {
+    "id": "TXT_SimsObjects_07459",
+    "source_sha256": "b281c4df20ea31d61043013384ad090ef72804ee3be0bfabef24553714b8427d",
+    "ko": "특별 행동.../6시간 진행"
+  },
+  {
+    "id": "TXT_SimsObjects_07460",
+    "source_sha256": "ca7a70a07340a0bdf04ac0313aade4b213f0b75cb6488ba61a39f74c6c4ca620",
+    "ko": "성능 시험.../시험 전환"
+  },
+  {
+    "id": "TXT_SimsObjects_07461",
+    "source_sha256": "16856b70978653f38dd9a3fde5b2d68477edba542400e13397b331664f9f350e",
+    "ko": "성능 시험.../이웃 심 추가"
+  },
+  {
+    "id": "TXT_SimsObjects_07462",
+    "source_sha256": "e194a4b546fd7fd93f46a8e3973c709221d70410032b8c0a8c58f8f2f345bc32",
+    "ko": "성능 시험.../서비스 NPC 추가"
+  },
+  {
+    "id": "TXT_SimsObjects_07463",
+    "source_sha256": "b4384bd93cb21712c83557e2e2755caf72a5530ca3849015ac6c894aa1a5d091",
+    "ko": "디버그.../음향 동기화 시험"
+  },
+  {
+    "id": "TXT_SimsObjects_07464",
+    "source_sha256": "e49bca738fa2ef1b9792e284c453a571a49d13602150265406185b4cc211aa60",
+    "ko": "수리.../현재 장소의 식물 다시 자라게 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07465",
+    "source_sha256": "3423afc9462530f9d2ccc2236de1ad84c7ee97046b1878e3996a8eaf27bd1246",
+    "ko": "디버그.../PIP 시험"
+  },
+  {
+    "id": "TXT_SimsObjects_07466",
+    "source_sha256": "c7b16541d37799d92882e5d3272f5f1f68cbfeb831536af02ec1997fd6906155",
+    "ko": "특별 행동.../모든 보물 지도 조각 찾기"
+  },
+  {
+    "id": "TXT_SimsObjects_07467",
+    "source_sha256": "3fb0055f34c3be30d462aaf186b8a15e158c53921e22ec2862c7a52393792c44",
+    "ko": "특별 행동.../모든 상형문자 찾기"
+  },
+  {
+    "id": "TXT_SimsObjects_07468",
+    "source_sha256": "6622c85a22e0d97df74c29da7162aeccbb79ea3d9009d71a39253e5f7a247f91",
+    "ko": "특별 행동.../대지진 발생"
+  },
+  {
+    "id": "TXT_SimsObjects_07469",
+    "source_sha256": "713c86c21a475d361d385c161434c8d4deb7f5c1f36b1e009b588d3efbde8b6c",
+    "ko": "디버그 지급.../특수 물품"
+  },
+  {
+    "id": "TXT_SimsObjects_07471",
+    "source_sha256": "0161033713d589f5fba4c0189d76eb5d14c5c213f5de42bccb0837739ca93cb2",
+    "ko": "디버그.../모든 사교 행동 다시 잠그기"
+  },
+  {
+    "id": "TXT_SimsObjects_07472",
+    "source_sha256": "456519363880319507c62af49b039ae90c75c7597bdf6696010b92619d047b68",
+    "ko": "모든 욕구 낮추기"
+  },
+  {
+    "id": "TXT_SimsObjects_07473",
+    "source_sha256": "6ba0a473c20fba54376cd95f69c98ef260a5c58c3bc6c8853f1bfb9ea026dc5d",
+    "ko": "디버그 관계.../관계 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07474",
+    "source_sha256": "6ba0a473c20fba54376cd95f69c98ef260a5c58c3bc6c8853f1bfb9ea026dc5d",
+    "ko": "디버그 관계.../관계 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07475",
+    "source_sha256": "6ba0a473c20fba54376cd95f69c98ef260a5c58c3bc6c8853f1bfb9ea026dc5d",
+    "ko": "디버그 관계.../관계 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07476",
+    "source_sha256": "6ba0a473c20fba54376cd95f69c98ef260a5c58c3bc6c8853f1bfb9ea026dc5d",
+    "ko": "디버그 관계.../관계 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07477",
+    "source_sha256": "6ba0a473c20fba54376cd95f69c98ef260a5c58c3bc6c8853f1bfb9ea026dc5d",
+    "ko": "디버그 관계.../관계 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07478",
+    "source_sha256": "6ba0a473c20fba54376cd95f69c98ef260a5c58c3bc6c8853f1bfb9ea026dc5d",
+    "ko": "디버그 관계.../관계 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07479",
+    "source_sha256": "6ba0a473c20fba54376cd95f69c98ef260a5c58c3bc6c8853f1bfb9ea026dc5d",
+    "ko": "디버그 관계.../관계 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07480",
+    "source_sha256": "85345d3b52a240064125ab81da269451c2d6f8e61aab5e7567ff61451500fb61",
+    "ko": "디버그 관계.../내 친구 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_07481",
+    "source_sha256": "a7c79784717433418d8b5520f0fbbf1530506c238a1afabdc8e0a2fca7e8cd58",
+    "ko": "디버그.../heathertest 생성"
+  },
+  {
+    "id": "TXT_SimsObjects_07482",
+    "source_sha256": "e3305e194c38ecbb5ee627a32004140e5953596459ad4a8ef6bc121841790294",
+    "ko": "설계도.../모든 설계도 표시 전환"
+  },
+  {
+    "id": "TXT_SimsObjects_07483",
+    "source_sha256": "dcf973ec3377d216a6fef6ea1dfd1a48742988425705f4e7967377d534dce03a",
+    "ko": "설계도.../설계도 요구 조건 검사 전환"
+  },
+  {
+    "id": "TXT_SimsObjects_07484",
+    "source_sha256": "2ae9269f0ebd762a2afda8ff4e598da50c27f387716c65023bb5fe825cbd89a0",
+    "ko": "지급.../모든 설계도"
+  },
+  {
+    "id": "TXT_SimsObjects_07515",
+    "source_sha256": "0a36799cd5efeff367f4ab7a1ae175156117ba29a92834eeb13f49f3221f880f",
+    "ko": "플레이어가 조종하지 않음"
+  },
+  {
+    "id": "TXT_SimsObjects_07516",
+    "source_sha256": "c6f2b91389a244441068bdcf9e254344d88ad8e8911722319c19e4d141ea91c5",
+    "ko": "플레이어가 조종함"
+  },
+  {
+    "id": "TXT_SimsObjects_07517",
+    "source_sha256": "0c4fb546bd3d27a69e3e0c87bb62cb207c9881a1050c1bd8995585cba9eeb249",
+    "ko": "심이 서 있음"
+  },
+  {
+    "id": "TXT_SimsObjects_07518",
+    "source_sha256": "a8e831a9ce058f49013f18be2a5f0d6a0888a6f3e0e0a47242bbc51df0ac4aec",
+    "ko": "심이 서 있지 않음"
+  },
+  {
+    "id": "TXT_SimsObjects_07519",
+    "source_sha256": "e101f37f87f57b88e7c601335b166f682827688549cd2d429a370404cf518308",
+    "ko": "춤 호출 실패"
+  },
+  {
+    "id": "TXT_SimsObjects_07520",
+    "source_sha256": "38c5d429f1d9cbfcedf13489d5ec4f9a8092d0ff79d8b266e9392d03dd3673db",
+    "ko": "춤 호출 성공"
+  },
+  {
+    "id": "TXT_SimsObjects_07880",
+    "source_sha256": "6fd642d6143d94bcd69a51a3cc8945cc81a922f7ff6c76af53f971b67ca9ce20",
+    "ko": "이동.../$LocationName:$Local:0"
+  },
+  {
+    "id": "TXT_SimsObjects_07881",
+    "source_sha256": "d0f8a7c73b3765a4bb50ad85edbd2e9a0a636a104b3c65b33c106fa12de172e4",
+    "ko": "평판.../평판 $Local:0 추가"
+  },
+  {
+    "id": "TXT_SimsObjects_07882",
+    "source_sha256": "76edc377f43d8ddecebbf959468adbf97438860640dd34ed97c087bb460cf429",
+    "ko": "기술 변경 - 예술.../$Local:0으로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_07883",
+    "source_sha256": "a429bd1a8726d92a3e6d2be4fd6c00f5d5733c617a634152c7a5da07aec310d6",
+    "ko": "기술 변경 - 정신.../$Local:0으로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_07884",
+    "source_sha256": "fa6be7d2fe9f6231a8d94ca0b0d0f826db90f9e7e09fbf2cef01b66e266f78f3",
+    "ko": "기술 변경 - 신체.../$Local:0으로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_07885",
+    "source_sha256": "1490762d42d97f897a37a7a4f15e85ebb1aabac646f2dfe18a20799979aa2731",
+    "ko": "성능 시험.../대형견 추가"
+  },
+  {
+    "id": "TXT_SimsObjects_07886",
+    "source_sha256": "710afe7fd29208b1f5312ccf22676c5c9e1c76c5fdb03b80405e598a84d12bcf",
+    "ko": "성능 시험.../소형견 추가"
+  },
+  {
+    "id": "TXT_SimsObjects_07887",
+    "source_sha256": "2dd7547b9b583ff6dcf76f3a5b1d732a1705d64bee7e9e54523476ab3364efdd",
+    "ko": "성능 시험.../고양이 추가"
+  },
+  {
+    "id": "TXT_SimsObjects_07888",
+    "source_sha256": "e1313899e1ef45eace9f31acbbf92c2df1f36081d1b992f0d72b32effb9d54da",
+    "ko": "관계.../친구 설정.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07889",
+    "source_sha256": "ba41bfdf034b83c88eda9a7a13388c596fcc1acb8dbe26557e30f58070c0fb55",
+    "ko": "관계.../중립 설정.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07890",
+    "source_sha256": "c0f975316da7a6c1a29aa378bf1459d5f6dd0a7ebde7219875a4ed32f390fe0a",
+    "ko": "관계.../내 주인 설정.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07891",
+    "source_sha256": "83bb4dd91248e5dfd870c5095b186ede2e62fc85689e898775520b6bb6126790",
+    "ko": "관계.../사랑 설정.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07892",
+    "source_sha256": "e5d28660997d0365a45f515a693ae6c118758975dd4f0ead513b300d5ffbf720",
+    "ko": "관계.../적 설정.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07893",
+    "source_sha256": "8d3a436dbb0c13fcbda0a75934f9bba7186988255b3e2c4b05222cdc6652956e",
+    "ko": "관계.../싫어함 설정.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07894",
+    "source_sha256": "ffc7b2b6929601b80aeafcfa68464056f325bf45b7df244083167919822ce91a",
+    "ko": "관계.../짝사랑 설정.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07895",
+    "source_sha256": "de85f9846ea4d0c49c78d1df38b5db00cac7ad56da8fed3436c903a17d7d41e9",
+    "ko": "기술 물체.../정신 기술 물체 및 업그레이드 지급"
+  },
+  {
+    "id": "TXT_SimsObjects_07896",
+    "source_sha256": "39cfda44ad4dd3706f976f640fb837c674afd8b84b1415c39bbcf4632fcb3035",
+    "ko": "기술 물체.../창의력 기술 물체 및 업그레이드 지급"
+  },
+  {
+    "id": "TXT_SimsObjects_07897",
+    "source_sha256": "86b1b7c62f8a9a94f16a2cf3b7bc2c7f4c82b9bae540e6f4289d82456ed2e040",
+    "ko": "기술 물체.../신체 기술 물체 및 업그레이드 지급"
+  },
+  {
+    "id": "TXT_SimsObjects_07898",
+    "source_sha256": "6c6b25bd1bf169c6bf20e86f634c5cfb23f14c6beb2171175f3a761f1f14d2bc",
+    "ko": "NPC 생성.../$Neighbor"
+  },
+  {
+    "id": "TXT_SimsObjects_07899",
+    "source_sha256": "342e53e3c5c8bb3b0ce57c472c34be44b7730072ad86cc1711402e79ec322eeb",
+    "ko": "모든 욕구 설정.../$Local:0으로 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07900",
+    "source_sha256": "342e53e3c5c8bb3b0ce57c472c34be44b7730072ad86cc1711402e79ec322eeb",
+    "ko": "모든 욕구 설정.../$Local:0으로 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_07901",
+    "source_sha256": "f9eed31840a6e30829f4e0a1e7248576c4cbf08dd0c7ef98f4a4ef364b697c86",
+    "ko": "기술 변경 - 매력.../$Local:0으로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_07902",
+    "source_sha256": "a72bc24c46cedae6d6b5b52fadafa869c908fae72137b26ff3c2b146da89d6d8",
+    "ko": "기술 변경 - 청소.../$Local:0으로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_07903",
+    "source_sha256": "0047daeac5ba3e74a4d8c84740c32b78df0df74066f854e314d025805d4ef9df",
+    "ko": "기술 변경 - 창의력.../$Local:0으로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_07904",
+    "source_sha256": "a50be0de9165b71ce168dd9f6494af71c2c2b9c3a371f224c56ae7e1b24baeb3",
+    "ko": "기술 변경 - 요리.../$Local:0으로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_07905",
+    "source_sha256": "46def579a0d528a7be53ccef6f2cc1c422134d5dc319efe0e37e2746985b70ea",
+    "ko": "기술 변경 - 논리.../$Local:0으로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_07906",
+    "source_sha256": "ebdcfa7c6e197ef6c7f44258a1b11abcbb9e64055edacb0666e190dfd4d40364",
+    "ko": "기술 변경 - 기계.../$Local:0으로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_07907",
+    "source_sha256": "edce0145e02019ddb58eba69aa204782585cd8ab532733c204c65a0b881d257e",
+    "ko": "야망 추가.../50"
+  },
+  {
+    "id": "TXT_SimsObjects_07908",
+    "source_sha256": "588559c85d97603d714ab86da83df5bd3d30607a62295a90d472bed2a07f11b1",
+    "ko": "야망 추가.../100"
+  },
+  {
+    "id": "TXT_SimsObjects_07909",
+    "source_sha256": "1c0b743ce0f34fc263c972dcfeb0d21e1bae773820454aa44139c57eaebe5a1f",
+    "ko": "야망 추가.../500"
+  },
+  {
+    "id": "TXT_SimsObjects_07910",
+    "source_sha256": "6d6309f1eaea417e4ab6dd364f199e9307227151feba3b9306755dfc57fd02c3",
+    "ko": "취직.../$JobTrackName:0"
+  },
+  {
+    "id": "TXT_SimsObjects_07911",
+    "source_sha256": "64e9f654db63873640a118a12d951c32b72c94b9a51cebe1e751207f14ee7230",
+    "ko": "직업 레벨 설정.../$Local:0"
+  },
+  {
+    "id": "TXT_SimsObjects_07912",
+    "source_sha256": "74dad3d317b9704965fce7baa82a1724939a576c19342a8f83a054a79740ce71",
+    "ko": "디버그 - 장소 이동.../$LocationName:$Local:0"
+  },
+  {
+    "id": "TXT_SimsObjects_07913",
+    "source_sha256": "9e7aba58d2b9a042664ac4016f84cd18bd52611f63302bb4d383451e72af7261",
+    "ko": "성능 시험.../시험 시작"
+  },
+  {
+    "id": "TXT_SimsObjects_07914",
+    "source_sha256": "e93a34b32db52c6bae5bebb1b6202286a8654f5d468e04b04b31bafbc20d9fc2",
+    "ko": "성능 시험.../시험 중지"
+  },
+  {
+    "id": "TXT_SimsObjects_07915",
+    "source_sha256": "265e3b32088871abd817b588a439beb7efc606a610d6b79965ea5c488b6803d7",
+    "ko": "마을 성장 조정.../상태 1"
+  },
+  {
+    "id": "TXT_SimsObjects_07916",
+    "source_sha256": "9847e70a219537ab1c6b4c5a857738dfa892d1c44e2b700bf2dd9c337efd454d",
+    "ko": "마을 성장 조정.../상태 2"
+  },
+  {
+    "id": "TXT_SimsObjects_07917",
+    "source_sha256": "71cb4897854e0b63850a812868aef0fe12c2e45feb753dacbaf5658168c493cb",
+    "ko": "마을 성장 조정.../상태 3"
+  },
+  {
+    "id": "TXT_SimsObjects_07918",
+    "source_sha256": "a531a6cbc7c1c050c37b5670baf6d74cafd74530aa9edbdfc69ee236d5a4e949",
+    "ko": "마을 성장 조정.../상태 4"
+  },
+  {
+    "id": "TXT_SimsObjects_07919",
+    "source_sha256": "0a7f960a94de8a5d7dd294cea521557f25798fcd3651089ab9b8e0cf2697a92d",
+    "ko": "마을 성장 조정.../상태 5"
+  },
+  {
+    "id": "TXT_SimsObjects_07920",
+    "source_sha256": "d0b796ea520da7440c0f6d14678006bb5b6c61abb28e4bd49db8a6bbb08d483d",
+    "ko": "마을 성장 조정.../상태 6"
+  },
+  {
+    "id": "TXT_SimsObjects_07921",
+    "source_sha256": "245cfda6c5dc3b43828dcb72ec4507b7c3500a87d37227a072663b0482020a35",
+    "ko": "성능 시험.../성인 추가"
+  },
+  {
+    "id": "TXT_SimsObjects_07922",
+    "source_sha256": "26cd94e1879291ce661ccd978ce9d972c8cc84c74bed31aa894bc2b304f5d269",
+    "ko": "반려동물 성격 설정.../어리숙함"
+  },
+  {
+    "id": "TXT_SimsObjects_07923",
+    "source_sha256": "18f23d69fb5f5053a75164ccedddbc98e2490ef83c7cb88a265cb37bede620ab",
+    "ko": "반려동물 성격 설정.../영리함"
+  },
+  {
+    "id": "TXT_SimsObjects_07924",
+    "source_sha256": "88587f5d36cec05bbfe0011ca895a698673edcb3fcdce5deca5b87a6418ff30d",
+    "ko": "반려동물 성격 설정.../게으름"
+  },
+  {
+    "id": "TXT_SimsObjects_07925",
+    "source_sha256": "f5ddc0b704fbcd23eb85f34d7d2248fff005d6ddca17d79dbfd20bbbfcc7dea6",
+    "ko": "반려동물 성격 설정.../활발함"
+  },
+  {
+    "id": "TXT_SimsObjects_07926",
+    "source_sha256": "770f09b9d93a6e21e3cb9e24300d00c00f2ad04593f22dc960f1371e8c41c6da",
+    "ko": "반려동물 성격 설정.../독립적"
+  },
+  {
+    "id": "TXT_SimsObjects_07927",
+    "source_sha256": "68f614fcc5218eeeaa9f76c1eb382b8e1d3ef1c75c55b11fc2e04f16b0a6af70",
+    "ko": "반려동물 성격 설정.../친근함"
+  },
+  {
+    "id": "TXT_SimsObjects_07928",
+    "source_sha256": "2bfd883d4418bbf8cdfe5b99ba0e648caa725202f21d41b52fe509562efeec2a",
+    "ko": "욕구 최대화.../에너지"
+  },
+  {
+    "id": "TXT_SimsObjects_07929",
+    "source_sha256": "a39dfe99f9449ed718bd72aefaa3fcb3130cdf909f22449efbdad456790b20d9",
+    "ko": "욕구 최대화.../편안함"
+  },
+  {
+    "id": "TXT_SimsObjects_07930",
+    "source_sha256": "05d8a4003dbe37db0ce0c6cd636997b55af93f31970a58d6f835602c4b85299a",
+    "ko": "욕구 최대화.../허기"
+  },
+  {
+    "id": "TXT_SimsObjects_07931",
+    "source_sha256": "8eec1934499065d193fa8ab4225956679c4a910c6768a6fd0a9f1762eaf1185c",
+    "ko": "욕구 최대화.../위생"
+  },
+  {
+    "id": "TXT_SimsObjects_07932",
+    "source_sha256": "003d949e025e9ea9672b538679068f16d82e81503c1837546c471d990b636192",
+    "ko": "욕구 최대화.../용변"
+  },
+  {
+    "id": "TXT_SimsObjects_07933",
+    "source_sha256": "9ca52f77f88349e799f765df2cc5a7423c28229fd07640d13fc8826f5e3b91ea",
+    "ko": "욕구 최대화.../긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_07934",
+    "source_sha256": "d9334c423981cea0d118298d7c10cc408d49e7701e48a023a5742aab606c55a2",
+    "ko": "욕구 최대화.../씹기"
+  },
+  {
+    "id": "TXT_SimsObjects_07935",
+    "source_sha256": "961ca58ecb4234400d691230fe08dbd7f82c9f614b1b4177ef838c2f1e02fea8",
+    "ko": "욕구 최대화.../사교"
+  },
+  {
+    "id": "TXT_SimsObjects_07936",
+    "source_sha256": "88288c90428c71da2385ce0a245027e3d58ce0932b8bceb05884a540160dd5bd",
+    "ko": "욕구 최대화.../재미"
+  },
+  {
+    "id": "TXT_SimsObjects_07937",
+    "source_sha256": "5544121d708e8401fdaf5164247b41b5615e707c7ed196013d3c397e42c087dc",
+    "ko": "관계.../가장 친한 친구 설정.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07938",
+    "source_sha256": "26e61b7b6f978520374c87f87ab0011fd0fe20aecf8d7bc69f86d2cc726b9828",
+    "ko": "떠돌이 반려동물.../도망가기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07939",
+    "source_sha256": "29b229feb957ceb319b059a3da3667868810f163be03fb2b76228ca8c5d22304",
+    "ko": "떠돌이 반려동물.../돌아오기.../$Neighbor"
+  },
+  {
+    "id": "TXT_SimsObjects_07940",
+    "source_sha256": "2043d695cec95808007ec32e92962b8707925ad4d7c594d3038e3b5ed91087bb",
+    "ko": "주인 - 내 것 비트 설정.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07941",
+    "source_sha256": "2c6dae8d16472abb0f5b9c54bae12f72af52125ab7c22b84783e3dea4de05fac",
+    "ko": "주인 - 내 것 비트 해제.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07942",
+    "source_sha256": "c1ea48810a234da84f928c435a0df0b13453ca60a198f58e920472f4aba69982",
+    "ko": "떠돌이 반려동물.../방문.../$Neighbor"
+  },
+  {
+    "id": "TXT_SimsObjects_07943",
+    "source_sha256": "723fc56b4ce768e0290b008edf1b091da14dd40baf774303d8c6ecf7e3edf225",
+    "ko": "반려동물 - 모든 욕구 최대화.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07944",
+    "source_sha256": "8089f0b849af3497fdad5521f26f64bb52f88d2a4bdc455418fc032125c95c8e",
+    "ko": "반려동물 - 모든 훈련 최대화.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07945",
+    "source_sha256": "445340ac3d278a9aa07937c12a319686a6f2b3ffbdcd93c2df0f913b9e75b7d0",
+    "ko": "현지화 시험.../승진 대화창.../정치인"
+  },
+  {
+    "id": "TXT_SimsObjects_07946",
+    "source_sha256": "a3faa95c9c3297187339ffc1ab056cfa1ef41add95798da26997319c4729c84d",
+    "ko": "현지화 시험.../승진 대화창.../교육"
+  },
+  {
+    "id": "TXT_SimsObjects_07947",
+    "source_sha256": "abbf36a385530e3d6f5f437f0e3de5aaf652469829e0f9d8d0b4a6aac72bf59b",
+    "ko": "현지화 시험.../승진 대화창.../건설"
+  },
+  {
+    "id": "TXT_SimsObjects_07948",
+    "source_sha256": "90b6afce4410bf45aa5de09e84fb036465587e5c4501c14621323126212f828f",
+    "ko": "현지화 시험.../승진 대화창.../의류 판매"
+  },
+  {
+    "id": "TXT_SimsObjects_07949",
+    "source_sha256": "8b5877e4bd092cfdadf6ad5fff666289db8cc5960f9ca335a3cf01e8fe10f1e1",
+    "ko": "현지화 시험.../승진 대화창.../공원 및 여가"
+  },
+  {
+    "id": "TXT_SimsObjects_07950",
+    "source_sha256": "e92585f4f9fc9161e8a4c0db2b1ec71851b633aaa19947227c07e172d9e4d40b",
+    "ko": "현지화 시험.../승진 대화창.../경찰"
+  },
+  {
+    "id": "TXT_SimsObjects_07951",
+    "source_sha256": "468d1eeb5dc9cce180cf6163ba8570d6937bcd8f93f2fa7cbc3fc10e08060e79",
+    "ko": "현지화 시험.../승진 대화창.../운동선수"
+  },
+  {
+    "id": "TXT_SimsObjects_07952",
+    "source_sha256": "e5bf4b338965588c074d180dd0fc163c73698eb46f890e41627e6bd293c311fe",
+    "ko": "현지화 시험.../승진 대화창.../공예"
+  },
+  {
+    "id": "TXT_SimsObjects_07953",
+    "source_sha256": "2116f45d2d303e0c3c298064543cea0393aa000b67e6108c08eda30da2d4742d",
+    "ko": "현지화 시험.../승진 대화창.../의료"
+  },
+  {
+    "id": "TXT_SimsObjects_07954",
+    "source_sha256": "0fd0092539e4a0d49642c000f9f05ad040d38b8dc67cc5435d2440e15e343ec5",
+    "ko": "현지화 시험.../승진 대화창.../사업"
+  },
+  {
+    "id": "TXT_SimsObjects_07955",
+    "source_sha256": "786e3fe7a66f736af5b8f70e25165317c0e08214efa149066ac520b5e2d4aa6c",
+    "ko": "디버그 이벤트 잠금 해제.../지진"
+  },
+  {
+    "id": "TXT_SimsObjects_07956",
+    "source_sha256": "b5c65a1dde18e6596c84818055f554d4ccc586238259dabc20d198430217840a",
+    "ko": "디버그 이벤트 잠금 해제.../허리케인"
+  },
+  {
+    "id": "TXT_SimsObjects_07957",
+    "source_sha256": "5be44a8fc2582be423975c67eff22588b29d0d7095b881db4551eba14eca8fb7",
+    "ko": "디버그 이벤트 잠금 해제.../집 티키 점등"
+  },
+  {
+    "id": "TXT_SimsObjects_07958",
+    "source_sha256": "788f186e413ebfb2e514392f08ce3fd40e08991eb2882209ec515c29c27cd7dd",
+    "ko": "디버그 이벤트 잠금 해제.../가시덤불 통과"
+  },
+  {
+    "id": "TXT_SimsObjects_07959",
+    "source_sha256": "ad835ad88f98cbd79ab5d139babf4d82365a08ab68d548afdebf523a86689894",
+    "ko": "디버그 이벤트 잠금 해제.../뗏목 제작"
+  },
+  {
+    "id": "TXT_SimsObjects_07960",
+    "source_sha256": "247e65eb2a59c7bd6497e6cd1e908ae151c81112bc3dce4ede81132e5cad91e6",
+    "ko": "디버그 이벤트 잠금 해제.../밧줄 다리 개방"
+  },
+  {
+    "id": "TXT_SimsObjects_07961",
+    "source_sha256": "b07dd24de7f675390932092e56f9339d19468e1f82c252dbdbd5e8d60f63eb6e",
+    "ko": "디버그 이벤트 잠금 해제.../카누 제작"
+  },
+  {
+    "id": "TXT_SimsObjects_07962",
+    "source_sha256": "2ca22c629106dfeaf7b3942739ad4f6547e95265f468645b39fb2d6da827d104",
+    "ko": "디버그 이벤트 잠금 해제.../고대 계단 개방"
+  },
+  {
+    "id": "TXT_SimsObjects_07963",
+    "source_sha256": "48f7aad8b4fee814a9c64f6e9af417460913e76191eaf787aed81481fe38e230",
+    "ko": "디버그 이벤트 잠금 해제.../대장간 수리"
+  },
+  {
+    "id": "TXT_SimsObjects_07964",
+    "source_sha256": "e18ae616559da9beef98480505f16a81a03392e16535335b107de39eedd4e695",
+    "ko": "디버그 이벤트 잠금 해제.../증기 분출구 개방"
+  },
+  {
+    "id": "TXT_SimsObjects_07965",
+    "source_sha256": "4687f27d802740be6be16889f6edd4a866c5c2b582035105e673a535463979f2",
+    "ko": "디버그 이벤트 잠금 해제.../유사 지대 개방"
+  },
+  {
+    "id": "TXT_SimsObjects_07966",
+    "source_sha256": "4cef42b47b8cbf6e78081c52f1e33280a75b70e4078d24063c4956c961464d5d",
+    "ko": "디버그 이벤트 잠금 해제.../비밀 문 개방"
+  },
+  {
+    "id": "TXT_SimsObjects_07967",
+    "source_sha256": "c2cdd3581f2efa6845f09a93e68a5f103281443e5d236f1aed67c63bda227162",
+    "ko": "디버그 이벤트 잠금 해제.../쌍동선 제작"
+  },
+  {
+    "id": "TXT_SimsObjects_07968",
+    "source_sha256": "537879568d35a1f6e0293d0a9bc9ae9f4d49b4acaab8b526da0d396db7a6c5d7",
+    "ko": "디버그 이벤트 잠금 해제.../티키 제작"
+  },
+  {
+    "id": "TXT_SimsObjects_07969",
+    "source_sha256": "9c902767257ea605beb11f36d78ea0a04e6605d8dc00750abf3bd3e14f716bf5",
+    "ko": "디버그 이벤트 잠금 해제.../라디오 제작"
+  }
+]

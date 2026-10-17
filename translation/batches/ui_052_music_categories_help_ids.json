@@ -1,0 +1,812 @@
+[
+  {
+    "id": "TXT_urbzui_02091",
+    "source_sha256": "28fbb7517a26d8c9213fab2cedfedf9b22da74618b26ae77936ca56b57dddc55",
+    "ko": "EyeToy® USB 카메라 이미지 촬영"
+  },
+  {
+    "id": "TXT_urbzui_02092",
+    "source_sha256": "78a385363e7c7146e7d394e83d461132a95f7e2893c29581ee3d5732ddba15b8",
+    "ko": "EyeToy® USB 카메라 이미지 처리"
+  },
+  {
+    "id": "TXT_urbzui_02093",
+    "source_sha256": "4ba1502a0e9349275f16eda5cfecc67a8a705735fd10fac02f6b13d310c51166",
+    "ko": "EyeToy® USB 카메라 설정"
+  },
+  {
+    "id": "TXT_urbzui_02131",
+    "source_sha256": "86c3a1ee7bca0b061a7cb41e666076e54d8d3b0c78a23b303dd298d54518f794",
+    "ko": "반려동물 먹이와 간식"
+  },
+  {
+    "id": "TXT_urbzui_02133",
+    "source_sha256": "50559b3bbbe484352125274db03118e2d4edf1aad96c82486d7de96345f731c7",
+    "ko": "반려동물 정보"
+  },
+  {
+    "id": "TXT_urbzui_02134",
+    "source_sha256": "708c28088976d7c192b9a1c4fd25aa1001cd4f7218934beae8dcdf44d8dfe269",
+    "ko": "반려동물 용품"
+  },
+  {
+    "id": "TXT_urbzui_02162",
+    "source_sha256": "7c5caa721fdb321d49e3428e96e36e6215fa08fd7361ee31f0baec9ddd772952",
+    "ko": "소망 / 야망: 창의력"
+  },
+  {
+    "id": "TXT_urbzui_02163",
+    "source_sha256": "b0fd2df6f52e8822f48f468626667d97a5a9f1cb744b2d8f4de0b8c53f4d5511",
+    "ko": "소망 / 야망: 가족"
+  },
+  {
+    "id": "TXT_urbzui_02164",
+    "source_sha256": "322777e5e950d58c4b31e229c43c9f2040ef2aa9855c8befcb3449f042b7f170",
+    "ko": "소망 / 야망: 지식"
+  },
+  {
+    "id": "TXT_urbzui_02165",
+    "source_sha256": "001845cd776e1df51838bb707def9feb2eb1f55bda8ff300697a824c60a0d8f3",
+    "ko": "소망 / 야망: 인기"
+  },
+  {
+    "id": "TXT_urbzui_02166",
+    "source_sha256": "92ea42839827ba78b05aa97f37cc0cda74442924beeafcc485ca50d72ab69057",
+    "ko": "소망 / 야망: 부"
+  },
+  {
+    "id": "TXT_urbzui_02232",
+    "source_sha256": "b0c4f3b345eb24ce6c33b93aa265ddf64f11dafbd6d39c4d0011e570cee1b436",
+    "ko": "물어뜯지 마"
+  },
+  {
+    "id": "TXT_urbzui_02233",
+    "source_sha256": "4989bece0e45f990edaf61813b25d7449c937312820a7d1f2f8c963126043449",
+    "ko": "이리 와"
+  },
+  {
+    "id": "TXT_urbzui_02234",
+    "source_sha256": "23d2d73543f9d7d92ac704296e5ee744037f5f4c938e21abf2c17002c4e9ba71",
+    "ko": "춤추기"
+  },
+  {
+    "id": "TXT_urbzui_02235",
+    "source_sha256": "85b9382c1a4a962855d68412b18d71492822a70e1d6519cecec6a8e0c3b1eec5",
+    "ko": "땅 파지 마"
+  },
+  {
+    "id": "TXT_urbzui_02236",
+    "source_sha256": "641d1ef657bdfd9fa2064ab5ae3f0e44186e5161dcd36b63839f3a76a79883bc",
+    "ko": "따라와"
+  },
+  {
+    "id": "TXT_urbzui_02237",
+    "source_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+    "ko": "지켜"
+  },
+  {
+    "id": "TXT_urbzui_02238",
+    "source_sha256": "f6c0e28548bf89b3ff50d9ae1c06fe34f06fc2e3476282ee69eb7353d1f14f79",
+    "ko": "엎드려"
+  },
+  {
+    "id": "TXT_urbzui_02239",
+    "source_sha256": "b07807bc9570d020d61bd5623d7d664507e26ea5bc8924555410cbfbafe6286c",
+    "ko": "소변보지 마"
+  },
+  {
+    "id": "TXT_urbzui_02240",
+    "source_sha256": "48b702b435abdc440452106a4f2087e397c330ab428045214fdb8ff26eebd2af",
+    "ko": "죽은 척"
+  },
+  {
+    "id": "TXT_urbzui_02241",
+    "source_sha256": "edae63bef009e648e9d065c07fba729ab39d7a83e03f6945208c0fc1cad0dbf6",
+    "ko": "굴러"
+  },
+  {
+    "id": "TXT_urbzui_02242",
+    "source_sha256": "c50422099594cdaa9ab87d6ee731a5d4411134fd5ab5434fc986b36ae6b944f3",
+    "ko": "긁지 마"
+  },
+  {
+    "id": "TXT_urbzui_02243",
+    "source_sha256": "c2a6ed6cdb9b6db0a4f394e6922776118f4c5bf1130e68da6c2b29dd65dcef33",
+    "ko": "손"
+  },
+  {
+    "id": "TXT_urbzui_02244",
+    "source_sha256": "d7088b52adb66f7ceb2f931b1f16cbb4eae0e39ce6ded8a4a648a04aff826f24",
+    "ko": "노래하기"
+  },
+  {
+    "id": "TXT_urbzui_02245",
+    "source_sha256": "9e0bf88bddd65ee395819a7c6e5d9bdde5bbc150f24ebb5d74c19839b8b8a31e",
+    "ko": "앉아"
+  },
+  {
+    "id": "TXT_urbzui_02246",
+    "source_sha256": "cb09d412cce28fbba90874502fea7b38c3f87a944b5626c6e1217b157fba1652",
+    "ko": "짖어"
+  },
+  {
+    "id": "TXT_urbzui_02247",
+    "source_sha256": "08fd1de4b04df4a2fe763ac67ade9d0fd7c65202c49be6adb5397717fa96504e",
+    "ko": "기다려"
+  },
+  {
+    "id": "TXT_urbzui_02248",
+    "source_sha256": "edf05c7bab0b4c79d69bf5137fa7d8ec480513e1e3b8a2233787a3306c12db30",
+    "ko": "변기 사용"
+  },
+  {
+    "id": "TXT_urbzui_02253",
+    "source_sha256": "2c156da647a7cb87207c199427a5efcc0467fba9fb8b5246ec65fe55268cac84",
+    "ko": "EyeToy® USB 카메라"
+  },
+  {
+    "id": "TXT_urbzui_02263",
+    "source_sha256": "2a3e8f857d8f8c462f2d2d5c208a96cfade011e3c64120274335201106691eed",
+    "ko": "샬럿 마틴"
+  },
+  {
+    "id": "TXT_urbzui_02264",
+    "source_sha256": "2bee827d480cc1d67ad59c5c3988c6153f6d9e73689b6f190e89dde7ac2fd4fc",
+    "ko": "바시"
+  },
+  {
+    "id": "TXT_urbzui_02265",
+    "source_sha256": "928d3b6fe77983ef822baf24bfdea3e8445c16bfb38bcba700429cc80130b1fa",
+    "ko": "더 심즈 feat. 지니 오르테가"
+  },
+  {
+    "id": "TXT_urbzui_02266",
+    "source_sha256": "8c765f98fcd0ce73f1428fe7232a82c360eea8c39e975f69fe005d6e0b21950f",
+    "ko": "호프"
+  },
+  {
+    "id": "TXT_urbzui_02267",
+    "source_sha256": "0c8479e105c294085eca1c4d7cc6e3582636d020ac4413f4a4ac6fd1706d2ab2",
+    "ko": "브릭 앤 레이스"
+  },
+  {
+    "id": "TXT_urbzui_02269",
+    "source_sha256": "c03a7ef3e98faaddbe409fe86a09eee4b37cd772507f2f960242007756797533",
+    "ko": "호크"
+  },
+  {
+    "id": "TXT_urbzui_02274",
+    "source_sha256": "f1a116aac59ddeadc120b039a5edf0e16152889a698ce32b5d0e188333fe2649",
+    "ko": "매드 캐디스"
+  },
+  {
+    "id": "TXT_urbzui_02275",
+    "source_sha256": "f16fbca888675e6cc58180fb1fedc981480dc3e866f4c4cf6c352d5f5bd6d55b",
+    "ko": "지기 말리"
+  },
+  {
+    "id": "TXT_urbzui_02276",
+    "source_sha256": "9e334f43d2c4f18d1030a1771076f6867d837824eb97bda1731604f095babe09",
+    "ko": "데미안 주니어 공 말리"
+  },
+  {
+    "id": "TXT_urbzui_02277",
+    "source_sha256": "fb800fdf15d22abe5fb8bc6718b314637066dba87dcd056ba65589cf7b68ed0b",
+    "ko": "스티븐 말리"
+  },
+  {
+    "id": "TXT_urbzui_02278",
+    "source_sha256": "16e7be3e40f72f3f8008236f0a4e9fab5ca58ecca5b7aa62523a59d2df1a56b4",
+    "ko": "스티븐 말리 feat. 데미안 주니어 공 말리"
+  },
+  {
+    "id": "TXT_urbzui_02288",
+    "source_sha256": "261947e7459cf72e07e74d4516597c7f435dfe0b640dc6399cb99f87e6131b9d",
+    "ko": "로키 다우니"
+  },
+  {
+    "id": "TXT_urbzui_02289",
+    "source_sha256": "58ea9f6671096ebf6ccf65dbf8fa5d2d220166dc167727658397532e447cdd7d",
+    "ko": "제프 스토트"
+  },
+  {
+    "id": "TXT_urbzui_02290",
+    "source_sha256": "e806612be727e5ef49a8b5f96a273478bdc43a488dd27abd0ea4727c17059ba7",
+    "ko": "오호스 데 브루호"
+  },
+  {
+    "id": "TXT_urbzui_02291",
+    "source_sha256": "f1b74a34bd840d7cad94529571decdbd57a5bc5b4d6b98dcb997ff0259b73655",
+    "ko": "보사쿠카노바"
+  },
+  {
+    "id": "TXT_urbzui_02292",
+    "source_sha256": "c102feec5c04a6d690c05c0e5da911571fed875bc39b4012b1c99b4948471146",
+    "ko": "셰브 이 사바"
+  },
+  {
+    "id": "TXT_urbzui_02293",
+    "source_sha256": "2eaef69b9c402adbeba33c9c9d63177814a0f22408d190b80c1e8641a71a8be0",
+    "ko": "게일릭 스톰"
+  },
+  {
+    "id": "TXT_urbzui_02307",
+    "source_sha256": "b78a1dd024d3ade985b58ee2e197b159e1e11b8f129ffe47846b30fc62b87444",
+    "ko": "나를 네 주머니에 넣어 둬"
+  },
+  {
+    "id": "TXT_urbzui_02308",
+    "source_sha256": "42e7c626eadbad64d9dc9a8052b8f617f7373987e8a4784dadfcd1af543e6ed8",
+    "ko": "날고 싶어"
+  },
+  {
+    "id": "TXT_urbzui_02309",
+    "source_sha256": "7d0c51cf0339ad1f7c7c2fa77b6b2ab899b6b79592d27d82a727d2ce5cac04e3",
+    "ko": "사랑이 떠날 때"
+  },
+  {
+    "id": "TXT_urbzui_02310",
+    "source_sha256": "36b1476682f7077fd01742ab6c1f8f2d276053df9fac5a2ee56e804130177216",
+    "ko": "천사들"
+  },
+  {
+    "id": "TXT_urbzui_02311",
+    "source_sha256": "69834ae098ca61f0b85158ef00eee683f7d9911a5ba791c2597d443bee45421b",
+    "ko": "사랑은 짓궂어"
+  },
+  {
+    "id": "TXT_urbzui_02313",
+    "source_sha256": "0d2fc850dacbf1aa8c92f9f7c3ad3e961765ff552767ba131c188c3e101539e0",
+    "ko": "달콤한 음악"
+  },
+  {
+    "id": "TXT_urbzui_02318",
+    "source_sha256": "8ef35f16649fbe3771ea7a6df418786f490f35bf3eda6ffa3e54e47308f9db7f",
+    "ko": "뒷마당"
+  },
+  {
+    "id": "TXT_urbzui_02319",
+    "source_sha256": "2319fe477d089830174e6d54ebd9c88ed41b50d0cb2653e71a504a6ed9536b29",
+    "ko": "음악을 만들어"
+  },
+  {
+    "id": "TXT_urbzui_02320",
+    "source_sha256": "1492b613ff6c85b44f9239c43c4e461c965f4a5b8b6d9a5e62730d00074bddbe",
+    "ko": "잼록에 온 걸 환영해"
+  },
+  {
+    "id": "TXT_urbzui_02321",
+    "source_sha256": "fc2feab8e0f150a00217954e9ff3ae1aba97e1a9b5938a6a7d5cb084bb20747c",
+    "ko": "마음 조종"
+  },
+  {
+    "id": "TXT_urbzui_02322",
+    "source_sha256": "3786acb2dfd5635a28dcd9314aadc7e44079460685c9a5a9d914df2f130714ab",
+    "ko": "교통 체증"
+  },
+  {
+    "id": "TXT_urbzui_02326",
+    "source_sha256": "8d0b3cb507d504e652fef21f7ce3494fb2d0848067712dd8ed844cfab027d191",
+    "ko": "선탠 시매닉"
+  },
+  {
+    "id": "TXT_urbzui_02327",
+    "source_sha256": "6cdf9a7d5903e420566dceb9956b2f74ad206b8c2322d7519942fb1ff08b28cb",
+    "ko": "서프 기타 아 고고"
+  },
+  {
+    "id": "TXT_urbzui_02328",
+    "source_sha256": "e01a98bff2305a46f115264ec206369356ebf7beb7e63f23d0cdd4532fae1575",
+    "ko": "기타 픽션"
+  },
+  {
+    "id": "TXT_urbzui_02329",
+    "source_sha256": "74b0d10d3178f4472086ec4dc95b2a24dff0b902d7b1ccf12c9189a8dbdb4499",
+    "ko": "파도가 온다"
+  },
+  {
+    "id": "TXT_urbzui_02330",
+    "source_sha256": "809ad7f03f1d1fae6a5634da38d2ab65309466374d9ebcb5fb2a055257857290",
+    "ko": "기타 쓰나미"
+  },
+  {
+    "id": "TXT_urbzui_02332",
+    "source_sha256": "a2b04f9b64956489bbc21c13394c6c5f480e58f49bac6399fb25cb8cc8935efc",
+    "ko": "바로 그 사람"
+  },
+  {
+    "id": "TXT_urbzui_02333",
+    "source_sha256": "5ffa2870c00ab0e142d85b757af5ebe7a0e76b125773b84d45f520475f3d0177",
+    "ko": "펑키 나와리"
+  },
+  {
+    "id": "TXT_urbzui_02334",
+    "source_sha256": "b17becc092c2641305e2b166f95bb1019f3c1b10c33160743c3cb7fa148cb21b",
+    "ko": "술타나스 데 메르카이요"
+  },
+  {
+    "id": "TXT_urbzui_02335",
+    "source_sha256": "19f72c00f7b5aca89625582dfdf2b2a3fbed113eb929b2d11ce0915278bba8b7",
+    "ko": "좋은 아침, 리우"
+  },
+  {
+    "id": "TXT_urbzui_02336",
+    "source_sha256": "e84f509ead844104cc564e049b66a309e32445be75cabd53174419cf511e2a0f",
+    "ko": "툼 빈 샤암"
+  },
+  {
+    "id": "TXT_urbzui_02337",
+    "source_sha256": "8495ad42967b6b10e6048b6c0fb629487f5fbd0e2c625f3869054741ce02f65f",
+    "ko": "장난꾸러기"
+  },
+  {
+    "id": "TXT_urbzui_02339",
+    "source_sha256": "9098dac89e325e0c6c3deea3860487f0f0e01cc16151021f678fc0098ebd9452",
+    "ko": "네오 스윙"
+  },
+  {
+    "id": "TXT_urbzui_02340",
+    "source_sha256": "137b68c3b57390fb42f844a801330ca69b6166bbda1ef98af04cff9434b501e6",
+    "ko": "이봐, 자기야"
+  },
+  {
+    "id": "TXT_urbzui_02341",
+    "source_sha256": "47208b0b81475ab97f5dccb486924c91825d80b32195d94bad6a7bce7573f87b",
+    "ko": "한밤의 세레나데"
+  },
+  {
+    "id": "TXT_urbzui_02342",
+    "source_sha256": "75cd566b37b1892a5355ba3a2646baf72baf345db1ff1f99a210fe35de31f06d",
+    "ko": "옛 뉴욕"
+  },
+  {
+    "id": "TXT_urbzui_02365",
+    "source_sha256": "ce9497a992df880b69db30442512a06848d6e9936a7b5a44ff33e95f522e159d",
+    "ko": "심과 반려동물의 성격은 서로 교류하는 방식, 주변 세상과 상호작용하는 방식, 품는 소망에 영향을 줍니다.\r\n\r\n다양한 성격을 만들어 더 복잡한 사교 상황을 경험해 보세요."
+  },
+  {
+    "id": "TXT_urbzui_02377",
+    "source_sha256": "b0c4f3b345eb24ce6c33b93aa265ddf64f11dafbd6d39c4d0011e570cee1b436",
+    "ko": "물어뜯지 마"
+  },
+  {
+    "id": "TXT_urbzui_02378",
+    "source_sha256": "85b9382c1a4a962855d68412b18d71492822a70e1d6519cecec6a8e0c3b1eec5",
+    "ko": "땅 파지 마"
+  },
+  {
+    "id": "TXT_urbzui_02379",
+    "source_sha256": "c50422099594cdaa9ab87d6ee731a5d4411134fd5ab5434fc986b36ae6b944f3",
+    "ko": "긁지 마"
+  },
+  {
+    "id": "TXT_urbzui_02380",
+    "source_sha256": "f3667476de8c911b46f341b40a8b6ab736eb20994aacbcc80866f0899c5b8f9c",
+    "ko": "더럽히지 마"
+  },
+  {
+    "id": "TXT_urbzui_02414",
+    "source_sha256": "cd2476ee9a8638cebe2bd63e56c29b39dc085b4416d55e321915be2d7933be7e",
+    "ko": "사우스사이드 브리지"
+  },
+  {
+    "id": "TXT_urbzui_02426",
+    "source_sha256": "317a932ddf5391fd5b56b05b69f957a592f88d42baaa68f6ecde208c77ee3bd7",
+    "ko": "기술 레벨이 높으면 물건을 사용하는 속도와 효과가 좋아집니다. 승진하려면 특정 기술 레벨이 필요하기도 합니다.\r\n\r\n일시 정지 메뉴의 물건 목록에서 기술 분류의 물건을 구입하고 사용하여 일곱 가지 기술을 기르세요."
+  },
+  {
+    "id": "TXT_urbzui_02457",
+    "source_sha256": "0cbd514c6f8b6714e2fbcd583f2dcd3acccc41258920b0369a6424e028070370",
+    "ko": "장기적으로 <WT>야망_점수를 얻으면 마을이 성장합니다.\r\n\r\n반려동물에게도 <WT>소망이 있습니다. 반려동물의 <WT>소망을 이루어 주는 심은 <WT>반려동물_점수를 얻어 <WT>마을_광장에서 쓸 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_02458",
+    "source_sha256": "6038ee78d0874b44c36c4df6a157dd257f04cfc39883f9814860be8e54e9fa7d",
+    "ko": "모든 심은 고유한 <WT>소망을 지닙니다. 선택한 <WT>야망과 현재 바라는 것에 따라 달라집니다.\r\n\r\n<WT>소망을 이루어 각 심만의 인생 이야기를 만들고 <WT>야망_점수를 얻으세요. 점수가 쌓이면 <WT>플래티넘 야망 단계에 도달하여 심을 행복하게 유지하기 쉬워집니다."
+  },
+  {
+    "id": "TXT_urbzui_02632",
+    "source_sha256": "0a3c9308eb0062eaa6345f32b0a8b6dc1599d5fd3d78d4cdeaadd7fe9890a747",
+    "ko": "푸드프로세서"
+  },
+  {
+    "id": "TXT_urbzui_02633",
+    "source_sha256": "89057467d61d06c4784961c7c87e74033bb78f4360c0b44498a4b768347fedbd",
+    "ko": "믹서기"
+  },
+  {
+    "id": "TXT_urbzui_02634",
+    "source_sha256": "9cebec444bbd4e0dbed6e06cdcac3d417ba9ca1d9974d278a3f8624e1d3a2de1",
+    "ko": "식기세척기"
+  },
+  {
+    "id": "TXT_urbzui_02635",
+    "source_sha256": "896959d4348ed6f69711e9d11e9b29b20651d63849976218278b51fb659f0982",
+    "ko": "냉장고"
+  },
+  {
+    "id": "TXT_urbzui_02636",
+    "source_sha256": "6928e52749d3c52b0870805af89fbe7ece53cf30d7a022ca888f2ea322a10637",
+    "ko": "조리대"
+  },
+  {
+    "id": "TXT_urbzui_02640",
+    "source_sha256": "cd7f20dd22d6fc6d5598056f40cd057c72a4b3797558ef06f90f2f1c002da72e",
+    "ko": "그림"
+  },
+  {
+    "id": "TXT_urbzui_02641",
+    "source_sha256": "b529175f85ab294a8718628c2b9a95bf03e6bf2c8d04daa4b2fde7c56997a993",
+    "ko": "1인용_침대"
+  },
+  {
+    "id": "TXT_urbzui_02642",
+    "source_sha256": "74c6f61d7b44f5c0c6f451a51a85538e076522c0c667acc43b9890131be6b519",
+    "ko": "2인용_침대"
+  },
+  {
+    "id": "TXT_urbzui_02643",
+    "source_sha256": "56ec68a2e0924f601037c80e612edeb306d716a35608f218915f403648658d48",
+    "ko": "책장"
+  },
+  {
+    "id": "TXT_urbzui_02644",
+    "source_sha256": "b1c2f2a10e27b6dd58311de69c8587bf6dffdf0846115ce7323dedd40e7268eb",
+    "ko": "알람시계"
+  },
+  {
+    "id": "TXT_urbzui_02645",
+    "source_sha256": "88bf7ba15a0702925254f5ddd87e899105755cd66509a343e35c49457f040b0e",
+    "ko": "화재_경보기"
+  },
+  {
+    "id": "TXT_urbzui_02646",
+    "source_sha256": "15ec473c55dacbf765a20455e63600de6bbcd91ab90480733ba09341ddde549d",
+    "ko": "도난_경보기"
+  },
+  {
+    "id": "TXT_urbzui_02647",
+    "source_sha256": "b44ce3e1f8fc3258a9063b69bac9972da7bef8189063c86c37197a8e1eace996",
+    "ko": "컴퓨터"
+  },
+  {
+    "id": "TXT_urbzui_02648",
+    "source_sha256": "e616ca30febd11bf70e6be0b9fe87ac473bf00c61f35d250df9fdf73f8007c4b",
+    "ko": "체스_세트"
+  },
+  {
+    "id": "TXT_urbzui_02649",
+    "source_sha256": "b50453560f8ef58cc73a8edc7d68df54a7b4ed152d9baca321bed1ddd4dec613",
+    "ko": "지니_램프"
+  },
+  {
+    "id": "TXT_urbzui_02650",
+    "source_sha256": "757e635e2bc8301d867c6d4a6c15ec2134b0a54673be9b0777d8be880b9fa5d2",
+    "ko": "변기"
+  },
+  {
+    "id": "TXT_urbzui_02651",
+    "source_sha256": "773d409b3f75b4ef479bb7ecd79b8d183fbe5ae94598398d9acc9c0514955f80",
+    "ko": "욕조"
+  },
+  {
+    "id": "TXT_urbzui_02652",
+    "source_sha256": "b197719e3aefa5cf17b750f2834fb29bebb8080a52220602497ffdbf1d0f412a",
+    "ko": "분수"
+  },
+  {
+    "id": "TXT_urbzui_02653",
+    "source_sha256": "cb6a0296cae0472f0cb204ed25f16e147e1881e47e29a32da2ed7f79f1f2babd",
+    "ko": "온수_욕조"
+  },
+  {
+    "id": "TXT_urbzui_02654",
+    "source_sha256": "64b3e30bab6335480177294bae8c3a0335f5c094bc5a736da04198c57663866c",
+    "ko": "세면대"
+  },
+  {
+    "id": "TXT_urbzui_02655",
+    "source_sha256": "c5f6eec2bc48f30ba8a778314873044a5f1b2aa59b5a10a0a811d41d54a61820",
+    "ko": "의자"
+  },
+  {
+    "id": "TXT_urbzui_02656",
+    "source_sha256": "772bab17752cfce7ca8d4fa519f1fceaf24bda4351e6d57375cbd9f620a1ccf1",
+    "ko": "소파"
+  },
+  {
+    "id": "TXT_urbzui_02657",
+    "source_sha256": "24514cd1b2cc3ab1993a0fb163c383cac9b4f010944f89ca42b110dad83c04fd",
+    "ko": "아케이드_게임"
+  },
+  {
+    "id": "TXT_urbzui_02659",
+    "source_sha256": "2b7df9227ee27fb48144c3c2405cc253f93b4e5de06f86cc979d162b19647eec",
+    "ko": "깔개"
+  },
+  {
+    "id": "TXT_urbzui_02660",
+    "source_sha256": "54f96a89475a70292c1821b9f7359dd126c24c4b85ee018e5529c50905e2a440",
+    "ko": "자동차"
+  },
+  {
+    "id": "TXT_urbzui_02661",
+    "source_sha256": "e31bc97790673226d8768f30dbe6c2d69307ce5d270c6f3102d985d3adbeb694",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_urbzui_02662",
+    "source_sha256": "f8906a7dcf9e2f266fbe24d6a69565e8b28f36d0185a538958d0bdea6df6ce11",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_urbzui_02663",
+    "source_sha256": "227949d38ce0a746c211d9eedfac069f43462a01d66d9d84e8f1f6b4a8e8787f",
+    "ko": "트램펄린"
+  },
+  {
+    "id": "TXT_urbzui_02664",
+    "source_sha256": "05bbfd5efb2464e4683f0a6eea57e6fb799f2c382fe7d306fc2bf4cb63c325ee",
+    "ko": "마사지_침대"
+  },
+  {
+    "id": "TXT_urbzui_02665",
+    "source_sha256": "9429645ca264d4f6885d4905c839242c1100953b408ccec0d2563d7950ecfb72",
+    "ko": "비눗방울_놀이기구"
+  },
+  {
+    "id": "TXT_urbzui_02666",
+    "source_sha256": "c9d87ea726ff171328e5b4326e1b741e8f833ff14d684f337d759dff99af3514",
+    "ko": "소화기"
+  },
+  {
+    "id": "TXT_urbzui_02667",
+    "source_sha256": "f844189053d5e774bb8eaabd0349831699b3f9706cd105c981905c279de32a52",
+    "ko": "금속_탐지기"
+  },
+  {
+    "id": "TXT_urbzui_02668",
+    "source_sha256": "5cd3c87ad19e3bb97e7d8219f6f4d18f0492cc16aa5dc864820510d065eff6f7",
+    "ko": "진공청소기"
+  },
+  {
+    "id": "TXT_urbzui_02669",
+    "source_sha256": "a0bff6ea85860e6eb9cb6a4b5322b05ff7e8b9f9c7cd51dc34684dd428f0c3f0",
+    "ko": "조리대"
+  },
+  {
+    "id": "TXT_urbzui_02670",
+    "source_sha256": "09213e4f87860f8564dbb85686872fc70ab0d4553f9512bc7542816a24fd125c",
+    "ko": "탁자"
+  },
+  {
+    "id": "TXT_urbzui_02671",
+    "source_sha256": "d128622293dc48265837c826275265cb1ded98880f4a57b5543499d87b9ae417",
+    "ko": "휴대용_카세트"
+  },
+  {
+    "id": "TXT_urbzui_02672",
+    "source_sha256": "25e3e4fe1f1d91b0ccf63d0dffc86819988e0eb0e109f01aeed8c8dcf4e3e595",
+    "ko": "오디오"
+  },
+  {
+    "id": "TXT_urbzui_02674",
+    "source_sha256": "237d03338c8be2417c63370bb581c7c80bb77aac3e78a85ea4f8571f6514ccad",
+    "ko": "벽난로"
+  },
+  {
+    "id": "TXT_urbzui_02675",
+    "source_sha256": "4d857ea0c1c7b6103568e37568d51706e7dfebe1e0bde79ef2d9599100a3a41b",
+    "ko": "사람"
+  },
+  {
+    "id": "TXT_urbzui_02676",
+    "source_sha256": "8b65fbb4287308ed27cc4261aeb0b7191702d4bc4c45d6155d0f0b17c1f60c4b",
+    "ko": "텔레비전"
+  },
+  {
+    "id": "TXT_urbzui_02677",
+    "source_sha256": "69a145e99534b3b679db195beb7bb1c747093707fb664c7ac78c0fdf227bee28",
+    "ko": "조각상"
+  },
+  {
+    "id": "TXT_urbzui_02678",
+    "source_sha256": "90668dfbef8ec5bb3e279a29a92fc5e8348f96795c90e48bc859fbbf40f40e81",
+    "ko": "샌드백"
+  },
+  {
+    "id": "TXT_urbzui_02679",
+    "source_sha256": "385cf23ac08b8880ab9aa6b6ca37c0314f1410475b00c0d831d15b7026802a32",
+    "ko": "기술_훈련_물건"
+  },
+  {
+    "id": "TXT_urbzui_02680",
+    "source_sha256": "3929209d873475b8701c4e61de6a8795a37683ef42bccc9cfcf81a00550474fc",
+    "ko": "에스프레소_머신"
+  },
+  {
+    "id": "TXT_urbzui_02681",
+    "source_sha256": "afaff5155d9d9b8cbf5ad3b4f00033074aa504759d4a95f6fe51412cb9c5b5c5",
+    "ko": "과일_펀치_통"
+  },
+  {
+    "id": "TXT_urbzui_02682",
+    "source_sha256": "ab74705589c805e74a14155339ade286ca41efbb8ac444a402a75b9b953b9b05",
+    "ko": "바"
+  },
+  {
+    "id": "TXT_urbzui_02683",
+    "source_sha256": "123abc9786f9124aafae3d4c68e3dead9adb9fc3a89e5f14d3a90f1160a96f50",
+    "ko": "자동판매기"
+  },
+  {
+    "id": "TXT_urbzui_02684",
+    "source_sha256": "6917af62aa46deca5f90f6ea4fc0175240936e6a80ca984cbe20852e1952866e",
+    "ko": "옷장"
+  },
+  {
+    "id": "TXT_urbzui_02685",
+    "source_sha256": "79087d029c9b95fe0970c6427a8836f2809fd6ff25e04b508a489ccf6796a36b",
+    "ko": "전화기"
+  },
+  {
+    "id": "TXT_urbzui_02686",
+    "source_sha256": "79087d029c9b95fe0970c6427a8836f2809fd6ff25e04b508a489ccf6796a36b",
+    "ko": "전화기"
+  },
+  {
+    "id": "TXT_urbzui_02687",
+    "source_sha256": "79087d029c9b95fe0970c6427a8836f2809fd6ff25e04b508a489ccf6796a36b",
+    "ko": "전화기"
+  },
+  {
+    "id": "TXT_urbzui_02688",
+    "source_sha256": "cabe76a343ff7fa30812b042b64c924a3fd852af61aea0943a20a0a5296219a6",
+    "ko": "장식용_식물"
+  },
+  {
+    "id": "TXT_urbzui_02690",
+    "source_sha256": "21a37d5da1129233a67125f36e82ce920768f17d890add29f06d401c082c6143",
+    "ko": "우편함"
+  },
+  {
+    "id": "TXT_urbzui_02691",
+    "source_sha256": "ee3f5d331536f5af933b6c0f5b86304a86c06662bd08e6aa771e9523255b600b",
+    "ko": "쓰레기통"
+  },
+  {
+    "id": "TXT_urbzui_02692",
+    "source_sha256": "237d03338c8be2417c63370bb581c7c80bb77aac3e78a85ea4f8571f6514ccad",
+    "ko": "벽난로"
+  },
+  {
+    "id": "TXT_urbzui_02693",
+    "source_sha256": "820be1ce7ec13167592a002c79de2f46ae479096dcad43b27ffc37b932f11b79",
+    "ko": "보물"
+  },
+  {
+    "id": "TXT_urbzui_02694",
+    "source_sha256": "27c63c519bb65e979be6ad6cfb60c045a9a2f7c71f537565449db4fcc512c278",
+    "ko": "반려동물_먹이_그릇"
+  },
+  {
+    "id": "TXT_urbzui_02695",
+    "source_sha256": "ee9f7fa6d66fad8b8b68d36fc35fe00150279c6ec30c9298374184113ac9bac3",
+    "ko": "반려동물_침대"
+  },
+  {
+    "id": "TXT_urbzui_02711",
+    "source_sha256": "498816d6294d07ed57a45468db4013ec7f787f72ee34c8f6a4028e4646ee23f7",
+    "ko": "끈 장난감 흔들기"
+  },
+  {
+    "id": "TXT_urbzui_02712",
+    "source_sha256": "cd7d61bf7e38c7c2280b4241c4e1211aa3965722a681077a471913801c0321a2",
+    "ko": "물어오기"
+  },
+  {
+    "id": "TXT_urbzui_02713",
+    "source_sha256": "19410a0d25ffe23d6ad148fd3eaedab1e390a01eb5331efca6db9aa908e683c8",
+    "ko": "손가락 흔들기"
+  },
+  {
+    "id": "TXT_urbzui_02714",
+    "source_sha256": "a3dc4437e650b3affa51be6d38f44f0611cb51991b12126950d5f1a48b9076b7",
+    "ko": "재롱 놀이"
+  },
+  {
+    "id": "TXT_urbzui_02715",
+    "source_sha256": "83b6461d48d7942f7ce65c7c674a146369e4b1c4e3151bd4a351a12bcb4f9f54",
+    "ko": "줄다리기"
+  },
+  {
+    "id": "TXT_urbzui_02732",
+    "source_sha256": "23d2d73543f9d7d92ac704296e5ee744037f5f4c938e21abf2c17002c4e9ba71",
+    "ko": "춤추기"
+  },
+  {
+    "id": "TXT_urbzui_02733",
+    "source_sha256": "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094",
+    "ko": "지켜"
+  },
+  {
+    "id": "TXT_urbzui_02734",
+    "source_sha256": "23dd14985a4e979c752048b9245b8be911ef1c9a19e43b9b03b73fa62130e862",
+    "ko": "엎드려"
+  },
+  {
+    "id": "TXT_urbzui_02735",
+    "source_sha256": "1c822e1a58f9b5213bfa38a266c8be3c26807edf555b8f9d1e31abf1f2e531cd",
+    "ko": "굴러"
+  },
+  {
+    "id": "TXT_urbzui_02736",
+    "source_sha256": "d7088b52adb66f7ceb2f931b1f16cbb4eae0e39ce6ded8a4a648a04aff826f24",
+    "ko": "노래하기"
+  },
+  {
+    "id": "TXT_urbzui_02737",
+    "source_sha256": "72a519c209c5f56820a0c55c2996afe997b1321cc070734bc94befe936103893",
+    "ko": "앉아"
+  },
+  {
+    "id": "TXT_urbzui_02738",
+    "source_sha256": "cb09d412cce28fbba90874502fea7b38c3f87a944b5626c6e1217b157fba1652",
+    "ko": "짖어"
+  },
+  {
+    "id": "TXT_urbzui_02739",
+    "source_sha256": "c2a6ed6cdb9b6db0a4f394e6922776118f4c5bf1130e68da6c2b29dd65dcef33",
+    "ko": "손"
+  },
+  {
+    "id": "TXT_urbzui_02740",
+    "source_sha256": "33f6cb6b619bab43878a5cfa90b5d027cd9426099ac7020819e62ff3dffe09b4",
+    "ko": "변기_사용"
+  },
+  {
+    "id": "TXT_urbzui_02741",
+    "source_sha256": "d0cdfef0b370a1c05a68131fdc9f9d62a019611f70520d73d02fddb088c7e93d",
+    "ko": "이리_와"
+  },
+  {
+    "id": "TXT_urbzui_02754",
+    "source_sha256": "a974f2e05f105a24fabc6094d14bc1416660ab9318974a3a581da7e428db9a94",
+    "ko": "펄스"
+  },
+  {
+    "id": "TXT_urbzui_02755",
+    "source_sha256": "a0bfb48c5f91f6d94c1957b8fc3a5749b425c9c1e28770f81dd8699734b7e6fa",
+    "ko": "무대 뒤편"
+  },
+  {
+    "id": "TXT_urbzui_02756",
+    "source_sha256": "db8806a176caaa3d9262296f6ad2ba432749749edc5ac76158cb940c68aed727",
+    "ko": "패션쇼 무대"
+  },
+  {
+    "id": "TXT_urbzui_02757",
+    "source_sha256": "ef43dc1c5ce3cae7390bb086129c0bb8c5106c1b249d6809463c0f40681fc70f",
+    "ko": "행운의 여섯"
+  },
+  {
+    "id": "TXT_urbzui_02758",
+    "source_sha256": "56cdee8d4ac2e97055b155df964dcd3730792f85c6f6219fe615dab144887565",
+    "ko": "빨간 방"
+  },
+  {
+    "id": "TXT_urbzui_02759",
+    "source_sha256": "3c86b1e3dfd0c355f097daa3a21f174a68d498b650296e97f9338a072f2945ff",
+    "ko": "뒷방"
+  },
+  {
+    "id": "TXT_urbzui_02760",
+    "source_sha256": "97d2bbb1e383eceb602490c8319017f3e46cac243a8af696ff8f4fd236a26f83",
+    "ko": "우리"
+  },
+  {
+    "id": "TXT_urbzui_02761",
+    "source_sha256": "2818da0d5e698d00567393e3227962586834ecd578a76fb923cbe33bed7652b7",
+    "ko": "떠다니는 사람들"
+  }
+]

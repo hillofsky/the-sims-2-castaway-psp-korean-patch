@@ -1,0 +1,307 @@
+[
+  {
+    "id": "TXT_SimsObjects_09000",
+    "source_sha256": "94310bef902fbb25ee0625899a21cc823e8ac4b337e738a7384d16c59b0d158e",
+    "ko": "줄 시몰레온이 부족하다니 무슨 말이에요?\r\n\r\n대금 대신 당신 물건을 가져가겠어요!"
+  },
+  {
+    "id": "TXT_SimsObjects_09001",
+    "source_sha256": "0b7d4465eaaaaad9a45f8bd5c4794d2fa51d35b515a3adba1a9bfcc02f2f2202",
+    "ko": "오늘 일은 끝났습니다. 내일 다시 올게요!"
+  },
+  {
+    "id": "TXT_SimsObjects_09002",
+    "source_sha256": "c541c01dcab8cdc89d95a4abfc9b71e87cc983f5cabdca1dc995bb6d73a9dfc9",
+    "ko": "청소할 먼지 한 톨도 없네요. 내일 봐요!"
+  },
+  {
+    "id": "TXT_SimsObjects_09003",
+    "source_sha256": "84b52dc55645ddc0954bac869e214817e08a0cc1e5df2a26118a380297acc04c",
+    "ko": "모두 잘 작동하는 것 같네요! 고칠 것이 생기면 전화 주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09004",
+    "source_sha256": "d265aeea5629fee271ba19e99bff17b31d60582166b3987dbb89139c43eb47e4",
+    "ko": "정원은 모두 잘 정돈돼 있네요. 며칠 뒤에 다시 올게요."
+  },
+  {
+    "id": "TXT_SimsObjects_09005",
+    "source_sha256": "560f642b8533ea81f88ebc998d6531081495cd5e627cc7495d3af9ac58f2bdc7",
+    "ko": "오늘 일은 끝났습니다. 며칠 뒤에 다시 뵙겠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09006",
+    "source_sha256": "1928f5dd388a43df4a31e7b86fd36016d87590d185e38367deecfa1fb2344f0b",
+    "ko": "오늘 일은 끝났습니다. 더 고칠 것이 있으면 전화 주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09007",
+    "source_sha256": "3ea21b73678f1814f32cea8ae4404981bebf70fb21c516aaef228ece53eaddf5",
+    "ko": "아무 이유 없이 출동하게 하는 건 장난이 아닙니다. 오늘 밤 한가한 걸 다행으로 아세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09024",
+    "source_sha256": "5bd0340ebe03583dc5d81ce8608035fcad72b905a4213d4812380fea9d3f658d",
+    "ko": "반려동물을 더 잘 돌봤어야 합니다. $Me의 가출 소식입니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_09028",
+    "source_sha256": "a9f24f48a9d00924cb29fd772eb9c8f6b7a509b522dc6648994556781e6a970f",
+    "ko": "$Me의 익사 소식입니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09091",
+    "source_sha256": "983b97fe9b61ad7fb8a3f3925039fd415b717b7d9f2e0f8dbc8aba76d8a6aec3",
+    "ko": "반려동물을 무척 사랑하는 시장이 마을 광장에 새 화폐를 도입했습니다. 털북숭이 친구의 소망을 이루어 주면 반려동물 점수를 받습니다. 이 기계에서 시몰레온을 반려동물 점수로 바꿀 수도 있습니다. 즐기세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_09094",
+    "source_sha256": "0f9ad6db16c78475617ab693cae38b8a413cf2b3d4edba85cd175a3692c218da",
+    "ko": "반려동물 먹이를 한 가게에서만 사지 마세요. 이국적인 것부터 황당한 것까지 두루 구경하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09095",
+    "source_sha256": "1d28e4b139cd9b66c184d21572679c8c129ddfa242df0c7b36d979da850853c9",
+    "ko": "잠시 머무르며 반려동물 점수를 쓰고 마을 광장이 자라는 모습을 지켜보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09096",
+    "source_sha256": "61cff227f96d05b939c9bf0d458be8013d227540a9565c90f0d047385f710dbd",
+    "ko": "반려동물 판매점에는 멋진 털북숭이 친구들이 여러분을 기다리고 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09097",
+    "source_sha256": "a6cbc3412996248652eac133d8be84f7c73652129a2f7b86186bb33ff2f40673",
+    "ko": "제과점에서 날마다 신선하고 맛있는 간식을 팝니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_09098",
+    "source_sha256": "796e45b7732daa39a8366902096f607318101c1f324aad9bb0b6e58591b483ec",
+    "ko": "혼자만의 시간이 필요하신가요? 반려동물 호텔이 동물을 건강하고 행복하게 돌봐 드립니다. 귀찮게 굴 일도 없죠. "
+  },
+  {
+    "id": "TXT_SimsObjects_09099",
+    "source_sha256": "8ee3afe698f9422ad9a71cd09afecb9f8e90bd99710696bcfe314c436afe37b5",
+    "ko": "너무 멍청한 개도, 너무 까다로운 고양이도 없습니다! 조련사에게 데려가 마법을 직접 보세요! "
+  },
+  {
+    "id": "TXT_SimsObjects_09100",
+    "source_sha256": "785cca6a6f95d2d95aaa5caba348511429d1da54a7057b588c606b6446712314",
+    "ko": "울창한 그래신 잔디밭에서 반려견과 위즐비 놀이를 즐기세요. 그래신은 특허 출원 중입니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_09101",
+    "source_sha256": "d322a1db6481e07eaf67d318f01e95ba4bf4166ca488279cbf33c2c74abbaea8",
+    "ko": "더 다양한 상품을 원하시나요? 더 많이 사세요! 마을 광장은 왕성한 소비주의가 지배합니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_09102",
+    "source_sha256": "2dbc0f1dae669bff16c5d9ddb9b2401f8f073d03226b68d49e8cec1545da78f0",
+    "ko": "친구들을 초대하세요! 마을 광장 전화로 좋아하는 사람과 반려동물을 쉽게 만날 수 있습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_09103",
+    "source_sha256": "52f486c3ce587917c402641532b0c94373e7c2a9198b4b445a351c7d934aa4a6",
+    "ko": "거대 고양이 천국 화단은 진짜 캣닢 정원입니다. 클수록 좋죠! "
+  },
+  {
+    "id": "TXT_SimsObjects_09104",
+    "source_sha256": "f60554591b89299f47635f5deed924e6b25561f8af94e836d8830fbcfeccc5f0",
+    "ko": "소지품을 잘 챙기세요. 마을 광장에 쓰레기를 버리면 큰 벌금을 냅니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_09105",
+    "source_sha256": "7b7d1b17e1d75d5f0bbb58164baabe3e7270cd213000a6961a8309909835fa4c",
+    "ko": "마을 광장에는 반려동물을 배부르고 행복하게 해 줄 다양한 간식이 있습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_09106",
+    "source_sha256": "9674f16e3bf570b1631ae07ee59a3557ee050c05acd0657c9f573e03e611eec9",
+    "ko": "직장 때문에 지치셨나요? 기운이 필요하신가요? 간식 수레가 도와드립니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_09107",
+    "source_sha256": "69fb9d56fc91f262eac94b487c6d2d593328c17ca5e3d5b3a6e6d7d5f64dd8f3",
+    "ko": "보물 지도 조각을 찾았습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09112",
+    "source_sha256": "c1e1a0ba9d52af2cf313ae240cc05f499855d86233e2739ba7ca997126aa1e1f",
+    "ko": "이제는 이걸 해도 재미없어."
+  },
+  {
+    "id": "TXT_SimsObjects_09130",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09131",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09132",
+    "source_sha256": "6b5bc791476bb6d23b862a8766a8ff7638e372a267c8358e62fa6fc66c4ba0cc",
+    "ko": "이 부지를 떠나면 튜토리얼이 끝납니다. 계속하시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_09133",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09134",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09135",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09136",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09138",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09139",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09140",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09141",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09143",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09144",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09145",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09146",
+    "source_sha256": "b3eaa2e2022d9e1637427d7ee56c0bfa48714dfd59fddf98e711763e5a3ebb1e",
+    "ko": "$Me의 발견: 웅덩이 바닥에 보물 지도 조각이 있었지만 상어가 절반을 먹어 버렸습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09148",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09153",
+    "source_sha256": "38807a3ec2f449b5cf2a81c110dedfbfbb3b3a01d6b0b74fbdac2781cc720370",
+    "ko": "버디를 두고 갈 뻔했어요! 보도의 화살표를 다시 사용하고 갈 사람 선택 메뉴에서 버디의 이름을 체크하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09154",
+    "source_sha256": "5fbf870097867137c12308e6262aca0992ba240aa8c4435dfe15bdcde58e7943",
+    "ko": "마을 광장으로 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_09155",
+    "source_sha256": "82bc39f68192c34acd856492b182abf99cbb598ed049e4ad3234c8a347559cae",
+    "ko": "집으로 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_09161",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09162",
+    "source_sha256": "be503647c5fccc38097f5b7c06a6d86d64df4f1d4144b70f0c2bc2b9da3f5638",
+    "ko": "다리 건설 계속하기"
+  },
+  {
+    "id": "TXT_SimsObjects_09163",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09164",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09165",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09166",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09167",
+    "source_sha256": "69fb9d56fc91f262eac94b487c6d2d593328c17ca5e3d5b3a6e6d7d5f64dd8f3",
+    "ko": "보물 지도 조각을 찾았습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09169",
+    "source_sha256": "951558d2d3b5ce8639d748817775932799e8e9d332a230c9764abd7a69a14a7c",
+    "ko": "이 통로를 이용할 기력이 부족합니다. 휴식을 취하거나 더 좋은 침대를 만들어 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09170",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09171",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09172",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09173",
+    "source_sha256": "fdd88eb5ed05706d918928089f8e51c9a4d2f6d281b37cf9255336b8a42a7bd2",
+    "ko": "끌질 계속하기"
+  },
+  {
+    "id": "TXT_SimsObjects_09174",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09175",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09176",
+    "source_sha256": "9ad61d3bee3e8060ada1a8465798ccb4776ef963f02c244c4362bef610470578",
+    "ko": "$LocationNameLocal:0(으)로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_09177",
+    "source_sha256": "69fb9d56fc91f262eac94b487c6d2d593328c17ca5e3d5b3a6e6d7d5f64dd8f3",
+    "ko": "보물 지도 조각을 찾았습니다!"
+  }
+]

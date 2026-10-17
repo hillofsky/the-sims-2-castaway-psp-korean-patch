@@ -1,0 +1,537 @@
+[
+  {
+    "id": "TXT_SimsObjects_02720",
+    "source_sha256": "2c96298f9c9cc8dd84fe361fa37da4779e6148a350b7a90855f51521fa5e7972",
+    "ko": "감"
+  },
+  {
+    "id": "TXT_SimsObjects_02721",
+    "source_sha256": "9ee664ec3a7b3ab4452d207a9e6029706f87d2b6dd35e154362b58e37a4712d0",
+    "ko": "옛말에도 있죠... 건강하게 살려거든 하루에 감 하나를 먹으라고요."
+  },
+  {
+    "id": "TXT_SimsObjects_02722",
+    "source_sha256": "c9aa7f0c5b88b3554ffd6de288bb3878338ca2b5e7091150718d31061054924b",
+    "ko": "자트로파 열매"
+  },
+  {
+    "id": "TXT_SimsObjects_02723",
+    "source_sha256": "056fc62ef224bf82bf29a99dc56c1f819885020289e5afeee5e1b17933208442",
+    "ko": "즐거움이 가득한 또 하나의 독성 식물입니다. 자트로파 열매는 익히면 독성의 대부분을 없앨 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02724",
+    "source_sha256": "80421e0021c50527f28a00a856c834752d5ce3d3071e2c02a00479301975b81b",
+    "ko": "파인애플"
+  },
+  {
+    "id": "TXT_SimsObjects_02725",
+    "source_sha256": "025415f7b50c1d16d632792943fef9a3b4f15025d43f6a7b4056648eef3d2bb5",
+    "ko": "파인애플은 소나무도 사과도 아닙니다. 엄밀히는 장과이며 맛있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02726",
+    "source_sha256": "585a1ee56f12b9dff87c779dcc438d4edd5f92351f167cbb1191f92a74159126",
+    "ko": "붕아라야"
+  },
+  {
+    "id": "TXT_SimsObjects_02727",
+    "source_sha256": "a01c0a2886c023b0b70e5812c484986123de2ccffb6c5f42eac40790c85bf414",
+    "ko": "히비스커스의 향긋한 냄새라면 집 안에 어떤 악취가 가득해도 감쪽같이 가려줄 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02728",
+    "source_sha256": "6aeceab9b2085bc71de583a8ef66055e9dfd431a1e94c7b8f9ecf6514b579b17",
+    "ko": "눈물 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_02729",
+    "source_sha256": "8d8ced75c4637775085f8bc740d11729f2d184629e8375000b7c18e57efdf610",
+    "ko": "식물에게 말을 걸면 식물 건강에 좋습니다. 하지만 연약한 눈물 난초에게는 언제나 실내에서 쓰는 조용한 목소리로 말하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02730",
+    "source_sha256": "9a9123a4c9a74389ee9f86c1b59ff22d2020b65fe8ec687bd26ded5aaf040458",
+    "ko": "야자나무 화분"
+  },
+  {
+    "id": "TXT_SimsObjects_02731",
+    "source_sha256": "5dafda1af2baf40aaa813bf3bc86d7d88f0cf33af553465284723ddb6a5f22f1",
+    "ko": "바깥의 야자나무로도 부족하다면 이제 실내로 한 그루 들여놓을 기회입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02732",
+    "source_sha256": "b959f6112b6d31caf14ba0602454bd60a2d38310b9d6746a2277b8a18f6d36c0",
+    "ko": "실용적인 야외 화장실"
+  },
+  {
+    "id": "TXT_SimsObjects_02733",
+    "source_sha256": "181136033cecdcf3862d9ebb16f2fa70227b5849800ff1d5266439dc2ee5e345",
+    "ko": "드디어 볼일을 볼 나만의 공간이 생겼습니다. 이제 시간을 보낼 읽을거리만 좀 인쇄하면 되겠군요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_02734",
+    "source_sha256": "13b40bb37d2fabe6fdb1a8fc39993688d2c44de61dde2f198029af7f1051dd6e",
+    "ko": "호화로운 야외 화장실"
+  },
+  {
+    "id": "TXT_SimsObjects_02735",
+    "source_sha256": "db9885566d6d38ce42ec05672203248519362d638e1c5286b7ce8c53c4d7b970",
+    "ko": "이 고급 화장실에는 부족한 것이 없습니다. 기묘하게 파란 변기 물과 원숭이 안내원 정도를 빼면요."
+  },
+  {
+    "id": "TXT_SimsObjects_02736",
+    "source_sha256": "889db107fb5db3ccd3b771ba819fae1c9f070eaa83d142f9fbac75fa720ded80",
+    "ko": "실용적인 샤워 시설"
+  },
+  {
+    "id": "TXT_SimsObjects_02737",
+    "source_sha256": "b200a483ef59429f3d04d509dfaa829777f1b681a76a6f6e7fcf3b2012ed0b16",
+    "ko": "마지막으로 샤워한 게 언제인가요? 기억나지 않는다면 당장 샤워 시설을 만들 때입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02738",
+    "source_sha256": "7f7570ba4fe2a096bc73c1575734a4ff852c5eadd3f2706e9f5b01dab25dd536",
+    "ko": "호화로운 샤워 시설"
+  },
+  {
+    "id": "TXT_SimsObjects_02739",
+    "source_sha256": "ec36a8afcceb7d8747adac501dd50dc7fa6f278c74078dbca7e868840f9392a0",
+    "ko": "이렇게 복잡한 샤워 시설은 만들기 아주 어렵습니다. 버튼만 누르면 마법처럼 나타나게 할 수 있다면 좋을 텐데요."
+  },
+  {
+    "id": "TXT_SimsObjects_02742",
+    "source_sha256": "6f1d6affb6946da543f06c2d4b59a1ad5372b85a8c1db1b21baaf6d83220a233",
+    "ko": "자리공 열매"
+  },
+  {
+    "id": "TXT_SimsObjects_02743",
+    "source_sha256": "d74e753a82e3665ed9f45a16b70c092319176e39380164785c74e3e39afea594",
+    "ko": "정말 많은 것을 주는 열매입니다... 격렬한 구토와 선명한 보랏빛 입술 같은 것들 말이죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02744",
+    "source_sha256": "572dac4ffd6fb275d0949f7adf8975756efb1dbb2989198b2f51d75a3602277c",
+    "ko": "폼파노"
+  },
+  {
+    "id": "TXT_SimsObjects_02745",
+    "source_sha256": "4f7dcc4fe0019efa7542cb506098f85180589de4437867955d5f0188cda85a00",
+    "ko": "이가 없고 주둥이가 뭉툭한 폼파노는 그 누구도 겁주지 못합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02746",
+    "source_sha256": "95b3f901151d2810a02da40a1b6c4e6da628ed6c3f392ed82963e4ccc62f931a",
+    "ko": "쥐똥나무 열매"
+  },
+  {
+    "id": "TXT_SimsObjects_02747",
+    "source_sha256": "943b9c84ffd5b9a3b485671e9a6703d898037b1531e1d9beb25e7cac18faf583",
+    "ko": "잘 익은 쥐똥나무 열매는 너무 맛있어서 보라색 자체의 맛이 느껴질 지경입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02748",
+    "source_sha256": "c6c5211a50793ccc36daff5d97003daf1a6c481267f83757a59ca657a5654bef",
+    "ko": "호박"
+  },
+  {
+    "id": "TXT_SimsObjects_02749",
+    "source_sha256": "8d63eb551f8e95e54d433c0d7d7de27965803d6cf3f19607ec657268954e3100",
+    "ko": "호박은 꽃에서 자라므로 사실 과일입니다. 하지만 아무도 별로 신경 쓰지 않죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02750",
+    "source_sha256": "d3a67324df30343cc64c7dec496d5a58a65408177afde9d4b2ea70d6c03acb62",
+    "ko": "라디오 안테나"
+  },
+  {
+    "id": "TXT_SimsObjects_02751",
+    "source_sha256": "6b74819679992816b55ab19076f590c559eaa2cdc2b07638227dbf5268100546",
+    "ko": "일부 용접 부위가 부러져 라디오 본체에서 떨어졌지만, 핵심 전기 계통은 놀랄 만큼 멀쩡합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02752",
+    "source_sha256": "116cf3b41a4ee2d2039db9398fd6d52848096d55867f616bedfcb411c6b46291",
+    "ko": "무지개송어"
+  },
+  {
+    "id": "TXT_SimsObjects_02753",
+    "source_sha256": "3a2ce7c2858669911ef6ad6ca5fef4c8b2a71689e8a61331a0606287d66de3b0",
+    "ko": "무지개송어의 끝에는 물고기 냄새 나는 황금 단지가 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02754",
+    "source_sha256": "6b9e1f86100c7a63b855407d3032e014cb668c33aec60779cbe1c24381da0980",
+    "ko": "라즈베리"
+  },
+  {
+    "id": "TXT_SimsObjects_02755",
+    "source_sha256": "ba61515a1e1d9626c71e1935df6fdfdb3244016b50c03c158c6d3acb16b92ca6",
+    "ko": "입으로 내는 야유 소리와는 다릅니다. 새콤한 이 열매는 거의 모든 음식과 잘 어울립니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02757",
+    "source_sha256": "732d75a67c1cc62759a90716bb24ccc64d01353626a891a36455823b9bfb5c34",
+    "ko": "대나무와 달리 라탄은 속이 비어 있지 않으며, 계속 자라려면 다른 식물을 타고 올라가야 합니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02758",
+    "source_sha256": "644d909a1611af8b772f34683661274062984d2b241a4573d4a78f5fcd4b72b7",
+    "ko": "빨간 히비스커스"
+  },
+  {
+    "id": "TXT_SimsObjects_02759",
+    "source_sha256": "0dd6ae2c9fab199b56bacf60a33195fc30b1b4211224e31e312aa58a80e4a931",
+    "ko": "겨울 명절에는 빨간 히비스커스로 포인세티아를 대신해 축제 분위기를 낼 수 있습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02760",
+    "source_sha256": "2469c15b9906e5ac2dc25d05c54403c0c752ba48a4c1bb52c4fd1ab6e3adb1b7",
+    "ko": "붉은퉁돔"
+  },
+  {
+    "id": "TXT_SimsObjects_02761",
+    "source_sha256": "bd97c7c390328a7ff006ab2216977e197c9b2ebeba73d9e1c0aff2530260bdd6",
+    "ko": "수줍은 이 물고기는 늘 얼굴을 붉히기 때문에 붉은퉁돔이라는 이름을 얻었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02762",
+    "source_sha256": "ba5d5e10607e3533d325bf810dfb55c00bba7fb230a651bf8341ce1e02b5072b",
+    "ko": "레드피시"
+  },
+  {
+    "id": "TXT_SimsObjects_02763",
+    "source_sha256": "d45b93974f3874771c199f61a1d5a44f4e4155bf5a6504c46cd3a9fbfa781f18",
+    "ko": "레드피시에는 똑같은 두 가지 빨강으로 줄무늬가 그려져 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02764",
+    "source_sha256": "1b9bc7b7376e6c5c0f1042dfdd42ac68017d8cee72988967d7c670d40c466c85",
+    "ko": "쌀"
+  },
+  {
+    "id": "TXT_SimsObjects_02765",
+    "source_sha256": "8d3c0014211b057b74c491dac0073442d73f25c3673ded72373a000fc686a751",
+    "ko": "쌀은 수십억 년 동안 주식이었습니다. 공룡들이 끝내주는 에투페를 만들었다는 이야기는 널리 알려져 있죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02766",
+    "source_sha256": "20e17d635069242e7f7fc4dbb62188c462abafcc07fb1f4945696713005ee378",
+    "ko": "아주 작은 1x3 통나무집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02767",
+    "source_sha256": "e013905755da9a0f8cb757ae2ce768e999eafe8fa0b6add1c9596448018e62a3",
+    "ko": "자연의 횡포에 지쳤다면 강화한 이 지붕으로 한동안이나마 더 편안히 지내 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02768",
+    "source_sha256": "f12002ad107cde0ac1154ac609d7cbff8b04f724f7bfd8bc7dc5b7a05f477ba7",
+    "ko": "작은 3x4 통나무집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02769",
+    "source_sha256": "b0da7d7939c14606da92400df9b3df2bcf28b3163607b1d7cde9c6ea731b22ed",
+    "ko": "통나무집의 품질은 위에 얹은 지붕에 달렸고, 지붕의 품질은 만든 사람에게 달렸습니다. 부담이 팍팍 느껴지는군요!"
+  },
+  {
+    "id": "TXT_SimsObjects_02770",
+    "source_sha256": "d4e37fb13f6af107a61719ee12be0873d3bfa56a9096b8c07e567d7f3e47977a",
+    "ko": "보통 4x5 통나무집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02771",
+    "source_sha256": "da90fe73e2b9c70b3847885413ffe4bdd58c2c07a6915f706702d2754474b155",
+    "ko": "세 배로 강한 섬유 끈으로 묶어 만든 지붕입니다. 10년 품질 보증만 빼고 모두 갖췄습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02772",
+    "source_sha256": "3b3d8107a9b74315a089771ff9cd96e504969bbd4a032e051203356dfbea1b0d",
+    "ko": "큰 5x7 통나무집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02773",
+    "source_sha256": "0bede45000e4ff3df06db3e33711d6d7848714684cf7538e98dcb35f453aa7df",
+    "ko": "강한 생존 의지와 원시 도구를 자유롭게 다루는 솜씨가 있어야 이만큼 잘 만든 지붕이 나옵니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02774",
+    "source_sha256": "001cf9df189e29d64857a8a2dcdf98cc5d65066b8e9b020ded13fc870267a3a6",
+    "ko": "아주 작은 1x3 판잣집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02775",
+    "source_sha256": "01498faaff3cbecc840dcbfd344d0635941b2874ffec1f4830bb1b1d64c22f30",
+    "ko": "이 조그만 지붕은 물자를 보호하기에 좋습니다. 처참한 상황의 무게가 밀려올 때 밑에 웅크리고 있기에도 알맞습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02776",
+    "source_sha256": "20e6f75471a7a6471c63a2ef55ebc4fdddabd8dd3a86739c75f59cd8f4a2bd71",
+    "ko": "작은 3x4 판잣집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02777",
+    "source_sha256": "ca216589e4be8332735bf336921f0838b509103fb93cc10a2eca930c7523a05a",
+    "ko": "TV 프로그램 \"굴러다니는 아무것으로 작은 지붕 만들기\"를 보며 보낸 수많은 시간이 이제 큰 보답을 해줄 겁니다! "
+  },
+  {
+    "id": "TXT_SimsObjects_02778",
+    "source_sha256": "fc2c59c9ee38bfcf9fb5377a8f98207881f1404ed6b0d964d1a58cc1e13a6845",
+    "ko": "보통 4x5 판잣집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02779",
+    "source_sha256": "5df3b3a66e6b531d634e7afa2a641a9e041931ba724bc19236b6f3fe0c5862f3",
+    "ko": "난파 생존자 대부분은 처음에는 보통 크기의 지붕을 고릅니다. 여러분도 이 유행을 따라갈 건가요?"
+  },
+  {
+    "id": "TXT_SimsObjects_02780",
+    "source_sha256": "abe9ba5a54c18afff1b85dddffb656b02d737903c8f1d6699bd2a1016e1b9327",
+    "ko": "큰 5x7 판잣집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02781",
+    "source_sha256": "208e2bca03511db1e8efbfc99eb403702376f2186980f1b88ff85498b2d7b52c",
+    "ko": "갓 난파했으니 거처를 마련하고 싶은 마음이 간절하겠죠. 이왕이면 가능한 한 가장 큰 집으로 자신을 대접해 보세요. "
+  },
+  {
+    "id": "TXT_SimsObjects_02782",
+    "source_sha256": "5b1f68b1fc3add26038825c9132682e6b3640ca7fbb13f651ff04c20236d8f36",
+    "ko": "아주 작은 1x3 방갈로 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02783",
+    "source_sha256": "a1351fff6d2d874edf3b7ad88e8fe7e79efedcc76047335862b3e6754c164ac7",
+    "ko": "지붕은 뒤집힌 천장에 불과하다는 사람도 있습니다. 하지만 이 근사한 작품은 그런 시야가 얼마나 좁은지 보여줍니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02784",
+    "source_sha256": "3d4313a93170f6ccfeb6910cebffce24051899bdf6e2074160c9b19ccbdfa399",
+    "ko": "작은 3x4 방갈로 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02785",
+    "source_sha256": "2fa1f288d91972ec7510ad02415eeb583fa706c87a94ca850bf91c24d1d875c5",
+    "ko": "문명에서 멀어졌다고 모양과 기능을 세련되게 조화시킨 작은 지붕까지 포기할 필요는 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02786",
+    "source_sha256": "1c27cf4bcb27187c9f52e141cc115b810ef8ff86bdf137b651b6cd6d4d81ab8f",
+    "ko": "보통 4x5 방갈로 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02787",
+    "source_sha256": "49378ef2803e6174314dca29f383f68a5dfb77340d967acae1a8322af6c02bfc",
+    "ko": "대담하고 튼튼하며 멋스럽습니다. 지붕 경연 대회가 있다면 분명 1등을 할 만한 지붕이죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02788",
+    "source_sha256": "7b378557995dc2457835670dacd7f1515ca4e0d88c62f756d4ccb79e8bff6474",
+    "ko": "큰 5x7 방갈로 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02789",
+    "source_sha256": "ad94d874e1b8353dd270af21a6fdb6ac1cb31a3a180fccf856c57095ab147f38",
+    "ko": "섬 거처의 궁극적인 지붕입니다. 크고 잘 만든 이 지붕이라면 최고급 열대 휴양지도 부러워할 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02790",
+    "source_sha256": "d501aacc0e68e325b81b1ced03e46a0322ca779d78f2614231d7743a35804daf",
+    "ko": "아주 작은 1x3 오두막 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02791",
+    "source_sha256": "463ba5ffef6d2637d952467c0d506b00672285dadc880366d0de62738a71048d",
+    "ko": "지붕을 올리는 일은 흥을 돋우기 위해서만이 아닙니다. 초라한 집을 아늑한 오두막으로 바꾸는 중요한 단계이기도 하죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02792",
+    "source_sha256": "f2ccac4bcb6c7adbe042c8ebf4fbac0e16aee43142926b9e4b7d95f1e68cb4ea",
+    "ko": "작은 3x4 오두막 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02793",
+    "source_sha256": "b96fef0fe626310b42491952b88654b8d6ad11a2fa0df6301aa0a59df072f90b",
+    "ko": "바람과 비, 심술궂은 새들의 끊임없는 위협 때문에 더 믿음직한 지붕이 필요합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02794",
+    "source_sha256": "5686ad441174a7aa8cc2426dccc43157afd7d6b5149f8e32b93b4c7ba2ebb143",
+    "ko": "보통 4x5 오두막 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02795",
+    "source_sha256": "5045ef79657d55ee70e2bfde557e56b066c6a630829dccd2281b8bb47c8d69b8",
+    "ko": "지난번 지붕이 바다로 날아갔다면 돌아오길 기다리지 마세요. 대신 더 튼튼한 이 디자인으로 바꿔 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02796",
+    "source_sha256": "e1499f02642a545e27bd7be68dbe106891f8e418bbbd4612e7600c40c21ef97e",
+    "ko": "큰 5x7 오두막 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02797",
+    "source_sha256": "7d57185ae38b9d1ebd7c304cdb992dccac20866649ded8b85f7d4c00cb8b29d7",
+    "ko": "불 가까이에 거처를 지으면 \"지붕에 불났다\"는 말이 비유로 끝나지 않을 수도 있습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02798",
+    "source_sha256": "525ddfb68067f0b7516e55d076dcdff6501add3e9d01d5b65d577f4db378186d",
+    "ko": "미니 2x2 판잣집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_02799",
+    "source_sha256": "e119b823c2b918e572b64b74eb717f00ead5b726d3a445189494acae0e94e838",
+    "ko": "판잣집에 모자를, 오두막에 두건을, 통나무집에 챙모자를, 방갈로에 보닛을 씌우는 데 필요한 모든 것을 갖췄습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02800",
+    "source_sha256": "b6337bdcf05e243e2e92750e7b156ae2d4a135f2cdcda2a8f1f5a37055af13a2",
+    "ko": "밧줄"
+  },
+  {
+    "id": "TXT_SimsObjects_02801",
+    "source_sha256": "40d72b1f685c21e748dc00bdbba0f49034428991e05ddb82ce05535a680965f1",
+    "ko": "밧줄 끝에 다다랐다면 묶어두고 새 밧줄을 엮으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02802",
+    "source_sha256": "a536f82c99987e29be769bfcb033a4e513a8b79ebc27b5d70a97ac24d4aadf28",
+    "ko": "부용 뿌리"
+  },
+  {
+    "id": "TXT_SimsObjects_02803",
+    "source_sha256": "cdd656cf452c88dd1dcca7ce01dcf2329ef8271fb613686608daa195fe0c6c24",
+    "ko": "부용은 키가 8피트까지 자랄 수 있으며, 정확히 뭔지는 몰라도 좋아 보이는 약효가 여럿 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02804",
+    "source_sha256": "3363a191685de971571a1096d323c39a931f8b040993dab12dfa756b2e87983f",
+    "ko": "통나무집 깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_02805",
+    "source_sha256": "20f97ae8d1716560f9c2f82788f9ae764216b4a2e75b0c5c024a8a55824d5099",
+    "ko": "옛날에는 사람 머리카락으로 깔개를 만들었습니다. 필요해서가 아니라 그게 당시의 으스스한 유행이었기 때문입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02806",
+    "source_sha256": "2383e42ea9b314ea7430ccc20ce165379a698f71a88d908f249b0f0392e19f71",
+    "ko": "판잣집 깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_02807",
+    "source_sha256": "7297af7c0f83e499fe3541e5d9710208c93be8c3ea4f3bb01fd560e338e863d4",
+    "ko": "깔개가 없다면 어느 날 실수로 바닥에서 잠들었다가 온몸에 생물들이 붙은 채 깨어나도 놀라지 마세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02808",
+    "source_sha256": "e080fdab2826c03f2a3d5c7a03ead0e39a349163258f2848f1e9336977415d9d",
+    "ko": "오두막 깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_02809",
+    "source_sha256": "95c677b65fb13c45bad8c6d803b6b0b6811bf1541b4f19718371d459b003c63c",
+    "ko": "재미있는 실험을 해보세요. 이 깔개를 다 짜면 벌레 몇 마리를 감싸 얼마나 포근한지 시험하는 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02810",
+    "source_sha256": "505b09852b51216d452808d0fae2e3eba8650234bc485d6e093423e05cfc6fe8",
+    "ko": "럼베리"
+  },
+  {
+    "id": "TXT_SimsObjects_02811",
+    "source_sha256": "5d22c27c9690471f1fadccf05d6372caac56db95074780797574485535dee033",
+    "ko": "\"요호호, 럼베리 과실주 한 병\"이라는 말은 나중에 해적들이 더 거칠어 보이도록 짧게 바뀌었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02812",
+    "source_sha256": "8bcaaf627dccfdc6dd34069d82e04934cb528203d6791dc0192c5ef4e9a1ee3c",
+    "ko": "무지개러너 연어"
+  },
+  {
+    "id": "TXT_SimsObjects_02813",
+    "source_sha256": "1ef4882348842e57d575ec58773e586c324a22bef6f6eb63ac465ef3d7463d7d",
+    "ko": "대전쟁 때 무지개러너는 해군의 전서구 역할을 했습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02814",
+    "source_sha256": "7ec720b594e1a2584895f7039b9065c92c7dba9b51c2ef1ffd25f4e3105d3370",
+    "ko": "모래 친구"
+  },
+  {
+    "id": "TXT_SimsObjects_02815",
+    "source_sha256": "5e8866f070b8611e149b9dac3ccd5ee567ec93ce00e4d7ab21a7bd654d918480",
+    "ko": "모래 친구는 표류자만을 위한 것이 아닙니다. 세계 곳곳의 사람들이 모래 우정만의 특별한 보람을 발견하고 있습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_02816",
+    "source_sha256": "2c4270aad2c69c06729704775286edf81d6eaa7e283ae2def80314334902e767",
+    "ko": "백단나무"
+  },
+  {
+    "id": "TXT_SimsObjects_02817",
+    "source_sha256": "5328ae3ff1f2ec7a15aa3f1142c99e6efe2f41aab9327c56d869fad613746dec",
+    "ko": "나막신은 백단나무로 깎지 않습니다. 이 나무에 원래 냄새를 없애는 향이 있다는 걸 생각하면 아이러니하죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02818",
+    "source_sha256": "192cf0d7bf3ef0b319f7fa0f245bbec97daa1c0947a2ce72185e4a75d843918c",
+    "ko": "모래톱상어"
+  },
+  {
+    "id": "TXT_SimsObjects_02819",
+    "source_sha256": "c19ecf898290192dc0852e5d5906de2948ea6cf5f6e72d5a5310a0c3adb60d3a",
+    "ko": "이 상어가 모래톱에 모습을 드러내면 언제나 해피아워입니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02820",
+    "source_sha256": "233bfb5afc5a6d33c1bd35e5963f885117699fece9bb6963888c49a87f8834e6",
+    "ko": "정어리"
+  },
+  {
+    "id": "TXT_SimsObjects_02821",
+    "source_sha256": "45777b2834f71e090bc3528c9f9a1c46a24dde2feef5399415d04fb670bef35f",
+    "ko": "엄청난 수에 비해 집은 작아서, 이 물고기들은 정어리 통조림처럼 빽빽하게 모여 삽니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02822",
+    "source_sha256": "5fbe71c7c3a432aa56423dece5623ed3bf9a4e6d8f8c20bff76955947c4db2f1",
+    "ko": "허수아비"
+  },
+  {
+    "id": "TXT_SimsObjects_02823",
+    "source_sha256": "76e52b0c7500bc10074575ae00032c3a0ddb0879402ca7f4b5044f0c606fa892",
+    "ko": "허수아비는 원예를 방해하는 악당들을 쫓도록 만든 기묘한 농장 인형입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02824",
+    "source_sha256": "07dcdc3b702a33ce64fbf7203a15b91f77e6d97e6d35f5c2c1429c0c06b67f3e",
+    "ko": "둑중개"
+  },
+  {
+    "id": "TXT_SimsObjects_02825",
+    "source_sha256": "f9f171a139845f67eac5da250ecfddb974713d6ebe096563c5704e87bb7c56c1",
+    "ko": "둑중개는 타고난 땡땡이로, 무리를 빠져나와 \"멋진\" 물고기들과 어울리곤 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02826",
+    "source_sha256": "89b6d85fce2f1a03fd794e9221db428d26c5904cd2e89552da393cc4f60ff3d9",
+    "ko": "농어"
+  },
+  {
+    "id": "TXT_SimsObjects_02827",
+    "source_sha256": "0f13448bc53b007f546649998e0ae50036984f73b2356ff43ef612da176eb8e1",
+    "ko": "이제 농어가 보이네요. 앗, 사라졌습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02828",
+    "source_sha256": "002cd44506fc153ad4901d450b6df4652c8411e08c4b8cee7655ce4be0ead69c",
+    "ko": "바느질 도구"
+  },
+  {
+    "id": "TXT_SimsObjects_02829",
+    "source_sha256": "188f32cd855bc7f4f6f2849dbcbb72909cf5a10ad601071b495bdb3d2f07c423",
+    "ko": "노련한 표류자들은 찢어진 천이 웃을 일이 아니라는 걸 압니다. 바지가 찢어졌는데 손에 바느질 도구도 없다면 모를까요."
+  }
+]

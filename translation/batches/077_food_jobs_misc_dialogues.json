@@ -1,0 +1,1497 @@
+[
+  {
+    "id": "TXT_SimsObjects_08188",
+    "source_sha256": "926281f1f59a65f98e961aa72cdc52f5a72369e18b69f2afdff68573daa4ce7a",
+    "ko": "이제 별로 재미없는 것 같아. 나중에 하자."
+  },
+  {
+    "id": "TXT_SimsObjects_08193",
+    "source_sha256": "2cd17339fc78750841482e85c19c3a11de313aa2b5d21fe0eead5b5c7572f552",
+    "ko": "임시 너무 우울해서 공부할 수 없어."
+  },
+  {
+    "id": "TXT_SimsObjects_08198",
+    "source_sha256": "5936d8e65667e419f28d516b6d8b2f9732319a744f0f5881c967f8afba6a3f83",
+    "ko": "임시 책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08199",
+    "source_sha256": "dd9f8815f628e70e2020f5df393b5923425f4c9f2e5675299281d26300ee6dcc",
+    "ko": "임시 일기 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08200",
+    "source_sha256": "765817b076c211aa5c5953eacecf2c4e70dee712bdeb63f07cbf26a16ee8704b",
+    "ko": "임시 요리 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08201",
+    "source_sha256": "38cd4fc987160174e183d4911314650753bd1ace44f396457d0e56054164ebcc",
+    "ko": "임시 기계 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08202",
+    "source_sha256": "9b26169f12b361e5a53546331575c964b2e783d53a05116e35290809ae0c923e",
+    "ko": "임시 청소 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08203",
+    "source_sha256": "f0e8da7a702895e6f551d4e6e66ee84c210a004a9171c5789e12e46b3921adfb",
+    "ko": "임시 책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08204",
+    "source_sha256": "99a84a6c55ad42998388dcd59e3457fb44bb37d9c2257ee7f1042c6977d385a4",
+    "ko": "임시 일기장 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08205",
+    "source_sha256": "2b62af0ce0be7ec3413dee89c6ac57dd21ffb30b30f94528e5463f1e73e66130",
+    "ko": "임시 요리책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08206",
+    "source_sha256": "693d15bd5e8253d6e94c5f968fdd85684d870856023861e76135bd2d14e2c396",
+    "ko": "임시 기계 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08207",
+    "source_sha256": "f084a87a78e80c3ca0649784da2022de9f30c3a8dec219fe2e722d8c76a2e3e7",
+    "ko": "임시 청소 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08208",
+    "source_sha256": "1171ef18be8bd219c6f408fbbb80202c5fb4c4269f381c348316651c8e7b5344",
+    "ko": "임시 앉아서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08209",
+    "source_sha256": "022dd0d83d266709d2e785acf869e6bbb62a218c4d563f8d301ee26a4a12c5c1",
+    "ko": "임시 앉아서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08210",
+    "source_sha256": "d6b685aa431384e38958ed2b2098572439cdd01e3dd33d2761ee526b75168948",
+    "ko": "임시 누워서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08211",
+    "source_sha256": "ddc82d50453e38b436ddf45855c9a158ba62111f5cf0ac4017aadc0ae95ad401",
+    "ko": "임시 누워서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08213",
+    "source_sha256": "926281f1f59a65f98e961aa72cdc52f5a72369e18b69f2afdff68573daa4ce7a",
+    "ko": "이제 별로 재미없는 것 같아. 나중에 하자."
+  },
+  {
+    "id": "TXT_SimsObjects_08218",
+    "source_sha256": "a9266228935add252f93dbc15b722048a0a9aa5aec7ffbda8b8442037f25b827",
+    "ko": "임시 너무 우울해서 공부할 수 없어."
+  },
+  {
+    "id": "TXT_SimsObjects_08223",
+    "source_sha256": "5936d8e65667e419f28d516b6d8b2f9732319a744f0f5881c967f8afba6a3f83",
+    "ko": "임시 책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08224",
+    "source_sha256": "dd9f8815f628e70e2020f5df393b5923425f4c9f2e5675299281d26300ee6dcc",
+    "ko": "임시 일기 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08225",
+    "source_sha256": "848bea778b3bf49db08cdcbc9b476dc205c71a7d0cb3efe0d81f6c120ab600c5",
+    "ko": "임시 요리 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08226",
+    "source_sha256": "38cd4fc987160174e183d4911314650753bd1ace44f396457d0e56054164ebcc",
+    "ko": "임시 기계 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08227",
+    "source_sha256": "9b26169f12b361e5a53546331575c964b2e783d53a05116e35290809ae0c923e",
+    "ko": "임시 청소 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08228",
+    "source_sha256": "f0e8da7a702895e6f551d4e6e66ee84c210a004a9171c5789e12e46b3921adfb",
+    "ko": "임시 책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08229",
+    "source_sha256": "99a84a6c55ad42998388dcd59e3457fb44bb37d9c2257ee7f1042c6977d385a4",
+    "ko": "임시 일기장 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08230",
+    "source_sha256": "2b62af0ce0be7ec3413dee89c6ac57dd21ffb30b30f94528e5463f1e73e66130",
+    "ko": "임시 요리책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08231",
+    "source_sha256": "693d15bd5e8253d6e94c5f968fdd85684d870856023861e76135bd2d14e2c396",
+    "ko": "임시 기계 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08232",
+    "source_sha256": "f084a87a78e80c3ca0649784da2022de9f30c3a8dec219fe2e722d8c76a2e3e7",
+    "ko": "임시 청소 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08233",
+    "source_sha256": "1171ef18be8bd219c6f408fbbb80202c5fb4c4269f381c348316651c8e7b5344",
+    "ko": "임시 앉아서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08234",
+    "source_sha256": "022dd0d83d266709d2e785acf869e6bbb62a218c4d563f8d301ee26a4a12c5c1",
+    "ko": "임시 앉아서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08235",
+    "source_sha256": "d6b685aa431384e38958ed2b2098572439cdd01e3dd33d2761ee526b75168948",
+    "ko": "임시 누워서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08236",
+    "source_sha256": "ddc82d50453e38b436ddf45855c9a158ba62111f5cf0ac4017aadc0ae95ad401",
+    "ko": "임시 누워서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08238",
+    "source_sha256": "926281f1f59a65f98e961aa72cdc52f5a72369e18b69f2afdff68573daa4ce7a",
+    "ko": "이제 별로 재미없는 것 같아. 나중에 하자."
+  },
+  {
+    "id": "TXT_SimsObjects_08243",
+    "source_sha256": "2cd17339fc78750841482e85c19c3a11de313aa2b5d21fe0eead5b5c7572f552",
+    "ko": "임시 너무 우울해서 공부할 수 없어."
+  },
+  {
+    "id": "TXT_SimsObjects_08248",
+    "source_sha256": "5936d8e65667e419f28d516b6d8b2f9732319a744f0f5881c967f8afba6a3f83",
+    "ko": "임시 책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08249",
+    "source_sha256": "dd9f8815f628e70e2020f5df393b5923425f4c9f2e5675299281d26300ee6dcc",
+    "ko": "임시 일기 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08250",
+    "source_sha256": "765817b076c211aa5c5953eacecf2c4e70dee712bdeb63f07cbf26a16ee8704b",
+    "ko": "임시 요리 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08251",
+    "source_sha256": "38cd4fc987160174e183d4911314650753bd1ace44f396457d0e56054164ebcc",
+    "ko": "임시 기계 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08252",
+    "source_sha256": "9b26169f12b361e5a53546331575c964b2e783d53a05116e35290809ae0c923e",
+    "ko": "임시 청소 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08253",
+    "source_sha256": "f0e8da7a702895e6f551d4e6e66ee84c210a004a9171c5789e12e46b3921adfb",
+    "ko": "임시 책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08254",
+    "source_sha256": "99a84a6c55ad42998388dcd59e3457fb44bb37d9c2257ee7f1042c6977d385a4",
+    "ko": "임시 일기장 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08255",
+    "source_sha256": "2b62af0ce0be7ec3413dee89c6ac57dd21ffb30b30f94528e5463f1e73e66130",
+    "ko": "임시 요리책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08256",
+    "source_sha256": "693d15bd5e8253d6e94c5f968fdd85684d870856023861e76135bd2d14e2c396",
+    "ko": "임시 기계 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08257",
+    "source_sha256": "f084a87a78e80c3ca0649784da2022de9f30c3a8dec219fe2e722d8c76a2e3e7",
+    "ko": "임시 청소 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08258",
+    "source_sha256": "1171ef18be8bd219c6f408fbbb80202c5fb4c4269f381c348316651c8e7b5344",
+    "ko": "임시 앉아서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08259",
+    "source_sha256": "022dd0d83d266709d2e785acf869e6bbb62a218c4d563f8d301ee26a4a12c5c1",
+    "ko": "임시 앉아서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08260",
+    "source_sha256": "d6b685aa431384e38958ed2b2098572439cdd01e3dd33d2761ee526b75168948",
+    "ko": "임시 누워서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08261",
+    "source_sha256": "ddc82d50453e38b436ddf45855c9a158ba62111f5cf0ac4017aadc0ae95ad401",
+    "ko": "임시 누워서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08263",
+    "source_sha256": "926281f1f59a65f98e961aa72cdc52f5a72369e18b69f2afdff68573daa4ce7a",
+    "ko": "이제 별로 재미없는 것 같아. 나중에 하자."
+  },
+  {
+    "id": "TXT_SimsObjects_08268",
+    "source_sha256": "2cd17339fc78750841482e85c19c3a11de313aa2b5d21fe0eead5b5c7572f552",
+    "ko": "임시 너무 우울해서 공부할 수 없어."
+  },
+  {
+    "id": "TXT_SimsObjects_08273",
+    "source_sha256": "5936d8e65667e419f28d516b6d8b2f9732319a744f0f5881c967f8afba6a3f83",
+    "ko": "임시 책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08274",
+    "source_sha256": "dd9f8815f628e70e2020f5df393b5923425f4c9f2e5675299281d26300ee6dcc",
+    "ko": "임시 일기 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08275",
+    "source_sha256": "765817b076c211aa5c5953eacecf2c4e70dee712bdeb63f07cbf26a16ee8704b",
+    "ko": "임시 요리 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08276",
+    "source_sha256": "38cd4fc987160174e183d4911314650753bd1ace44f396457d0e56054164ebcc",
+    "ko": "임시 기계 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08277",
+    "source_sha256": "9b26169f12b361e5a53546331575c964b2e783d53a05116e35290809ae0c923e",
+    "ko": "임시 청소 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08278",
+    "source_sha256": "f0e8da7a702895e6f551d4e6e66ee84c210a004a9171c5789e12e46b3921adfb",
+    "ko": "임시 책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08279",
+    "source_sha256": "99a84a6c55ad42998388dcd59e3457fb44bb37d9c2257ee7f1042c6977d385a4",
+    "ko": "임시 일기장 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08280",
+    "source_sha256": "2b62af0ce0be7ec3413dee89c6ac57dd21ffb30b30f94528e5463f1e73e66130",
+    "ko": "임시 요리책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08281",
+    "source_sha256": "693d15bd5e8253d6e94c5f968fdd85684d870856023861e76135bd2d14e2c396",
+    "ko": "임시 기계 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08282",
+    "source_sha256": "f084a87a78e80c3ca0649784da2022de9f30c3a8dec219fe2e722d8c76a2e3e7",
+    "ko": "임시 청소 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08283",
+    "source_sha256": "1171ef18be8bd219c6f408fbbb80202c5fb4c4269f381c348316651c8e7b5344",
+    "ko": "임시 앉아서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08284",
+    "source_sha256": "022dd0d83d266709d2e785acf869e6bbb62a218c4d563f8d301ee26a4a12c5c1",
+    "ko": "임시 앉아서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08285",
+    "source_sha256": "d6b685aa431384e38958ed2b2098572439cdd01e3dd33d2761ee526b75168948",
+    "ko": "임시 누워서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08286",
+    "source_sha256": "ddc82d50453e38b436ddf45855c9a158ba62111f5cf0ac4017aadc0ae95ad401",
+    "ko": "임시 누워서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08288",
+    "source_sha256": "926281f1f59a65f98e961aa72cdc52f5a72369e18b69f2afdff68573daa4ce7a",
+    "ko": "이제 별로 재미없는 것 같아. 나중에 하자."
+  },
+  {
+    "id": "TXT_SimsObjects_08293",
+    "source_sha256": "2cd17339fc78750841482e85c19c3a11de313aa2b5d21fe0eead5b5c7572f552",
+    "ko": "임시 너무 우울해서 공부할 수 없어."
+  },
+  {
+    "id": "TXT_SimsObjects_08298",
+    "source_sha256": "5936d8e65667e419f28d516b6d8b2f9732319a744f0f5881c967f8afba6a3f83",
+    "ko": "임시 책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08299",
+    "source_sha256": "dd9f8815f628e70e2020f5df393b5923425f4c9f2e5675299281d26300ee6dcc",
+    "ko": "임시 일기 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08300",
+    "source_sha256": "765817b076c211aa5c5953eacecf2c4e70dee712bdeb63f07cbf26a16ee8704b",
+    "ko": "임시 요리 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08301",
+    "source_sha256": "38cd4fc987160174e183d4911314650753bd1ace44f396457d0e56054164ebcc",
+    "ko": "임시 기계 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08302",
+    "source_sha256": "9b26169f12b361e5a53546331575c964b2e783d53a05116e35290809ae0c923e",
+    "ko": "임시 청소 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08303",
+    "source_sha256": "f0e8da7a702895e6f551d4e6e66ee84c210a004a9171c5789e12e46b3921adfb",
+    "ko": "임시 책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08304",
+    "source_sha256": "99a84a6c55ad42998388dcd59e3457fb44bb37d9c2257ee7f1042c6977d385a4",
+    "ko": "임시 일기장 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08305",
+    "source_sha256": "2b62af0ce0be7ec3413dee89c6ac57dd21ffb30b30f94528e5463f1e73e66130",
+    "ko": "임시 요리책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08306",
+    "source_sha256": "693d15bd5e8253d6e94c5f968fdd85684d870856023861e76135bd2d14e2c396",
+    "ko": "임시 기계 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08307",
+    "source_sha256": "f084a87a78e80c3ca0649784da2022de9f30c3a8dec219fe2e722d8c76a2e3e7",
+    "ko": "임시 청소 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08308",
+    "source_sha256": "1171ef18be8bd219c6f408fbbb80202c5fb4c4269f381c348316651c8e7b5344",
+    "ko": "임시 앉아서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08309",
+    "source_sha256": "022dd0d83d266709d2e785acf869e6bbb62a218c4d563f8d301ee26a4a12c5c1",
+    "ko": "임시 앉아서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08310",
+    "source_sha256": "d6b685aa431384e38958ed2b2098572439cdd01e3dd33d2761ee526b75168948",
+    "ko": "임시 누워서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08311",
+    "source_sha256": "ddc82d50453e38b436ddf45855c9a158ba62111f5cf0ac4017aadc0ae95ad401",
+    "ko": "임시 누워서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08318",
+    "source_sha256": "2cd17339fc78750841482e85c19c3a11de313aa2b5d21fe0eead5b5c7572f552",
+    "ko": "임시 너무 우울해서 공부할 수 없어."
+  },
+  {
+    "id": "TXT_SimsObjects_08323",
+    "source_sha256": "5936d8e65667e419f28d516b6d8b2f9732319a744f0f5881c967f8afba6a3f83",
+    "ko": "임시 책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08324",
+    "source_sha256": "dd9f8815f628e70e2020f5df393b5923425f4c9f2e5675299281d26300ee6dcc",
+    "ko": "임시 일기 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08325",
+    "source_sha256": "765817b076c211aa5c5953eacecf2c4e70dee712bdeb63f07cbf26a16ee8704b",
+    "ko": "임시 요리 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08326",
+    "source_sha256": "38cd4fc987160174e183d4911314650753bd1ace44f396457d0e56054164ebcc",
+    "ko": "임시 기계 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08327",
+    "source_sha256": "9b26169f12b361e5a53546331575c964b2e783d53a05116e35290809ae0c923e",
+    "ko": "임시 청소 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08328",
+    "source_sha256": "f0e8da7a702895e6f551d4e6e66ee84c210a004a9171c5789e12e46b3921adfb",
+    "ko": "임시 책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08329",
+    "source_sha256": "99a84a6c55ad42998388dcd59e3457fb44bb37d9c2257ee7f1042c6977d385a4",
+    "ko": "임시 일기장 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08330",
+    "source_sha256": "2b62af0ce0be7ec3413dee89c6ac57dd21ffb30b30f94528e5463f1e73e66130",
+    "ko": "임시 요리책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08331",
+    "source_sha256": "693d15bd5e8253d6e94c5f968fdd85684d870856023861e76135bd2d14e2c396",
+    "ko": "임시 기계 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08332",
+    "source_sha256": "f084a87a78e80c3ca0649784da2022de9f30c3a8dec219fe2e722d8c76a2e3e7",
+    "ko": "임시 청소 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08333",
+    "source_sha256": "1171ef18be8bd219c6f408fbbb80202c5fb4c4269f381c348316651c8e7b5344",
+    "ko": "임시 앉아서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08334",
+    "source_sha256": "022dd0d83d266709d2e785acf869e6bbb62a218c4d563f8d301ee26a4a12c5c1",
+    "ko": "임시 앉아서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08335",
+    "source_sha256": "d6b685aa431384e38958ed2b2098572439cdd01e3dd33d2761ee526b75168948",
+    "ko": "임시 누워서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08336",
+    "source_sha256": "ddc82d50453e38b436ddf45855c9a158ba62111f5cf0ac4017aadc0ae95ad401",
+    "ko": "임시 누워서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08343",
+    "source_sha256": "2cd17339fc78750841482e85c19c3a11de313aa2b5d21fe0eead5b5c7572f552",
+    "ko": "임시 너무 우울해서 공부할 수 없어."
+  },
+  {
+    "id": "TXT_SimsObjects_08348",
+    "source_sha256": "5936d8e65667e419f28d516b6d8b2f9732319a744f0f5881c967f8afba6a3f83",
+    "ko": "임시 책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08349",
+    "source_sha256": "dd9f8815f628e70e2020f5df393b5923425f4c9f2e5675299281d26300ee6dcc",
+    "ko": "임시 일기 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08350",
+    "source_sha256": "765817b076c211aa5c5953eacecf2c4e70dee712bdeb63f07cbf26a16ee8704b",
+    "ko": "임시 요리 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08351",
+    "source_sha256": "38cd4fc987160174e183d4911314650753bd1ace44f396457d0e56054164ebcc",
+    "ko": "임시 기계 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08352",
+    "source_sha256": "9b26169f12b361e5a53546331575c964b2e783d53a05116e35290809ae0c923e",
+    "ko": "임시 청소 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08353",
+    "source_sha256": "f0e8da7a702895e6f551d4e6e66ee84c210a004a9171c5789e12e46b3921adfb",
+    "ko": "임시 책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08354",
+    "source_sha256": "99a84a6c55ad42998388dcd59e3457fb44bb37d9c2257ee7f1042c6977d385a4",
+    "ko": "임시 일기장 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08355",
+    "source_sha256": "2b62af0ce0be7ec3413dee89c6ac57dd21ffb30b30f94528e5463f1e73e66130",
+    "ko": "임시 요리책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08356",
+    "source_sha256": "693d15bd5e8253d6e94c5f968fdd85684d870856023861e76135bd2d14e2c396",
+    "ko": "임시 기계 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08357",
+    "source_sha256": "f084a87a78e80c3ca0649784da2022de9f30c3a8dec219fe2e722d8c76a2e3e7",
+    "ko": "임시 청소 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08358",
+    "source_sha256": "1171ef18be8bd219c6f408fbbb80202c5fb4c4269f381c348316651c8e7b5344",
+    "ko": "임시 앉아서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08359",
+    "source_sha256": "022dd0d83d266709d2e785acf869e6bbb62a218c4d563f8d301ee26a4a12c5c1",
+    "ko": "임시 앉아서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08360",
+    "source_sha256": "d6b685aa431384e38958ed2b2098572439cdd01e3dd33d2761ee526b75168948",
+    "ko": "임시 누워서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08361",
+    "source_sha256": "ddc82d50453e38b436ddf45855c9a158ba62111f5cf0ac4017aadc0ae95ad401",
+    "ko": "임시 누워서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08368",
+    "source_sha256": "2cd17339fc78750841482e85c19c3a11de313aa2b5d21fe0eead5b5c7572f552",
+    "ko": "임시 너무 우울해서 공부할 수 없어."
+  },
+  {
+    "id": "TXT_SimsObjects_08373",
+    "source_sha256": "5936d8e65667e419f28d516b6d8b2f9732319a744f0f5881c967f8afba6a3f83",
+    "ko": "임시 책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08374",
+    "source_sha256": "dd9f8815f628e70e2020f5df393b5923425f4c9f2e5675299281d26300ee6dcc",
+    "ko": "임시 일기 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08375",
+    "source_sha256": "765817b076c211aa5c5953eacecf2c4e70dee712bdeb63f07cbf26a16ee8704b",
+    "ko": "임시 요리 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08376",
+    "source_sha256": "38cd4fc987160174e183d4911314650753bd1ace44f396457d0e56054164ebcc",
+    "ko": "임시 기계 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08377",
+    "source_sha256": "9b26169f12b361e5a53546331575c964b2e783d53a05116e35290809ae0c923e",
+    "ko": "임시 청소 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08378",
+    "source_sha256": "f0e8da7a702895e6f551d4e6e66ee84c210a004a9171c5789e12e46b3921adfb",
+    "ko": "임시 책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08379",
+    "source_sha256": "99a84a6c55ad42998388dcd59e3457fb44bb37d9c2257ee7f1042c6977d385a4",
+    "ko": "임시 일기장 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08380",
+    "source_sha256": "2b62af0ce0be7ec3413dee89c6ac57dd21ffb30b30f94528e5463f1e73e66130",
+    "ko": "임시 요리책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08381",
+    "source_sha256": "693d15bd5e8253d6e94c5f968fdd85684d870856023861e76135bd2d14e2c396",
+    "ko": "임시 기계 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08382",
+    "source_sha256": "f084a87a78e80c3ca0649784da2022de9f30c3a8dec219fe2e722d8c76a2e3e7",
+    "ko": "임시 청소 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08383",
+    "source_sha256": "1171ef18be8bd219c6f408fbbb80202c5fb4c4269f381c348316651c8e7b5344",
+    "ko": "임시 앉아서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08384",
+    "source_sha256": "022dd0d83d266709d2e785acf869e6bbb62a218c4d563f8d301ee26a4a12c5c1",
+    "ko": "임시 앉아서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08385",
+    "source_sha256": "d6b685aa431384e38958ed2b2098572439cdd01e3dd33d2761ee526b75168948",
+    "ko": "임시 누워서 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08386",
+    "source_sha256": "ddc82d50453e38b436ddf45855c9a158ba62111f5cf0ac4017aadc0ae95ad401",
+    "ko": "임시 누워서 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08387",
+    "source_sha256": "5936d8e65667e419f28d516b6d8b2f9732319a744f0f5881c967f8afba6a3f83",
+    "ko": "임시 책 읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08388",
+    "source_sha256": "dd9f8815f628e70e2020f5df393b5923425f4c9f2e5675299281d26300ee6dcc",
+    "ko": "임시 일기 쓰기"
+  },
+  {
+    "id": "TXT_SimsObjects_08389",
+    "source_sha256": "765817b076c211aa5c5953eacecf2c4e70dee712bdeb63f07cbf26a16ee8704b",
+    "ko": "임시 요리 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08390",
+    "source_sha256": "38cd4fc987160174e183d4911314650753bd1ace44f396457d0e56054164ebcc",
+    "ko": "임시 기계 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08391",
+    "source_sha256": "9b26169f12b361e5a53546331575c964b2e783d53a05116e35290809ae0c923e",
+    "ko": "임시 청소 공부"
+  },
+  {
+    "id": "TXT_SimsObjects_08392",
+    "source_sha256": "f0e8da7a702895e6f551d4e6e66ee84c210a004a9171c5789e12e46b3921adfb",
+    "ko": "임시 책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08393",
+    "source_sha256": "99a84a6c55ad42998388dcd59e3457fb44bb37d9c2257ee7f1042c6977d385a4",
+    "ko": "임시 일기장 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08394",
+    "source_sha256": "2b62af0ce0be7ec3413dee89c6ac57dd21ffb30b30f94528e5463f1e73e66130",
+    "ko": "임시 요리책 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08395",
+    "source_sha256": "693d15bd5e8253d6e94c5f968fdd85684d870856023861e76135bd2d14e2c396",
+    "ko": "임시 기계 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08396",
+    "source_sha256": "f084a87a78e80c3ca0649784da2022de9f30c3a8dec219fe2e722d8c76a2e3e7",
+    "ko": "임시 청소 설명서 집기"
+  },
+  {
+    "id": "TXT_SimsObjects_08408",
+    "source_sha256": "9e13f04d777a56694bef579c6766118f5394716d7d341bbe673fa030fde73f1d",
+    "ko": "프레임을 $NumberLocal:0틱으로 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_08409",
+    "source_sha256": "d3d174bffc8942dd77f1f32de9becebdafe33095af0e5b9c481565aff8becbf1",
+    "ko": "프레임을 $NumberLocal:1틱으로 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_08420",
+    "source_sha256": "d34cba16c0e477c9f7f40c361cb2c9f1c073f70e0ff099094c8ecb15f164c04a",
+    "ko": "디버그 - 애니메이션 재생.../swim-loop-1"
+  },
+  {
+    "id": "TXT_SimsObjects_08421",
+    "source_sha256": "0d185f92780fea0ec17127967dd892aa831ae860cd3adee494776e11351bbdb7",
+    "ko": "디버그 - 애니메이션 재생.../swim-loop-2"
+  },
+  {
+    "id": "TXT_SimsObjects_08422",
+    "source_sha256": "5f3444549328b673cc7b6005341edf90ce54111c2edfb6deff8dc6ddec6752ca",
+    "ko": "디버그 - 애니메이션 재생.../swim-loop-3"
+  },
+  {
+    "id": "TXT_SimsObjects_08426",
+    "source_sha256": "d6183be797a99545b60f18991370f0aed00194c9976da7cced659d72312d2e33",
+    "ko": "디버그 업그레이드"
+  },
+  {
+    "id": "TXT_SimsObjects_08429",
+    "source_sha256": "d6183be797a99545b60f18991370f0aed00194c9976da7cced659d72312d2e33",
+    "ko": "디버그 업그레이드"
+  },
+  {
+    "id": "TXT_SimsObjects_08435",
+    "source_sha256": "d6183be797a99545b60f18991370f0aed00194c9976da7cced659d72312d2e33",
+    "ko": "디버그 업그레이드"
+  },
+  {
+    "id": "TXT_SimsObjects_08438",
+    "source_sha256": "d6183be797a99545b60f18991370f0aed00194c9976da7cced659d72312d2e33",
+    "ko": "디버그 업그레이드"
+  },
+  {
+    "id": "TXT_SimsObjects_08464",
+    "source_sha256": "eb0c021427fa6dddcf451cbf14e27e8e506a8d1f896330b7041e99aad20875ca",
+    "ko": "주 반복문 안"
+  },
+  {
+    "id": "TXT_SimsObjects_08480",
+    "source_sha256": "7c3b08c316c9ac47e7e2bfd76e71e0ba512b6f711da1355f02f52bcd5f36825b",
+    "ko": "임시 문구: 사랑의 기억이 두 개 있습니다. 두 시간 동안 재미가 감소하지 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08481",
+    "source_sha256": "73a59506379cabaf4ba0b417d602e1a5a0be2a8f2b647951fae7c3523ec57662",
+    "ko": "임시 문구: 사랑의 기억이 세 개 있습니다. 세 시간 동안 재미가 감소하지 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08482",
+    "source_sha256": "6aa04b54c2706a2bc9f5a9da52fbaf7e104f328de5b0bfd79857d3991626bfb7",
+    "ko": "여기까지 도달함."
+  },
+  {
+    "id": "TXT_SimsObjects_08641",
+    "source_sha256": "9c5e453464259c8b1cc48abdc82006be76c8583f2c2231aac54bb98bee18e1e9",
+    "ko": "청소 서비스:"
+  },
+  {
+    "id": "TXT_SimsObjects_08653",
+    "source_sha256": "d91af876b7053fa2390349595aaa55e6cd6cc85a2d9eb73599ab1a07bb529dff",
+    "ko": "경찰서"
+  },
+  {
+    "id": "TXT_SimsObjects_08679",
+    "source_sha256": "4cddd07fa180e5b101b7e20862e6c4dc8e5c573b2169e5feb88f919466cb910c",
+    "ko": "초대.../$Neighbor"
+  },
+  {
+    "id": "TXT_SimsObjects_08680",
+    "source_sha256": "85aaeb0494830018c5b0769fd00c055520e6df7eb53428b09cab947889e4c6dc",
+    "ko": "트리비엄 - 라이크 라이트 투 더 플라이즈"
+  },
+  {
+    "id": "TXT_SimsObjects_08681",
+    "source_sha256": "f892e2ce22c8a04935e682675de2254b7965aa82f2081b6d28fcfe56a08c0463",
+    "ko": "키티 섀크 - 어나더 월드"
+  },
+  {
+    "id": "TXT_SimsObjects_08682",
+    "source_sha256": "58202eb869e41dc83e9f97f3e37900bd7c54c271a4819092fa196817a9d3a3c1",
+    "ko": "파라모어 - 프레셔"
+  },
+  {
+    "id": "TXT_SimsObjects_08683",
+    "source_sha256": "1438ebdeabbdfcb926010ce7b128d5d6345f86d34c056bc0f9e60a8a3b85ec44",
+    "ko": "피셔스푸너 - 저스트 렛 고 (토미 선샤인 브루클린 파이어 리터치)"
+  },
+  {
+    "id": "TXT_SimsObjects_08684",
+    "source_sha256": "0f445610d4973405f019fda408fb7ffe54d67b5e77ddda145371204ea733056d",
+    "ko": "엠엑스피엑스 - 레이트 어게인"
+  },
+  {
+    "id": "TXT_SimsObjects_08685",
+    "source_sha256": "ca0de49ead59abb9c21bb3fab145149f6bf1c6a2ae463648e3ea635c6bddb877",
+    "ko": "임시 (나중에 삭제 또는 교체 예정) 페니와이즈"
+  },
+  {
+    "id": "TXT_SimsObjects_08686",
+    "source_sha256": "58989410db172e6ca64b9f8cf66fe242ed35007c6e4fbdef36af4fb91988366e",
+    "ko": "라이언 퍼거슨 - 서든리"
+  },
+  {
+    "id": "TXT_SimsObjects_08687",
+    "source_sha256": "4165004f98b8913426c41d281c57f221e00770aaf653b3d37e783b9d7157a913",
+    "ko": "레지 앤드 더 풀 이펙트 - 테이크 미 홈, 플리즈"
+  },
+  {
+    "id": "TXT_SimsObjects_08688",
+    "source_sha256": "1e52bba4240d66452390d13f065fca5d552e4324cac913d73ef636bdbfa1849a",
+    "ko": "방송국 변경.../월드"
+  },
+  {
+    "id": "TXT_SimsObjects_08689",
+    "source_sha256": "3cf8a8735aa92230dbba7e802407342f033aca14c0ad9ca62406f72be682f648",
+    "ko": "방송국 변경.../레게"
+  },
+  {
+    "id": "TXT_SimsObjects_08690",
+    "source_sha256": "694a2d121c3a78e78795d7393a97eb8247a0326d0e50e896dd684e59c1d93ba6",
+    "ko": "방송국 변경.../빅 밴드"
+  },
+  {
+    "id": "TXT_SimsObjects_08691",
+    "source_sha256": "ba4feac8d8d426acf0453cdc817fb3231a60c7ce9abe2361448ccd32718dcad0",
+    "ko": "방송국 변경.../팝"
+  },
+  {
+    "id": "TXT_SimsObjects_08692",
+    "source_sha256": "1af6e1c7fa549e44b1686e7bdb4ecccbc4d85eed26247f50febc5e692f5bc508",
+    "ko": "방송국 변경.../서프"
+  },
+  {
+    "id": "TXT_SimsObjects_08697",
+    "source_sha256": "91b6c68fc6c59a395dacc281fbc802705cca42afe023485d31e38d4676983fa4",
+    "ko": "곡 변경.../트리비엄"
+  },
+  {
+    "id": "TXT_SimsObjects_08698",
+    "source_sha256": "aed963bc1bcee26f9a53c1de96609d81b2bc7a7f7ee7e8a5147a32ff3491529f",
+    "ko": "곡 변경.../키티 섀크"
+  },
+  {
+    "id": "TXT_SimsObjects_08699",
+    "source_sha256": "f4b1a508e5ff10cc6fb6666b3bcf2518ee94016402c57c0b5ce637d36ec77f6d",
+    "ko": "곡 변경.../파라모어"
+  },
+  {
+    "id": "TXT_SimsObjects_08700",
+    "source_sha256": "6623fdff199bac5aae293f9327360ce783bbd7f0a750513c7cb49da5eed4e209",
+    "ko": "곡 변경.../피셔스푸너"
+  },
+  {
+    "id": "TXT_SimsObjects_08701",
+    "source_sha256": "5b7e4d63507b32c3492be13f47a4a2f13efd55af18545ef31f420dce496342f2",
+    "ko": "곡 변경.../엠엑스피엑스"
+  },
+  {
+    "id": "TXT_SimsObjects_08702",
+    "source_sha256": "fc882a759bce4169e0e17d4d9402779ce9818fd2d459a2ae7b8763991758a4ad",
+    "ko": "임시 (삭제하거나 새 밴드로 교체 필요) 곡 변경.../페니와이즈"
+  },
+  {
+    "id": "TXT_SimsObjects_08703",
+    "source_sha256": "ec2afea003a2b5ffbd55ebf23091f04da84f58e990367bf88f8b1e8eb051459d",
+    "ko": "곡 변경.../라이언 퍼거슨"
+  },
+  {
+    "id": "TXT_SimsObjects_08704",
+    "source_sha256": "9396709db5302756006c284100a52f48138bd47c402458a8be88a1183ea030b1",
+    "ko": "곡 변경.../레지 앤드 더 풀 이펙트"
+  },
+  {
+    "id": "TXT_SimsObjects_08705",
+    "source_sha256": "85aaeb0494830018c5b0769fd00c055520e6df7eb53428b09cab947889e4c6dc",
+    "ko": "트리비엄 - 라이크 라이트 투 더 플라이즈"
+  },
+  {
+    "id": "TXT_SimsObjects_08706",
+    "source_sha256": "f892e2ce22c8a04935e682675de2254b7965aa82f2081b6d28fcfe56a08c0463",
+    "ko": "키티 섀크 - 어나더 월드"
+  },
+  {
+    "id": "TXT_SimsObjects_08707",
+    "source_sha256": "58202eb869e41dc83e9f97f3e37900bd7c54c271a4819092fa196817a9d3a3c1",
+    "ko": "파라모어 - 프레셔"
+  },
+  {
+    "id": "TXT_SimsObjects_08708",
+    "source_sha256": "1438ebdeabbdfcb926010ce7b128d5d6345f86d34c056bc0f9e60a8a3b85ec44",
+    "ko": "피셔스푸너 - 저스트 렛 고 (토미 선샤인 브루클린 파이어 리터치)"
+  },
+  {
+    "id": "TXT_SimsObjects_08709",
+    "source_sha256": "0f445610d4973405f019fda408fb7ffe54d67b5e77ddda145371204ea733056d",
+    "ko": "엠엑스피엑스 - 레이트 어게인"
+  },
+  {
+    "id": "TXT_SimsObjects_08710",
+    "source_sha256": "ca0de49ead59abb9c21bb3fab145149f6bf1c6a2ae463648e3ea635c6bddb877",
+    "ko": "임시 (나중에 삭제 또는 교체 예정) 페니와이즈"
+  },
+  {
+    "id": "TXT_SimsObjects_08711",
+    "source_sha256": "58989410db172e6ca64b9f8cf66fe242ed35007c6e4fbdef36af4fb91988366e",
+    "ko": "라이언 퍼거슨 - 서든리"
+  },
+  {
+    "id": "TXT_SimsObjects_08712",
+    "source_sha256": "4165004f98b8913426c41d281c57f221e00770aaf653b3d37e783b9d7157a913",
+    "ko": "레지 앤드 더 풀 이펙트 - 테이크 미 홈, 플리즈"
+  },
+  {
+    "id": "TXT_SimsObjects_08713",
+    "source_sha256": "1e52bba4240d66452390d13f065fca5d552e4324cac913d73ef636bdbfa1849a",
+    "ko": "방송국 변경.../월드"
+  },
+  {
+    "id": "TXT_SimsObjects_08714",
+    "source_sha256": "3cf8a8735aa92230dbba7e802407342f033aca14c0ad9ca62406f72be682f648",
+    "ko": "방송국 변경.../레게"
+  },
+  {
+    "id": "TXT_SimsObjects_08715",
+    "source_sha256": "694a2d121c3a78e78795d7393a97eb8247a0326d0e50e896dd684e59c1d93ba6",
+    "ko": "방송국 변경.../빅 밴드"
+  },
+  {
+    "id": "TXT_SimsObjects_08716",
+    "source_sha256": "ba4feac8d8d426acf0453cdc817fb3231a60c7ce9abe2361448ccd32718dcad0",
+    "ko": "방송국 변경.../팝"
+  },
+  {
+    "id": "TXT_SimsObjects_08717",
+    "source_sha256": "1af6e1c7fa549e44b1686e7bdb4ecccbc4d85eed26247f50febc5e692f5bc508",
+    "ko": "방송국 변경.../서프"
+  },
+  {
+    "id": "TXT_SimsObjects_08722",
+    "source_sha256": "91b6c68fc6c59a395dacc281fbc802705cca42afe023485d31e38d4676983fa4",
+    "ko": "곡 변경.../트리비엄"
+  },
+  {
+    "id": "TXT_SimsObjects_08723",
+    "source_sha256": "aed963bc1bcee26f9a53c1de96609d81b2bc7a7f7ee7e8a5147a32ff3491529f",
+    "ko": "곡 변경.../키티 섀크"
+  },
+  {
+    "id": "TXT_SimsObjects_08724",
+    "source_sha256": "f4b1a508e5ff10cc6fb6666b3bcf2518ee94016402c57c0b5ce637d36ec77f6d",
+    "ko": "곡 변경.../파라모어"
+  },
+  {
+    "id": "TXT_SimsObjects_08725",
+    "source_sha256": "6623fdff199bac5aae293f9327360ce783bbd7f0a750513c7cb49da5eed4e209",
+    "ko": "곡 변경.../피셔스푸너"
+  },
+  {
+    "id": "TXT_SimsObjects_08726",
+    "source_sha256": "5b7e4d63507b32c3492be13f47a4a2f13efd55af18545ef31f420dce496342f2",
+    "ko": "곡 변경.../엠엑스피엑스"
+  },
+  {
+    "id": "TXT_SimsObjects_08727",
+    "source_sha256": "fc882a759bce4169e0e17d4d9402779ce9818fd2d459a2ae7b8763991758a4ad",
+    "ko": "임시 (삭제하거나 새 밴드로 교체 필요) 곡 변경.../페니와이즈"
+  },
+  {
+    "id": "TXT_SimsObjects_08728",
+    "source_sha256": "ec2afea003a2b5ffbd55ebf23091f04da84f58e990367bf88f8b1e8eb051459d",
+    "ko": "곡 변경.../라이언 퍼거슨"
+  },
+  {
+    "id": "TXT_SimsObjects_08729",
+    "source_sha256": "9396709db5302756006c284100a52f48138bd47c402458a8be88a1183ea030b1",
+    "ko": "곡 변경.../레지 앤드 더 풀 이펙트"
+  },
+  {
+    "id": "TXT_SimsObjects_08736",
+    "source_sha256": "177b631b16b9e318c8443544b8a63948cee6ec1f14a2ca7b6be3df82be185f9d",
+    "ko": "재미있는 이야기하기.../$Object "
+  },
+  {
+    "id": "TXT_SimsObjects_08737",
+    "source_sha256": "0e21a65d6f577263b0e850783f37d95dbd94ad5651a22ffeb54af4aa2e952afd",
+    "ko": "귀신 이야기하기.../$Object "
+  },
+  {
+    "id": "TXT_SimsObjects_08744",
+    "source_sha256": "177b631b16b9e318c8443544b8a63948cee6ec1f14a2ca7b6be3df82be185f9d",
+    "ko": "재미있는 이야기하기.../$Object "
+  },
+  {
+    "id": "TXT_SimsObjects_08745",
+    "source_sha256": "0e21a65d6f577263b0e850783f37d95dbd94ad5651a22ffeb54af4aa2e952afd",
+    "ko": "귀신 이야기하기.../$Object "
+  },
+  {
+    "id": "TXT_SimsObjects_08752",
+    "source_sha256": "177b631b16b9e318c8443544b8a63948cee6ec1f14a2ca7b6be3df82be185f9d",
+    "ko": "재미있는 이야기하기.../$Object "
+  },
+  {
+    "id": "TXT_SimsObjects_08753",
+    "source_sha256": "0e21a65d6f577263b0e850783f37d95dbd94ad5651a22ffeb54af4aa2e952afd",
+    "ko": "귀신 이야기하기.../$Object "
+  },
+  {
+    "id": "TXT_SimsObjects_08754",
+    "source_sha256": "b69d9d902fc54c2bb852c97ab24b3e0cdfa7c04eed667ae2da9716aac365f85b",
+    "ko": "이미 너무 많이 들고 있어."
+  },
+  {
+    "id": "TXT_SimsObjects_08758",
+    "source_sha256": "8ecf5f4af5c80f96169f94adf47b94f2f0d62ca6bcd501ee6b5905235bb881fd",
+    "ko": "만든 음식: <COLOR_FFBF692A><PARTICLE_00>메스꺼운 $FoodName"
+  },
+  {
+    "id": "TXT_SimsObjects_08759",
+    "source_sha256": "a1d26ab055abcb1776ca47a74b75be970497f173235ce40bf13609234b87891a",
+    "ko": "만든 음식: <PARTICLE_04>$FoodName - 거부할 수 없는 매력"
+  },
+  {
+    "id": "TXT_SimsObjects_08760",
+    "source_sha256": "b45152bddb7a46c4377853c5ab649c20d3f29aef3d0657abb98efe5391eb558f",
+    "ko": "만든 음식: $FoodName"
+  },
+  {
+    "id": "TXT_SimsObjects_08761",
+    "source_sha256": "9c4ef47c8d35084bb6a2d0756be30e7130b2b7a1adf270f65972b1668e1100ed",
+    "ko": "디버그 음식 품질 나쁨."
+  },
+  {
+    "id": "TXT_SimsObjects_08762",
+    "source_sha256": "ae0767dbd2a32d3f0afe9996c4e0923d30f85b7c61204b5917d8776bb2a1c360",
+    "ko": "디버그 음식 품질 매우 좋음."
+  },
+  {
+    "id": "TXT_SimsObjects_08763",
+    "source_sha256": "fc6f8e96208dee1479e10e4b262ef182335d8147675b71a339d9357a29b65ebb",
+    "ko": "디버그 일반 식사 음식 점수: $Local:0 / 최대 $Local:1."
+  },
+  {
+    "id": "TXT_SimsObjects_08764",
+    "source_sha256": "7d07b0e53d89b2e64cee90d253cce4214e2d9a6e02f34c787636ae0406d648f5",
+    "ko": "디버그 단체 식사 음식 점수: $Local:0 / 최대 $Local:1."
+  },
+  {
+    "id": "TXT_SimsObjects_08765",
+    "source_sha256": "bc78ac60ffa02a607e2305d48b15521f02d02f0a7b90efa4adc2329481d78b0a",
+    "ko": "만든 음식: $FoodName"
+  },
+  {
+    "id": "TXT_SimsObjects_08766",
+    "source_sha256": "59a2bde3584192c746fb547ef897957ff602ca17f406a4019a623b395a988844",
+    "ko": "만들기: $FoodName"
+  },
+  {
+    "id": "TXT_SimsObjects_08767",
+    "source_sha256": "41fcf1ef11f67043af4912c8b78eea572309186bd3a30c516f6eb492d08eb971",
+    "ko": "요리 준비: $FoodName"
+  },
+  {
+    "id": "TXT_SimsObjects_08768",
+    "source_sha256": "0c5d59d3cfd77ccd5b3200becef58f24ce8cba827c008b6f1665bbefb213e969",
+    "ko": "내놓기"
+  },
+  {
+    "id": "TXT_SimsObjects_08770",
+    "source_sha256": "708f80b9fa3d7946f0221aaa09df4284b4172fb5c4535710df41c5c05f990c8f",
+    "ko": "한 조각 먹기"
+  },
+  {
+    "id": "TXT_SimsObjects_08771",
+    "source_sha256": "708f80b9fa3d7946f0221aaa09df4284b4172fb5c4535710df41c5c05f990c8f",
+    "ko": "한 조각 먹기"
+  },
+  {
+    "id": "TXT_SimsObjects_08773",
+    "source_sha256": "8ecf5f4af5c80f96169f94adf47b94f2f0d62ca6bcd501ee6b5905235bb881fd",
+    "ko": "만든 음식: <COLOR_FFBF692A><PARTICLE_00>메스꺼운 $FoodName"
+  },
+  {
+    "id": "TXT_SimsObjects_08774",
+    "source_sha256": "c304cbcc2c0acfcd31db1f215dce0899821090195f2693305d42eefb3b6869ac",
+    "ko": "임시 만든 음식: <PARTICLE_04>$FoodName - 거부할 수 없는 매력"
+  },
+  {
+    "id": "TXT_SimsObjects_08775",
+    "source_sha256": "66249106100e264d0090ada1d532c9ae9ebf51783ccba6a20eceb5fa2f256e72",
+    "ko": "만든 음식은..."
+  },
+  {
+    "id": "TXT_SimsObjects_08776",
+    "source_sha256": "01340543018ef535559d0cd4afa27e0521c2d73f7944a0d2eec2942ce2f15077",
+    "ko": "$FoodName\r\n\r\n허기 $Local:0, 에너지 $Local:1, 용변 $Local:2을 충족합니다.\r\n\r\n어딘가 이상해 보입니다. 솔직히 보고 있으면 속이 조금 메스껍습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08777",
+    "source_sha256": "6a931618ac94d89323bc73c177b727ec9597e44ef54dc257474ba7eb181cf8ae",
+    "ko": "$FoodName\r\n\r\n허기 $Local:0, 에너지 $Local:1, 용변 $Local:2을 충족합니다.\r\n\r\n눈을 뗄 수가 없습니다. 지금껏 본 것 중 가장 아름답습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08778",
+    "source_sha256": "4a366bc9c8f29dacf888751060a94c1d2af5a58eacc95e8cf4067f16812a2e43",
+    "ko": "$FoodName\r\n\r\n허기 $Local:0, 에너지 $Local:1, 용변 $Local:2을 충족합니다.\r\n\r\n맛있고 잘 만들어진 것 같습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08779",
+    "source_sha256": "acef7cc3ada9832b68040327f576f67ba72e7502d0a452cbafb4d089505812c3",
+    "ko": "눈에 보이는 것은..."
+  },
+  {
+    "id": "TXT_SimsObjects_08780",
+    "source_sha256": "72770bf5bbdcaf2276009709af385200a6f10a76a395da9ab01a0de37b7c97b8",
+    "ko": "$FoodName\r\n\r\n허기 $Local:0, 에너지 $Local:1, 용변 $Local:2을 충족합니다.\r\n\r\n딱히 잘못된 부분은 없어 보이지만 어쩐지 보고 있으면 은근히 화가 납니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08781",
+    "source_sha256": "0b699ab5f0d295b4b5b0cd73f6a248b4c1f6e74dee85e8498badb071c5a361c4",
+    "ko": "$FoodName\r\n\r\n허기 $Local:0, 에너지 $Local:1, 용변 $Local:2을 충족합니다.\r\n\r\n어딘가 완벽해 보입니다. 조각마다 자리가 정확하고 모든 부분이 전문가의 솜씨로 만들어졌습니다. 가까이 있기만 해도 자신감이 생깁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08782",
+    "source_sha256": "37d2ca5283b6f54e5f6615561be76b847b09af093d1d770f083dbca7c2d0043d",
+    "ko": "$FoodName\r\n\r\n허기 $Local:0, 에너지 $Local:1, 용변 $Local:2을 충족합니다.\r\n\r\n한눈에 봐도 이걸 먹으면 세상을 상대할 수 있을 것 같습니다. 높은 건물을 뛰어넘을 수도 있겠지요. 뭐, 높은 건물까지는 아닐지도요."
+  },
+  {
+    "id": "TXT_SimsObjects_08783",
+    "source_sha256": "efde4daa3cd2efccecd971f10243b5e5c89c7c8bff2b7143ef88efbd8388a029",
+    "ko": "$FoodName\r\n\r\n허기 $Local:0, 에너지 $Local:1, 용변 $Local:2을 충족합니다.\r\n\r\n보기만 해도 배에서 꼬르륵 소리가 납니다. 어딘가 이상합니다. 먹으려면 화장실 근처에 있는 편이 좋겠다는 느낌이 듭니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08784",
+    "source_sha256": "bc78ac60ffa02a607e2305d48b15521f02d02f0a7b90efa4adc2329481d78b0a",
+    "ko": "만든 음식: $FoodName"
+  },
+  {
+    "id": "TXT_SimsObjects_08785",
+    "source_sha256": "59a2bde3584192c746fb547ef897957ff602ca17f406a4019a623b395a988844",
+    "ko": "만들기: $FoodName"
+  },
+  {
+    "id": "TXT_SimsObjects_08786",
+    "source_sha256": "55150f4690bc7e65f4d45ff394af0b7747656541663c509e0da7e9e91b760d61",
+    "ko": "준비: $FoodName"
+  },
+  {
+    "id": "TXT_SimsObjects_08787",
+    "source_sha256": "e4a060ef35b7525f217c580b759a12c4e52c2d52d14d522412d56576246aea7d",
+    "ko": "마시기"
+  },
+  {
+    "id": "TXT_SimsObjects_08789",
+    "source_sha256": "ce96c30dac73e8aa1664f5a034a5a569490f3c3e386132a7b301159547336017",
+    "ko": "이것은 $Foodname입니다. 허기 $Local:0, 에너지 $Local:1, 용변 $Local:2을 충족합니다. 맛있고 잘 만들어진 것 같습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08790",
+    "source_sha256": "baede476df3bb89f8cc3a7f976e59b1ac6cd16949bb1b1f0d04b270c9397809f",
+    "ko": "이것은 $Foodname입니다. 허기 $Local:0, 에너지 $Local:1, 용변 $Local:2을 충족합니다. 눈을 뗄 수가 없습니다. 지금껏 본 것 중 가장 아름답습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08791",
+    "source_sha256": "ea460dd1ac270f410d5b840ea980abe9e3635c526f7bb25b9b632b3457ebaeaa",
+    "ko": "이것은 $Foodname입니다. 허기 $Local:0, 에너지 $Local:1, 용변 $Local:2을 충족합니다. 어딘가 이상해 보입니다. 솔직히 보고 있으면 속이 조금 메스껍습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08794",
+    "source_sha256": "ff9e461e3209f34f2299cbb730528725c97ac6c2f875566a52af623d4307f736",
+    "ko": "음식 주기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_08795",
+    "source_sha256": "5000b31755a9368843d3fd9600a4b324b943889da3ca04244a6b3ee0a88b963a",
+    "ko": "날것으로 먹기"
+  },
+  {
+    "id": "TXT_SimsObjects_08806",
+    "source_sha256": "f2d2b90bd5cb4ee4885bcf70959fd4738e00bc645f8f73480fd165e54ce3c66c",
+    "ko": "골프는 보통 재미있지만 지금은 영 내키지 않아. 나중에 하자."
+  },
+  {
+    "id": "TXT_SimsObjects_08807",
+    "source_sha256": "926281f1f59a65f98e961aa72cdc52f5a72369e18b69f2afdff68573daa4ce7a",
+    "ko": "이제 별로 재미없는 것 같아. 나중에 하자."
+  },
+  {
+    "id": "TXT_SimsObjects_08810",
+    "source_sha256": "d34cba16c0e477c9f7f40c361cb2c9f1c073f70e0ff099094c8ecb15f164c04a",
+    "ko": "디버그 - 애니메이션 재생.../swim-loop-1"
+  },
+  {
+    "id": "TXT_SimsObjects_08811",
+    "source_sha256": "0d185f92780fea0ec17127967dd892aa831ae860cd3adee494776e11351bbdb7",
+    "ko": "디버그 - 애니메이션 재생.../swim-loop-2"
+  },
+  {
+    "id": "TXT_SimsObjects_08812",
+    "source_sha256": "5f3444549328b673cc7b6005341edf90ce54111c2edfb6deff8dc6ddec6752ca",
+    "ko": "디버그 - 애니메이션 재생.../swim-loop-3"
+  },
+  {
+    "id": "TXT_SimsObjects_08813",
+    "source_sha256": "465872970857fe9386385f0d2f5d62542a9d316f3aa9bc9d6cb334ca10d13b6a",
+    "ko": "이동문을 작동시켰습니다! 실제 물체였다면 지금 다른 부지로 이동하고 있을 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08815",
+    "source_sha256": "33f35dd1001c60e5852422359b8edefc7757b3454e530b1db82998b47623906d",
+    "ko": "심 죽이기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_08828",
+    "source_sha256": "9eae4cca9988fb3551b13c5fd371ab98407eaed1397356c3db8241e52b1a87cc",
+    "ko": "프레임 길이 설정.../$Local:0틱"
+  },
+  {
+    "id": "TXT_SimsObjects_08829",
+    "source_sha256": "8ad2305516fefe0e843eeb7a01447493929222b3c1ade2fdaac7e891b321ca14",
+    "ko": "프레임 길이 설정.../$Local:1틱"
+  },
+  {
+    "id": "TXT_SimsObjects_08831",
+    "source_sha256": "e778b6fab5268bedc1ed362a08f1926d2e19a6e988c0f4bc6ae520d5efe7d63a",
+    "ko": "디버그 출시 제외 문구!!!\r\n\r\n모든 샘플이 미리 로드되었습니다. 확인을 누르면 재생됩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08832",
+    "source_sha256": "9eae4cca9988fb3551b13c5fd371ab98407eaed1397356c3db8241e52b1a87cc",
+    "ko": "프레임 길이 설정.../$Local:0틱"
+  },
+  {
+    "id": "TXT_SimsObjects_08833",
+    "source_sha256": "8ad2305516fefe0e843eeb7a01447493929222b3c1ade2fdaac7e891b321ca14",
+    "ko": "프레임 길이 설정.../$Local:1틱"
+  },
+  {
+    "id": "TXT_SimsObjects_08835",
+    "source_sha256": "9eae4cca9988fb3551b13c5fd371ab98407eaed1397356c3db8241e52b1a87cc",
+    "ko": "프레임 길이 설정.../$Local:0틱"
+  },
+  {
+    "id": "TXT_SimsObjects_08836",
+    "source_sha256": "8ad2305516fefe0e843eeb7a01447493929222b3c1ade2fdaac7e891b321ca14",
+    "ko": "프레임 길이 설정.../$Local:1틱"
+  },
+  {
+    "id": "TXT_SimsObjects_08838",
+    "source_sha256": "9eae4cca9988fb3551b13c5fd371ab98407eaed1397356c3db8241e52b1a87cc",
+    "ko": "프레임 길이 설정.../$Local:0틱"
+  },
+  {
+    "id": "TXT_SimsObjects_08839",
+    "source_sha256": "8ad2305516fefe0e843eeb7a01447493929222b3c1ade2fdaac7e891b321ca14",
+    "ko": "프레임 길이 설정.../$Local:1틱"
+  },
+  {
+    "id": "TXT_SimsObjects_08841",
+    "source_sha256": "9eae4cca9988fb3551b13c5fd371ab98407eaed1397356c3db8241e52b1a87cc",
+    "ko": "프레임 길이 설정.../$Local:0틱"
+  },
+  {
+    "id": "TXT_SimsObjects_08842",
+    "source_sha256": "8ad2305516fefe0e843eeb7a01447493929222b3c1ade2fdaac7e891b321ca14",
+    "ko": "프레임 길이 설정.../$Local:1틱"
+  },
+  {
+    "id": "TXT_SimsObjects_08853",
+    "source_sha256": "c7c98b5e0a4963d6a75b2eb14e14fa3417e090b976d35244b05ed456e0038314",
+    "ko": "청구 요금을 낼 시몰레온이 부족합니다!\r\n\r\n더 열심히 일하고 예산을 더 알뜰하게 짜야겠습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_08857",
+    "source_sha256": "9ff53c18aaceb59b0a069ca8b3db0b78e33d9c7e632758482794a70ef6d6f48e",
+    "ko": "청구 요금을 낼 시몰레온이 부족합니다!\r\n\r\n더 열심히 일하고 현명하게 살아야겠습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_08858",
+    "source_sha256": "20bbfb8231d6ab17e96ff6f9dbb109be44c1af6f933fad65a4645f20f2144429",
+    "ko": "우편함이 없습니다! 청구 요금을 내려면 우편함이 필요합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08859",
+    "source_sha256": "bfabaf0249be1106e0e24c0294dd430fe8671d40e47c9d56af6c5e2363e1d600",
+    "ko": "시몰레온 지불을 서명했으니 청구서를 우편함에 넣는 것을 잊지 마세요."
+  },
+  {
+    "id": "TXT_SimsObjects_08860",
+    "source_sha256": "8c560b77fdc28f4bc1acb6a1a8acfa1de1e7d990ff348e76ea331b286b4ff572",
+    "ko": "청구 요금이 하루 연체되었습니다. 아직 확인하지 않았다면 우편함에서 새 청구서를 확인하세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_08861",
+    "source_sha256": "c9c704a472700cad31290b68e992ff1e9e16d7acc7742e0ea246503369ace9b3",
+    "ko": "청구 요금이 이틀 연체되었습니다. 아직 확인하지 않았다면 우편함에서 새 청구서를 확인하세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_08862",
+    "source_sha256": "788090119bda0d69ef9df5041dbc634660a92c912c2d7e4237cc08307306345b",
+    "ko": "청구 요금이 사흘 연체되었습니다! 지불하지 않으면 압류업자가 찾아옵니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08863",
+    "source_sha256": "d60009ddc83da4cac94ae472769bb087867eb4e4be0192939b4206ac4b2f3878",
+    "ko": "청구서 변경.../흰색"
+  },
+  {
+    "id": "TXT_SimsObjects_08864",
+    "source_sha256": "e038c6d3efc55e6ecfd3a6afbd5545c42d9ec274bec94f94b9a76714677df3b6",
+    "ko": "청구서 변경.../노란색"
+  },
+  {
+    "id": "TXT_SimsObjects_08865",
+    "source_sha256": "295e7df9111ba2a04e035c50126cd246f11b7b47d0fa8137b506b39f8d32dc1c",
+    "ko": "청구서 변경.../주황색"
+  },
+  {
+    "id": "TXT_SimsObjects_08866",
+    "source_sha256": "8766da6a72eab940effbdae81315cd136dc4ad1c4e8801576ed9f17b28247179",
+    "ko": "청구서 변경.../빨간색"
+  },
+  {
+    "id": "TXT_SimsObjects_08867",
+    "source_sha256": "7c5ac615a4afa38c38df9165e0682dd99329cdc1700638724acb4458300a2767",
+    "ko": "청구서 변경.../폭발!"
+  },
+  {
+    "id": "TXT_SimsObjects_08868",
+    "source_sha256": "b9f2f4b84713b5f8841561825622cc07a691112cef11a704f0aa020e550e09e2",
+    "ko": "청구서 부치기"
+  },
+  {
+    "id": "TXT_SimsObjects_08869",
+    "source_sha256": "fb733fdaa25deffaf6b5721c8dd568e921086d8c372feec0b82f29e1eae734a2",
+    "ko": "청구 요금 납부 ($$MoneyLocal:0)"
+  },
+  {
+    "id": "TXT_SimsObjects_08896",
+    "source_sha256": "4bb0b31a58a685722e11cb1d70012eb99a38d47d2a8d5bd2e5c4f2933c55f392",
+    "ko": "마을 광장 타임스"
+  },
+  {
+    "id": "TXT_SimsObjects_08897",
+    "source_sha256": "155887b8dd23348112536dbf46433c0cf6fb1cbc0df5755eea8e3f9a0f556cf0",
+    "ko": "오늘 신문에 난 유일한 구인 광고는 <WT>$JobOffer:0:1입니다.\r\n\r\n근무 시간: $TimeLocal:3 ~ $TimeLocal:4\r\n급여: 하루 $$MoneyLocal:2.\r\n\r\n이 일을 하시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_08898",
+    "source_sha256": "ccf026d1071fe2b6bbc0b1cb5fe82832c9edf2e3d6416bda236615bf3758821f",
+    "ko": "지금은 일자리를 찾고 싶지 않아. 너무 우울해."
+  },
+  {
+    "id": "TXT_SimsObjects_08899",
+    "source_sha256": "804c089eacbd852de70e7d931da448f2ee8bebbc4c1ff85ec292412d09dc8be3",
+    "ko": "이미 직장이 있어. 새 일을 맡으면 지금 일은 잃게 돼. 그래도 찾아볼까?"
+  },
+  {
+    "id": "TXT_SimsObjects_08900",
+    "source_sha256": "65a3fdb8b036bc666604c73723577954300d17761b4c3b86e92db9eed9310773",
+    "ko": "좋습니다! $TimeLocal:3에 차량이 올 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08902",
+    "source_sha256": "4761cb9852f69a8cb58eb2acab4f3a175e8de7bdd9465c92b0ed5475f43f5217",
+    "ko": "직업 $Local:0을 선택하시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_08903",
+    "source_sha256": "801ffa0b75ded9dad024f933f1f5b35996d1f8f48875c8b8a0285710a81d0686",
+    "ko": "구인 광고를 전부 살펴봤습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08904",
+    "source_sha256": "82d91c9c34554f5e1795ccaeaf6c20f7a804ee53e2e061fdbf144fd1dfe4fe13",
+    "ko": "<WT>$JobTrackName:0 직업군에서 $JobName:0,1 자리를 구합니다.\r\n\r\n근무 시간: $TimeLocal:2 ~ $TimeLocal:3\r\n급여: 하루 $$MoneyLocal:4.\r\n\r\n이 일을 하시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_08905",
+    "source_sha256": "302c817422d89429a05279efae3cf53d9b1a47481063afebc2ff8711fcbd2977",
+    "ko": "축하합니다! 새 요리법을 배웠습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_08906",
+    "source_sha256": "f787b03d60b3551123fa5113a66adab4911c64e5ff63ce33dfbeb408866077fd",
+    "ko": "이 신문은 너무 오래돼서 재미없어."
+  },
+  {
+    "id": "TXT_SimsObjects_08907",
+    "source_sha256": "374f800da9ea11d7c7a92ebe602ad9e10b072cf021f8fd5e7821dd4be08f96ee",
+    "ko": "디버그 - $JobTrackName:0 직업군의 $JobName:0,1 의상 -> 승진 레벨 $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_08908",
+    "source_sha256": "d41474fc96757211fda0f451dd21ae2b5decadc9648a26f8182724db618dd059",
+    "ko": "취직.../행정"
+  },
+  {
+    "id": "TXT_SimsObjects_08909",
+    "source_sha256": "c545dc1e9de46f97eafa1258faff926682df09b59a516bc0a0a9ade9a22a6af4",
+    "ko": "취직.../교육"
+  },
+  {
+    "id": "TXT_SimsObjects_08910",
+    "source_sha256": "c9cb3590ca700a3922e4c056266de10ef10c0f1233cb3a893920e5340ef1765e",
+    "ko": "취직.../건설"
+  },
+  {
+    "id": "TXT_SimsObjects_08911",
+    "source_sha256": "356394c767eeab040dadc8dfffea957b455fea28f33088b939d3b0a026f7fcad",
+    "ko": "취직.../의류 판매"
+  },
+  {
+    "id": "TXT_SimsObjects_08912",
+    "source_sha256": "1deb4da6247c22262afa2f0ca1e30ba659d6a00060fe564f413a8795d008decf",
+    "ko": "취직.../공원 및 여가"
+  },
+  {
+    "id": "TXT_SimsObjects_08913",
+    "source_sha256": "7fd1b456564066278b6f03593d1db0462160e649b6eb4e1a06178ebf7f43c23f",
+    "ko": "취직.../경찰"
+  },
+  {
+    "id": "TXT_SimsObjects_08914",
+    "source_sha256": "f578853b5050c2c45b925d40c5280c7d763fe6e931fc3b05ec7c185879d07eb2",
+    "ko": "취직.../스포츠 지도"
+  },
+  {
+    "id": "TXT_SimsObjects_08915",
+    "source_sha256": "cb5742601fefdb4f6b1ae9a1ed069bb04a41d08a3239ef742976b573a057276a",
+    "ko": "취직.../록 스타"
+  },
+  {
+    "id": "TXT_SimsObjects_08916",
+    "source_sha256": "df6fd7ef15a97d70b3cf061c986fe2df7de034182f6a5828e64ff8c9974b3b0a",
+    "ko": "취직.../백수"
+  },
+  {
+    "id": "TXT_SimsObjects_08917",
+    "source_sha256": "d245b4bf31874228e2f629fd576a0b8b5632ba1e04b33cb7b489f2e838e05b77",
+    "ko": "취직.../공예"
+  },
+  {
+    "id": "TXT_SimsObjects_08918",
+    "source_sha256": "2c51763b30d778c638ca821de83de9e956647abc87e09b339fcf61e7a63413d9",
+    "ko": "취직.../의료"
+  },
+  {
+    "id": "TXT_SimsObjects_08919",
+    "source_sha256": "0f5c4c4e9c8aa1bc17d61b1c50a21be5cbd7478be8af9221359337f1a6aae0a0",
+    "ko": "취직.../사업"
+  },
+  {
+    "id": "TXT_SimsObjects_08923",
+    "source_sha256": "efe487a581b25ff6ecec01f0130838e068bb961519b69856dd4f3c5f4b5a0e64",
+    "ko": "훈련 시작.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_08924",
+    "source_sha256": "713bfd7bc6d6e29646d000f9f00b52471f6608cc3fc5f28ab853959abe040964",
+    "ko": "훈련 중지: $Object"
+  },
+  {
+    "id": "TXT_SimsObjects_08925",
+    "source_sha256": "12bd8966c1fa4d60e5282bf999b88ca54543b5824e47fd22275f1d3f7dcecd30",
+    "ko": "$Object 대상은 약 $Local:1시간 훈련했습니다. 그동안 $Object 대상이 배운 명령은 $Local:2개입니다. 반려동물 포인트 $Local:3점이 들었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08926",
+    "source_sha256": "12bd8966c1fa4d60e5282bf999b88ca54543b5824e47fd22275f1d3f7dcecd30",
+    "ko": "$Object 대상은 약 $Local:1시간 훈련했습니다. 그동안 $Object 대상이 배운 명령은 $Local:2개입니다. 반려동물 포인트 $Local:3점이 들었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08927",
+    "source_sha256": "a3ed457172ffd845af5cae63b0855e1a2e692b0b71e33d9e6da30496347927c7",
+    "ko": "훈련을 계속할 반려동물 포인트가 부족합니다.\r\n\r\n$Object 대상은 약 $Local:1시간 훈련했습니다. 그동안 $Object 대상이 배운 명령은 $Local:2개입니다. 반려동물 포인트 $Local:3점이 들었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08928",
+    "source_sha256": "81dad7c003e74578f16f8ea5bb05b6adbeae03e4686ec082581322716d490b31",
+    "ko": "아주 잘 훈련된 반려동물이군요! $Object 대상이 더 배울 명령은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08929",
+    "source_sha256": "b8b5d6f3b7f45bd458707412558919f078001197985d5fbca979fbab5e2652ab",
+    "ko": "죄송하지만 $Object 대상을 훈련시킬 수 없습니다. 반려동물 포인트가 부족합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08930",
+    "source_sha256": "36a4cf7391eb023c2cb5396d50bcdb6a9b08fe30cef7e8a12a8146874af7d907",
+    "ko": "반려동물의 기분이 너무 나쁩니다. $Object 대상의 기분이 나아지면 다시 오세요.\r\n\r\n$Object 대상은 약 $Local:1시간 훈련했습니다. 그동안 $Object 대상이 배운 명령은 $Local:2개입니다. 반려동물 포인트 $Local:3점이 들었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08931",
+    "source_sha256": "f9e6dbc13b541395905443d99f56326cebc8c485a0f31db38317a9d82720c7db",
+    "ko": "안녕하세요! 반려동물 훈련사입니다! 마을 광장을 즐기시는 동안 반려동물에게 가능한 모든 묘기를 가르쳐 드립니다. 요금은 시간당 반려동물 포인트 $Local:1점입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08948",
+    "source_sha256": "1621b3b226256efd8e5199c2f4c0cd88075e323863aebeedc9f1db86339ce641",
+    "ko": "삶을 되찾는 데 필요한 시몰레온이 부족합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08980",
+    "source_sha256": "6449e0bc0db734f1e3b3a4516ec136ea07a06d387736a3f1815bdb1dd056221a",
+    "ko": "마당이 신문으로 가득해 신문 배달부가 더는 배달할 수 없습니다!"
+  }
+]

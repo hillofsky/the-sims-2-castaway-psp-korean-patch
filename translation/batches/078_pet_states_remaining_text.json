@@ -1,0 +1,2157 @@
+[
+  {
+    "id": "TXT_SimsObjects_09020",
+    "source_sha256": "5bbca3e1cb18a5b52d2935c2e2d6c6789686ed374a4bd1cbc2785ec6c8bafb59",
+    "ko": "기본 확률 = $Parameter:2 /n 관계 요소 = $Local:1 /n 기분 요소 = $Local:2 /n 문화 요소 = $Local:3 /n 의상 요소 = $Local:4 /n 산출된 성공 확률 = $Local:0"
+  },
+  {
+    "id": "TXT_SimsObjects_09090",
+    "source_sha256": "26436f636108ce76e99f1f63ada563456b4935f1f73b508d7c2edc8e4ad98b84",
+    "ko": "임시 - 여기에 \"시몰레온을 반려동물 포인트로 교환\" 대화창이 표시됩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09505",
+    "source_sha256": "eecfbb0cdaeccc2daba858ba99d7ef1ccdccb770a9717cf5cd25e0545b366f36",
+    "ko": "가족 자금에서 $Local:0 차감 실패"
+  },
+  {
+    "id": "TXT_SimsObjects_09506",
+    "source_sha256": "9790ca58ba2c5524e537c79d2442323d52f6506a2389bb08ba6a02062f473a54",
+    "ko": "디버그 가족 반려동물 포인트에서 $Local:0 차감 실패"
+  },
+  {
+    "id": "TXT_SimsObjects_09719",
+    "source_sha256": "8fd8f6998951730397dc3e44e1ad63be811d98b28d1b1df2c559fa9b2d3d8036",
+    "ko": "임시 그림을 $$MoneyLocal:0에 팔았습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09720",
+    "source_sha256": "b99afe9b5ba2d11dfe254edf9f84da359c5e574211651970f7e7ec6d70986d08",
+    "ko": "임시 지금은 기분이 너무 나빠. 아무 그림도 안 그릴 거야."
+  },
+  {
+    "id": "TXT_SimsObjects_09721",
+    "source_sha256": "97c84dbf8c218aae2a962048b71c5d9b91b3077b6a120a86f2fff27bec767fe3",
+    "ko": "임시 그림 그리기.../초상화"
+  },
+  {
+    "id": "TXT_SimsObjects_09722",
+    "source_sha256": "f757f244b1985d1822e283d57bbe7a5a4b4c669b6f35830ad2c1d5387bf6a8b2",
+    "ko": "임시 그림 그리기.../그림 1"
+  },
+  {
+    "id": "TXT_SimsObjects_09723",
+    "source_sha256": "a94150ba2470b6a54620596d7639a7feb7e9beceacd3f8f382011ebc936abe3b",
+    "ko": "임시 그림 그리기.../그림 2"
+  },
+  {
+    "id": "TXT_SimsObjects_09724",
+    "source_sha256": "53533b619b38a6adb7d74c5158e6686294f527e008facdc7b03e880c4f22da0a",
+    "ko": "임시 그림 그리기.../그림 3"
+  },
+  {
+    "id": "TXT_SimsObjects_09725",
+    "source_sha256": "fd3df56955c0fe60164e08453eb1f1a06fcf116b8cfb515775b904c6f9af1f2e",
+    "ko": "임시 그림 그리기.../그림 4"
+  },
+  {
+    "id": "TXT_SimsObjects_09726",
+    "source_sha256": "0b8e86b35cab66ecda35c838b35b6ead573706deac73f53a8b6afc0d19dca0aa",
+    "ko": "임시 그림 그리기.../그림 5"
+  },
+  {
+    "id": "TXT_SimsObjects_09727",
+    "source_sha256": "24c995d6fd71e0ba1797e1b730e99df0b855bda6c48e7754b073211eb2ec7f49",
+    "ko": "임시 계속 그림 그리기"
+  },
+  {
+    "id": "TXT_SimsObjects_09728",
+    "source_sha256": "1aa09713bb2b054797d653647f4afe67416e08ff96a8c34e78d7f72ba8946313",
+    "ko": "임시 그림 그리기"
+  },
+  {
+    "id": "TXT_SimsObjects_09745",
+    "source_sha256": "13737d7252729f0f2951a71bc67528ad771262d1e24a312319b7c8a9ae056427",
+    "ko": "와. 어쨌든 작동하네."
+  },
+  {
+    "id": "TXT_SimsObjects_09746",
+    "source_sha256": "552af97c3ec53ca937a6d3831e57070cf4e0c846f15f83c4b730a82080fb8b5d",
+    "ko": "멋진 것을 찾았습니다! 가짜 소지품에 넣겠습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09752",
+    "source_sha256": "9b8b8be963be8112be38e8af2a7975ad9d4b2f684dce1234ebe0d08a622e81e9",
+    "ko": "임시 - 반려동물이 X 행동을 하지 않도록 배웠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09755",
+    "source_sha256": "154813ff3c2e5df14e834eef716c97e134c8a9ce826b64c62d908176922cb1f2",
+    "ko": "임시 - 반려동물 이름: $NameLocal:1\r\n주인: $Neighbor"
+  },
+  {
+    "id": "TXT_SimsObjects_09756",
+    "source_sha256": "13c8cd0b71a931216a919cf6c655846c579688e22687c4980f3052c29c742abe",
+    "ko": "임시 - 이 반려동물은 주인이 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09757",
+    "source_sha256": "56898e280a35ff09540120a6b33d9b78e19e450f8eb666f120e51e6cfa595008",
+    "ko": "임시 - 이 떠돌이 반려동물을 가족으로 맞이하시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_09758",
+    "source_sha256": "fd6c3c4d76f5351b6ef6629cda413120564932c3088a1c0960cba5dad2db723f",
+    "ko": "임시 - 가족이 이미 너무 많습니다. 반려동물을 더 들일 수 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09759",
+    "source_sha256": "98db9e8bd2d9a9adeed58d1058538cde46dd31ce2c0683fa4bf27f649059d1f7",
+    "ko": "임시 - 반려동물은 조용한 공간이 없으면 새끼를 낳을 수 없습니다. 반려동물 집을 구입하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09760",
+    "source_sha256": "50123c9d93b4f6e3ba642845d2aa722ae92c26b904768ae2817f92d90207c1cc",
+    "ko": "임시 - $Object 대상이 배변 훈련을 마쳤습니다. 더는 지저분한 실수를 하지 않습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09761",
+    "source_sha256": "057e02636bed32986f900abdf2744985ca633cd9de3c171cdfdc57ab0f25769a",
+    "ko": "임시 - $Object 대상이 장난감만 씹도록 배웠습니다. 온 세상 신문들이 환호합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09762",
+    "source_sha256": "2fd68b5830835b20e3f2f8278b99ed0e1d97c9eae40a6bfc0510019c5507ef18",
+    "ko": "임시 - $Object 대상이 긁기 기둥만 긁도록 배웠습니다. 가구들이 안도의 한숨을 쉽니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09763",
+    "source_sha256": "b8acc6120b4a8715517d698e43701f4eb231506dd70d2c44f68564bb35269098",
+    "ko": "임시 - $Object 대상이 구멍을 파지 않도록 배웠습니다. 멋지군요!"
+  },
+  {
+    "id": "TXT_SimsObjects_09765",
+    "source_sha256": "9b8b8be963be8112be38e8af2a7975ad9d4b2f684dce1234ebe0d08a622e81e9",
+    "ko": "임시 - 반려동물이 X 행동을 하지 않도록 배웠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09768",
+    "source_sha256": "23a99389debb4b47cf259915c51792ba4acad2eccd1a2f8b17501d25189bd975",
+    "ko": "\r\n      임시 - 반려동물 이름: $NameLocal:1\r\n      주인: $Neighbor\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_09769",
+    "source_sha256": "13c8cd0b71a931216a919cf6c655846c579688e22687c4980f3052c29c742abe",
+    "ko": "임시 - 이 반려동물은 주인이 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09770",
+    "source_sha256": "56898e280a35ff09540120a6b33d9b78e19e450f8eb666f120e51e6cfa595008",
+    "ko": "임시 - 이 떠돌이 반려동물을 가족으로 맞이하시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_09771",
+    "source_sha256": "fd6c3c4d76f5351b6ef6629cda413120564932c3088a1c0960cba5dad2db723f",
+    "ko": "임시 - 가족이 이미 너무 많습니다. 반려동물을 더 들일 수 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09772",
+    "source_sha256": "98db9e8bd2d9a9adeed58d1058538cde46dd31ce2c0683fa4bf27f649059d1f7",
+    "ko": "임시 - 반려동물은 조용한 공간이 없으면 새끼를 낳을 수 없습니다. 반려동물 집을 구입하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09773",
+    "source_sha256": "50123c9d93b4f6e3ba642845d2aa722ae92c26b904768ae2817f92d90207c1cc",
+    "ko": "임시 - $Object 대상이 배변 훈련을 마쳤습니다. 더는 지저분한 실수를 하지 않습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09774",
+    "source_sha256": "057e02636bed32986f900abdf2744985ca633cd9de3c171cdfdc57ab0f25769a",
+    "ko": "임시 - $Object 대상이 장난감만 씹도록 배웠습니다. 온 세상 신문들이 환호합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09775",
+    "source_sha256": "2fd68b5830835b20e3f2f8278b99ed0e1d97c9eae40a6bfc0510019c5507ef18",
+    "ko": "임시 - $Object 대상이 긁기 기둥만 긁도록 배웠습니다. 가구들이 안도의 한숨을 쉽니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09776",
+    "source_sha256": "b8acc6120b4a8715517d698e43701f4eb231506dd70d2c44f68564bb35269098",
+    "ko": "임시 - $Object 대상이 구멍을 파지 않도록 배웠습니다. 멋지군요!"
+  },
+  {
+    "id": "TXT_SimsObjects_09797",
+    "source_sha256": "70b52d886332faee2b3790b4330c2f27b1a0cbabf805a7df08288b8b18d0e17b",
+    "ko": "기본 성공 확률: $Local:1\r\n관계 보정: $Local:2\r\n기분 보정: $Local:3\r\n위생 보정: $Local:4\r\n성격 보정: $Local:5\r\n주인/내 것 보정: $Local:6\r\n성공 확률: $Local:1 + $Local:2 + $Local:3 + $Local:4 + $Local:5 + $Local:6 = $Local:8/100\r\n난수: $Local:7"
+  },
+  {
+    "id": "TXT_SimsObjects_09801",
+    "source_sha256": "4379e58782359f10c82465c90c6b0f9673ae91429c8527a1d27a12bdf993b820",
+    "ko": "디버그: 기본 성공 확률 = $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09802",
+    "source_sha256": "934f8630edf5731546b636a8012862dbe0708d4fdb44a214665b19432fa5b40c",
+    "ko": "친절함 보정: $Local:0"
+  },
+  {
+    "id": "TXT_SimsObjects_09803",
+    "source_sha256": "0d67acdf35a7be8e2052b53605bf7a7e2140a0931a6e66cd9c5207772f990472",
+    "ko": "외향성 보정: $Local:0"
+  },
+  {
+    "id": "TXT_SimsObjects_09804",
+    "source_sha256": "b2c0042236b1ab2935ab06e59b0b0c905ec10991d8315d37472bfc7fe9925821",
+    "ko": "활동성 보정: $Local:0"
+  },
+  {
+    "id": "TXT_SimsObjects_09805",
+    "source_sha256": "72d87ac06b1d53a74a596aeb5bb2f301b7eb626b433c3c9f60c688a3b8e1a180",
+    "ko": "깔끔함 보정: $Local:0"
+  },
+  {
+    "id": "TXT_SimsObjects_09806",
+    "source_sha256": "f530fd5ba96c6c657b3ad03129ff07a81affa8425ef2a9e6a19dccdcb3281aaf",
+    "ko": "장난기 보정: $Local:0"
+  },
+  {
+    "id": "TXT_SimsObjects_09807",
+    "source_sha256": "231aedffacea10497c1851e05277da1baa518600f56ebd2123410bc90e7a0190",
+    "ko": "미사용"
+  },
+  {
+    "id": "TXT_SimsObjects_09808",
+    "source_sha256": "231aedffacea10497c1851e05277da1baa518600f56ebd2123410bc90e7a0190",
+    "ko": "미사용"
+  },
+  {
+    "id": "TXT_SimsObjects_09809",
+    "source_sha256": "eecf4a2d8dafea6a0b09914a234039905261ca9b264d4c856d20310d7df14c60",
+    "ko": "디버그: 결과 선택"
+  },
+  {
+    "id": "TXT_SimsObjects_09814",
+    "source_sha256": "9b8b8be963be8112be38e8af2a7975ad9d4b2f684dce1234ebe0d08a622e81e9",
+    "ko": "임시 - 반려동물이 X 행동을 하지 않도록 배웠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09817",
+    "source_sha256": "4326fda7ce7bc21210ca98065b044085946f56db2271c8f39ba4b725bf0c90d2",
+    "ko": "\r\n      임시 반려동물 이름: $NameLocal:1\r\n      주인: $Neighbor\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_09818",
+    "source_sha256": "c96caf79a2d71ab8e8f60a70fed1b9347fa792666329f79dfd25ea9abc4fba33",
+    "ko": "임시 이 반려동물은 주인이 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09819",
+    "source_sha256": "70f77e5f75df8c4b945c6b4cd8d4b4af43d6b027cfb599aee0f074dbcfd0d8ff",
+    "ko": "임시 이 떠돌이 반려동물을 가족으로 맞이하시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_09820",
+    "source_sha256": "1b1d1b0296c445e01a647060f4e6d111d040700b86a39ac299f72cba4adc1d6e",
+    "ko": "임시 가족이 이미 너무 많습니다. 반려동물을 더 들일 수 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09821",
+    "source_sha256": "df4d315af44f2c65f52e1781452003b57b92fd352c153e99968c74ef9e378a4b",
+    "ko": "임시 반려동물은 조용한 공간이 없으면 새끼를 낳을 수 없습니다. 반려동물 집을 구입하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09822",
+    "source_sha256": "dcef6571af793f2f91efdfdc971106ae1bdb98d702c5ff908a301633558199df",
+    "ko": "임시 $Object 대상이 배변 훈련을 마쳤습니다. 더는 지저분한 실수를 하지 않습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09823",
+    "source_sha256": "14aa7348cdb6027a97e2964b92a706d2e56de141579c6f90cf027f9ece10866d",
+    "ko": "임시 $Object 대상이 장난감만 씹도록 배웠습니다. 온 세상 신문들이 환호합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09824",
+    "source_sha256": "3e75cfe5bca9750d145593b894dbf099cd511ae8fc7f5c2c5755c39f63d0ec66",
+    "ko": "임시 $Object 대상이 긁기 기둥만 긁도록 배웠습니다. 가구들이 안도의 한숨을 쉽니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09825",
+    "source_sha256": "9da354b923faab509acf90f2f77228970d3da02916836575a642415d92997066",
+    "ko": "임시 $Object 대상이 구멍을 파지 않도록 배웠습니다. 멋지군요!"
+  },
+  {
+    "id": "TXT_SimsObjects_09827",
+    "source_sha256": "9b8b8be963be8112be38e8af2a7975ad9d4b2f684dce1234ebe0d08a622e81e9",
+    "ko": "임시 - 반려동물이 X 행동을 하지 않도록 배웠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09830",
+    "source_sha256": "23a99389debb4b47cf259915c51792ba4acad2eccd1a2f8b17501d25189bd975",
+    "ko": "\r\n      임시 - 반려동물 이름: $NameLocal:1\r\n      주인: $Neighbor\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_09831",
+    "source_sha256": "13c8cd0b71a931216a919cf6c655846c579688e22687c4980f3052c29c742abe",
+    "ko": "임시 - 이 반려동물은 주인이 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09832",
+    "source_sha256": "56898e280a35ff09540120a6b33d9b78e19e450f8eb666f120e51e6cfa595008",
+    "ko": "임시 - 이 떠돌이 반려동물을 가족으로 맞이하시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_09833",
+    "source_sha256": "fd6c3c4d76f5351b6ef6629cda413120564932c3088a1c0960cba5dad2db723f",
+    "ko": "임시 - 가족이 이미 너무 많습니다. 반려동물을 더 들일 수 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09834",
+    "source_sha256": "98db9e8bd2d9a9adeed58d1058538cde46dd31ce2c0683fa4bf27f649059d1f7",
+    "ko": "임시 - 반려동물은 조용한 공간이 없으면 새끼를 낳을 수 없습니다. 반려동물 집을 구입하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09835",
+    "source_sha256": "50123c9d93b4f6e3ba642845d2aa722ae92c26b904768ae2817f92d90207c1cc",
+    "ko": "임시 - $Object 대상이 배변 훈련을 마쳤습니다. 더는 지저분한 실수를 하지 않습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09836",
+    "source_sha256": "057e02636bed32986f900abdf2744985ca633cd9de3c171cdfdc57ab0f25769a",
+    "ko": "임시 - $Object 대상이 장난감만 씹도록 배웠습니다. 온 세상 신문들이 환호합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09837",
+    "source_sha256": "2fd68b5830835b20e3f2f8278b99ed0e1d97c9eae40a6bfc0510019c5507ef18",
+    "ko": "임시 - $Object 대상이 긁기 기둥만 긁도록 배웠습니다. 가구들이 안도의 한숨을 쉽니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09838",
+    "source_sha256": "b8acc6120b4a8715517d698e43701f4eb231506dd70d2c44f68564bb35269098",
+    "ko": "임시 - $Object 대상이 구멍을 파지 않도록 배웠습니다. 멋지군요!"
+  },
+  {
+    "id": "TXT_SimsObjects_09864",
+    "source_sha256": "f5c3b860d31025158a77a0c4fa6db51da7ca180df7c71f7b8bdd88d4ade9f0e4",
+    "ko": "임시 - TV.../켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_09865",
+    "source_sha256": "751b928dfb68157a876a6fd30da7cb2678f529b416c4d9f761d0c1306dd3fa43",
+    "ko": "임시 - TV.../시청"
+  },
+  {
+    "id": "TXT_SimsObjects_09866",
+    "source_sha256": "36b9f7814dff9d61412836e9f353f7b9ebb4cfe8ffbb4e1433723e638896e0d3",
+    "ko": "임시 - TV.../요리 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09867",
+    "source_sha256": "b5cfc0e7317f214b84857644cf44eb97dfc550620bbd3127e8bc587a37f0fb44",
+    "ko": "임시 - TV.../뉴스 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09868",
+    "source_sha256": "45d38285d1daeb5bf34b19e60ab92b2e8d0bd89139b24e87a362e04b34c0b02e",
+    "ko": "임시 - TV.../스포츠 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09869",
+    "source_sha256": "7ce82291486a59c867102d778a8e0c4a2fcff57bdf5b127df9be3484aae413e6",
+    "ko": "임시 - TV.../생활 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09870",
+    "source_sha256": "e1b41fe6947b888fba1b8ccf8cdb713ac12ef6e81bfe4a5d57569b43fd04e443",
+    "ko": "임시 - TV.../끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_09871",
+    "source_sha256": "bbaae456652e0fe7ac01d2b962c21e3afd726ce160f2f7e8dd1eda45efd7ba8b",
+    "ko": "임시 - TV.../반려동물 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09875",
+    "source_sha256": "f5c3b860d31025158a77a0c4fa6db51da7ca180df7c71f7b8bdd88d4ade9f0e4",
+    "ko": "임시 - TV.../켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_09876",
+    "source_sha256": "751b928dfb68157a876a6fd30da7cb2678f529b416c4d9f761d0c1306dd3fa43",
+    "ko": "임시 - TV.../시청"
+  },
+  {
+    "id": "TXT_SimsObjects_09877",
+    "source_sha256": "36b9f7814dff9d61412836e9f353f7b9ebb4cfe8ffbb4e1433723e638896e0d3",
+    "ko": "임시 - TV.../요리 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09878",
+    "source_sha256": "b5cfc0e7317f214b84857644cf44eb97dfc550620bbd3127e8bc587a37f0fb44",
+    "ko": "임시 - TV.../뉴스 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09879",
+    "source_sha256": "45d38285d1daeb5bf34b19e60ab92b2e8d0bd89139b24e87a362e04b34c0b02e",
+    "ko": "임시 - TV.../스포츠 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09880",
+    "source_sha256": "7ce82291486a59c867102d778a8e0c4a2fcff57bdf5b127df9be3484aae413e6",
+    "ko": "임시 - TV.../생활 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09881",
+    "source_sha256": "e1b41fe6947b888fba1b8ccf8cdb713ac12ef6e81bfe4a5d57569b43fd04e443",
+    "ko": "임시 - TV.../끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_09882",
+    "source_sha256": "bbaae456652e0fe7ac01d2b962c21e3afd726ce160f2f7e8dd1eda45efd7ba8b",
+    "ko": "임시 - TV.../반려동물 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09886",
+    "source_sha256": "f5c3b860d31025158a77a0c4fa6db51da7ca180df7c71f7b8bdd88d4ade9f0e4",
+    "ko": "임시 - TV.../켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_09887",
+    "source_sha256": "751b928dfb68157a876a6fd30da7cb2678f529b416c4d9f761d0c1306dd3fa43",
+    "ko": "임시 - TV.../시청"
+  },
+  {
+    "id": "TXT_SimsObjects_09888",
+    "source_sha256": "36b9f7814dff9d61412836e9f353f7b9ebb4cfe8ffbb4e1433723e638896e0d3",
+    "ko": "임시 - TV.../요리 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09889",
+    "source_sha256": "b5cfc0e7317f214b84857644cf44eb97dfc550620bbd3127e8bc587a37f0fb44",
+    "ko": "임시 - TV.../뉴스 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09890",
+    "source_sha256": "45d38285d1daeb5bf34b19e60ab92b2e8d0bd89139b24e87a362e04b34c0b02e",
+    "ko": "임시 - TV.../스포츠 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09891",
+    "source_sha256": "7ce82291486a59c867102d778a8e0c4a2fcff57bdf5b127df9be3484aae413e6",
+    "ko": "임시 - TV.../생활 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09892",
+    "source_sha256": "e1b41fe6947b888fba1b8ccf8cdb713ac12ef6e81bfe4a5d57569b43fd04e443",
+    "ko": "임시 - TV.../끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_09893",
+    "source_sha256": "bbaae456652e0fe7ac01d2b962c21e3afd726ce160f2f7e8dd1eda45efd7ba8b",
+    "ko": "임시 - TV.../반려동물 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09897",
+    "source_sha256": "f5c3b860d31025158a77a0c4fa6db51da7ca180df7c71f7b8bdd88d4ade9f0e4",
+    "ko": "임시 - TV.../켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_09898",
+    "source_sha256": "751b928dfb68157a876a6fd30da7cb2678f529b416c4d9f761d0c1306dd3fa43",
+    "ko": "임시 - TV.../시청"
+  },
+  {
+    "id": "TXT_SimsObjects_09899",
+    "source_sha256": "36b9f7814dff9d61412836e9f353f7b9ebb4cfe8ffbb4e1433723e638896e0d3",
+    "ko": "임시 - TV.../요리 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09900",
+    "source_sha256": "b5cfc0e7317f214b84857644cf44eb97dfc550620bbd3127e8bc587a37f0fb44",
+    "ko": "임시 - TV.../뉴스 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09901",
+    "source_sha256": "45d38285d1daeb5bf34b19e60ab92b2e8d0bd89139b24e87a362e04b34c0b02e",
+    "ko": "임시 - TV.../스포츠 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09902",
+    "source_sha256": "7ce82291486a59c867102d778a8e0c4a2fcff57bdf5b127df9be3484aae413e6",
+    "ko": "임시 - TV.../생활 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09903",
+    "source_sha256": "e1b41fe6947b888fba1b8ccf8cdb713ac12ef6e81bfe4a5d57569b43fd04e443",
+    "ko": "임시 - TV.../끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_09904",
+    "source_sha256": "bbaae456652e0fe7ac01d2b962c21e3afd726ce160f2f7e8dd1eda45efd7ba8b",
+    "ko": "임시 - TV.../반려동물 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09908",
+    "source_sha256": "f5c3b860d31025158a77a0c4fa6db51da7ca180df7c71f7b8bdd88d4ade9f0e4",
+    "ko": "임시 - TV.../켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_09909",
+    "source_sha256": "751b928dfb68157a876a6fd30da7cb2678f529b416c4d9f761d0c1306dd3fa43",
+    "ko": "임시 - TV.../시청"
+  },
+  {
+    "id": "TXT_SimsObjects_09910",
+    "source_sha256": "36b9f7814dff9d61412836e9f353f7b9ebb4cfe8ffbb4e1433723e638896e0d3",
+    "ko": "임시 - TV.../요리 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09911",
+    "source_sha256": "b5cfc0e7317f214b84857644cf44eb97dfc550620bbd3127e8bc587a37f0fb44",
+    "ko": "임시 - TV.../뉴스 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09912",
+    "source_sha256": "45d38285d1daeb5bf34b19e60ab92b2e8d0bd89139b24e87a362e04b34c0b02e",
+    "ko": "임시 - TV.../스포츠 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09913",
+    "source_sha256": "7ce82291486a59c867102d778a8e0c4a2fcff57bdf5b127df9be3484aae413e6",
+    "ko": "임시 - TV.../생활 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09914",
+    "source_sha256": "e1b41fe6947b888fba1b8ccf8cdb713ac12ef6e81bfe4a5d57569b43fd04e443",
+    "ko": "임시 - TV.../끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_09915",
+    "source_sha256": "bbaae456652e0fe7ac01d2b962c21e3afd726ce160f2f7e8dd1eda45efd7ba8b",
+    "ko": "임시 - TV.../반려동물 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09919",
+    "source_sha256": "f5c3b860d31025158a77a0c4fa6db51da7ca180df7c71f7b8bdd88d4ade9f0e4",
+    "ko": "임시 - TV.../켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_09920",
+    "source_sha256": "751b928dfb68157a876a6fd30da7cb2678f529b416c4d9f761d0c1306dd3fa43",
+    "ko": "임시 - TV.../시청"
+  },
+  {
+    "id": "TXT_SimsObjects_09921",
+    "source_sha256": "36b9f7814dff9d61412836e9f353f7b9ebb4cfe8ffbb4e1433723e638896e0d3",
+    "ko": "임시 - TV.../요리 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09922",
+    "source_sha256": "b5cfc0e7317f214b84857644cf44eb97dfc550620bbd3127e8bc587a37f0fb44",
+    "ko": "임시 - TV.../뉴스 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09923",
+    "source_sha256": "45d38285d1daeb5bf34b19e60ab92b2e8d0bd89139b24e87a362e04b34c0b02e",
+    "ko": "임시 - TV.../스포츠 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09924",
+    "source_sha256": "7ce82291486a59c867102d778a8e0c4a2fcff57bdf5b127df9be3484aae413e6",
+    "ko": "임시 - TV.../생활 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09925",
+    "source_sha256": "e1b41fe6947b888fba1b8ccf8cdb713ac12ef6e81bfe4a5d57569b43fd04e443",
+    "ko": "임시 - TV.../끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_09926",
+    "source_sha256": "bbaae456652e0fe7ac01d2b962c21e3afd726ce160f2f7e8dd1eda45efd7ba8b",
+    "ko": "임시 - TV.../반려동물 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09930",
+    "source_sha256": "f5c3b860d31025158a77a0c4fa6db51da7ca180df7c71f7b8bdd88d4ade9f0e4",
+    "ko": "임시 - TV.../켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_09931",
+    "source_sha256": "751b928dfb68157a876a6fd30da7cb2678f529b416c4d9f761d0c1306dd3fa43",
+    "ko": "임시 - TV.../시청"
+  },
+  {
+    "id": "TXT_SimsObjects_09932",
+    "source_sha256": "36b9f7814dff9d61412836e9f353f7b9ebb4cfe8ffbb4e1433723e638896e0d3",
+    "ko": "임시 - TV.../요리 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09933",
+    "source_sha256": "b5cfc0e7317f214b84857644cf44eb97dfc550620bbd3127e8bc587a37f0fb44",
+    "ko": "임시 - TV.../뉴스 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09934",
+    "source_sha256": "45d38285d1daeb5bf34b19e60ab92b2e8d0bd89139b24e87a362e04b34c0b02e",
+    "ko": "임시 - TV.../스포츠 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09935",
+    "source_sha256": "7ce82291486a59c867102d778a8e0c4a2fcff57bdf5b127df9be3484aae413e6",
+    "ko": "임시 - TV.../생활 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09936",
+    "source_sha256": "e1b41fe6947b888fba1b8ccf8cdb713ac12ef6e81bfe4a5d57569b43fd04e443",
+    "ko": "임시 - TV.../끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_09937",
+    "source_sha256": "bbaae456652e0fe7ac01d2b962c21e3afd726ce160f2f7e8dd1eda45efd7ba8b",
+    "ko": "임시 - TV.../반려동물 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09941",
+    "source_sha256": "f5c3b860d31025158a77a0c4fa6db51da7ca180df7c71f7b8bdd88d4ade9f0e4",
+    "ko": "임시 - TV.../켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_09942",
+    "source_sha256": "751b928dfb68157a876a6fd30da7cb2678f529b416c4d9f761d0c1306dd3fa43",
+    "ko": "임시 - TV.../시청"
+  },
+  {
+    "id": "TXT_SimsObjects_09943",
+    "source_sha256": "36b9f7814dff9d61412836e9f353f7b9ebb4cfe8ffbb4e1433723e638896e0d3",
+    "ko": "임시 - TV.../요리 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09944",
+    "source_sha256": "b5cfc0e7317f214b84857644cf44eb97dfc550620bbd3127e8bc587a37f0fb44",
+    "ko": "임시 - TV.../뉴스 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09945",
+    "source_sha256": "45d38285d1daeb5bf34b19e60ab92b2e8d0bd89139b24e87a362e04b34c0b02e",
+    "ko": "임시 - TV.../스포츠 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09946",
+    "source_sha256": "7ce82291486a59c867102d778a8e0c4a2fcff57bdf5b127df9be3484aae413e6",
+    "ko": "임시 - TV.../생활 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09947",
+    "source_sha256": "e1b41fe6947b888fba1b8ccf8cdb713ac12ef6e81bfe4a5d57569b43fd04e443",
+    "ko": "임시 - TV.../끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_09948",
+    "source_sha256": "bbaae456652e0fe7ac01d2b962c21e3afd726ce160f2f7e8dd1eda45efd7ba8b",
+    "ko": "임시 - TV.../반려동물 채널로 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_09949",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09950",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09951",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09952",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09953",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09954",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09956",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09957",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09958",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09960",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09961",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09962",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09963",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09964",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09965",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09966",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09967",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09968",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09969",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09970",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09971",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09972",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09973",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09974",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09976",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09977",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09978",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09979",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09980",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09981",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09983",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09984",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09985",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09987",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09988",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09989",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09990",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09991",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09992",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09993",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09994",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09995",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09996",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_09997",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_09998",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_09999",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10000",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10001",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10002",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10003",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10004",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10005",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10006",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10007",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10008",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10009",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10010",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10011",
+    "source_sha256": "4b7d250c304a63c5430086e987d2340b18615c8a105d63a2390f70fbd272b98f",
+    "ko": "상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10012",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10013",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10014",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10015",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10016",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10017",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10018",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10019",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10020",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10021",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10022",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10023",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10024",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10025",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10026",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10027",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10028",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10029",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10030",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10031",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10032",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10033",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10034",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10035",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10036",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10037",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10038",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10039",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10040",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10041",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10042",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10043",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10059",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10060",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10061",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10062",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10063",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10064",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10065",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10066",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10067",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10068",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10069",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10070",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10071",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10072",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10073",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10074",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10075",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10076",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10077",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10078",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10079",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10080",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10081",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10082",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10083",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10084",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10085",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10086",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10087",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10088",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10089",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10090",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10091",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10092",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10093",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10094",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10095",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10096",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10097",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10098",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10099",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10100",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10101",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10102",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10103",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10104",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10105",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10106",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10107",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10108",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10109",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10110",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10111",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10112",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10113",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10114",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10115",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10116",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10117",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10118",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10119",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10120",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10121",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10122",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10123",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10124",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10125",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10126",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10127",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10128",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10129",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10130",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10131",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10132",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10133",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10134",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10135",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10136",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10137",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10138",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10139",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10140",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10141",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10142",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10143",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10144",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10145",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10146",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10147",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10148",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10149",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10150",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10151",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10152",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10153",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10154",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10160",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10161",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10162",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10163",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10164",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10165",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10166",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10167",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10168",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10169",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10170",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10171",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10172",
+    "source_sha256": "4d9df3353e5418dc71dddf86a8f1d2fee3d3499c5399c8e5e09ba3b4b51c90c4",
+    "ko": "상태 변경.../새싹"
+  },
+  {
+    "id": "TXT_SimsObjects_10173",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10174",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10175",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10176",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10177",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10178",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10179",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10180",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10181",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10182",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10183",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10184",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10185",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10186",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10187",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10188",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10189",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10190",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10194",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10195",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10196",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10197",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10198",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10199",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10200",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10201",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10202",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10203",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10204",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10205",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10206",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10207",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10208",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10209",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10210",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10211",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10212",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10213",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10214",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10215",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10216",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10217",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10218",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10219",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10220",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10221",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10222",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10223",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10224",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10225",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10226",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10227",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10228",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10229",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10230",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10231",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10232",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10233",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10234",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10235",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10236",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10237",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10238",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10239",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10240",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10241",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10242",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10243",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10244",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10245",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10246",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10247",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10248",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10249",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10250",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10251",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10252",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10253",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10254",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10255",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10256",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10257",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10258",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10259",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10260",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10261",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10262",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10263",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10264",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10265",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10266",
+    "source_sha256": "2fac525402c91a4c4b024e7a39ad941d2568226a8386146ff8b8a3528db26b9a",
+    "ko": "디버그 - 상태 변경.../열매 가득"
+  },
+  {
+    "id": "TXT_SimsObjects_10267",
+    "source_sha256": "5ded16249e8af91a8b93b3c55bf7851d7292d4f8fab23bd08e4ea73ec868373b",
+    "ko": "디버그 - 상태 변경.../열매 조금"
+  },
+  {
+    "id": "TXT_SimsObjects_10268",
+    "source_sha256": "8dae949a9f9cc31c93aa839d3342404da8a923ba7bfd8138ea0e94701b7a362b",
+    "ko": "디버그 - 상태 변경.../열매 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_10284",
+    "source_sha256": "c8ccb11f52c6547b5c2dece81909227fa752e335725400392d5577621b6c0fb2",
+    "ko": "기본 확률 = $Temp:1% /n 관계 요소 = $Temp:2% /n 기분 요소 = $Temp:3% /n 문화 요소 = $Temp:4% /n 의상 요소 = $Temp:5% /n 산출된 성공 확률 = $Temp:0%"
+  },
+  {
+    "id": "TXT_SimsObjects_10286",
+    "source_sha256": "b9288ac9bc60ad216fbd576e730f85b705d76b0adf0b5fa12864d7e15963d4c6",
+    "ko": "디버그 - 친구 기억 추가됨"
+  },
+  {
+    "id": "TXT_SimsObjects_10287",
+    "source_sha256": "9042fb4a6db3b57d14ceb02aba69936ef73fd65d01a99d54a34117f161454b7f",
+    "ko": "디버그 - 공포 기억 추가됨"
+  },
+  {
+    "id": "TXT_SimsObjects_10288",
+    "source_sha256": "88f5ef53e39051a11f15ec73a3ef3727f9f1c292b6a322e2dc813892ecd0b149",
+    "ko": "\r\n      디버그 - 혐오 기억 추가됨\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_10289",
+    "source_sha256": "8ad784dc0eb94f23da9f6703d5dc7a788ade2f7e19ee6ad343c5a306139a0e85",
+    "ko": "디버그 - 짝사랑 기억 추가됨"
+  },
+  {
+    "id": "TXT_SimsObjects_10290",
+    "source_sha256": "7740daac8002d39e1d021c87aa69861723f5d982f3c7a0379e5e856e9660fdb2",
+    "ko": "\r\n      디버그 - 분노 기억 추가됨\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_10291",
+    "source_sha256": "1d54be496664dd50e80353b8c393c99b971df3b652656fcf756a801195a330c3",
+    "ko": "디버그 - 사랑 기억 추가됨"
+  },
+  {
+    "id": "TXT_SimsObjects_10292",
+    "source_sha256": "3e7bfd4ff701513deb911b0baecdb1040913d3035d20de2c105d132425abe0d5",
+    "ko": "디버그 - 질투 기억 추가됨"
+  },
+  {
+    "id": "TXT_SimsObjects_10550",
+    "source_sha256": "4c4c213f5e039d3c93281965a0b88e692a35ce84023766a4b87e6060733ab8a4",
+    "ko": "임시 - 기분 표시계를 설명할 것! 내용 작성 필요"
+  }
+]

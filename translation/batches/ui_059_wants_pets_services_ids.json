@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "TXT_SimsObjects_11650",
+    "source_sha256": "8a511be418f4512df768fd69f8f9f320f9700f3406cb79f5934dd6eb204d13e9",
+    "ko": "반려동물_변기_사용"
+  },
+  {
+    "id": "TXT_SimsObjects_11651",
+    "source_sha256": "8a511be418f4512df768fd69f8f9f320f9700f3406cb79f5934dd6eb204d13e9",
+    "ko": "반려동물_변기_사용"
+  },
+  {
+    "id": "TXT_SimsObjects_11652",
+    "source_sha256": "8a511be418f4512df768fd69f8f9f320f9700f3406cb79f5934dd6eb204d13e9",
+    "ko": "반려동물_변기_사용"
+  },
+  {
+    "id": "TXT_SimsObjects_11653",
+    "source_sha256": "8a511be418f4512df768fd69f8f9f320f9700f3406cb79f5934dd6eb204d13e9",
+    "ko": "반려동물_변기_사용"
+  },
+  {
+    "id": "TXT_SimsObjects_11654",
+    "source_sha256": "8a511be418f4512df768fd69f8f9f320f9700f3406cb79f5934dd6eb204d13e9",
+    "ko": "반려동물_변기_사용"
+  },
+  {
+    "id": "TXT_SimsObjects_11655",
+    "source_sha256": "8a511be418f4512df768fd69f8f9f320f9700f3406cb79f5934dd6eb204d13e9",
+    "ko": "반려동물_변기_사용"
+  },
+  {
+    "id": "TXT_SimsObjects_11656",
+    "source_sha256": "54bb82e13e1b2369587ac6067b03679683581c9b7b1abab29ea31c82d5bc64c1",
+    "ko": "<WT>반려동물_들이기. 무척 귀엽고 아이보다 손도 덜 갑니다. 이보다 좋을 수 있을까요?\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11657",
+    "source_sha256": "27612f1427b07f0c0cc0279c9d4b0625aedec141266882b2ec1b44fda1493cc2",
+    "ko": "반려동물 들이기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11658",
+    "source_sha256": "ee0cab348ce01e9fbe2245cb801ec3e6eba95a31ce786c3089c066fea60298eb",
+    "ko": "반려동물_들이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11659",
+    "source_sha256": "ee0cab348ce01e9fbe2245cb801ec3e6eba95a31ce786c3089c066fea60298eb",
+    "ko": "반려동물_들이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11660",
+    "source_sha256": "ee0cab348ce01e9fbe2245cb801ec3e6eba95a31ce786c3089c066fea60298eb",
+    "ko": "반려동물_들이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11661",
+    "source_sha256": "ee0cab348ce01e9fbe2245cb801ec3e6eba95a31ce786c3089c066fea60298eb",
+    "ko": "반려동물_들이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11662",
+    "source_sha256": "ee0cab348ce01e9fbe2245cb801ec3e6eba95a31ce786c3089c066fea60298eb",
+    "ko": "반려동물_들이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11663",
+    "source_sha256": "ee0cab348ce01e9fbe2245cb801ec3e6eba95a31ce786c3089c066fea60298eb",
+    "ko": "반려동물_들이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11664",
+    "source_sha256": "6f7be26c09d58d289077924a032da8302efd9892af79be3356ffa67635cd95ae",
+    "ko": "질병 발생 이벤트"
+  },
+  {
+    "id": "TXT_SimsObjects_11665",
+    "source_sha256": "6f7be26c09d58d289077924a032da8302efd9892af79be3356ffa67635cd95ae",
+    "ko": "질병 발생 이벤트"
+  },
+  {
+    "id": "TXT_SimsObjects_11666",
+    "source_sha256": "6f7be26c09d58d289077924a032da8302efd9892af79be3356ffa67635cd95ae",
+    "ko": "질병 발생 이벤트"
+  },
+  {
+    "id": "TXT_SimsObjects_11667",
+    "source_sha256": "6f7be26c09d58d289077924a032da8302efd9892af79be3356ffa67635cd95ae",
+    "ko": "질병 발생 이벤트"
+  },
+  {
+    "id": "TXT_SimsObjects_11668",
+    "source_sha256": "0aeb0feb66b731a94a3529fa7c060efc18db5fc265b76f9c2d9ea6119e99c46c",
+    "ko": "<WT>물건_구입하기. 심에게는 시몰레온만이 채울 수 있는 욕구가 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11669",
+    "source_sha256": "ec5e05ffefaf26d9fa13baf1b700db76eb86f74356bc22c8eafd4a89998cd12b",
+    "ko": "물건 구입하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11670",
+    "source_sha256": "6aba0348d7a5d9ce462b8e03f325282bed5848b0b7ccb2dabf92191eaabf0e1c",
+    "ko": "<WT>$object 구입하기."
+  },
+  {
+    "id": "TXT_SimsObjects_11671",
+    "source_sha256": "a964e752334feeea620fb47fa1aea2cace728c2bd595c1df4746186212b53d6a",
+    "ko": "구입: $object"
+  },
+  {
+    "id": "TXT_SimsObjects_11672",
+    "source_sha256": "61f45903521bc671e0ae8232d0f6e8f14785b923ef02ea420758adab9e64f17e",
+    "ko": "\r\n      <WT>$object 구입하기.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11673",
+    "source_sha256": "a964e752334feeea620fb47fa1aea2cace728c2bd595c1df4746186212b53d6a",
+    "ko": "구입: $object"
+  },
+  {
+    "id": "TXT_SimsObjects_11674",
+    "source_sha256": "03fc61a205eff62c2653a64e211ea2e305c3881a58aedb8e3b7fe736477b8285",
+    "ko": "\r\n      <WT>$intObject에서 쇼핑하기. 후한 고객이 되어 무엇이든 사세요.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11675",
+    "source_sha256": "e88436b8c9e265f9fbb6249523e9cb8cf8cb74c8e9919abbe7364d315965c39a",
+    "ko": "\r\n      $intObject에서 쇼핑하기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11676",
+    "source_sha256": "c6093eb0163f06240297734e6af33c2a55feedd4921b4e92f4ffd163046a8e3c",
+    "ko": "<WT>$intObject에서 쇼핑하기. 후한 고객이 되어 $object을 사세요."
+  },
+  {
+    "id": "TXT_SimsObjects_11677",
+    "source_sha256": "067019a6c40285dadcf41e66f4d9d15fd5ee3732d610c08c16453288eb0193b4",
+    "ko": "\r\n      구입: $object / 장소: $intObject\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11678",
+    "source_sha256": "32b72b3ade91e6436374ae47f5ee8addcd3f3520deacd5ff09a945b0ce26720f",
+    "ko": "<WT>음식_구입하기. 배에서 꼬르륵 소리가 나면 간식이 필요한 때입니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11679",
+    "source_sha256": "41764d93c321740476de5ebc239227c613824106ab5cdf85d1e0006c58efd470",
+    "ko": "음식 구입하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11680",
+    "source_sha256": "ec4a589ae5bdd12a2e20b9156f716fa8d27f8785d3ce4debfbc1ab62a8cd94b4",
+    "ko": "<WT>$foodtype 구입하기. 그 특별한 입맛을 채워 보세요. \r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11681",
+    "source_sha256": "b8035bf9c923f183a275f9c96d46589426ae5831fc6c8eb17a28d4b9fc280656",
+    "ko": "$foodtype 구입하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11682",
+    "source_sha256": "ec4a589ae5bdd12a2e20b9156f716fa8d27f8785d3ce4debfbc1ab62a8cd94b4",
+    "ko": "<WT>$foodtype 구입하기. 그 특별한 입맛을 채워 보세요. \r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11683",
+    "source_sha256": "b8035bf9c923f183a275f9c96d46589426ae5831fc6c8eb17a28d4b9fc280656",
+    "ko": "$foodtype 구입하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11684",
+    "source_sha256": "d8349bb8dd4acd3869ff424de3ac09352ef70d4a9c9971a1645b6e2132948bd5",
+    "ko": "$foodtype 구입하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11685",
+    "source_sha256": "d8349bb8dd4acd3869ff424de3ac09352ef70d4a9c9971a1645b6e2132948bd5",
+    "ko": "$foodtype 구입하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11686",
+    "source_sha256": "fbf1738562ed7fae720e2e3e7b67f7aebc13873e2fbe6658388ced55ce871795",
+    "ko": "\r\n      <WT>도움_요청하기. 영웅이 되려 하지 말고 전문가에게 맡기세요.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11687",
+    "source_sha256": "526b0cd6585daf6388ea55399437fca19d9adf3c93060c454975935d49806901",
+    "ko": "\r\n      도움 요청하기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11688",
+    "source_sha256": "f8d31f827bbaae41bb367ed3250ec2f654eef09cf8d8998ae864057197e7c8a8",
+    "ko": "\r\n      <WT>$npctype 부르기. 영웅이 되려 하지 말고 $npctype에게 맡기세요.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11689",
+    "source_sha256": "ff99d5518c191b9b7c96643e6ba2023b4b79d8bb3bee904c692b66f168fa8344",
+    "ko": "\r\n      $npctype 부르기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11690",
+    "source_sha256": "f8d31f827bbaae41bb367ed3250ec2f654eef09cf8d8998ae864057197e7c8a8",
+    "ko": "\r\n      <WT>$npctype 부르기. 영웅이 되려 하지 말고 $npctype에게 맡기세요.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11691",
+    "source_sha256": "ff99d5518c191b9b7c96643e6ba2023b4b79d8bb3bee904c692b66f168fa8344",
+    "ko": "\r\n      $npctype 부르기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11692",
+    "source_sha256": "82bd44b1de094003acf4582490e52095b9e064d0d8749c26b8037601326b3f83",
+    "ko": "$npc 부르기"
+  },
+  {
+    "id": "TXT_SimsObjects_11693",
+    "source_sha256": "82bd44b1de094003acf4582490e52095b9e064d0d8749c26b8037601326b3f83",
+    "ko": "$npc 부르기"
+  },
+  {
+    "id": "TXT_SimsObjects_11694",
+    "source_sha256": "f979996c699eb6493b4eec2b220b545ec5ec5f6b6a6e219c5c68e007b7560fd1",
+    "ko": "<WT>심_고용하기. 솔직히 이곳을 운영하려면 도움이 필요합니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11695",
+    "source_sha256": "a4db56151903d0c3fb4419919b9f78bbb92819ad00876c8e11630c8d8a672097",
+    "ko": "심 고용하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11696",
+    "source_sha256": "2bf5294cad3e9b8707d37e786126db72e862bafbd08dfc7647a56d0aec9ed7e5",
+    "ko": "<WT>$npctype 고용하기. 솔직히 이곳을 운영하려면 도움이 필요합니다. $npctype의 도움이 있으면 버틸 수 있습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11697",
+    "source_sha256": "102b9b4c91e803b3e67630386520955ce2c9550a2ccb34dbe6ea06cd53e83d52",
+    "ko": "$npctype 고용하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11698",
+    "source_sha256": "2bf5294cad3e9b8707d37e786126db72e862bafbd08dfc7647a56d0aec9ed7e5",
+    "ko": "<WT>$npctype 고용하기. 솔직히 이곳을 운영하려면 도움이 필요합니다. $npctype의 도움이 있으면 버틸 수 있습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11699",
+    "source_sha256": "102b9b4c91e803b3e67630386520955ce2c9550a2ccb34dbe6ea06cd53e83d52",
+    "ko": "$npctype 고용하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11700",
+    "source_sha256": "0eb3256b7a4e27125bdc7111288a56df7781d20bae898719118cfe4070cb116c",
+    "ko": "$npc 고용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11701",
+    "source_sha256": "0eb3256b7a4e27125bdc7111288a56df7781d20bae898719118cfe4070cb116c",
+    "ko": "$npc 고용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11702",
+    "source_sha256": "31875ac3511645bb11a2e1a6eaddb5d6d584243cb1fd27bfa8bf6444afb98dea",
+    "ko": "<WT>심_해고하기. 당신도 전문가만큼 잘할 수 있습니다. 시몰레온을 아끼고 직접 하세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11703",
+    "source_sha256": "e859ae8701e75a00cfbadc5a94f614aa4442e7cb2a5c2dc25fb6fd780767c63f",
+    "ko": "심 해고하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11704",
+    "source_sha256": "45c469c65764b8c95314cfcea1c60941e49ecdc6a51f7ea0024ca5b02d4be199",
+    "ko": "<WT>$npctype 해고하기. 당신도 전문가만큼 잘할 수 있습니다. 시몰레온을 아끼고 직접 하세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11705",
+    "source_sha256": "3dbb909cfe090dda9d69a607173e7443f6696fbfc55f74ed02adfcdee21d266e",
+    "ko": "$npctype 해고하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11706",
+    "source_sha256": "45c469c65764b8c95314cfcea1c60941e49ecdc6a51f7ea0024ca5b02d4be199",
+    "ko": "<WT>$npctype 해고하기. 당신도 전문가만큼 잘할 수 있습니다. 시몰레온을 아끼고 직접 하세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11707",
+    "source_sha256": "3dbb909cfe090dda9d69a607173e7443f6696fbfc55f74ed02adfcdee21d266e",
+    "ko": "$npctype 해고하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11708",
+    "source_sha256": "7f3760c78cc22134674f08f92fdfe673e03af866a7554505c07d1ccfd6b9468e",
+    "ko": "$npc 해고하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11709",
+    "source_sha256": "7f3760c78cc22134674f08f92fdfe673e03af866a7554505c07d1ccfd6b9468e",
+    "ko": "$npc 해고하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11710",
+    "source_sha256": "f02606047b6e23520d0986df535f2060acac2f8324ac0b1a0667d3afcc4ddcdb",
+    "ko": "<WT>반려동물과_놀기. 반려동물과 보내는 소중한 시간은 마음에 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11711",
+    "source_sha256": "1093d26cb1122e8cecfea7c25b86b0185d29f328dd5a147db6ec462bb09b9405",
+    "ko": "반려동물과 놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_11712",
+    "source_sha256": "e29b8df136f44db12707bcda52f8577d8dee6c1b894c75cde58f2d9322d7ee59",
+    "ko": "<WT>$sim과 놀기. 반려동물과 보내는 소중한 시간은 마음에 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11713",
+    "source_sha256": "22d65f85c4f66f58d26512303c67624fe3a922653c692bbfa88bc77f503a4200",
+    "ko": "$sim과 놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_11714",
+    "source_sha256": "e29b8df136f44db12707bcda52f8577d8dee6c1b894c75cde58f2d9322d7ee59",
+    "ko": "<WT>$sim과 놀기. 반려동물과 보내는 소중한 시간은 마음에 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11715",
+    "source_sha256": "22d65f85c4f66f58d26512303c67624fe3a922653c692bbfa88bc77f503a4200",
+    "ko": "$sim과 놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_11716",
+    "source_sha256": "3b47d943c9aecf2a710f36d70b35b7d5e18550129a005e2230066414474f5255",
+    "ko": "놀이: $playtype_with_ / 대상: $sim (.6)"
+  },
+  {
+    "id": "TXT_SimsObjects_11717",
+    "source_sha256": "b272b8d0b6dbadeccac6b5d3c6ece570ed3edf2a6dd3db01c2c6e21fc7e03756",
+    "ko": "놀이: $playtype_with_ / 대상: $sim (.7)"
+  },
+  {
+    "id": "TXT_SimsObjects_11718",
+    "source_sha256": "2867d980fd96ea4c27a99ee19acb1a115a6e3711b69c53014d14b9235e293876",
+    "ko": "<WT>마시멜로_굽기. 끈적끈적하면서도 정말 맛있습니다. 불붙이지 않도록 조심하세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11719",
+    "source_sha256": "7ba07ce3cc6f2a2cd810600481d6bf38cac608ac1ae8b6e8f16eeedcc4796868",
+    "ko": "마시멜로 굽기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11720",
+    "source_sha256": "b22fe9ae9e10662af5e95bb1ecf05261f9d3ed8201a2f38f8ef76e88686a3cbc",
+    "ko": "마시멜로_굽기"
+  },
+  {
+    "id": "TXT_SimsObjects_11721",
+    "source_sha256": "b22fe9ae9e10662af5e95bb1ecf05261f9d3ed8201a2f38f8ef76e88686a3cbc",
+    "ko": "마시멜로_굽기"
+  },
+  {
+    "id": "TXT_SimsObjects_11722",
+    "source_sha256": "b22fe9ae9e10662af5e95bb1ecf05261f9d3ed8201a2f38f8ef76e88686a3cbc",
+    "ko": "마시멜로_굽기"
+  },
+  {
+    "id": "TXT_SimsObjects_11723",
+    "source_sha256": "b22fe9ae9e10662af5e95bb1ecf05261f9d3ed8201a2f38f8ef76e88686a3cbc",
+    "ko": "마시멜로_굽기"
+  },
+  {
+    "id": "TXT_SimsObjects_11724",
+    "source_sha256": "b22fe9ae9e10662af5e95bb1ecf05261f9d3ed8201a2f38f8ef76e88686a3cbc",
+    "ko": "마시멜로_굽기"
+  },
+  {
+    "id": "TXT_SimsObjects_11725",
+    "source_sha256": "b22fe9ae9e10662af5e95bb1ecf05261f9d3ed8201a2f38f8ef76e88686a3cbc",
+    "ko": "마시멜로_굽기"
+  },
+  {
+    "id": "TXT_SimsObjects_11726",
+    "source_sha256": "b05a044c8844564c794556c5702f2c4d1ace1e766ff66048cae423c8d59a5fc8",
+    "ko": "\r\n      <WT>음수대에서_물_마시기. 세균 덕분에 특별히 맛있습니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11727",
+    "source_sha256": "06cf35ce8621e3ba4f6ef9c7f87806d4a62a8ef6beebc5374263ae8cbdea8569",
+    "ko": "\r\n      음수대에서 물 마시기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11728",
+    "source_sha256": "7c71dfbf587185e0f30894f8fd2ff6014ac73d9d117f1f1c025a89195cc4c795",
+    "ko": "음수대_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11729",
+    "source_sha256": "7c71dfbf587185e0f30894f8fd2ff6014ac73d9d117f1f1c025a89195cc4c795",
+    "ko": "음수대_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11730",
+    "source_sha256": "7c71dfbf587185e0f30894f8fd2ff6014ac73d9d117f1f1c025a89195cc4c795",
+    "ko": "음수대_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11731",
+    "source_sha256": "7c71dfbf587185e0f30894f8fd2ff6014ac73d9d117f1f1c025a89195cc4c795",
+    "ko": "음수대_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11732",
+    "source_sha256": "7c71dfbf587185e0f30894f8fd2ff6014ac73d9d117f1f1c025a89195cc4c795",
+    "ko": "음수대_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11733",
+    "source_sha256": "7c71dfbf587185e0f30894f8fd2ff6014ac73d9d117f1f1c025a89195cc4c795",
+    "ko": "음수대_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11734",
+    "source_sha256": "10e68c41a3dacba7a7726e85f103911c6ef641effb98c3b5516524255256d879",
+    "ko": "<WT>반려동물_점수_교환기_사용하기. 시몰레온으로 반려동물 점수를 얻으세요. 반려동물에게 친절하게 구는 것보다는 쉽잖아요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11735",
+    "source_sha256": "8ad1e72a0e2304df4c230f15f9c17afd241d576d89157cccbe76bc59a3b5d352",
+    "ko": "반려동물 점수 교환기 사용하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11736",
+    "source_sha256": "e0a1ad570150dd0c4713670c794cb69c1cdae3b6b7a5bd509678fff3b96014c9",
+    "ko": "반려동물_점수_교환기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11737",
+    "source_sha256": "e0a1ad570150dd0c4713670c794cb69c1cdae3b6b7a5bd509678fff3b96014c9",
+    "ko": "반려동물_점수_교환기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11738",
+    "source_sha256": "e0a1ad570150dd0c4713670c794cb69c1cdae3b6b7a5bd509678fff3b96014c9",
+    "ko": "반려동물_점수_교환기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11739",
+    "source_sha256": "e0a1ad570150dd0c4713670c794cb69c1cdae3b6b7a5bd509678fff3b96014c9",
+    "ko": "반려동물_점수_교환기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11740",
+    "source_sha256": "e0a1ad570150dd0c4713670c794cb69c1cdae3b6b7a5bd509678fff3b96014c9",
+    "ko": "반려동물_점수_교환기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11741",
+    "source_sha256": "e0a1ad570150dd0c4713670c794cb69c1cdae3b6b7a5bd509678fff3b96014c9",
+    "ko": "반려동물_점수_교환기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11742",
+    "source_sha256": "376fe450926f748cb017d7faa6cfb6a1a60849a418c289c0c7859394c52568a9",
+    "ko": "\r\n      <WT>자동판매기_사용하기. 점원과 대화하는 불편함 없이 가게의 편리함을 모두 누리세요.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11743",
+    "source_sha256": "833898244fba90b3932fb637d5dd96ff2b7443ff475087be3087ef0e7ea0807d",
+    "ko": "\r\n      자동판매기 사용하기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11744",
+    "source_sha256": "a691639fdfe2c6d7ecbbb297741a19cac75c3f6223825394819b227b9b391b2a",
+    "ko": "자동판매기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11745",
+    "source_sha256": "a691639fdfe2c6d7ecbbb297741a19cac75c3f6223825394819b227b9b391b2a",
+    "ko": "자동판매기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11746",
+    "source_sha256": "a691639fdfe2c6d7ecbbb297741a19cac75c3f6223825394819b227b9b391b2a",
+    "ko": "자동판매기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11747",
+    "source_sha256": "a691639fdfe2c6d7ecbbb297741a19cac75c3f6223825394819b227b9b391b2a",
+    "ko": "자동판매기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11748",
+    "source_sha256": "a691639fdfe2c6d7ecbbb297741a19cac75c3f6223825394819b227b9b391b2a",
+    "ko": "자동판매기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11749",
+    "source_sha256": "a691639fdfe2c6d7ecbbb297741a19cac75c3f6223825394819b227b9b391b2a",
+    "ko": "자동판매기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11750",
+    "source_sha256": "d17dedac43edb268f3b8b5d831d91da913e4ef3c4683780999315d9de861ac79",
+    "ko": "<WT>심과_$relationship관계_맺기. 주의하세요. 사교를 나누면 다른 심과의 관계가 달라질 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11751",
+    "source_sha256": "42b5fd62bf36b2ef3c3d7330e7af370eb6b7edf692931dda86d684e87ec40757",
+    "ko": "심과의 관계 바꾸기"
+  },
+  {
+    "id": "TXT_SimsObjects_11752",
+    "source_sha256": "b37e1bac3baf52379c7eb90a22c93c5ac4d8ab9bc397c3af13249277382c2b32",
+    "ko": "<WT>새_$relationship관계_맺기. 다른 심이 당신을 어떻게 생각할지 두려우신가요? 이 관계는 무슨 수를 써서라도 피하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_11753",
+    "source_sha256": "1679f24961a4c31e70b587b8f3b607db46ea5db8d344623b0446c76b9c969cd1",
+    "ko": "새 $relationship 관계 맺기"
+  },
+  {
+    "id": "TXT_SimsObjects_11754",
+    "source_sha256": "b37e1bac3baf52379c7eb90a22c93c5ac4d8ab9bc397c3af13249277382c2b32",
+    "ko": "<WT>새_$relationship관계_맺기. 다른 심이 당신을 어떻게 생각할지 두려우신가요? 이 관계는 무슨 수를 써서라도 피하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_11755",
+    "source_sha256": "1679f24961a4c31e70b587b8f3b607db46ea5db8d344623b0446c76b9c969cd1",
+    "ko": "새 $relationship 관계 맺기"
+  },
+  {
+    "id": "TXT_SimsObjects_11756",
+    "source_sha256": "544a92e3c861161b233dbd43d9812e2b6329a786a46e6e81aaa376c49a2a4712",
+    "ko": "<WT>음료_자판기_사용하기. 점원과 대화하는 불편함 없이 가게의 편리함을 모두 누리세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11757",
+    "source_sha256": "df2749873b650e0cfe477fc0563b73162043917da21d5eea7cd911577d7503c5",
+    "ko": "음료 자판기 사용하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11758",
+    "source_sha256": "0d989bbe9801c7f70758b4186b7ba1367b77218e2945f77d230eaae92632e89a",
+    "ko": "음료_자판기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11759",
+    "source_sha256": "0d989bbe9801c7f70758b4186b7ba1367b77218e2945f77d230eaae92632e89a",
+    "ko": "음료_자판기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11760",
+    "source_sha256": "0d989bbe9801c7f70758b4186b7ba1367b77218e2945f77d230eaae92632e89a",
+    "ko": "음료_자판기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11761",
+    "source_sha256": "0d989bbe9801c7f70758b4186b7ba1367b77218e2945f77d230eaae92632e89a",
+    "ko": "음료_자판기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11762",
+    "source_sha256": "0d989bbe9801c7f70758b4186b7ba1367b77218e2945f77d230eaae92632e89a",
+    "ko": "음료_자판기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11763",
+    "source_sha256": "0d989bbe9801c7f70758b4186b7ba1367b77218e2945f77d230eaae92632e89a",
+    "ko": "음료_자판기_사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11764",
+    "source_sha256": "c319d8f5d4cd75b06408d28d909a4ec2fca749bdd7d195370c09fcc0f1f42f5d",
+    "ko": "주기: $object_to_ / 받는 심: $sim"
+  },
+  {
+    "id": "TXT_SimsObjects_11765",
+    "source_sha256": "c319d8f5d4cd75b06408d28d909a4ec2fca749bdd7d195370c09fcc0f1f42f5d",
+    "ko": "주기: $object_to_ / 받는 심: $sim"
+  },
+  {
+    "id": "TXT_SimsObjects_11766",
+    "source_sha256": "c319d8f5d4cd75b06408d28d909a4ec2fca749bdd7d195370c09fcc0f1f42f5d",
+    "ko": "주기: $object_to_ / 받는 심: $sim"
+  },
+  {
+    "id": "TXT_SimsObjects_11767",
+    "source_sha256": "c319d8f5d4cd75b06408d28d909a4ec2fca749bdd7d195370c09fcc0f1f42f5d",
+    "ko": "주기: $object_to_ / 받는 심: $sim"
+  },
+  {
+    "id": "TXT_SimsObjects_11768",
+    "source_sha256": "c319d8f5d4cd75b06408d28d909a4ec2fca749bdd7d195370c09fcc0f1f42f5d",
+    "ko": "주기: $object_to_ / 받는 심: $sim"
+  },
+  {
+    "id": "TXT_SimsObjects_11769",
+    "source_sha256": "c319d8f5d4cd75b06408d28d909a4ec2fca749bdd7d195370c09fcc0f1f42f5d",
+    "ko": "주기: $object_to_ / 받는 심: $sim"
+  },
+  {
+    "id": "TXT_SimsObjects_11770",
+    "source_sha256": "c319d8f5d4cd75b06408d28d909a4ec2fca749bdd7d195370c09fcc0f1f42f5d",
+    "ko": "주기: $object_to_ / 받는 심: $sim"
+  },
+  {
+    "id": "TXT_SimsObjects_11771",
+    "source_sha256": "c319d8f5d4cd75b06408d28d909a4ec2fca749bdd7d195370c09fcc0f1f42f5d",
+    "ko": "주기: $object_to_ / 받는 심: $sim"
+  },
+  {
+    "id": "TXT_SimsObjects_11772",
+    "source_sha256": "dd5809612e8bfb87438666e98813eeb628c2a7612230a7c5dc10880180045dec",
+    "ko": "<WT>소생하기. 의식을 잃은 심들이 뽑은 인기 활동 1위입니다. \r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11773",
+    "source_sha256": "401c587eb8ce4394bd661bd23355bc89c2cba6aa29e9a55ee2463ab18af52cea",
+    "ko": "소생하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11774",
+    "source_sha256": "a4649fafa6d5ba13527d8075853f31308c351c449fa772768ac8c41ebd2db88a",
+    "ko": "<WT>$sim에게 소생받기. 의식도 없는데 더 좋은 할 일이 있을 리 없잖아요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11775",
+    "source_sha256": "654c2d42d595cb36a893cdafbcd8b30223f78d87298d4e2ff38d9da3de86c3ea",
+    "ko": "$sim에게 소생받기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11776",
+    "source_sha256": "a4649fafa6d5ba13527d8075853f31308c351c449fa772768ac8c41ebd2db88a",
+    "ko": "<WT>$sim에게 소생받기. 의식도 없는데 더 좋은 할 일이 있을 리 없잖아요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11777",
+    "source_sha256": "654c2d42d595cb36a893cdafbcd8b30223f78d87298d4e2ff38d9da3de86c3ea",
+    "ko": "$sim에게 소생받기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11778",
+    "source_sha256": "5b6d6a8a5dc602a22cb1ec97d0b24b38c73b94b9e081ba230dfb1011fa0dd36d",
+    "ko": "소생하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11779",
+    "source_sha256": "5b6d6a8a5dc602a22cb1ec97d0b24b38c73b94b9e081ba230dfb1011fa0dd36d",
+    "ko": "소생하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11780",
+    "source_sha256": "fd07868950b000f375cb4953398357a309869351aded72869db1d7d0c10b0183",
+    "ko": "<WT>심_소생시키기. 영웅이 되어 심을 구하세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11781",
+    "source_sha256": "2adcddda8127f15ef99584500bfc2699ddbf325247dcce400e2328f858bca014",
+    "ko": "심 소생시키기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11782",
+    "source_sha256": "ef5f65e5c48150b4b6ce06f6d8e23baeb8aa8339f04c94d6c141c1d8e3ab282e",
+    "ko": "<WT>$sim 소생시키기. 영웅이 되어 심을 구하세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11783",
+    "source_sha256": "17975e29a1e0769b02500d51dd9d824049b83e65e535cabb28bb77153d0bc6c9",
+    "ko": "$sim 소생시키기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11784",
+    "source_sha256": "ef5f65e5c48150b4b6ce06f6d8e23baeb8aa8339f04c94d6c141c1d8e3ab282e",
+    "ko": "<WT>$sim 소생시키기. 영웅이 되어 심을 구하세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11785",
+    "source_sha256": "17975e29a1e0769b02500d51dd9d824049b83e65e535cabb28bb77153d0bc6c9",
+    "ko": "$sim 소생시키기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11786",
+    "source_sha256": "42395882370966a6797b3c2f54b4b8f0592c777eb2352378d21ae4d0936775fb",
+    "ko": "$sim 소생시키기"
+  },
+  {
+    "id": "TXT_SimsObjects_11787",
+    "source_sha256": "42395882370966a6797b3c2f54b4b8f0592c777eb2352378d21ae4d0936775fb",
+    "ko": "$sim 소생시키기"
+  },
+  {
+    "id": "TXT_SimsObjects_11788",
+    "source_sha256": "92245bf5b778b7a47985524bbb5818ba00377ba652cc42c612527578ee4c58f0",
+    "ko": "<WT>반려동물_칭찬하기. 남보다 잘하는 반려동물도 있습니다. 칭찬받아야 마땅하죠.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11789",
+    "source_sha256": "8cfb02522d56e1d59e2ad9b571c50a366d85f63afab5daa66d4816cf580e7705",
+    "ko": "반려동물 칭찬하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11790",
+    "source_sha256": "10699d74323a146d56acf63ee5e14b9e27229c814a8aec09ea8c5560973451a9",
+    "ko": "<WT>$sim 칭찬하기. $sim의 재주는 정말 놀랍습니다. 얼마나 좋은 반려동물인지 알려 주세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11791",
+    "source_sha256": "a7af9a4c68f13fd75067a8a7c8ff95735fb84bfd1d3100067f3895c8c6f956cc",
+    "ko": "$sim 칭찬하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11792",
+    "source_sha256": "10699d74323a146d56acf63ee5e14b9e27229c814a8aec09ea8c5560973451a9",
+    "ko": "<WT>$sim 칭찬하기. $sim의 재주는 정말 놀랍습니다. 얼마나 좋은 반려동물인지 알려 주세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11793",
+    "source_sha256": "a7af9a4c68f13fd75067a8a7c8ff95735fb84bfd1d3100067f3895c8c6f956cc",
+    "ko": "$sim 칭찬하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11794",
+    "source_sha256": "efaef384a2bf1a02ce303804d45d2ca80d8526ee36839a8eb28b772b7df6d0d1",
+    "ko": "반려동물_칭찬하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11795",
+    "source_sha256": "efaef384a2bf1a02ce303804d45d2ca80d8526ee36839a8eb28b772b7df6d0d1",
+    "ko": "반려동물_칭찬하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11796",
+    "source_sha256": "224c8b986e22200004c98eb9fbc9ca399a5529a442932e5df209b5c1fe596acc",
+    "ko": "<WT>반려동물_꾸짖기. 말썽꾸러기에게는 교훈이 필요합니다. 그래야 배우니까요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11797",
+    "source_sha256": "bfcfc7742e1f8bc668685a18d0d0bfabe19859c62af5da0b3142cae9c23cf657",
+    "ko": "반려동물 꾸짖기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11798",
+    "source_sha256": "979452a729b6aa342169eeb5976959b14d26f7122e417a81d5b3591ea48d84da",
+    "ko": "<WT>$sim 꾸짖기. $sim의 행동에는 늘 말썽이 따릅니다. 교훈을 주세요!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11799",
+    "source_sha256": "71c87590c897990e5e1ab5b060b275edb0588a2ffde27a0e55de489ff28f310e",
+    "ko": "$sim 꾸짖기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11800",
+    "source_sha256": "979452a729b6aa342169eeb5976959b14d26f7122e417a81d5b3591ea48d84da",
+    "ko": "<WT>$sim 꾸짖기. $sim의 행동에는 늘 말썽이 따릅니다. 교훈을 주세요!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11801",
+    "source_sha256": "71c87590c897990e5e1ab5b060b275edb0588a2ffde27a0e55de489ff28f310e",
+    "ko": "$sim 꾸짖기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11802",
+    "source_sha256": "0536ca241c8e088893b013e168e494eac285fcf57563cc085fc476e4c90e0075",
+    "ko": "반려동물_꾸짖기"
+  },
+  {
+    "id": "TXT_SimsObjects_11803",
+    "source_sha256": "0536ca241c8e088893b013e168e494eac285fcf57563cc085fc476e4c90e0075",
+    "ko": "반려동물_꾸짖기"
+  },
+  {
+    "id": "TXT_SimsObjects_11804",
+    "source_sha256": "6124695d498ff685c05fbe7b94e2dc187aea58abf8d414bcf49c4050f95f5268",
+    "ko": "<WT>반려동물_팔기. 성가심을 반려동물 점수로 바꾸세요\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11805",
+    "source_sha256": "485bd21c4930cf39b2368e8920e13b3c7a495df6a3c66fe273e63c4c1de1150b",
+    "ko": "반려동물 팔기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11806",
+    "source_sha256": "2d1b81ecf5974a8fb5e13933689304d3e84706c13483a597df7808c08541840b",
+    "ko": "\r\n      <WT>$sim 팔기. 말썽꾸러기 반려동물도 시몰레온은 벌어 줄 수 있습니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11807",
+    "source_sha256": "0636c4854242e809474bb981e0854aa124a63699ce75e2e5a648786b1ee3ed6b",
+    "ko": "$sim 팔기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11808",
+    "source_sha256": "2d1b81ecf5974a8fb5e13933689304d3e84706c13483a597df7808c08541840b",
+    "ko": "\r\n      <WT>$sim 팔기. 말썽꾸러기 반려동물도 시몰레온은 벌어 줄 수 있습니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11809",
+    "source_sha256": "d8ea4a3bf4d1e5cfff0b74a2d9f436aee56bf48d30f518594ab8741d86829e95",
+    "ko": "\r\n      $sim 팔기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11810",
+    "source_sha256": "dcc67e050d6d0a5e033a3311e5357693a1f87affec81c872a3937001e8b09792",
+    "ko": "반려동물_팔기"
+  },
+  {
+    "id": "TXT_SimsObjects_11811",
+    "source_sha256": "dcc67e050d6d0a5e033a3311e5357693a1f87affec81c872a3937001e8b09792",
+    "ko": "반려동물_팔기"
+  },
+  {
+    "id": "TXT_SimsObjects_11812",
+    "source_sha256": "3b3660bfee51a9220d8702df3a217a4643053bd34af6b17caa15d648210bf065",
+    "ko": "<WT>강아지나_새끼_고양이_들이기. 과학 연구에 따르면 어린 반려동물은 보통 동물보다 세 배 귀엽습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11813",
+    "source_sha256": "db0f11d4767c40e2557f51eb138d09c99f1ffa96c955914a2ccf45a9cc47393f",
+    "ko": "강아지나 새끼 고양이 들이기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11814",
+    "source_sha256": "9a5760f6c315c46c66827931ecc7c66ab0c0a4f8f1b878485309412dc20bacf7",
+    "ko": "어린_반려동물_들이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11815",
+    "source_sha256": "9a5760f6c315c46c66827931ecc7c66ab0c0a4f8f1b878485309412dc20bacf7",
+    "ko": "어린_반려동물_들이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11816",
+    "source_sha256": "9a5760f6c315c46c66827931ecc7c66ab0c0a4f8f1b878485309412dc20bacf7",
+    "ko": "어린_반려동물_들이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11817",
+    "source_sha256": "9a5760f6c315c46c66827931ecc7c66ab0c0a4f8f1b878485309412dc20bacf7",
+    "ko": "어린_반려동물_들이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11818",
+    "source_sha256": "9a5760f6c315c46c66827931ecc7c66ab0c0a4f8f1b878485309412dc20bacf7",
+    "ko": "어린_반려동물_들이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11819",
+    "source_sha256": "9a5760f6c315c46c66827931ecc7c66ab0c0a4f8f1b878485309412dc20bacf7",
+    "ko": "어린_반려동물_들이기"
+  },
+  {
+    "id": "TXT_SimsObjects_11820",
+    "source_sha256": "b04a146f5f8b391bc49edd9ad44a0ea2cbc45c87cac20d8ba1aa6015a540cc33",
+    "ko": "<WT>새_반려동물_만나기. 다양함은 삶의 양념입니다. 새 반려동물과 놀아 보세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11821",
+    "source_sha256": "552903a9bb367235a34937be37af3fb3af98af3db75a1d5535668239bd2d2e9d",
+    "ko": "새 반려동물 만나기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11822",
+    "source_sha256": "3c9b868084ef70804b9ac92f715fe7d6cf8feb3753a449da718dc181421ad771",
+    "ko": "\r\n      <WT>$sim 만나기. 다들 $sim의 멋짐이 동네 최고라고 합니다. 아직 안 만나 봤다고요? 뭘 기다리세요?\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11823",
+    "source_sha256": "93c713f3920b802be54af732cbf67fb38bab1a672ce11a3c3c1d387bdc8775ab",
+    "ko": "\r\n      $sim 만나기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11824",
+    "source_sha256": "3c9b868084ef70804b9ac92f715fe7d6cf8feb3753a449da718dc181421ad771",
+    "ko": "\r\n      <WT>$sim 만나기. 다들 $sim의 멋짐이 동네 최고라고 합니다. 아직 안 만나 봤다고요? 뭘 기다리세요?\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11825",
+    "source_sha256": "9e4c952aeb81c543b74606116c3ece481b1b0b930ea72e4820e764538096e328",
+    "ko": "$sim 만나기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11826",
+    "source_sha256": "680ffb398970081bfa8d3f108f615310319785b2cb215e40c02e09f4ae2f50d8",
+    "ko": "새_반려동물_만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_11827",
+    "source_sha256": "680ffb398970081bfa8d3f108f615310319785b2cb215e40c02e09f4ae2f50d8",
+    "ko": "새_반려동물_만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_11828",
+    "source_sha256": "93e3b33de283e97d5530949bbef0ec2b83e575e79c6e728b1657ce972f53d744",
+    "ko": "<WT>떠돌이_동물을_가족으로_들이기. 조금 꾀죄죄해도 새 가족은 언제나 반갑습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11829",
+    "source_sha256": "4176bf7fc6e1f61d8da82cfdc726a3968fd53aafdab936e115399d916bee0220",
+    "ko": "떠돌이 동물을 가족으로 들이기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11830",
+    "source_sha256": "b362a7da858eb8c4dc0e4f6c47fc0bc8d6990e558be9a4603318309b3e227759",
+    "ko": "떠돌이_동물_입양하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11831",
+    "source_sha256": "b362a7da858eb8c4dc0e4f6c47fc0bc8d6990e558be9a4603318309b3e227759",
+    "ko": "떠돌이_동물_입양하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11832",
+    "source_sha256": "b362a7da858eb8c4dc0e4f6c47fc0bc8d6990e558be9a4603318309b3e227759",
+    "ko": "떠돌이_동물_입양하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11833",
+    "source_sha256": "b362a7da858eb8c4dc0e4f6c47fc0bc8d6990e558be9a4603318309b3e227759",
+    "ko": "떠돌이_동물_입양하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11834",
+    "source_sha256": "b362a7da858eb8c4dc0e4f6c47fc0bc8d6990e558be9a4603318309b3e227759",
+    "ko": "떠돌이_동물_입양하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11835",
+    "source_sha256": "b362a7da858eb8c4dc0e4f6c47fc0bc8d6990e558be9a4603318309b3e227759",
+    "ko": "떠돌이_동물_입양하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11836",
+    "source_sha256": "39ff5248dd2386482131b32bf7b1a63aa02f982c6417d449193138c00fa2fb51",
+    "ko": "<WT>청혼_거절당하기. 청혼을 거절당하는 것보다 더 절망적인 일이 있을까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_11837",
+    "source_sha256": "9ea734d7ce5ab0cff0d995e1d14515abeb66f8e03e010cc36c9960affae1fe92",
+    "ko": "청혼 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11838",
+    "source_sha256": "1a51f0c97bab9372c492a171ac041c66f33cd981dc45a54f7efc0ccbedfd46dd",
+    "ko": "<WT>청혼_거절당하기. $sim에게 청혼을 거절당하는 것보다 더 절망적인 일이 있을까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_11839",
+    "source_sha256": "a91f63a29fcc376023c9fc61380d8551ce44bbae00a4352c4b11391087819ba6",
+    "ko": "$sim에게 청혼 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11840",
+    "source_sha256": "1a51f0c97bab9372c492a171ac041c66f33cd981dc45a54f7efc0ccbedfd46dd",
+    "ko": "<WT>청혼_거절당하기. $sim에게 청혼을 거절당하는 것보다 더 절망적인 일이 있을까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_11841",
+    "source_sha256": "a91f63a29fcc376023c9fc61380d8551ce44bbae00a4352c4b11391087819ba6",
+    "ko": "$sim에게 청혼 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11842",
+    "source_sha256": "19a640f5b4c61074ee68d4ab5ad2570da29a6bbd7b1140fe2255fa2199b8b180",
+    "ko": "<WT>청혼_거절당하기. 청혼했다가 거절당하는 것보다 나쁜 일이 있을까요? 없습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_11843",
+    "source_sha256": "e8d318d1fc09fc3f67e099fd9cf971529f4a29efa8b573d0d7b40286a0c10ebd",
+    "ko": "청혼 거절당하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11844",
+    "source_sha256": "1a00514c0a359c28d5042d2756aa7445350e9d07d8af33a2fa4e7ab6c01c560c",
+    "ko": "반려동물_실종_신고하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11845",
+    "source_sha256": "1a00514c0a359c28d5042d2756aa7445350e9d07d8af33a2fa4e7ab6c01c560c",
+    "ko": "반려동물_실종_신고하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11846",
+    "source_sha256": "4101a2489f92cf2e36bdc13419ac068de306f87b95b21b05eda8396a5d530063",
+    "ko": "\r\n      <WT>$sim_as_missing 실종 신고하기. 이런! $sim의 행방이 묘연합니다! 전화를 들고 수색을 시작하세요!\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11847",
+    "source_sha256": "fa130509cc90b909e3abf08b1e17f77d8dd7718e1c56825efcc21e10581d2e9d",
+    "ko": "$sim 실종 신고하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11848",
+    "source_sha256": "4101a2489f92cf2e36bdc13419ac068de306f87b95b21b05eda8396a5d530063",
+    "ko": "\r\n      <WT>$sim_as_missing 실종 신고하기. 이런! $sim의 행방이 묘연합니다! 전화를 들고 수색을 시작하세요!\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11849",
+    "source_sha256": "fa130509cc90b909e3abf08b1e17f77d8dd7718e1c56825efcc21e10581d2e9d",
+    "ko": "$sim 실종 신고하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11850",
+    "source_sha256": "1a00514c0a359c28d5042d2756aa7445350e9d07d8af33a2fa4e7ab6c01c560c",
+    "ko": "반려동물_실종_신고하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11851",
+    "source_sha256": "1a00514c0a359c28d5042d2756aa7445350e9d07d8af33a2fa4e7ab6c01c560c",
+    "ko": "반려동물_실종_신고하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11852",
+    "source_sha256": "fcc18babd90268e392813788db1942c5f4ece51728065311c8dfc57d52704b3d",
+    "ko": "발견한_반려동물의_주인에게_전화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11853",
+    "source_sha256": "fcc18babd90268e392813788db1942c5f4ece51728065311c8dfc57d52704b3d",
+    "ko": "발견한_반려동물의_주인에게_전화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11854",
+    "source_sha256": "abb3151521bc30b92d17aef23af6a2614caccb051ccd9ba0fae35e6d802b23ec",
+    "ko": "<WT>$sim의 주인에게 전화하기. 당연히 그냥 데리고 있을 수는 없죠. 지금 당장 전화하세요!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11855",
+    "source_sha256": "7dc691b5997ced8a3be5a6dbb4ee11d4132fd4c11b2a08924b1f8c0489476cc7",
+    "ko": "$sim의 주인에게 전화하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11856",
+    "source_sha256": "680e04918cc0c9b47726adacca26d301e4220f112b81112033eaf5f3dfbb4031",
+    "ko": "\r\n      <WT>$sim의 주인에게 전화하기. 당연히 그냥 데리고 있을 수는 없죠. 지금 당장 전화하세요!\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11857",
+    "source_sha256": "6b71e61f78cea0bfbcb87320bcca68412390fa390cc2ac76b30686465c31358a",
+    "ko": "\r\n      $sim의 주인에게 전화하기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11858",
+    "source_sha256": "fcc18babd90268e392813788db1942c5f4ece51728065311c8dfc57d52704b3d",
+    "ko": "발견한_반려동물의_주인에게_전화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11859",
+    "source_sha256": "fcc18babd90268e392813788db1942c5f4ece51728065311c8dfc57d52704b3d",
+    "ko": "발견한_반려동물의_주인에게_전화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11860",
+    "source_sha256": "a9b4060a127735f935cb406b031c27c61ba1a01adc03a9edab7e7ba4aaa17620",
+    "ko": "<WT>우리_청소하기. 그 냄새는 탈취제가 제 기능을 못 한다는 뜻이 아닙니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11861",
+    "source_sha256": "7a274479448c142fd6487593d077b26956f3dfe27dfaf94bc04ec927530afe3f",
+    "ko": "우리 청소하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11862",
+    "source_sha256": "e8b11e4a016b82a243249da9993ed202b3e66d1af66f410c17a03bc38e51cc0e",
+    "ko": "<WT>$sim의 우리 청소하기. 그 냄새는 탈취제가 제 기능을 못 한다는 뜻이 아닙니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11863",
+    "source_sha256": "5bdaa6f796c34037641c8c8342360dbb2e394a7a38369939529a8ddb2fd9bdd0",
+    "ko": "$sim의 우리 청소하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11864",
+    "source_sha256": "e8b11e4a016b82a243249da9993ed202b3e66d1af66f410c17a03bc38e51cc0e",
+    "ko": "<WT>$sim의 우리 청소하기. 그 냄새는 탈취제가 제 기능을 못 한다는 뜻이 아닙니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11865",
+    "source_sha256": "5bdaa6f796c34037641c8c8342360dbb2e394a7a38369939529a8ddb2fd9bdd0",
+    "ko": "$sim의 우리 청소하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11866",
+    "source_sha256": "3d814dc85ae62bbcad8b9936707aa3acac049771cb68c071570d8c2dba15974f",
+    "ko": "우리_청소하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11867",
+    "source_sha256": "3d814dc85ae62bbcad8b9936707aa3acac049771cb68c071570d8c2dba15974f",
+    "ko": "우리_청소하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11868",
+    "source_sha256": "d151104b764ec60fe30dfe65a8b3ea7ab5c3e4606bd1e84ccac5f87debd722dd",
+    "ko": "<WT>반려동물_먹이_주기. 배를 굶기는 사람은 좋은 주인이 아닙니다. \r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11869",
+    "source_sha256": "1286f858eb5c9b8ff169c117eb1a9361750d968039671804f36b57cbf0cebde8",
+    "ko": "반려동물 먹이 주기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11870",
+    "source_sha256": "f8d1f8b86b7c8a01c95a14380d67556c963121970a1cf9a0fd5cbff3e53421c9",
+    "ko": "<WT>$sim 먹이 주기. $sim의 으르렁거림이 아니라 배에서 나는 소리입니다. 그릇을 채우세요!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11871",
+    "source_sha256": "dbd5fa753d148597662dea37506aff3d0cfeabd27a998f775a5c936c83f2ed44",
+    "ko": "$sim 먹이 주기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11872",
+    "source_sha256": "f8d1f8b86b7c8a01c95a14380d67556c963121970a1cf9a0fd5cbff3e53421c9",
+    "ko": "<WT>$sim 먹이 주기. $sim의 으르렁거림이 아니라 배에서 나는 소리입니다. 그릇을 채우세요!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11873",
+    "source_sha256": "dbd5fa753d148597662dea37506aff3d0cfeabd27a998f775a5c936c83f2ed44",
+    "ko": "$sim 먹이 주기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11874",
+    "source_sha256": "675dd22fa93657a493f2e8c0d76a6cc08a256c8ac3dd68e504b36975e9dc72e5",
+    "ko": "반려동물에게 $foodtype 먹이 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_11875",
+    "source_sha256": "675dd22fa93657a493f2e8c0d76a6cc08a256c8ac3dd68e504b36975e9dc72e5",
+    "ko": "반려동물에게 $foodtype 먹이 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_11876",
+    "source_sha256": "7ea37419d222bcd1776b81e987f60e7f007facbea9e9d2a97b2cff22334abc96",
+    "ko": "<WT>배_문질러_주기. 반려동물에게는 애정이 필요합니다. 배를 문질러 사랑을 보여 주세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11877",
+    "source_sha256": "9a1d35e0a47e60f475e4af4c0a425f97126992853579c9b01a6b6ff4703aae90",
+    "ko": "배 문질러 주기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11878",
+    "source_sha256": "4b1f669347f41491e169b766a9a35afdf4136dd83b9040d0802d82e16d7a023f",
+    "ko": "<WT>$sim_a_Belly_Rub에게 배 문질러 주기. $sim에게는 애정이 필요합니다. 배를 문질러 사랑을 보여 주세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11879",
+    "source_sha256": "bc755c841126896a7ca5283f4943a7305706ced39c9ce9491542c34cee24f355",
+    "ko": "$sim에게 배 문질러 주기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11880",
+    "source_sha256": "4b1f669347f41491e169b766a9a35afdf4136dd83b9040d0802d82e16d7a023f",
+    "ko": "<WT>$sim_a_Belly_Rub에게 배 문질러 주기. $sim에게는 애정이 필요합니다. 배를 문질러 사랑을 보여 주세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11881",
+    "source_sha256": "bc755c841126896a7ca5283f4943a7305706ced39c9ce9491542c34cee24f355",
+    "ko": "$sim에게 배 문질러 주기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11882",
+    "source_sha256": "1ed4f259aa1fbe4911641070f8fafd26e08934054d612dac34acf8c471adfe35",
+    "ko": "$petsim의 배 문질러 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_11883",
+    "source_sha256": "1ed4f259aa1fbe4911641070f8fafd26e08934054d612dac34acf8c471adfe35",
+    "ko": "$petsim의 배 문질러 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_11884",
+    "source_sha256": "a1978c7a2f2b6e0dfc4c3753b056b28a547d13c40bd15de87a23c9e2f33a9c26",
+    "ko": "<WT>반려동물의_주인_되기. 변치 않는 충성심을 지닌 친구가 최고의 친구입니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11885",
+    "source_sha256": "b0102ce6e6792e61f1ef3e724cc70eb8d93fe8a4a0726b3a23fc05c24e9c2834",
+    "ko": "반려동물의 주인 되기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11886",
+    "source_sha256": "f8babe064bdd8a518fe071d29d4aaa82d06666d727ac111600bc49b293315cb2",
+    "ko": "<WT>$sim의 주인 되기. 변치 않는 충성심을 지닌 친구가 최고의 친구입니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11887",
+    "source_sha256": "549ac638090fd9b14a415e1de9cddf1ee1da93379b9b55c2d30e450a6213d746",
+    "ko": "$sim의 주인 되기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11888",
+    "source_sha256": "f8babe064bdd8a518fe071d29d4aaa82d06666d727ac111600bc49b293315cb2",
+    "ko": "<WT>$sim의 주인 되기. 변치 않는 충성심을 지닌 친구가 최고의 친구입니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11889",
+    "source_sha256": "549ac638090fd9b14a415e1de9cddf1ee1da93379b9b55c2d30e450a6213d746",
+    "ko": "$sim의 주인 되기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11890",
+    "source_sha256": "52942ace5cea221fc978045cb97b57ac0b5299c0c4d7a82d9d4fd2b3eab4b989",
+    "ko": "$petsim의 주인 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_11891",
+    "source_sha256": "52942ace5cea221fc978045cb97b57ac0b5299c0c4d7a82d9d4fd2b3eab4b989",
+    "ko": "$petsim의 주인 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_11892",
+    "source_sha256": "d144f2aa8cc3ce463c08aec9bde1ab074872b469cfb85d23896cc7816f43dbca",
+    "ko": "<WT>무리에_합류하기. 강아지 떼보다 더 좋은 것이 있을까요?\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11893",
+    "source_sha256": "b2889b856a6461e935396419fd99017ab8e71cca4c83bbdabcdb726b10ab1225",
+    "ko": "무리에 합류하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11894",
+    "source_sha256": "634b34e0a55b50d57ec8b10dc0c492c53d0810c94daed3b255c10cb93e18183c",
+    "ko": "<WT>$sim의 무리에 합류하기. 멋진 개들과 함께 달리세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11895",
+    "source_sha256": "b7ba9f36745cd10ab6dac2c6ff37c17fcd3bd3bb6cbec1f69d44b1658afda067",
+    "ko": "$sim의 무리에 합류하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11896",
+    "source_sha256": "634b34e0a55b50d57ec8b10dc0c492c53d0810c94daed3b255c10cb93e18183c",
+    "ko": "<WT>$sim의 무리에 합류하기. 멋진 개들과 함께 달리세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11897",
+    "source_sha256": "b7ba9f36745cd10ab6dac2c6ff37c17fcd3bd3bb6cbec1f69d44b1658afda067",
+    "ko": "$sim의 무리에 합류하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11898",
+    "source_sha256": "0407587a764e0016703af714d095c5b2d868b68b78e042866c704e1fd5b6eb46",
+    "ko": "$petsim의 무리 구성원 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_11899",
+    "source_sha256": "0407587a764e0016703af714d095c5b2d868b68b78e042866c704e1fd5b6eb46",
+    "ko": "$petsim의 무리 구성원 되기"
+  }
+]

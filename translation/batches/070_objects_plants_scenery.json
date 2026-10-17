@@ -1,0 +1,1187 @@
+[
+  {
+    "id": "TXT_SimsObjects_04011",
+    "source_sha256": "11e83f0e8cb4b9d63445875be03c9445e0fcc440734d5b0f5e9e96b37bfba145",
+    "ko": "임시 블러드 오렌지 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04029",
+    "source_sha256": "3ae8b4855b9cc78e718f817091d9d2b3d0c2c37c812bd784d812f10a64d54553",
+    "ko": "임시 당근 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04041",
+    "source_sha256": "ca384c2e913709955d8c78fb50153779b79ee2fadb7e100e12d4676cc55e9eb7",
+    "ko": "임시 체리 설명... 칸탈루프 멜론은 생각하지 마세요"
+  },
+  {
+    "id": "TXT_SimsObjects_04047",
+    "source_sha256": "31bd5ec39d38923d969154b91be24840edafb8a6e4324b7b276ee62a6b712e95",
+    "ko": "임시 오이..."
+  },
+  {
+    "id": "TXT_SimsObjects_04053",
+    "source_sha256": "a08ce7c30ed7d82c3a9e4f5148690450f81d367b18fb113d8f309e401dcc3ce9",
+    "ko": "임시 자몽은 대부분의 열대 과일에서 느껴지는 진득한 단맛 사이로 새콤한 휴식을 선사합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04055",
+    "source_sha256": "f9f8afce4263b780eaeffbe55fdb9455d645ddc5ca8c91d46993951beb9facf0",
+    "ko": "임시 정체불명의 과일"
+  },
+  {
+    "id": "TXT_SimsObjects_04059",
+    "source_sha256": "9b159276205ce2ca190f1798dbf817ae110dc87fb184a950eff8c27ad9b7ee5f",
+    "ko": "임시 구아바 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04065",
+    "source_sha256": "4240f760bee375ed45bee325ee18ac2d10e32adc08d1a5c72228fee0a002ff87",
+    "ko": "임시 햄 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04071",
+    "source_sha256": "3db4235cfdcd4da23656dd4e431d31a6ce1037717368d73df4174ce183a9994f",
+    "ko": "임시 리치 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04077",
+    "source_sha256": "0f32bfc3d04c96e544a42e40aa2ee78db0a1baf163be79482323e6a6138b877a",
+    "ko": "임시 마카다미아 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04083",
+    "source_sha256": "55fcfabbdfd7158ea9ed0fa57dd9eefe0fdc2e2605370e18f2733754372d0e94",
+    "ko": "임시 망고스틴 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04091",
+    "source_sha256": "3e1aff46ee1f78da5b9cfc0e62a2707364e9d181e1aa07be6555bafff541a2dd",
+    "ko": "임시 정체불명의 채소"
+  },
+  {
+    "id": "TXT_SimsObjects_04095",
+    "source_sha256": "0ca28a3da300c5fd68cc82f8fafd999a15ea09c6289f82486cd2794d8e5987c9",
+    "ko": "임시 파파야 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04101",
+    "source_sha256": "4aa819b621ae8fe80d20f8622ab1aed724ebe999d32ad42f50d266c419a1cc3c",
+    "ko": "임시 복숭아 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04107",
+    "source_sha256": "62934d4326fa9ba1ed5553443cb82c290c33de3e77b1cc2c8b647f6ec70c2de0",
+    "ko": "임시 감 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04113",
+    "source_sha256": "5b6c9c27126ed93453ed2e4335ae00d8bf40878661b7f93cf8766012c0cce329",
+    "ko": "임시 파인애플 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04119",
+    "source_sha256": "9711a24915dbcefa680f8027368f9d378af00726a035c4d8d55e619b388bd8e0",
+    "ko": "임시 산딸기 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04125",
+    "source_sha256": "b878a7bda3edabcf0c2349e5f58c6b2e7292b12a357c2be2bdda65ae159b50a1",
+    "ko": "임시 콩 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04131",
+    "source_sha256": "d120f959f811aaa3e8e6f876a4b54c4a28d90994bfe785df9f1e8897eee602f8",
+    "ko": "임시 스타프루트 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04137",
+    "source_sha256": "01c517a5f7c912c0cbe6bfbc68a08ba88034b300efd81d1e003413b168a6ccc3",
+    "ko": "임시 딸기 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04143",
+    "source_sha256": "2d404547f90d3e9f61969d3e626ade12dfa7a4c0a20506e5bd521f090c6e9deb",
+    "ko": "임시 귤 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04149",
+    "source_sha256": "677f0841f9f0ff7e304d5a1640cf3a54c0c8e0cb35a470bf05de336d26aff4d5",
+    "ko": "임시 토마토... 난 토마토가 싫어"
+  },
+  {
+    "id": "TXT_SimsObjects_04155",
+    "source_sha256": "41ee8aac1ad28660ddd18d13a5e8ca791003659db1607e6d12d3682afcb2e99b",
+    "ko": "임시 수박 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04170",
+    "source_sha256": "90b966d85cbeee4e99d38e79d98715b0928cf68640ab40c67fd35e8ae93f6f27",
+    "ko": "임시 섬 어디에나 코코넛이 있으니 코코넛에 푹 빠져 있으면 편리합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04175",
+    "source_sha256": "f9f8afce4263b780eaeffbe55fdb9455d645ddc5ca8c91d46993951beb9facf0",
+    "ko": "임시 정체불명의 과일"
+  },
+  {
+    "id": "TXT_SimsObjects_04181",
+    "source_sha256": "f9f8afce4263b780eaeffbe55fdb9455d645ddc5ca8c91d46993951beb9facf0",
+    "ko": "임시 정체불명의 과일"
+  },
+  {
+    "id": "TXT_SimsObjects_04184",
+    "source_sha256": "be8698d342d733b83590678a83ed58b06dce913593d15567df8fe3dc014d0010",
+    "ko": "임시 - 나뭇잎 묶음"
+  },
+  {
+    "id": "TXT_SimsObjects_04185",
+    "source_sha256": "be8698d342d733b83590678a83ed58b06dce913593d15567df8fe3dc014d0010",
+    "ko": "임시 - 나뭇잎 묶음"
+  },
+  {
+    "id": "TXT_SimsObjects_04186",
+    "source_sha256": "05c14b0f6e131593a7dec37556d914c182e54e55ee5776fd3da92838517e1968",
+    "ko": "나뭇잎 묶음"
+  },
+  {
+    "id": "TXT_SimsObjects_04188",
+    "source_sha256": "90b966d85cbeee4e99d38e79d98715b0928cf68640ab40c67fd35e8ae93f6f27",
+    "ko": "임시 섬 어디에나 코코넛이 있으니 코코넛에 푹 빠져 있으면 편리합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04195",
+    "source_sha256": "b104e5b3f5d463de7ebdcbe9c21a028a6275a5469fe8d14014ca247283b96b6d",
+    "ko": "자원 더미"
+  },
+  {
+    "id": "TXT_SimsObjects_04198",
+    "source_sha256": "b104e5b3f5d463de7ebdcbe9c21a028a6275a5469fe8d14014ca247283b96b6d",
+    "ko": "자원 더미"
+  },
+  {
+    "id": "TXT_SimsObjects_04201",
+    "source_sha256": "b104e5b3f5d463de7ebdcbe9c21a028a6275a5469fe8d14014ca247283b96b6d",
+    "ko": "자원 더미"
+  },
+  {
+    "id": "TXT_SimsObjects_04204",
+    "source_sha256": "b104e5b3f5d463de7ebdcbe9c21a028a6275a5469fe8d14014ca247283b96b6d",
+    "ko": "자원 더미"
+  },
+  {
+    "id": "TXT_SimsObjects_04207",
+    "source_sha256": "b104e5b3f5d463de7ebdcbe9c21a028a6275a5469fe8d14014ca247283b96b6d",
+    "ko": "자원 더미"
+  },
+  {
+    "id": "TXT_SimsObjects_04210",
+    "source_sha256": "b104e5b3f5d463de7ebdcbe9c21a028a6275a5469fe8d14014ca247283b96b6d",
+    "ko": "자원 더미"
+  },
+  {
+    "id": "TXT_SimsObjects_04215",
+    "source_sha256": "1636235a4c6654eb3d141a7df153c3215b1c1c7d52c7bb18d78217a546679fb1",
+    "ko": "최근 조개 여론 조사에서 응답자의 87%는 자신의 껍데기를 축제 장식으로 쓰길 바라며, 반드시 죽은 뒤에만 쓰라고 답했습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04218",
+    "source_sha256": "30c22d88be7e97fc319ef6ce590b749fcfbd28b6abdce1d61eb96bb7544c93ce",
+    "ko": "임시 앵무조개 껍데기 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04220",
+    "source_sha256": "8b887798688e2033840f227105d45413075c16abaf1129c4ce763e625ed125ea",
+    "ko": "임시 작은 송곳고둥"
+  },
+  {
+    "id": "TXT_SimsObjects_04221",
+    "source_sha256": "22d594dceb0890979f7a4ee120683c0696427ca27b75bd7c296995d24941d0c9",
+    "ko": "임시 작은 송곳고둥 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04222",
+    "source_sha256": "28263bb21207b98f9cb81c171acaf71c2143ece9e7ee4b2cfa3233ac367d7d62",
+    "ko": "송곳고둥 껍데기"
+  },
+  {
+    "id": "TXT_SimsObjects_04223",
+    "source_sha256": "4b1c4502230fad00570da1f6169d6167bcbdff12f4fbd6da992a652202c2b656",
+    "ko": "임시 작은 새조개"
+  },
+  {
+    "id": "TXT_SimsObjects_04224",
+    "source_sha256": "1b9b97117cfe26ded9df80c6464bc5105067a98242c1e5548be00bc118f35ca1",
+    "ko": "임시 작은 새조개... 그래..."
+  },
+  {
+    "id": "TXT_SimsObjects_04226",
+    "source_sha256": "a07ee22fcbcc20aa424903cc41a3f5eef7d254322232fe7f0762e0dcfe5f6136",
+    "ko": "임시 작은 개오지"
+  },
+  {
+    "id": "TXT_SimsObjects_04227",
+    "source_sha256": "09e83ad0a765fa7292f2f0892d514392b42f187b183e5535fdf9304ffbfbe3c4",
+    "ko": "임시 작은 개오지 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04229",
+    "source_sha256": "a215922a2f14d4214a6d2a228a3ffd189194f489c5d39007f650e0286145d86c",
+    "ko": "임시 작은 붓고둥"
+  },
+  {
+    "id": "TXT_SimsObjects_04230",
+    "source_sha256": "efeb10160730ffed8a4c8d54189ec12a39ebcfc8b067b184ca38af938ff4d691",
+    "ko": "임시 작은 붓고둥 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04232",
+    "source_sha256": "d2debf608d5d4c4bdc9e41dbce305fd389ba6f0cead4d7535dbff03a8a9450f6",
+    "ko": "임시 작은 해시계고둥"
+  },
+  {
+    "id": "TXT_SimsObjects_04233",
+    "source_sha256": "8c42efb4fe54748525554e5dd47cd2ed1e9692779ecdef719c67c45b86c68528",
+    "ko": "임시 작은 해시계고둥 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04235",
+    "source_sha256": "afd4457d8b0b97a62c37eba6d78be4befe89337b6d3f69476ff78b5e0e429e3d",
+    "ko": "임시 낱돌"
+  },
+  {
+    "id": "TXT_SimsObjects_04245",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04248",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04251",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04253",
+    "source_sha256": "29cbf73f9dd0b17586f895944a80c28c38e0652ade936c5ec71a547cf3a7834c",
+    "ko": "살아남겠다는 강한 의지와 원시 도구를 다루는 숙련된 솜씨가 있어야만 이렇게 튼튼한 수제 지붕을 만들 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04254",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04257",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04260",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04263",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04265",
+    "source_sha256": "8698b1cf20a910d7b9fffd34f1e31ef3ea0acd691047a4496ac5bf43f92e71d9",
+    "ko": "막 표류했다면 서둘러 거처를 마련하고 싶겠지요. 이왕이면 가능한 한 큰 것으로 자신을 대접하세요. "
+  },
+  {
+    "id": "TXT_SimsObjects_04266",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04272",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04275",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04278",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04281",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04284",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04285",
+    "source_sha256": "c074e3442c3283aae56ac5a69e52ac52fb022f73234a517d13f17b94582492d9",
+    "ko": "임시 생존용 지붕 2x2"
+  },
+  {
+    "id": "TXT_SimsObjects_04286",
+    "source_sha256": "c074e3442c3283aae56ac5a69e52ac52fb022f73234a517d13f17b94582492d9",
+    "ko": "임시 생존용 지붕 2x2"
+  },
+  {
+    "id": "TXT_SimsObjects_04287",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04290",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04293",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04296",
+    "source_sha256": "c2f6a4d9ec7682e63186abf240fadcaf9a3cd1950c3a16d91330e7589018c039",
+    "ko": "지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04299",
+    "source_sha256": "27e297ae8472e0e41d8fb711345d5a35e67c1e78ad76f74bb86d98732e4e5b31",
+    "ko": "깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_04300",
+    "source_sha256": "91d533a63c4c8b6d0b21730903c41505520bc3568d20949e06061ac29fe5833f",
+    "ko": "딱정벌레 야크 깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_04301",
+    "source_sha256": "e28b467e0c8eadb46e6a28133b4e78fe7b4e86766b37852f314f02bae5bbc187",
+    "ko": "희귀한 미스터 디아블로 야크의 귓속 털로 짜고 이슬비 숲 딱정벌레를 으깨어 얻은 색소로 물들였습니다. 딱정벌레 야크 깔개라는 이름이 매력적이지는 않아도 부분 바닥 덮개의 호사로는 최고입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04302",
+    "source_sha256": "27e297ae8472e0e41d8fb711345d5a35e67c1e78ad76f74bb86d98732e4e5b31",
+    "ko": "깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_04305",
+    "source_sha256": "27e297ae8472e0e41d8fb711345d5a35e67c1e78ad76f74bb86d98732e4e5b31",
+    "ko": "깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_04306",
+    "source_sha256": "df1e2e0236726aa0bff2b8059db947a2f751a3fa38b9d7e5b1e0c84e0c72206d",
+    "ko": "발자국 무늬 깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_04307",
+    "source_sha256": "a20a04b76427f2e74a987e715f2634a902ea45b93e36dbf653cf883b695f2fda",
+    "ko": "발자국 무늬는 요즘 유행하는 깔개 업계에서 점점 인기를 얻고 있습니다. 사람은 저절로 깨끗해지는 천을 좋아하고, 반려동물은 깔개마다 짜 넣은 육포와 캣닙의 혼합 냄새를 좋아합니다. 깔개 위의 시간을 언제나 즐겁게 만드세요. 경고: 어린아이에게는 지나치게 신날 수 있습니다. \r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_04308",
+    "source_sha256": "27e297ae8472e0e41d8fb711345d5a35e67c1e78ad76f74bb86d98732e4e5b31",
+    "ko": "깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_04314",
+    "source_sha256": "27e297ae8472e0e41d8fb711345d5a35e67c1e78ad76f74bb86d98732e4e5b31",
+    "ko": "깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_04321",
+    "source_sha256": "7b328f13d233fb47c14630d6efb750bbef30222644da4ba351aae20bc5929e61",
+    "ko": "뭔지 맞혀 봐!"
+  },
+  {
+    "id": "TXT_SimsObjects_04322",
+    "source_sha256": "7b328f13d233fb47c14630d6efb750bbef30222644da4ba351aae20bc5929e61",
+    "ko": "뭔지 맞혀 봐!"
+  },
+  {
+    "id": "TXT_SimsObjects_04323",
+    "source_sha256": "7b328f13d233fb47c14630d6efb750bbef30222644da4ba351aae20bc5929e61",
+    "ko": "뭔지 맞혀 봐!"
+  },
+  {
+    "id": "TXT_SimsObjects_04324",
+    "source_sha256": "7b328f13d233fb47c14630d6efb750bbef30222644da4ba351aae20bc5929e61",
+    "ko": "뭔지 맞혀 봐!"
+  },
+  {
+    "id": "TXT_SimsObjects_04325",
+    "source_sha256": "7b328f13d233fb47c14630d6efb750bbef30222644da4ba351aae20bc5929e61",
+    "ko": "뭔지 맞혀 봐!"
+  },
+  {
+    "id": "TXT_SimsObjects_04326",
+    "source_sha256": "7b328f13d233fb47c14630d6efb750bbef30222644da4ba351aae20bc5929e61",
+    "ko": "뭔지 맞혀 봐!"
+  },
+  {
+    "id": "TXT_SimsObjects_04327",
+    "source_sha256": "7b328f13d233fb47c14630d6efb750bbef30222644da4ba351aae20bc5929e61",
+    "ko": "뭔지 맞혀 봐!"
+  },
+  {
+    "id": "TXT_SimsObjects_04328",
+    "source_sha256": "7b328f13d233fb47c14630d6efb750bbef30222644da4ba351aae20bc5929e61",
+    "ko": "뭔지 맞혀 봐!"
+  },
+  {
+    "id": "TXT_SimsObjects_04329",
+    "source_sha256": "7b328f13d233fb47c14630d6efb750bbef30222644da4ba351aae20bc5929e61",
+    "ko": "뭔지 맞혀 봐!"
+  },
+  {
+    "id": "TXT_SimsObjects_04330",
+    "source_sha256": "7b328f13d233fb47c14630d6efb750bbef30222644da4ba351aae20bc5929e61",
+    "ko": "뭔지 맞혀 봐!"
+  },
+  {
+    "id": "TXT_SimsObjects_04331",
+    "source_sha256": "7b328f13d233fb47c14630d6efb750bbef30222644da4ba351aae20bc5929e61",
+    "ko": "뭔지 맞혀 봐!"
+  },
+  {
+    "id": "TXT_SimsObjects_04332",
+    "source_sha256": "7b328f13d233fb47c14630d6efb750bbef30222644da4ba351aae20bc5929e61",
+    "ko": "뭔지 맞혀 봐!"
+  },
+  {
+    "id": "TXT_SimsObjects_04338",
+    "source_sha256": "2293b30e539a68427851a623737eb92b4dd7ecdc432f67e62dc2f550dd33a907",
+    "ko": "요금계"
+  },
+  {
+    "id": "TXT_SimsObjects_04345",
+    "source_sha256": "f7ccd27f08b8a4742a1673cb44a308916fa25819e3e69bebe52d264022a4ec2f",
+    "ko": "임시 부지 10 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04346",
+    "source_sha256": "8a46899909a647adae83bc058e47d820e785eb7afc1f7e2b4fb4df3c2b1c40c1",
+    "ko": "임시 부지 10의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04347",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04348",
+    "source_sha256": "9e024e625838ac253ec9b96c76739d830f51ff3f07ca208fa80869c1f4f939bb",
+    "ko": "임시 부지 11 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04349",
+    "source_sha256": "4027afb519a5aa8920745079724278e03e02810050535d6e91bb521b3dac9bc6",
+    "ko": "임시 부지 11의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04350",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04351",
+    "source_sha256": "a9bbddab4baee7954b8ac3191a679e6718dc9882cd54b2bea91e5789532b1f23",
+    "ko": "임시 부지 12 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04352",
+    "source_sha256": "104750b1ef5cb70ecd136e2ce4e3b5c12609131c76958eba017c63cf671fea6c",
+    "ko": "임시 부지 12의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04353",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04354",
+    "source_sha256": "1cedb8ac0425635c3ef0f9ced1735e104f6f97bc5ce4def6824371b7543270a9",
+    "ko": "임시 부지 13 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04355",
+    "source_sha256": "51df13dcb06f80f0bdbfa4e6178e95791dde163ccc4c413328214c1a62322240",
+    "ko": "임시 부지 13의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04356",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04357",
+    "source_sha256": "24972314856b2af6e15105afbd82510ce3c98fdc1d798098c8eee4333d97f91b",
+    "ko": "임시 부지 14 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04358",
+    "source_sha256": "6f07a536e0e011c8ba5bff7743e8dbb51a5367e068633740d725187e9ab160d9",
+    "ko": "임시 부지 14의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04359",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04360",
+    "source_sha256": "4991cb7536bfe621800a5eee00949be516fc77ada6420d6f36f2b4b0ca99b537",
+    "ko": "임시 부지 15 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04361",
+    "source_sha256": "3c64cc4d541f7a06f5853c187261b36b9d85d58591c4c680d2bdc51a524c2530",
+    "ko": "임시 부지 15의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04362",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04363",
+    "source_sha256": "eb08f05e8ce6bf1bc944199ee9e8f6515f9bdacc847b383613e386df4344c0ed",
+    "ko": "임시 부지 16 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04364",
+    "source_sha256": "f15f880fd99428efd20fbe197ec7b12111a86d16412e711ff6978790f4eb6867",
+    "ko": "임시 부지 16의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04365",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04366",
+    "source_sha256": "0cd2f1333b3ead1c514dc12a50d65218ebe401e3a882944461ce5def8707ed06",
+    "ko": "임시 부지 1 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04367",
+    "source_sha256": "2697758206b77d737b324037801f00002dd454d7ca009d3ad4503a7b9a33f750",
+    "ko": "임시 부지 1의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04368",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04369",
+    "source_sha256": "6533f90d1fa851ed103ad79db576886df2b860a13ef4d22ba2e533898a3fe091",
+    "ko": "임시 부지 2 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04370",
+    "source_sha256": "5ffe1e88214885d41b38eb41ece9be5efe400983400ebb3d9ec77f797af3e16e",
+    "ko": "임시 부지 2의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04371",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04372",
+    "source_sha256": "5003ca1f829f93a70e363c1fbafdf1fb2705b2c37e845811c7260110e863d6b9",
+    "ko": "임시 부지 3 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04373",
+    "source_sha256": "1f5e8a1394522409624dc277cca77fe753ae0a5eac05768d2677025720d26a45",
+    "ko": "임시 부지 3의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04374",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04375",
+    "source_sha256": "ca092ed0f0353bb15d44eed33c099ad2c21d896d823765fadac4f49bf2f88c10",
+    "ko": "임시 부지 4 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04376",
+    "source_sha256": "8c29c20c7ce7eac1a0b8c2c2a95ae61581514443ea255ff874ee8078b2c0ae3f",
+    "ko": "임시 부지 4의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04377",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04378",
+    "source_sha256": "b3169eb69cda053d841f03b73f9815b4680c5e15c7bed9a1494bed72dc83cb53",
+    "ko": "임시 부지 5 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04379",
+    "source_sha256": "09ad3d4766e870a9c58a8bcd73b6400c02a55bd6b41700307bed2fe68b8512e3",
+    "ko": "임시 부지 5의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04380",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04381",
+    "source_sha256": "ddff8e438a304a7aaf69c39e0f8e56126adbdea32889fbf774121a9f1ffe6b58",
+    "ko": "임시 부지 6 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04382",
+    "source_sha256": "a87fb8e627a53b37d280be4e9554506305b256e59e575a521db028b08daf7006",
+    "ko": "임시 부지 6의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04383",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04384",
+    "source_sha256": "ebdc772aa29001cb8811682074c6b04d90da8c64f66befa7c67cf28787d50b46",
+    "ko": "임시 부지 7 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04385",
+    "source_sha256": "efd531160000e5c18705467cffe13e19ae36a0cf9dd199449e5116371b006e64",
+    "ko": "임시 부지 7의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04386",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04387",
+    "source_sha256": "42756ac8b1573a717cbe74cb46988dfe86e2d99622a004601ebdec98ff4c5623",
+    "ko": "임시 부지 8 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04388",
+    "source_sha256": "b8f9db4678ca65cfa5f3e904f7ca675a23bc2943ebbf6899eb983501efcbe0f9",
+    "ko": "임시 부지 8의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04389",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04390",
+    "source_sha256": "f80e2a5a3bf71502e32da04ebfccb8c21cab7002cf2dae5a60210ec902249083",
+    "ko": "임시 부지 9 환경 파티클"
+  },
+  {
+    "id": "TXT_SimsObjects_04391",
+    "source_sha256": "7a311c9063df14cf415f903d65d02539bd01cfce276eab3f82954fe2831fdd7c",
+    "ko": "임시 부지 9의 환경 파티클 물체"
+  },
+  {
+    "id": "TXT_SimsObjects_04392",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04393",
+    "source_sha256": "5d32793802b1e87dceaba1c094e5303b4869c07707ccd1fc9043a81a952d8f60",
+    "ko": "임시 배경 - 외곽 부지 - 01"
+  },
+  {
+    "id": "TXT_SimsObjects_04394",
+    "source_sha256": "cfd644305b8177aa3ae4e200e303b3358efceda630ef08870f26b43b923a5d5f",
+    "ko": "임시 부지 1의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04395",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04396",
+    "source_sha256": "57bf51a7504c3cbf9f9c032911377021b61138df7b4ae86a6ac6eb519791b356",
+    "ko": "임시 배경 - 외곽 부지 - 02"
+  },
+  {
+    "id": "TXT_SimsObjects_04397",
+    "source_sha256": "8a2a34a0a63c3e244f3c663abd684d51084a2808eaa8daab71881678d89b14cd",
+    "ko": "임시 부지 2의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04398",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04399",
+    "source_sha256": "4c625349c21bb469c695a3016527c4b520277b87b3b02a9f237997adfedae4e0",
+    "ko": "임시 배경 - 외곽 부지 - 03"
+  },
+  {
+    "id": "TXT_SimsObjects_04400",
+    "source_sha256": "4be9176a12a7a65025253770bcd8e13fe30c201e7a8f1f748ab9582668734cfe",
+    "ko": "임시 부지 3의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04401",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04402",
+    "source_sha256": "eff402941f306ca5357c20d724a829b0d6c178a0fff3587d6cc5f6427f77dcb1",
+    "ko": "임시 배경 - 외곽 부지 - 04"
+  },
+  {
+    "id": "TXT_SimsObjects_04403",
+    "source_sha256": "3a1ddb4a5c8c2ae480de73392f6247c04a5fdedb3067ed6b079280306cbeac00",
+    "ko": "임시 부지 4의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04404",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04405",
+    "source_sha256": "35424c3fc129c56a6b95e4ba81a1f1c241e515ba717dbac6c2f6b1150118583d",
+    "ko": "임시 배경 - 외곽 부지 - 05"
+  },
+  {
+    "id": "TXT_SimsObjects_04406",
+    "source_sha256": "36721bae8584cf3aad5f6233bc0a657c2c3774a7e936c4154dfae48572ea46b9",
+    "ko": "임시 부지 5의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04407",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04408",
+    "source_sha256": "35be7023a4706a5d8c26bce66d3337b4bcb27d71a22bec879cde1297f5ef29c1",
+    "ko": "임시 배경 - 외곽 부지 - 06"
+  },
+  {
+    "id": "TXT_SimsObjects_04409",
+    "source_sha256": "bddf3d133f7d10a41ac35fbb30312a7c44d33547c7dad6b3cc70124098e194eb",
+    "ko": "임시 부지 6의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04410",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04411",
+    "source_sha256": "105f542c65d3e6a9bb5e96f87712e0c682f9aca1b1943d997e0f47b695a46b63",
+    "ko": "임시 배경 - 외곽 부지 - 07"
+  },
+  {
+    "id": "TXT_SimsObjects_04412",
+    "source_sha256": "fc76f3c2357a19a4e245bafa5688cf22d7a8031240aefc68c9b9a99699363ae3",
+    "ko": "임시 부지 7의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04413",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04414",
+    "source_sha256": "62dd795439348443d2d9651e630b75b44a0f533c7c43689cef6f88dddb8c0aec",
+    "ko": "임시 배경 - 외곽 부지 - 08"
+  },
+  {
+    "id": "TXT_SimsObjects_04415",
+    "source_sha256": "b12cf49d40bf6eb0ae9b190efeb3ffde71d0649eaf61ac445f21d392549ca5ff",
+    "ko": "임시 부지 8의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04416",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04417",
+    "source_sha256": "f605b06ff266a3566b105f3eab27bf38402ab33eac3c0fd547a74a4415c76e6e",
+    "ko": "임시 배경 - 외곽 부지 - 09"
+  },
+  {
+    "id": "TXT_SimsObjects_04418",
+    "source_sha256": "fdfd66de8d5fa21619fb4505e4b0c846d16ec7f2a56861a2043942155b3167d4",
+    "ko": "임시 부지 9의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04419",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04420",
+    "source_sha256": "22fc93a63f64c55821a59a5868ec7053a0d6e1d2f0d80bdf473def880ab5d9da",
+    "ko": "임시 배경 - 외곽 부지 - 10"
+  },
+  {
+    "id": "TXT_SimsObjects_04421",
+    "source_sha256": "3495339bb5efba999efd0376dcb52136e46153da5c1b028bea71c8181fb80ed1",
+    "ko": "임시 부지 10의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04422",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04423",
+    "source_sha256": "c028e7d0cdd9f8ede7d63875eb30d4d2c27055b02dab5e475aa82705c78e8dd2",
+    "ko": "임시 배경 - 외곽 부지 - 11"
+  },
+  {
+    "id": "TXT_SimsObjects_04424",
+    "source_sha256": "b7a6eb3f1485deb597b61e4cd8867902bd8f6f7299ed1c9a99d2360598233f40",
+    "ko": "임시 부지 11의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04425",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04426",
+    "source_sha256": "9f5a3369e479e9c080cf3e026dcf1665bab5654866f1bc914c9731c6b089a2bd",
+    "ko": "임시 배경 - 외곽 부지 - 12"
+  },
+  {
+    "id": "TXT_SimsObjects_04427",
+    "source_sha256": "c0813080880189ae90e7e0bfb0c61c8ac46cb1d02b20c664e790606310def281",
+    "ko": "임시 부지 12의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04428",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04429",
+    "source_sha256": "79e2d14497691128d70d9c7697d67e3011bf9079587028254d74c50b268faa20",
+    "ko": "임시 배경 - 외곽 부지 - 13"
+  },
+  {
+    "id": "TXT_SimsObjects_04430",
+    "source_sha256": "46ef0f91a19d54f1f711cbbee0d6101810779846ab4f4214965c6dc0edb2c319",
+    "ko": "임시 부지 13의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04431",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04432",
+    "source_sha256": "fa19175e086090e80faef75f259452cae5e58a5e92e001da69f7b599f7b47a91",
+    "ko": "임시 배경 - 외곽 부지 - 14"
+  },
+  {
+    "id": "TXT_SimsObjects_04433",
+    "source_sha256": "d06d9aac185487ae04ee520eddee6c64be1ceb4cd5954d79553fc7c3811931cf",
+    "ko": "임시 부지 14의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04434",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04435",
+    "source_sha256": "2ae08482b8daac639a927e252eff39576efc928812784919d12fec4b15322819",
+    "ko": "임시 배경 - 외곽 부지 - 15"
+  },
+  {
+    "id": "TXT_SimsObjects_04436",
+    "source_sha256": "2c6e788b20e8570796d41f9b75e40dcb171fdfbf4148da8aab812061046c0ab9",
+    "ko": "임시 부지 15의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04437",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04438",
+    "source_sha256": "fc11ee3dd34892ee1c743f292f1c38b9396d82cf11180edcab9154f7e33dc65d",
+    "ko": "임시 배경 - 외곽 부지 - 16"
+  },
+  {
+    "id": "TXT_SimsObjects_04439",
+    "source_sha256": "1ce7fd422f664f14a1178f8f38a16b3e684264fcd3b6d9f253aff54aaa3a06ed",
+    "ko": "임시 부지 16의 움직이는 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04440",
+    "source_sha256": "fdef66c00a30a9c8b6e45ec58715d1d519c158ab60c73f6d40ef811ad38128ee",
+    "ko": "임시 배경"
+  },
+  {
+    "id": "TXT_SimsObjects_04441",
+    "source_sha256": "87f848fe049a33fa8fef076a8d37b4fc29e3422558646fddfb400939f1a51be9",
+    "ko": "임시 유사 기둥 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_04443",
+    "source_sha256": "a99622ca46b3056fa895107c909e8d6701bdcd9202a1e3319b193785b1e2635d",
+    "ko": "고대 유적"
+  },
+  {
+    "id": "TXT_SimsObjects_04444",
+    "source_sha256": "01ab2007a27883a812c67624fbaa76a8f8cba08e67760f072f0e60fb8c26d005",
+    "ko": "임시 유난히 크고 다루기 힘든 바위 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_04446",
+    "source_sha256": "4237be018f83c4d8eae4bb171ba2233e70fbb9f7abcb3f1648d91a6171a07b06",
+    "ko": "이상한 바위"
+  },
+  {
+    "id": "TXT_SimsObjects_04447",
+    "source_sha256": "3e748a4ba250c27f0344641494ce4ccf60585e42cf1b5bed7510106448d680c7",
+    "ko": "예술 관목"
+  },
+  {
+    "id": "TXT_SimsObjects_04448",
+    "source_sha256": "590c804b8ece58b989cdc79dc359e5f3073098a698eadb89fcba64abc8f68727",
+    "ko": "관목은 좋습니다. 나무와 지피식물 사이의 빈틈을 메우는 데 꼭 필요한 낮은 층의 푸른 덩어리를 더해 주지요. 빈 공간을 채우기 좋은 식물이며 가격도 그에 맞췄습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04449",
+    "source_sha256": "2db40f7007392da7b1092145a345fb1cfef2d8fb7d50f9722454a88bf5d0c3da",
+    "ko": "관목"
+  },
+  {
+    "id": "TXT_SimsObjects_04450",
+    "source_sha256": "a08f1ba508e6c94f103847a7c6c00baf1fde04f279f9a9c1416426d3c3ffcdd2",
+    "ko": "임시 - 배경 스카이박스"
+  },
+  {
+    "id": "TXT_SimsObjects_04451",
+    "source_sha256": "710b77173e08c27c022bb74b6b8204fe986fbf55e8f2906cca8c151f79420d75",
+    "ko": "임시 - 배경 스카이박스 - 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04452",
+    "source_sha256": "8fbc62b7401704a4d629ed3e4bbd21bdd55058222733291719f16028ef9d57f7",
+    "ko": "임시 - 스카이박스"
+  },
+  {
+    "id": "TXT_SimsObjects_04453",
+    "source_sha256": "3bb5eccd2c91d025e1e6f09a91319f0d8657690a5ecca8b9e8d489ee43c4e073",
+    "ko": "배경 - 마을 성장 / 월드 제작용"
+  },
+  {
+    "id": "TXT_SimsObjects_04454",
+    "source_sha256": "82b6cac1be75a89b34c71dca31ccdf043419b08e08d7349fa6fb01ddbf0f062f",
+    "ko": "월드 제작용 - 카탈로그에 포함하지 말 것"
+  },
+  {
+    "id": "TXT_SimsObjects_04455",
+    "source_sha256": "77ecfc5739ed254ba954a3d70ecac354de87065b93bf7a4792af4bef809aaf88",
+    "ko": "배경 - 마을 성장"
+  },
+  {
+    "id": "TXT_SimsObjects_04456",
+    "source_sha256": "6204217ad719cbceb44477096b59a6c451c3c1b67218fe635b28fa2ff01c8393",
+    "ko": "나무 유닛 7호"
+  },
+  {
+    "id": "TXT_SimsObjects_04457",
+    "source_sha256": "181b6cc2544c1d35a97c66c94148873b90ebd28fb94884d99f23ef5c7dd77423",
+    "ko": "나무 유닛 6호를 유전자 변형해 만든 나무 유닛 7호는 원래 은하 간 전신주용으로 재배되었습니다. 은하 간 전신주를 세우는 것이 어리석다는 사실이 밝혀지기 전까지는요. 그 뒤로 나무 유닛은 어린아이에게 겁을 줘 완두콩을 먹게 하는 데 쓰였습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04458",
+    "source_sha256": "b85f5fabf97d3b18eab12b1746fcff04590986982ae5f205a171880c5c21202b",
+    "ko": "나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04459",
+    "source_sha256": "465c2ff1b65da598fb1a89477ef3847fc32b3a5fbd512c382eef1e3b6a728378",
+    "ko": "임시 창백한 자작나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04460",
+    "source_sha256": "0eb515a6c9ee2d3812474654aedb194ba54630a5e844d2ee9e19d871dd7faaa5",
+    "ko": "임시 원래 서식지에서는 완전히 멸종했지만 인상적인 나무껍질 색과 보기 좋은 가지 각도 덕에 수집가와 조경 건축가가 선호하는 대표 표본 나무로 남아 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04461",
+    "source_sha256": "cc04505b9c1f3bbfb21b1bd7bafd1ab9a45588e0b23e9d6d500ef5b505f81270",
+    "ko": "임시 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04462",
+    "source_sha256": "beca58428cdb30d013907d6da55b4f33b38979ffe72e458825aea43bb89eb467",
+    "ko": "붉은 얼굴 래리"
+  },
+  {
+    "id": "TXT_SimsObjects_04463",
+    "source_sha256": "48d527bf68563e4958dc17a622b93463e033d4ecc52942da30bd61e250b353df",
+    "ko": "검은 눈 수잔 꽃 제품의 성공에 고무된 오너리 플래닛사는 수국과 조지아의 붉은 점토를 교배해 세계 최초로 화분에 담긴 채 자라는 식물을 만들었습니다. 회사 최고 경영자의 이름을 딴 이 꽃은 허리가 휘는 원예 작업 없이도 섬세한 재배의 즐거움을 선사합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04465",
+    "source_sha256": "d03d295cfa5f9bccf381e394b5c740453deeaff7890876ed3f3926562d150a38",
+    "ko": "선인장과, 일명 선인장"
+  },
+  {
+    "id": "TXT_SimsObjects_04466",
+    "source_sha256": "d0f903b37cb84cb84b76215d60727bf940da29fa9f1d7378350172a6b3a18f12",
+    "ko": "선인장은 쌍떡잎식물에 속하는 강인한 다육식물입니다. 가시와 그 가시가 돋는 가시자리, 은근한 유머 감각이 대표적인 특징입니다. 건조한 환경에 잘 적응했지만 살아남으려면 가끔 비가 필요합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04467",
+    "source_sha256": "d3ba9ece936f9dceced2c91292170194c9abb8f2fd061a6920de605bd32a9265",
+    "ko": "선인장"
+  },
+  {
+    "id": "TXT_SimsObjects_04468",
+    "source_sha256": "c43afb2cabc254bde2ee9cac904042138373ba247231d813a771563ce6b41a38",
+    "ko": "그린 트리"
+  },
+  {
+    "id": "TXT_SimsObjects_04469",
+    "source_sha256": "8ef53bd7d9310ac0bc20222725efeacad7e3b50078c66f08796141121df8320f",
+    "ko": "자연산 나무만 산다는 나무 속물들에게 질리셨나요? 잘난 체하는 얼치기 선행가들은 무시하세요. 오너리 플래닛사는 땅에서 자랐든 배양조에서 자랐든 나무는 나무라고 생각합니다. 지역 생명공학 회사를 응원하며 나무를 심으세요. 그린 트리를 심으세요. "
+  },
+  {
+    "id": "TXT_SimsObjects_04470",
+    "source_sha256": "b85f5fabf97d3b18eab12b1746fcff04590986982ae5f205a171880c5c21202b",
+    "ko": "나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04471",
+    "source_sha256": "84ba957bc07df2f7e23bc7f20f65a2fe6ff1f01b74f2e4dd18e6caf735dfa16c",
+    "ko": "날리 칼리의 단단한 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04472",
+    "source_sha256": "72eeb40d7d6660a6fec7d6a7d26acb2efc919c0133b1359ffd0d740757f38bea",
+    "ko": "임시 날리 칼리는 자기네 단단한 목재만큼 단단하고 조밀한 것은 없다고 보증합니다. 수백 년 동안 토착 카우보이들이 가꾼, 100% 방목 방식으로 천천히 자란 참나무 원목입니다. 비도 바람도 영역을 지키는 강아지도 이 녀석을 쓰러뜨릴 수 없습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_04473",
+    "source_sha256": "cc04505b9c1f3bbfb21b1bd7bafd1ab9a45588e0b23e9d6d500ef5b505f81270",
+    "ko": "임시 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04474",
+    "source_sha256": "d31d11a884928b19cdca1d82b4dc695fd5f17e4a6225328998f361cdcf2a3092",
+    "ko": "단풍나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04475",
+    "source_sha256": "0f1a65e102949dd31c99c2cc77c05931ef3032ba5e7e0ad82d00aed4ce283324",
+    "ko": "맛있는 메이플 시럽이라는 형태로 한때 누구나 공짜로 당분을 얻던 천연 공급원이었지만, 이제 단풍나무의 유전 암호는 오너리 플래닛사가 전부 소유합니다. 나무를 만지거나 수액을 채취하지 마세요. 위반자는 법이 허용하는 최대한의 처벌을 받습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_04476",
+    "source_sha256": "b85f5fabf97d3b18eab12b1746fcff04590986982ae5f205a171880c5c21202b",
+    "ko": "나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04477",
+    "source_sha256": "465c2ff1b65da598fb1a89477ef3847fc32b3a5fbd512c382eef1e3b6a728378",
+    "ko": "임시 창백한 자작나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04478",
+    "source_sha256": "0eb515a6c9ee2d3812474654aedb194ba54630a5e844d2ee9e19d871dd7faaa5",
+    "ko": "임시 원래 서식지에서는 완전히 멸종했지만 인상적인 나무껍질 색과 보기 좋은 가지 각도 덕에 수집가와 조경 건축가가 선호하는 대표 표본 나무로 남아 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04479",
+    "source_sha256": "cc04505b9c1f3bbfb21b1bd7bafd1ab9a45588e0b23e9d6d500ef5b505f81270",
+    "ko": "임시 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04480",
+    "source_sha256": "e4faad8485a725e107643503c5aec42992c965a14b2dbf101cb8f1d5688c10e0",
+    "ko": "임시 소나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04481",
+    "source_sha256": "98069c345346a5b229a30cc4d447cc201ea7ce71070e45318b2ca3718e2ded9a",
+    "ko": "임시 아, 송진을 품은 상록수. 손이 거의 가지 않고, 언제나 푸르고, 소나무답습니다. 샐러드용 솔씨와 화단용 솔잎, 주방 세제용 소나무 요정까지 공급하니 소나무는 진정 자연의 완벽한 결실입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04482",
+    "source_sha256": "cc04505b9c1f3bbfb21b1bd7bafd1ab9a45588e0b23e9d6d500ef5b505f81270",
+    "ko": "임시 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04483",
+    "source_sha256": "6c8e2dcdc7e3a1777f396817303f0a2c0ecd2db87bd86651c763dd170b5cade1",
+    "ko": "검은 눈 수잔"
+  },
+  {
+    "id": "TXT_SimsObjects_04484",
+    "source_sha256": "aeb95502151c3cb33ca2ff01c0d89932d90642591b6e70072f575817c27c6863",
+    "ko": "원래 아메리카의 토종 야생화였던 검은 눈 수잔은 이제 오너리 플래닛사가 전적으로 소유하고 유통합니다. 오너리 플래닛의 명시적인 서면 동의 없이 불법으로 수분시키거나 감상하는 행위는 엄격히 금지됩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04486",
+    "source_sha256": "1a11ca0ee2aba8a44702510a4b0e2b5f16e24004b2721de604e85f2fe07249e0",
+    "ko": "버드나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04487",
+    "source_sha256": "e19fd426dcf642b51d0affac2827e49d27ae48a8bc037cc1c90a1d5b832dabd4",
+    "ko": "슬퍼할 게 뭐가 있나요? 버드나무는 90종이나 되고 세 대륙에 걸쳐 자생하며 천적도 없습니다. 튼튼한 목재와 의약품의 재료로도 널리 쓰이지요. 축하받을 나무가 있다면 바로 버드나무입니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_04488",
+    "source_sha256": "b85f5fabf97d3b18eab12b1746fcff04590986982ae5f205a171880c5c21202b",
+    "ko": "나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04493",
+    "source_sha256": "4e7f6c13b4123bc4bd4a10afd51cf4d7f343e3252a58f89673f36b4527704b9c",
+    "ko": "임시 어떤 물체인지 알아보는 시험"
+  },
+  {
+    "id": "TXT_SimsObjects_04495",
+    "source_sha256": "f920baf6eccd4bf0f1953ea1adac47dd1e6f6494b810860923e225290ba29951",
+    "ko": "독립 표현사의 이젤 "
+  },
+  {
+    "id": "TXT_SimsObjects_04496",
+    "source_sha256": "5f0d03fecfe5b23d4002b35d15489cff48aa22dc92f9fcb1462c89899da678fa",
+    "ko": "모든 심은 그림 그리기를 좋아합니다. 독립 표현사의 이젤과 함께라면 그림도 식은 죽 먹기입니다. 이 \"빈 캔버스\"는 실내외 어디서나 쓸 만큼 튼튼하고, 거의 물을 주지 않아도 가장 독립적인 창의력이 꽃피고 자랄 만큼 비어 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04497",
+    "source_sha256": "7e5f7f41ed699db498737846d5711db0d6389ac267d5d67c73c764c5cae0dbf5",
+    "ko": "이젤"
+  }
+]

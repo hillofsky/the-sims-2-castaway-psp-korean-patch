@@ -1,0 +1,24 @@
+﻿# Local/original game data
+*.iso
+*.cso
+*.pbp
+*.ttf
+*.otf
+PPSSPP*.exe
+
+# Local machine config / generated output
+build/
+outputs/
+logs/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+*.pyc
+
+# OS/editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

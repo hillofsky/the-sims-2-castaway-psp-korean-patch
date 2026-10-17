@@ -1,0 +1,667 @@
+[
+  {
+    "id": "TXT_SimsObjects_04501",
+    "source_sha256": "0e2d28677aacc1c89190f7f9feb92cbe15d15b76088df6328646cefe459e3d9f",
+    "ko": "임시 - 냄새 씨앗"
+  },
+  {
+    "id": "TXT_SimsObjects_04502",
+    "source_sha256": "8faf6749cb7bc7207761d040d6fb04ca2eba455f53f2b3f4fc1fbd3354ef0aa2",
+    "ko": "임시 - 이것은 냄새 씨앗입니다"
+  },
+  {
+    "id": "TXT_SimsObjects_04504",
+    "source_sha256": "cad4a89f5fe580710608ca176e05592cfcd6190c780d434b062522156a887bb6",
+    "ko": "임시 - 냄새 맡기 게임 씨앗 생성기"
+  },
+  {
+    "id": "TXT_SimsObjects_04505",
+    "source_sha256": "e2dea723092b25d1899c5e2deb298032e7b654a88d25a536c39e10d8f5cf345f",
+    "ko": "임시 - 코 폭파 냄새 씨앗 생성기"
+  },
+  {
+    "id": "TXT_SimsObjects_04506",
+    "source_sha256": "639785786beaf30ea7396cac66e41252baa3c03a1c55f3d41dda6b9725700334",
+    "ko": "임시 - 코 폭파 냄새 씨앗 생성기!"
+  },
+  {
+    "id": "TXT_SimsObjects_04507",
+    "source_sha256": "20b20387fbbb2dbcd8ad3c5b0deb0c88b2678edf5dda621d3f96bef993dce378",
+    "ko": "임시 - 냄새 맡기 게임 씨앗 탐지기"
+  },
+  {
+    "id": "TXT_SimsObjects_04508",
+    "source_sha256": "2f594edd1f21f7bd08e65fb61aca91d05426e6176279226a02bfb18894734235",
+    "ko": "임시 - 냄새 분석기"
+  },
+  {
+    "id": "TXT_SimsObjects_04548",
+    "source_sha256": "643aa97e949c9c353aaff710e5adddb2017ecf3ae9d5cf563bc85c18e5d3aa2c",
+    "ko": "소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04551",
+    "source_sha256": "643aa97e949c9c353aaff710e5adddb2017ecf3ae9d5cf563bc85c18e5d3aa2c",
+    "ko": "소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04554",
+    "source_sha256": "643aa97e949c9c353aaff710e5adddb2017ecf3ae9d5cf563bc85c18e5d3aa2c",
+    "ko": "소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04557",
+    "source_sha256": "643aa97e949c9c353aaff710e5adddb2017ecf3ae9d5cf563bc85c18e5d3aa2c",
+    "ko": "소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04560",
+    "source_sha256": "643aa97e949c9c353aaff710e5adddb2017ecf3ae9d5cf563bc85c18e5d3aa2c",
+    "ko": "소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04563",
+    "source_sha256": "643aa97e949c9c353aaff710e5adddb2017ecf3ae9d5cf563bc85c18e5d3aa2c",
+    "ko": "소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04566",
+    "source_sha256": "643aa97e949c9c353aaff710e5adddb2017ecf3ae9d5cf563bc85c18e5d3aa2c",
+    "ko": "소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04569",
+    "source_sha256": "643aa97e949c9c353aaff710e5adddb2017ecf3ae9d5cf563bc85c18e5d3aa2c",
+    "ko": "소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04613",
+    "source_sha256": "d4f4c79de643dfc00997570c7986ba47cb59f8c5f3bd9e7e06454aaaed1eadf0",
+    "ko": "이 덤불에는 작은 열매가 달려 있는 것 같습니다. 사탕 맛이 날지도 모르겠네요. 음, 맛있는 사탕!"
+  },
+  {
+    "id": "TXT_SimsObjects_04755",
+    "source_sha256": "0cbbc4feb6a5e625ec8d44b43724cf3d93075f356b1a9aa691280afdb07f6171",
+    "ko": "!!!임시 이 물체는 카탈로그에 실리지 않으므로 무시해도 됩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05090",
+    "source_sha256": "0ffd43f5886b9b10e2f78407fb0dcf3c9d5be727078e89c00b5418b9c0de154d",
+    "ko": "디버그"
+  },
+  {
+    "id": "TXT_SimsObjects_05173",
+    "source_sha256": "a9b5a4dc663e67ec29e1ed290e32787b8201dfb4d9c7ee6cbcbeeaeb61a399dd",
+    "ko": "조리대"
+  },
+  {
+    "id": "TXT_SimsObjects_05176",
+    "source_sha256": "a9b5a4dc663e67ec29e1ed290e32787b8201dfb4d9c7ee6cbcbeeaeb61a399dd",
+    "ko": "조리대"
+  },
+  {
+    "id": "TXT_SimsObjects_05179",
+    "source_sha256": "a9b5a4dc663e67ec29e1ed290e32787b8201dfb4d9c7ee6cbcbeeaeb61a399dd",
+    "ko": "조리대"
+  },
+  {
+    "id": "TXT_SimsObjects_05182",
+    "source_sha256": "16d1c9050a0b32e83764a81d801a880773abedfd7f8b0b08a1cd87ca0e404f12",
+    "ko": "탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05185",
+    "source_sha256": "16d1c9050a0b32e83764a81d801a880773abedfd7f8b0b08a1cd87ca0e404f12",
+    "ko": "탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05188",
+    "source_sha256": "16d1c9050a0b32e83764a81d801a880773abedfd7f8b0b08a1cd87ca0e404f12",
+    "ko": "탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05191",
+    "source_sha256": "16d1c9050a0b32e83764a81d801a880773abedfd7f8b0b08a1cd87ca0e404f12",
+    "ko": "탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05194",
+    "source_sha256": "16d1c9050a0b32e83764a81d801a880773abedfd7f8b0b08a1cd87ca0e404f12",
+    "ko": "탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05197",
+    "source_sha256": "16d1c9050a0b32e83764a81d801a880773abedfd7f8b0b08a1cd87ca0e404f12",
+    "ko": "탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05200",
+    "source_sha256": "16d1c9050a0b32e83764a81d801a880773abedfd7f8b0b08a1cd87ca0e404f12",
+    "ko": "탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05203",
+    "source_sha256": "16d1c9050a0b32e83764a81d801a880773abedfd7f8b0b08a1cd87ca0e404f12",
+    "ko": "탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05206",
+    "source_sha256": "16d1c9050a0b32e83764a81d801a880773abedfd7f8b0b08a1cd87ca0e404f12",
+    "ko": "탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05208",
+    "source_sha256": "b7af68901f76b430115922904db75fcacc3b698ad96f254112d88f46c914250f",
+    "ko": "당신은 늘 식탁에 내놓을 무언가를 갖고 있었습니다. 이제 그걸 올려놓기 딱 좋은 식탁도 생겼군요."
+  },
+  {
+    "id": "TXT_SimsObjects_05209",
+    "source_sha256": "16d1c9050a0b32e83764a81d801a880773abedfd7f8b0b08a1cd87ca0e404f12",
+    "ko": "탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05212",
+    "source_sha256": "16d1c9050a0b32e83764a81d801a880773abedfd7f8b0b08a1cd87ca0e404f12",
+    "ko": "탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05219",
+    "source_sha256": "efe1ee72692f2b33486c1d9c091dbaf93c114883515fd0d77f9d7b5d8c8f732c",
+    "ko": "임시 - 묘비/유골함"
+  },
+  {
+    "id": "TXT_SimsObjects_05220",
+    "source_sha256": "47ac095bfce1162779bc1da3596ff241a667fe8553e8da08f938f593662297b6",
+    "ko": "임시 디버그 - 어차피 카탈로그에 있으면 안 됨."
+  },
+  {
+    "id": "TXT_SimsObjects_05221",
+    "source_sha256": "a5e76efbd0bbde8ea37a181ef922e80522c2b649b9e758716052ced6a45e05c4",
+    "ko": "죽음의 바위"
+  },
+  {
+    "id": "TXT_SimsObjects_05222",
+    "source_sha256": "efe1ee72692f2b33486c1d9c091dbaf93c114883515fd0d77f9d7b5d8c8f732c",
+    "ko": "임시 - 묘비/유골함"
+  },
+  {
+    "id": "TXT_SimsObjects_05223",
+    "source_sha256": "47ac095bfce1162779bc1da3596ff241a667fe8553e8da08f938f593662297b6",
+    "ko": "임시 디버그 - 어차피 카탈로그에 있으면 안 됨."
+  },
+  {
+    "id": "TXT_SimsObjects_05224",
+    "source_sha256": "a5e76efbd0bbde8ea37a181ef922e80522c2b649b9e758716052ced6a45e05c4",
+    "ko": "죽음의 바위"
+  },
+  {
+    "id": "TXT_SimsObjects_05229",
+    "source_sha256": "a30b1c71741595ffd213c07c41b434456a2400b74d0eeb6e719c0768e7dfeab8",
+    "ko": "임시 금속 도끼 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05232",
+    "source_sha256": "b7983a45d57ee2fcdd540859551a509b252a549f826617609412185226fc6f82",
+    "ko": "임시 조개껍데기 도끼를 만들면 쪼갤 물건 목록이 짧아질 겁니다. 그러니 어서 찍어 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_05238",
+    "source_sha256": "ec29cbbb49a483c09dd8c2ea62ca9c02464cf28f9cfc26836243600d96db338a",
+    "ko": "미켈란젤로는 금속 끌 정도만으로 걸작 다비드상을 조각했습니다. 당신은 이 도구로 어떤 위대한 일을 이루게 될까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_05243",
+    "source_sha256": "0a72f2b70bfb113cd39529d2310d14076157b3563191119a9a32b81b46b7abc9",
+    "ko": "소라"
+  },
+  {
+    "id": "TXT_SimsObjects_05245",
+    "source_sha256": "0a72f2b70bfb113cd39529d2310d14076157b3563191119a9a32b81b46b7abc9",
+    "ko": "소라"
+  },
+  {
+    "id": "TXT_SimsObjects_05259",
+    "source_sha256": "49ce552129df55d23e472e8e62167ed3b766797a6738e28905c54c1b0832bf18",
+    "ko": "경고합니다. 이 도구를 만들고 나면 아침에도 망치질을 하고 저녁에도 망치질을 하고 싶어질 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05261",
+    "source_sha256": "141887606d014f44b6fe8243be02cc2b40c5f8d82e5655b838a4c83fe85831b6",
+    "ko": "임시 괭이"
+  },
+  {
+    "id": "TXT_SimsObjects_05262",
+    "source_sha256": "141887606d014f44b6fe8243be02cc2b40c5f8d82e5655b838a4c83fe85831b6",
+    "ko": "임시 괭이"
+  },
+  {
+    "id": "TXT_SimsObjects_05264",
+    "source_sha256": "b28efc308af3a38a2a73489c9359083ec7d040d6f90615ed6cb844c2697f948c",
+    "ko": "임시 금속 괭이"
+  },
+  {
+    "id": "TXT_SimsObjects_05265",
+    "source_sha256": "b28efc308af3a38a2a73489c9359083ec7d040d6f90615ed6cb844c2697f948c",
+    "ko": "임시 금속 괭이"
+  },
+  {
+    "id": "TXT_SimsObjects_05266",
+    "source_sha256": "7ac96c52294a90262b85f6461f4d75ad012ad488bac32c1bbc28376e7c2e61d7",
+    "ko": "금속 괭이"
+  },
+  {
+    "id": "TXT_SimsObjects_05268",
+    "source_sha256": "c310dedbd5d9c8cdf04c2c8e5b41ef553ec818a5584f690737ed39ff0464c31c",
+    "ko": "임시 마체테 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05277",
+    "source_sha256": "12e3241285ba30f76f6ace37a8b4a08385ca1b24de66c9d0e8a83625ba540571",
+    "ko": "임시 바느질 도구 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05286",
+    "source_sha256": "72d9e354c912b397d940e66f5dcfcd52ab7e36cddc98811f5fe2547c1d4320dd",
+    "ko": "임시 대나무 창이라고 얕보지 마세요. 단순한 투척 무기이니 똑바로 던지고 날아가는 모습을 지켜보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_05289",
+    "source_sha256": "61cb50366193af106fa99c369917a1b9903795107c055136488e2f1c77fe36bf",
+    "ko": "임시 해적 수염수염의 검. 집어 들면 내 팔을 관통한다. 그래서 그가 죽었나 보다."
+  },
+  {
+    "id": "TXT_SimsObjects_05290",
+    "source_sha256": "d0b9cd97fa22d3eb6903686b58febacbf778ec7435e82181e698ccd37b58d768",
+    "ko": "검"
+  },
+  {
+    "id": "TXT_SimsObjects_05298",
+    "source_sha256": "0153b05ed67e26e18a2e73ac8623e2a6db30d05fc9e625d92c6f0b28b0858543",
+    "ko": "당신과 차가운 모래 사이에 놓이는 이 얇은 잠자리 매트는 수면의 편안함을 제법 바꿔 놓습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05300",
+    "source_sha256": "efec7117416c2c9875a655764d3a4d9a248e440aa5648ed9e4c9e24360a7a84d",
+    "ko": "푸른 잎 고양이"
+  },
+  {
+    "id": "TXT_SimsObjects_05301",
+    "source_sha256": "63a991bb844f538566b4780d683b781971d79abd8485f064717626ddfa4ff326",
+    "ko": "장식 정원의 도움을 조금 받으면 앞마당의 정글을 기발한 고양이들이 모인 동물원으로 바꿀 수 있습니다. 털 달린 고양이와 달리 이 잎사귀 고양이는 카펫을 긁거나 밤에 이웃을 깨우지 않습니다. 덤으로 미신을 믿는 방문 판매원을 쫓아내기도 한다지요. "
+  },
+  {
+    "id": "TXT_SimsObjects_05302",
+    "source_sha256": "8cbb1dccb88dedeeec0b4ed37b8d38dc5c3b38df181654214a56165a97a6b3c0",
+    "ko": "장식 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05303",
+    "source_sha256": "ec2c8f1c3b9790db1f8f90e4ad02e4d2f3f9935439818b0bba292fa3d681e287",
+    "ko": "푸른 잎 고양이\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_05304",
+    "source_sha256": "2eda65b79ee2d897dd3323e21d7255576030a3eaf19e35f20d22dc408e77123e",
+    "ko": "\r\n      장식 정원의 도움을 조금 받으면 앞마당의 정글을 기발한 고양이들이 모인 동물원으로 바꿀 수 있습니다. 털 달린 고양이와 달리 이 잎사귀 고양이는 카펫을 긁거나 밤에 이웃을 깨우지 않습니다. 덤으로 미신을 믿는 방문 판매원을 쫓아내기도 한다지요.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_05305",
+    "source_sha256": "8cbb1dccb88dedeeec0b4ed37b8d38dc5c3b38df181654214a56165a97a6b3c0",
+    "ko": "장식 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05306",
+    "source_sha256": "34a525870840ecb1a19e9f24f26f55a81573c508b6f7d327a6dfbf12114c1e74",
+    "ko": "\r\n      푸른 잎 강아지\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_05307",
+    "source_sha256": "d9f83c7f5fcde05d48571d0efaad3a8009bbf7ae31db3416c20c7fd8e967ae6b",
+    "ko": "장식 정원의 도움을 조금 받으면 앞마당의 정글을 장난스러운 강아지들이 모인 동물원으로 바꿀 수 있습니다. 털 달린 강아지와 달리 이 잎사귀 강아지는 쓰레기통을 엎거나 밤에 이웃을 깨우지 않습니다. 덤으로 미신을 믿는 방문 판매원을 쫓아내기도 한다지요. \r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_05308",
+    "source_sha256": "8cbb1dccb88dedeeec0b4ed37b8d38dc5c3b38df181654214a56165a97a6b3c0",
+    "ko": "장식 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05309",
+    "source_sha256": "4aacc57088f258459fbbb55ff53aea97b76da90d185e9460a14d390690e4c540",
+    "ko": "푸른 잎 강아지"
+  },
+  {
+    "id": "TXT_SimsObjects_05310",
+    "source_sha256": "48ca15a43cfd6ee4b507701a144cf30562f13bf07205569e3164414b56406526",
+    "ko": "\r\n      장식 정원의 도움을 조금 받으면 앞마당의 정글을 장난스러운 강아지들이 모인 동물원으로 바꿀 수 있습니다. 털 달린 강아지와 달리 이 잎사귀 강아지는 쓰레기통을 엎거나 밤에 이웃을 깨우지 않습니다. 덤으로 미신을 믿는 방문 판매원을 쫓아내기도 한다지요.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_05311",
+    "source_sha256": "8cbb1dccb88dedeeec0b4ed37b8d38dc5c3b38df181654214a56165a97a6b3c0",
+    "ko": "장식 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05312",
+    "source_sha256": "5663d5aedbfd499dd6db54d21faf7a46d5f9c5bf306d874673a466ecfc44830d",
+    "ko": "동물 장식 옷장 \r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_05313",
+    "source_sha256": "3c05c18292ccae18a0c515b20fe3981ed6e27b7ab6082f0d13425a7706c541ba",
+    "ko": "수년 동안 모은 반려동물 기념품을 보관하든 초기 미국의 동물 장식 가구에 관심이 있든, 이 세련된 옷장은 어떤 풍수 배치에도 자연스럽게 어울립니다. 맞춤 서랍장 구성에는 비밀 문과 숨은 수납칸이 잔뜩 들어갑니다. 잔뜩은 별도 판매입니다. \r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_05314",
+    "source_sha256": "c9ce92f011b1fe24054ef032996343f7bdcec1c7541fa6db49b8180acf5eeca0",
+    "ko": "옷장"
+  },
+  {
+    "id": "TXT_SimsObjects_05315",
+    "source_sha256": "d7bfd235569631b654583691b64f849b0355df6add8f2554820dbd9694f2c4b4",
+    "ko": "'타디스' 옷장"
+  },
+  {
+    "id": "TXT_SimsObjects_05316",
+    "source_sha256": "d0656a16d277d2c5d7090049ace70127b7cf65f6f4a399a893b1ce12afd17c45",
+    "ko": "현대의 인간형 생물을 위한 '타디스' 옷장은 사실상 무한한 옷을 보관할 수 있는데 왜 한 벌만 입고 지내나요? 다시는 가게에 가지 마세요! 처음 한 번만 구입하면 겉보기와 달리 널찍한 타디스 내부에 보관된 수천 가지 패션을 이용할 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05317",
+    "source_sha256": "c9ce92f011b1fe24054ef032996343f7bdcec1c7541fa6db49b8180acf5eeca0",
+    "ko": "옷장"
+  },
+  {
+    "id": "TXT_SimsObjects_05319",
+    "source_sha256": "92152e37be71728e4de96150b15154a8425546c4fd9f6fb462ff22da91bd9973",
+    "ko": "섬 이동문"
+  },
+  {
+    "id": "TXT_SimsObjects_05320",
+    "source_sha256": "92152e37be71728e4de96150b15154a8425546c4fd9f6fb462ff22da91bd9973",
+    "ko": "섬 이동문"
+  },
+  {
+    "id": "TXT_SimsObjects_05325",
+    "source_sha256": "92152e37be71728e4de96150b15154a8425546c4fd9f6fb462ff22da91bd9973",
+    "ko": "섬 이동문"
+  },
+  {
+    "id": "TXT_SimsObjects_05326",
+    "source_sha256": "92152e37be71728e4de96150b15154a8425546c4fd9f6fb462ff22da91bd9973",
+    "ko": "섬 이동문"
+  },
+  {
+    "id": "TXT_SimsObjects_05329",
+    "source_sha256": "872b4e5c94efea2dd706712d2ccd9d7b9b3b995ef660532ec390db58f66c1d9c",
+    "ko": "재"
+  },
+  {
+    "id": "TXT_SimsObjects_05330",
+    "source_sha256": "c2ca913809e9b01d5a4f79700ae8510091f17292a5e73cde468b226af79f5b6f",
+    "ko": "임시 더미 크게 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_05331",
+    "source_sha256": "c6b3b83557435b4ed36343beb858e19c28423e824de5d554c90df1e67a214c25",
+    "ko": "임시 더미 중간 크기로 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_05333",
+    "source_sha256": "c560122ac4706dcb19bcb43defe2afa6e84809176688807abd297bf17cd76388",
+    "ko": "쓰레기"
+  },
+  {
+    "id": "TXT_SimsObjects_05334",
+    "source_sha256": "2e5cdcf84a632805cdf74f11a82fcc751fa40bc4aac5021517930ad54e7a5bd9",
+    "ko": "쓰레기 더미"
+  },
+  {
+    "id": "TXT_SimsObjects_05335",
+    "source_sha256": "c560122ac4706dcb19bcb43defe2afa6e84809176688807abd297bf17cd76388",
+    "ko": "쓰레기"
+  },
+  {
+    "id": "TXT_SimsObjects_05336",
+    "source_sha256": "333812e2a517e864210974c71524710ce06409659d2c73a45f816f6451f4fc0d",
+    "ko": "\"정말 강철 같아\" 보급형 쓰레기통"
+  },
+  {
+    "id": "TXT_SimsObjects_05337",
+    "source_sha256": "d5221545e99addbcdf5e58dff3b0223254434e98578398cda36bfa4f6b3ef4e8",
+    "ko": "돈이 없다고 쓰레기 속에서 뒹굴 필요는 없습니다. 저렴하고 보기 좋고 편리하게 작은 이 스테인리스 쓰레기통은 물건을 버리는 일마저 멋지게 느껴지게 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05338",
+    "source_sha256": "1ac7a1e3758f80586bd9fc86f4d653382fd6228b3af718eee8aa12ca5e5862b7",
+    "ko": "휴지통"
+  },
+  {
+    "id": "TXT_SimsObjects_05339",
+    "source_sha256": "e535bda83f3d7128e612d20ee180531ee9c005106532e5d735eaf8d9c73bc0a8",
+    "ko": "임시 야외 쓰레기통"
+  },
+  {
+    "id": "TXT_SimsObjects_05340",
+    "source_sha256": "cdff91ce973ec205c77d895f0f97ca903b311205e69340e70ce9aa4aff86b0cc",
+    "ko": "임시 야외 쓰레기통 - 실제 카탈로그 항목이 아니므로 설명 불필요"
+  },
+  {
+    "id": "TXT_SimsObjects_05341",
+    "source_sha256": "3f054f43804cf8a830f62c771efbaeaacbc36c82fc0ab77b632f16b417e76066",
+    "ko": "쓰레기통"
+  },
+  {
+    "id": "TXT_SimsObjects_05345",
+    "source_sha256": "a0a044a2ce2f392adf79027dab2569875ad9645c150a5df480fb8f54d4349eb1",
+    "ko": "임시 - 튼튼한 벽"
+  },
+  {
+    "id": "TXT_SimsObjects_05346",
+    "source_sha256": "ec91493847237f1ea719a18b066046f5ee55b409a88016853cb2cc7a7587b526",
+    "ko": "이 벽은 비바람을 막아 줍니다... 아무튼 잠깐은요."
+  },
+  {
+    "id": "TXT_SimsObjects_05347",
+    "source_sha256": "f76ea921edc2e55df3e0a8eef0ddc499bdb4c39fc74356fb49b0c9ed2fab6642",
+    "ko": "벽"
+  },
+  {
+    "id": "TXT_SimsObjects_05348",
+    "source_sha256": "4c20da607cbccb46a96410248e80589306adcb03a1ccabdcb0eb736c1b7e1b2e",
+    "ko": "임시 튼튼한 울타리"
+  },
+  {
+    "id": "TXT_SimsObjects_05349",
+    "source_sha256": "be97c528715fa7ceb9c9c54495b247323bf4479d9248865ed01c0d9d13c87035",
+    "ko": "임시 이 벽은 비바람을 막아 줍니다... 아무튼 잠깐은요."
+  },
+  {
+    "id": "TXT_SimsObjects_05350",
+    "source_sha256": "f76ea921edc2e55df3e0a8eef0ddc499bdb4c39fc74356fb49b0c9ed2fab6642",
+    "ko": "벽"
+  },
+  {
+    "id": "TXT_SimsObjects_05353",
+    "source_sha256": "f76ea921edc2e55df3e0a8eef0ddc499bdb4c39fc74356fb49b0c9ed2fab6642",
+    "ko": "벽"
+  },
+  {
+    "id": "TXT_SimsObjects_05354",
+    "source_sha256": "33730aa80b029065af35e16b208796fab5120f5adc886426d80c76e93b6cc26f",
+    "ko": "임시 - 임시변통 벽"
+  },
+  {
+    "id": "TXT_SimsObjects_05356",
+    "source_sha256": "f76ea921edc2e55df3e0a8eef0ddc499bdb4c39fc74356fb49b0c9ed2fab6642",
+    "ko": "벽"
+  },
+  {
+    "id": "TXT_SimsObjects_05405",
+    "source_sha256": "c2a0380e04edae09a1649d8df8f814864ab4bc04db7fe2a04656dd772ca84634",
+    "ko": "임시 - 세련된 실내 벽"
+  },
+  {
+    "id": "TXT_SimsObjects_05406",
+    "source_sha256": "69da3eb5fe1c62aea37c21be1b51db7b91eb2fa99329cc12fd057413d8c40cd7",
+    "ko": "임시 - 이 벽은 비바람을 막아 줍니다... 아무튼 잠깐은요."
+  },
+  {
+    "id": "TXT_SimsObjects_05407",
+    "source_sha256": "f76ea921edc2e55df3e0a8eef0ddc499bdb4c39fc74356fb49b0c9ed2fab6642",
+    "ko": "벽"
+  },
+  {
+    "id": "TXT_SimsObjects_05410",
+    "source_sha256": "f76ea921edc2e55df3e0a8eef0ddc499bdb4c39fc74356fb49b0c9ed2fab6642",
+    "ko": "벽"
+  },
+  {
+    "id": "TXT_SimsObjects_05412",
+    "source_sha256": "090e68ad4c8895ac63157e86acfd8ea66e8af3525c010932d0b13b5825747284",
+    "ko": "섬 생활의 스트레스에 막다른 벽을 만난 기분이라면, 진짜로 기댈 수 있는 벽을 세워 보는 건 어떨까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_05413",
+    "source_sha256": "f76ea921edc2e55df3e0a8eef0ddc499bdb4c39fc74356fb49b0c9ed2fab6642",
+    "ko": "벽"
+  },
+  {
+    "id": "TXT_SimsObjects_05422",
+    "source_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_SimsObjects_05425",
+    "source_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_SimsObjects_05428",
+    "source_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_SimsObjects_05431",
+    "source_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_SimsObjects_05432",
+    "source_sha256": "9b05cefeb24fee65df07ba3434aab83ef892403b02358edb8fd1382e9da791a1",
+    "ko": "임시 폭풍 대비 창문"
+  },
+  {
+    "id": "TXT_SimsObjects_05434",
+    "source_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_SimsObjects_05437",
+    "source_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_SimsObjects_05440",
+    "source_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_SimsObjects_05443",
+    "source_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_SimsObjects_05446",
+    "source_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_SimsObjects_05449",
+    "source_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_SimsObjects_05450",
+    "source_sha256": "b0f4dfedde8b1ac3740173b036be81cf87fa99cedbce940a3b190262f0420cde",
+    "ko": "몰로토프 미리 깨진 창문 세트"
+  },
+  {
+    "id": "TXT_SimsObjects_05451",
+    "source_sha256": "35e3f339c6d9510082d98ab22ca3e1b98b834d405d69df3780267525d687d6be",
+    "ko": "유령 도시를 만들고 싶은데 창문을 일일이 깰 시간이 없나요? 몰로토프 미리 깨진 창문 세트가 대신 깨 드립니다. 유리 깨기의 오랜 기술을 배운 지역 장인들이 손수 깨뜨린 창문 세트로, 어디에도 견줄 것이 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05452",
+    "source_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_SimsObjects_05455",
+    "source_sha256": "be0352bbaec869ed01eecd36f2f571971c683fccc5909a3b3ec38ab68cb0a375",
+    "ko": "치트 노움"
+  },
+  {
+    "id": "TXT_SimsObjects_05457",
+    "source_sha256": "0de1a06b255d8c9b344d3cd13a6a622584a67058de43f1e26c5cf1937ea2a90c",
+    "ko": "이게 뭐지?"
+  },
+  {
+    "id": "TXT_SimsObjects_05459",
+    "source_sha256": "6ecc3df6bffdd06c58cd4f6e276929e119c8f653c53f5a6a5a5e66dfa1c3fc93",
+    "ko": "이동"
+  },
+  {
+    "id": "TXT_SimsObjects_05460",
+    "source_sha256": "3cdfcaed7a34edd0133ca85de7f603e7c7cf20ff0187f676c6f64f1017c90980",
+    "ko": "임시 달리기"
+  },
+  {
+    "id": "TXT_SimsObjects_05461",
+    "source_sha256": "91dd3b4c7675d825ca9cec98412dd4c8c2bfa31465056e20142a8ecd48caa2fc",
+    "ko": "임시 쫓겨남"
+  },
+  {
+    "id": "TXT_SimsObjects_05462",
+    "source_sha256": "91dd3b4c7675d825ca9cec98412dd4c8c2bfa31465056e20142a8ecd48caa2fc",
+    "ko": "임시 쫓겨남"
+  },
+  {
+    "id": "TXT_SimsObjects_05463",
+    "source_sha256": "6ecc3df6bffdd06c58cd4f6e276929e119c8f653c53f5a6a5a5e66dfa1c3fc93",
+    "ko": "이동"
+  },
+  {
+    "id": "TXT_SimsObjects_05466",
+    "source_sha256": "685d84c2e78e8ec9e80af00dc3d4c52e40590b3c66dcfb23b9881f0b98fc0dc0",
+    "ko": "불이야!"
+  },
+  {
+    "id": "TXT_SimsObjects_05468",
+    "source_sha256": "5fe1c4245fc0b1c68dc57cfe3a9c257a639a4a1575d73bb33a2a430b919e4073",
+    "ko": "임시 뒹굴기"
+  },
+  {
+    "id": "TXT_SimsObjects_05469",
+    "source_sha256": "b16c96f452db4961bec4e5d31db29c903bc097a234b4f6d2e45d4e94adf99aca",
+    "ko": "임시 핥기"
+  },
+  {
+    "id": "TXT_SimsObjects_06134",
+    "source_sha256": "0ffd43f5886b9b10e2f78407fb0dcf3c9d5be727078e89c00b5418b9c0de154d",
+    "ko": "디버그"
+  },
+  {
+    "id": "TXT_SimsObjects_06613",
+    "source_sha256": "0ffd43f5886b9b10e2f78407fb0dcf3c9d5be727078e89c00b5418b9c0de154d",
+    "ko": "디버그"
+  },
+  {
+    "id": "TXT_SimsObjects_06614",
+    "source_sha256": "0ffd43f5886b9b10e2f78407fb0dcf3c9d5be727078e89c00b5418b9c0de154d",
+    "ko": "디버그"
+  },
+  {
+    "id": "TXT_SimsObjects_06615",
+    "source_sha256": "0ffd43f5886b9b10e2f78407fb0dcf3c9d5be727078e89c00b5418b9c0de154d",
+    "ko": "디버그"
+  }
+]

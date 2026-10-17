@@ -1,0 +1,1392 @@
+[
+  {
+    "id": "TXT_SimsObjects_01113",
+    "source_sha256": "0668a757f428c7290d58fed2b32fa695d106a9bc41ee91c5d9e1a709da71771b",
+    "ko": "채소 랩"
+  },
+  {
+    "id": "TXT_SimsObjects_01114",
+    "source_sha256": "0668a757f428c7290d58fed2b32fa695d106a9bc41ee91c5d9e1a709da71771b",
+    "ko": "채소 랩"
+  },
+  {
+    "id": "TXT_SimsObjects_01117",
+    "source_sha256": "0668a757f428c7290d58fed2b32fa695d106a9bc41ee91c5d9e1a709da71771b",
+    "ko": "채소 랩"
+  },
+  {
+    "id": "TXT_SimsObjects_01120",
+    "source_sha256": "4aa0f8c425f93c1c77f5a44d58d14892fdc0b12803a78a81f28bb211bee7da3c",
+    "ko": "거대한 바삭 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01122",
+    "source_sha256": "4aa0f8c425f93c1c77f5a44d58d14892fdc0b12803a78a81f28bb211bee7da3c",
+    "ko": "거대한 바삭 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01125",
+    "source_sha256": "4aa0f8c425f93c1c77f5a44d58d14892fdc0b12803a78a81f28bb211bee7da3c",
+    "ko": "거대한 바삭 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01127",
+    "source_sha256": "f31f6ff81bfabefc3afe807bf7174031b4a587f2df1244fbd5d757b8b8fe47ed",
+    "ko": "열대 라자냐"
+  },
+  {
+    "id": "TXT_SimsObjects_01129",
+    "source_sha256": "f31f6ff81bfabefc3afe807bf7174031b4a587f2df1244fbd5d757b8b8fe47ed",
+    "ko": "열대 라자냐"
+  },
+  {
+    "id": "TXT_SimsObjects_01132",
+    "source_sha256": "f31f6ff81bfabefc3afe807bf7174031b4a587f2df1244fbd5d757b8b8fe47ed",
+    "ko": "열대 라자냐"
+  },
+  {
+    "id": "TXT_SimsObjects_01134",
+    "source_sha256": "f31f6ff81bfabefc3afe807bf7174031b4a587f2df1244fbd5d757b8b8fe47ed",
+    "ko": "열대 라자냐"
+  },
+  {
+    "id": "TXT_SimsObjects_01136",
+    "source_sha256": "f31f6ff81bfabefc3afe807bf7174031b4a587f2df1244fbd5d757b8b8fe47ed",
+    "ko": "열대 라자냐"
+  },
+  {
+    "id": "TXT_SimsObjects_01139",
+    "source_sha256": "f31f6ff81bfabefc3afe807bf7174031b4a587f2df1244fbd5d757b8b8fe47ed",
+    "ko": "열대 라자냐"
+  },
+  {
+    "id": "TXT_SimsObjects_01141",
+    "source_sha256": "f6523b2ee7f836cc6d76b9d8250360f076e218744f6671fee0641e07392d8a39",
+    "ko": "채소 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01143",
+    "source_sha256": "f6523b2ee7f836cc6d76b9d8250360f076e218744f6671fee0641e07392d8a39",
+    "ko": "채소 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01146",
+    "source_sha256": "f6523b2ee7f836cc6d76b9d8250360f076e218744f6671fee0641e07392d8a39",
+    "ko": "채소 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01148",
+    "source_sha256": "1048fd69088cb8984213b9c64c0966e8655447c0354d061df820cbb9473529f1",
+    "ko": "케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01150",
+    "source_sha256": "1048fd69088cb8984213b9c64c0966e8655447c0354d061df820cbb9473529f1",
+    "ko": "케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01153",
+    "source_sha256": "1048fd69088cb8984213b9c64c0966e8655447c0354d061df820cbb9473529f1",
+    "ko": "케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01155",
+    "source_sha256": "33077ec4c4d33f64f6d92e4bd1fdb4f28fd817683137ca44fe5cc094b3fcac59",
+    "ko": "사계절 요리"
+  },
+  {
+    "id": "TXT_SimsObjects_01156",
+    "source_sha256": "33077ec4c4d33f64f6d92e4bd1fdb4f28fd817683137ca44fe5cc094b3fcac59",
+    "ko": "사계절 요리"
+  },
+  {
+    "id": "TXT_SimsObjects_01159",
+    "source_sha256": "33077ec4c4d33f64f6d92e4bd1fdb4f28fd817683137ca44fe5cc094b3fcac59",
+    "ko": "사계절 요리"
+  },
+  {
+    "id": "TXT_SimsObjects_01162",
+    "source_sha256": "a6e6398f86e6d8bfa004fa1943502b01d4bc4622f1535df95062be8ca764fe59",
+    "ko": "왕대 케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01164",
+    "source_sha256": "a6e6398f86e6d8bfa004fa1943502b01d4bc4622f1535df95062be8ca764fe59",
+    "ko": "왕대 케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01167",
+    "source_sha256": "a6e6398f86e6d8bfa004fa1943502b01d4bc4622f1535df95062be8ca764fe59",
+    "ko": "왕대 케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01169",
+    "source_sha256": "1048fd69088cb8984213b9c64c0966e8655447c0354d061df820cbb9473529f1",
+    "ko": "케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01171",
+    "source_sha256": "1048fd69088cb8984213b9c64c0966e8655447c0354d061df820cbb9473529f1",
+    "ko": "케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01174",
+    "source_sha256": "1048fd69088cb8984213b9c64c0966e8655447c0354d061df820cbb9473529f1",
+    "ko": "케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01176",
+    "source_sha256": "94a9d315b03f10cf877470a3183fbd645345206826cb50a4e23d865611b8acda",
+    "ko": "스트로가노프"
+  },
+  {
+    "id": "TXT_SimsObjects_01177",
+    "source_sha256": "94a9d315b03f10cf877470a3183fbd645345206826cb50a4e23d865611b8acda",
+    "ko": "스트로가노프"
+  },
+  {
+    "id": "TXT_SimsObjects_01180",
+    "source_sha256": "94a9d315b03f10cf877470a3183fbd645345206826cb50a4e23d865611b8acda",
+    "ko": "스트로가노프"
+  },
+  {
+    "id": "TXT_SimsObjects_01183",
+    "source_sha256": "0d41ff58c40be8d98151ecaf398fc26f3c8205943d1c99eb23535688704a3383",
+    "ko": "매콤한 고기 캐서롤"
+  },
+  {
+    "id": "TXT_SimsObjects_01185",
+    "source_sha256": "0d41ff58c40be8d98151ecaf398fc26f3c8205943d1c99eb23535688704a3383",
+    "ko": "매콤한 고기 캐서롤"
+  },
+  {
+    "id": "TXT_SimsObjects_01188",
+    "source_sha256": "0d41ff58c40be8d98151ecaf398fc26f3c8205943d1c99eb23535688704a3383",
+    "ko": "매콤한 고기 캐서롤"
+  },
+  {
+    "id": "TXT_SimsObjects_01190",
+    "source_sha256": "7ebd29a332bd7cbcbc46a20685f864cd987517ef8197372727ba3c463e437dbc",
+    "ko": "겨울 샐러드"
+  },
+  {
+    "id": "TXT_SimsObjects_01191",
+    "source_sha256": "7ebd29a332bd7cbcbc46a20685f864cd987517ef8197372727ba3c463e437dbc",
+    "ko": "겨울 샐러드"
+  },
+  {
+    "id": "TXT_SimsObjects_01197",
+    "source_sha256": "e3cbfe3ceca2184a83e03347fcea14789b0aed6d6065a3b0e050777deb67ae82",
+    "ko": "시리얼"
+  },
+  {
+    "id": "TXT_SimsObjects_01200",
+    "source_sha256": "e3cbfe3ceca2184a83e03347fcea14789b0aed6d6065a3b0e050777deb67ae82",
+    "ko": "시리얼"
+  },
+  {
+    "id": "TXT_SimsObjects_01204",
+    "source_sha256": "715416666a483f0a46ebc7be9922ed6175a5a234d4b86d28f121302d9033ef22",
+    "ko": "견과류를 입힌 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01209",
+    "source_sha256": "715416666a483f0a46ebc7be9922ed6175a5a234d4b86d28f121302d9033ef22",
+    "ko": "견과류를 입힌 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01211",
+    "source_sha256": "4a05717fe37549632cbf102e2095fa9c81dbdaf9b2da18e7bdbad10b40ab5dcf",
+    "ko": "매콤한 생선 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01213",
+    "source_sha256": "4a05717fe37549632cbf102e2095fa9c81dbdaf9b2da18e7bdbad10b40ab5dcf",
+    "ko": "매콤한 생선 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01216",
+    "source_sha256": "4a05717fe37549632cbf102e2095fa9c81dbdaf9b2da18e7bdbad10b40ab5dcf",
+    "ko": "매콤한 생선 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01218",
+    "source_sha256": "71562e8272173efc662abd5a9f38a1a0bc1b5f91edb20656eb53195749637490",
+    "ko": "바삭한 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01222",
+    "source_sha256": "71562e8272173efc662abd5a9f38a1a0bc1b5f91edb20656eb53195749637490",
+    "ko": "바삭한 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01225",
+    "source_sha256": "4842132e0408e781c57ebc6149d0061f12408bef3e1d9d51f0ee8e1d12e87106",
+    "ko": "생선 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01227",
+    "source_sha256": "4842132e0408e781c57ebc6149d0061f12408bef3e1d9d51f0ee8e1d12e87106",
+    "ko": "생선 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01230",
+    "source_sha256": "4842132e0408e781c57ebc6149d0061f12408bef3e1d9d51f0ee8e1d12e87106",
+    "ko": "생선 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01232",
+    "source_sha256": "25b16c256a9f8ce8130e08e48ce4ac93701172b70082c472194987d79e9fd7b4",
+    "ko": "매콤한 생선 호기 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01234",
+    "source_sha256": "25b16c256a9f8ce8130e08e48ce4ac93701172b70082c472194987d79e9fd7b4",
+    "ko": "매콤한 생선 호기 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01236",
+    "source_sha256": "25b16c256a9f8ce8130e08e48ce4ac93701172b70082c472194987d79e9fd7b4",
+    "ko": "매콤한 생선 호기 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01239",
+    "source_sha256": "382da212fdf773f0b2415a7e30ea78f366afcd622ef260514e5a0d4a2004bca0",
+    "ko": "매콤한 생선 포트 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01241",
+    "source_sha256": "382da212fdf773f0b2415a7e30ea78f366afcd622ef260514e5a0d4a2004bca0",
+    "ko": "매콤한 생선 포트 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01244",
+    "source_sha256": "382da212fdf773f0b2415a7e30ea78f366afcd622ef260514e5a0d4a2004bca0",
+    "ko": "매콤한 생선 포트 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01246",
+    "source_sha256": "ecaa73df9ec36971dd1d3c364728aed3513afeccedb64b6cb9ac653b6302bbc9",
+    "ko": "팝콘 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01247",
+    "source_sha256": "ecaa73df9ec36971dd1d3c364728aed3513afeccedb64b6cb9ac653b6302bbc9",
+    "ko": "팝콘 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01250",
+    "source_sha256": "ecaa73df9ec36971dd1d3c364728aed3513afeccedb64b6cb9ac653b6302bbc9",
+    "ko": "팝콘 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01253",
+    "source_sha256": "4842132e0408e781c57ebc6149d0061f12408bef3e1d9d51f0ee8e1d12e87106",
+    "ko": "생선 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01255",
+    "source_sha256": "4842132e0408e781c57ebc6149d0061f12408bef3e1d9d51f0ee8e1d12e87106",
+    "ko": "생선 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01258",
+    "source_sha256": "4842132e0408e781c57ebc6149d0061f12408bef3e1d9d51f0ee8e1d12e87106",
+    "ko": "생선 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01260",
+    "source_sha256": "25b16c256a9f8ce8130e08e48ce4ac93701172b70082c472194987d79e9fd7b4",
+    "ko": "매콤한 생선 호기 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01261",
+    "source_sha256": "25b16c256a9f8ce8130e08e48ce4ac93701172b70082c472194987d79e9fd7b4",
+    "ko": "매콤한 생선 호기 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01264",
+    "source_sha256": "25b16c256a9f8ce8130e08e48ce4ac93701172b70082c472194987d79e9fd7b4",
+    "ko": "매콤한 생선 호기 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01267",
+    "source_sha256": "0d48fc6cf2a1eaac5080a2e5620d2c20bbe69f3fa880a0442d449ebb0fa11687",
+    "ko": "생선 포트 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01269",
+    "source_sha256": "0d48fc6cf2a1eaac5080a2e5620d2c20bbe69f3fa880a0442d449ebb0fa11687",
+    "ko": "생선 포트 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01272",
+    "source_sha256": "0d48fc6cf2a1eaac5080a2e5620d2c20bbe69f3fa880a0442d449ebb0fa11687",
+    "ko": "생선 포트 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01274",
+    "source_sha256": "78a4b2ca21e60b523e91a1ba8531e850d926449374bff37dd19234ed3e14d2fc",
+    "ko": "피시 앤드 칩스"
+  },
+  {
+    "id": "TXT_SimsObjects_01275",
+    "source_sha256": "78a4b2ca21e60b523e91a1ba8531e850d926449374bff37dd19234ed3e14d2fc",
+    "ko": "피시 앤드 칩스"
+  },
+  {
+    "id": "TXT_SimsObjects_01278",
+    "source_sha256": "78a4b2ca21e60b523e91a1ba8531e850d926449374bff37dd19234ed3e14d2fc",
+    "ko": "피시 앤드 칩스"
+  },
+  {
+    "id": "TXT_SimsObjects_01281",
+    "source_sha256": "7bbdb75d4212e303e836a5ce4228228888f15e886d9933fa9bf58c184fd57bcd",
+    "ko": "매콤한 피시 앤드 칩스"
+  },
+  {
+    "id": "TXT_SimsObjects_01282",
+    "source_sha256": "7bbdb75d4212e303e836a5ce4228228888f15e886d9933fa9bf58c184fd57bcd",
+    "ko": "매콤한 피시 앤드 칩스"
+  },
+  {
+    "id": "TXT_SimsObjects_01285",
+    "source_sha256": "7bbdb75d4212e303e836a5ce4228228888f15e886d9933fa9bf58c184fd57bcd",
+    "ko": "매콤한 피시 앤드 칩스"
+  },
+  {
+    "id": "TXT_SimsObjects_01288",
+    "source_sha256": "e995c8e66d65244a19d775dc4a599a7f68efef6dc58df55213ff8966260a1db5",
+    "ko": "매콤한 생선 스틱"
+  },
+  {
+    "id": "TXT_SimsObjects_01289",
+    "source_sha256": "e995c8e66d65244a19d775dc4a599a7f68efef6dc58df55213ff8966260a1db5",
+    "ko": "매콤한 생선 스틱"
+  },
+  {
+    "id": "TXT_SimsObjects_01292",
+    "source_sha256": "e995c8e66d65244a19d775dc4a599a7f68efef6dc58df55213ff8966260a1db5",
+    "ko": "매콤한 생선 스틱"
+  },
+  {
+    "id": "TXT_SimsObjects_01295",
+    "source_sha256": "7e2f6fad087387b0270ef0b8caee68384511810c694d801d46a2cbdcef8a5164",
+    "ko": "향신료를 넣은 “오트밀”"
+  },
+  {
+    "id": "TXT_SimsObjects_01299",
+    "source_sha256": "7e2f6fad087387b0270ef0b8caee68384511810c694d801d46a2cbdcef8a5164",
+    "ko": "향신료를 넣은 “오트밀”"
+  },
+  {
+    "id": "TXT_SimsObjects_01302",
+    "source_sha256": "285c340e071f2459d773975f01c598f87de09e348d971762dba54ce3c16bafa9",
+    "ko": "구이"
+  },
+  {
+    "id": "TXT_SimsObjects_01307",
+    "source_sha256": "285c340e071f2459d773975f01c598f87de09e348d971762dba54ce3c16bafa9",
+    "ko": "구이"
+  },
+  {
+    "id": "TXT_SimsObjects_01309",
+    "source_sha256": "a7dabb374b8049f309cbeef341524e9b2be32757dc9ee788ca8464a95526da12",
+    "ko": "정체불명의 덩어리 요리"
+  },
+  {
+    "id": "TXT_SimsObjects_01311",
+    "source_sha256": "a7dabb374b8049f309cbeef341524e9b2be32757dc9ee788ca8464a95526da12",
+    "ko": "정체불명의 덩어리 요리"
+  },
+  {
+    "id": "TXT_SimsObjects_01314",
+    "source_sha256": "a7dabb374b8049f309cbeef341524e9b2be32757dc9ee788ca8464a95526da12",
+    "ko": "정체불명의 덩어리 요리"
+  },
+  {
+    "id": "TXT_SimsObjects_01316",
+    "source_sha256": "7b61d260df41b458c1af142a8987a77944213e8e5427bf04477d0d4064e9bfbc",
+    "ko": "매콤한 단백질 셰이크"
+  },
+  {
+    "id": "TXT_SimsObjects_01317",
+    "source_sha256": "7b61d260df41b458c1af142a8987a77944213e8e5427bf04477d0d4064e9bfbc",
+    "ko": "매콤한 단백질 셰이크"
+  },
+  {
+    "id": "TXT_SimsObjects_01320",
+    "source_sha256": "7b61d260df41b458c1af142a8987a77944213e8e5427bf04477d0d4064e9bfbc",
+    "ko": "매콤한 단백질 셰이크"
+  },
+  {
+    "id": "TXT_SimsObjects_01323",
+    "source_sha256": "048c88ffdc47d9a40fce22afc73e044ea2bc6bb9fab06ece6bf47a41965aeaef",
+    "ko": "정체불명의 고기"
+  },
+  {
+    "id": "TXT_SimsObjects_01327",
+    "source_sha256": "048c88ffdc47d9a40fce22afc73e044ea2bc6bb9fab06ece6bf47a41965aeaef",
+    "ko": "정체불명의 고기"
+  },
+  {
+    "id": "TXT_SimsObjects_01330",
+    "source_sha256": "0ff8c9201e5eac52cca0ca2d83b1bb305eb0101cae41047a81820256e40bfcbe",
+    "ko": "거대한 한 상"
+  },
+  {
+    "id": "TXT_SimsObjects_01334",
+    "source_sha256": "0ff8c9201e5eac52cca0ca2d83b1bb305eb0101cae41047a81820256e40bfcbe",
+    "ko": "거대한 한 상"
+  },
+  {
+    "id": "TXT_SimsObjects_01337",
+    "source_sha256": "563361f98b5aca2438163cc2bc8b80f6cca44f762236203557dbd716a239a284",
+    "ko": "세 가지 고기 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01338",
+    "source_sha256": "563361f98b5aca2438163cc2bc8b80f6cca44f762236203557dbd716a239a284",
+    "ko": "세 가지 고기 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01341",
+    "source_sha256": "563361f98b5aca2438163cc2bc8b80f6cca44f762236203557dbd716a239a284",
+    "ko": "세 가지 고기 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01344",
+    "source_sha256": "c610291e3675747895617bd8b1ffb1f8125394706ae42b6153adada643297dec",
+    "ko": "고기 케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01346",
+    "source_sha256": "c610291e3675747895617bd8b1ffb1f8125394706ae42b6153adada643297dec",
+    "ko": "고기 케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01349",
+    "source_sha256": "c610291e3675747895617bd8b1ffb1f8125394706ae42b6153adada643297dec",
+    "ko": "고기 케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01351",
+    "source_sha256": "3f4691823a1a8882cb2ce7e1ba79c536b9498653cf3ca6452016618701cc5015",
+    "ko": "정체불명의 미트볼"
+  },
+  {
+    "id": "TXT_SimsObjects_01355",
+    "source_sha256": "3f4691823a1a8882cb2ce7e1ba79c536b9498653cf3ca6452016618701cc5015",
+    "ko": "정체불명의 미트볼"
+  },
+  {
+    "id": "TXT_SimsObjects_01358",
+    "source_sha256": "bd9d3cf289018b6c7d057985d722a11774d78b2d63ec04d925e0ad194fc6ce87",
+    "ko": "왕대 정체불명 요리"
+  },
+  {
+    "id": "TXT_SimsObjects_01360",
+    "source_sha256": "bd9d3cf289018b6c7d057985d722a11774d78b2d63ec04d925e0ad194fc6ce87",
+    "ko": "왕대 정체불명 요리"
+  },
+  {
+    "id": "TXT_SimsObjects_01363",
+    "source_sha256": "bd9d3cf289018b6c7d057985d722a11774d78b2d63ec04d925e0ad194fc6ce87",
+    "ko": "왕대 정체불명 요리"
+  },
+  {
+    "id": "TXT_SimsObjects_01365",
+    "source_sha256": "0532cf88079c2deae73a76a15a69947dd3fce410e727d3ef75c30e1ff6e4d025",
+    "ko": "세 가지 고기 수프"
+  },
+  {
+    "id": "TXT_SimsObjects_01366",
+    "source_sha256": "0532cf88079c2deae73a76a15a69947dd3fce410e727d3ef75c30e1ff6e4d025",
+    "ko": "세 가지 고기 수프"
+  },
+  {
+    "id": "TXT_SimsObjects_01369",
+    "source_sha256": "0532cf88079c2deae73a76a15a69947dd3fce410e727d3ef75c30e1ff6e4d025",
+    "ko": "세 가지 고기 수프"
+  },
+  {
+    "id": "TXT_SimsObjects_01372",
+    "source_sha256": "ce3aed844d1786baec32f5a81e0d3521e815a8f9d6405fbac66f49a0a2ed38cd",
+    "ko": "단백질 셰이크"
+  },
+  {
+    "id": "TXT_SimsObjects_01373",
+    "source_sha256": "ce3aed844d1786baec32f5a81e0d3521e815a8f9d6405fbac66f49a0a2ed38cd",
+    "ko": "단백질 셰이크"
+  },
+  {
+    "id": "TXT_SimsObjects_01376",
+    "source_sha256": "ce3aed844d1786baec32f5a81e0d3521e815a8f9d6405fbac66f49a0a2ed38cd",
+    "ko": "단백질 셰이크"
+  },
+  {
+    "id": "TXT_SimsObjects_01379",
+    "source_sha256": "f369582bcec5cacc8de6394178d79152ba3169ea09ec4503bba04dba2007b295",
+    "ko": "육식가의 즐거움"
+  },
+  {
+    "id": "TXT_SimsObjects_01381",
+    "source_sha256": "f369582bcec5cacc8de6394178d79152ba3169ea09ec4503bba04dba2007b295",
+    "ko": "육식가의 즐거움"
+  },
+  {
+    "id": "TXT_SimsObjects_01384",
+    "source_sha256": "f369582bcec5cacc8de6394178d79152ba3169ea09ec4503bba04dba2007b295",
+    "ko": "육식가의 즐거움"
+  },
+  {
+    "id": "TXT_SimsObjects_01386",
+    "source_sha256": "0532cf88079c2deae73a76a15a69947dd3fce410e727d3ef75c30e1ff6e4d025",
+    "ko": "세 가지 고기 수프"
+  },
+  {
+    "id": "TXT_SimsObjects_01387",
+    "source_sha256": "0532cf88079c2deae73a76a15a69947dd3fce410e727d3ef75c30e1ff6e4d025",
+    "ko": "세 가지 고기 수프"
+  },
+  {
+    "id": "TXT_SimsObjects_01390",
+    "source_sha256": "0532cf88079c2deae73a76a15a69947dd3fce410e727d3ef75c30e1ff6e4d025",
+    "ko": "세 가지 고기 수프"
+  },
+  {
+    "id": "TXT_SimsObjects_01393",
+    "source_sha256": "c610291e3675747895617bd8b1ffb1f8125394706ae42b6153adada643297dec",
+    "ko": "고기 케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01395",
+    "source_sha256": "c610291e3675747895617bd8b1ffb1f8125394706ae42b6153adada643297dec",
+    "ko": "고기 케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01398",
+    "source_sha256": "c610291e3675747895617bd8b1ffb1f8125394706ae42b6153adada643297dec",
+    "ko": "고기 케밥"
+  },
+  {
+    "id": "TXT_SimsObjects_01400",
+    "source_sha256": "2c89b941e0449dd88f00a347cafdc41668cfa4b51c2ed5c6e92525526ae05bd1",
+    "ko": "미트로프"
+  },
+  {
+    "id": "TXT_SimsObjects_01402",
+    "source_sha256": "2c89b941e0449dd88f00a347cafdc41668cfa4b51c2ed5c6e92525526ae05bd1",
+    "ko": "미트로프"
+  },
+  {
+    "id": "TXT_SimsObjects_01405",
+    "source_sha256": "2c89b941e0449dd88f00a347cafdc41668cfa4b51c2ed5c6e92525526ae05bd1",
+    "ko": "미트로프"
+  },
+  {
+    "id": "TXT_SimsObjects_01414",
+    "source_sha256": "1311528b3a20221c3edb1b46fdc896c9c8cfd252af4853f389166726faaf29e3",
+    "ko": "파에야"
+  },
+  {
+    "id": "TXT_SimsObjects_01415",
+    "source_sha256": "1311528b3a20221c3edb1b46fdc896c9c8cfd252af4853f389166726faaf29e3",
+    "ko": "파에야"
+  },
+  {
+    "id": "TXT_SimsObjects_01418",
+    "source_sha256": "1311528b3a20221c3edb1b46fdc896c9c8cfd252af4853f389166726faaf29e3",
+    "ko": "파에야"
+  },
+  {
+    "id": "TXT_SimsObjects_01421",
+    "source_sha256": "6940c06fc3a70f976e2ee6f4e6f556e990811db89b323ce3c73285d67af061f8",
+    "ko": "고기가 듬뿍 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01422",
+    "source_sha256": "6940c06fc3a70f976e2ee6f4e6f556e990811db89b323ce3c73285d67af061f8",
+    "ko": "고기가 듬뿍 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01425",
+    "source_sha256": "6940c06fc3a70f976e2ee6f4e6f556e990811db89b323ce3c73285d67af061f8",
+    "ko": "고기가 듬뿍 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01428",
+    "source_sha256": "976cf5a5852eaadc880ede8783cadbd779f504e4de1f1ef0754610985a527a46",
+    "ko": "바삭한 고기 한 그릇"
+  },
+  {
+    "id": "TXT_SimsObjects_01429",
+    "source_sha256": "976cf5a5852eaadc880ede8783cadbd779f504e4de1f1ef0754610985a527a46",
+    "ko": "바삭한 고기 한 그릇"
+  },
+  {
+    "id": "TXT_SimsObjects_01432",
+    "source_sha256": "976cf5a5852eaadc880ede8783cadbd779f504e4de1f1ef0754610985a527a46",
+    "ko": "바삭한 고기 한 그릇"
+  },
+  {
+    "id": "TXT_SimsObjects_01435",
+    "source_sha256": "1311528b3a20221c3edb1b46fdc896c9c8cfd252af4853f389166726faaf29e3",
+    "ko": "파에야"
+  },
+  {
+    "id": "TXT_SimsObjects_01436",
+    "source_sha256": "1311528b3a20221c3edb1b46fdc896c9c8cfd252af4853f389166726faaf29e3",
+    "ko": "파에야"
+  },
+  {
+    "id": "TXT_SimsObjects_01439",
+    "source_sha256": "1311528b3a20221c3edb1b46fdc896c9c8cfd252af4853f389166726faaf29e3",
+    "ko": "파에야"
+  },
+  {
+    "id": "TXT_SimsObjects_01442",
+    "source_sha256": "6940c06fc3a70f976e2ee6f4e6f556e990811db89b323ce3c73285d67af061f8",
+    "ko": "고기가 듬뿍 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01443",
+    "source_sha256": "6940c06fc3a70f976e2ee6f4e6f556e990811db89b323ce3c73285d67af061f8",
+    "ko": "고기가 듬뿍 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01446",
+    "source_sha256": "6940c06fc3a70f976e2ee6f4e6f556e990811db89b323ce3c73285d67af061f8",
+    "ko": "고기가 듬뿍 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01449",
+    "source_sha256": "025020212a7462595914794eade1eb6510e711c80c7c7c8f0ff57da6f9b599c9",
+    "ko": "해산물 라자냐"
+  },
+  {
+    "id": "TXT_SimsObjects_01451",
+    "source_sha256": "025020212a7462595914794eade1eb6510e711c80c7c7c8f0ff57da6f9b599c9",
+    "ko": "해산물 라자냐"
+  },
+  {
+    "id": "TXT_SimsObjects_01454",
+    "source_sha256": "025020212a7462595914794eade1eb6510e711c80c7c7c8f0ff57da6f9b599c9",
+    "ko": "해산물 라자냐"
+  },
+  {
+    "id": "TXT_SimsObjects_01456",
+    "source_sha256": "025020212a7462595914794eade1eb6510e711c80c7c7c8f0ff57da6f9b599c9",
+    "ko": "해산물 라자냐"
+  },
+  {
+    "id": "TXT_SimsObjects_01458",
+    "source_sha256": "025020212a7462595914794eade1eb6510e711c80c7c7c8f0ff57da6f9b599c9",
+    "ko": "해산물 라자냐"
+  },
+  {
+    "id": "TXT_SimsObjects_01461",
+    "source_sha256": "025020212a7462595914794eade1eb6510e711c80c7c7c8f0ff57da6f9b599c9",
+    "ko": "해산물 라자냐"
+  },
+  {
+    "id": "TXT_SimsObjects_01463",
+    "source_sha256": "caab21c10d4c851ed885df990c64fd28a58d6ce6c455b80c9d4532e52b30db76",
+    "ko": "토스카나식 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01464",
+    "source_sha256": "caab21c10d4c851ed885df990c64fd28a58d6ce6c455b80c9d4532e52b30db76",
+    "ko": "토스카나식 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01467",
+    "source_sha256": "caab21c10d4c851ed885df990c64fd28a58d6ce6c455b80c9d4532e52b30db76",
+    "ko": "토스카나식 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01470",
+    "source_sha256": "043bcf237540297ce5808907faab67857865a83627ee84be8119ab61c1d0e62a",
+    "ko": "고기 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01472",
+    "source_sha256": "043bcf237540297ce5808907faab67857865a83627ee84be8119ab61c1d0e62a",
+    "ko": "고기 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01475",
+    "source_sha256": "043bcf237540297ce5808907faab67857865a83627ee84be8119ab61c1d0e62a",
+    "ko": "고기 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01477",
+    "source_sha256": "8f3a50466907d8199eacabf038375ceb35aa8f8e2c76ee7ebcd41c224909d921",
+    "ko": "풍미 가득 미트볼"
+  },
+  {
+    "id": "TXT_SimsObjects_01481",
+    "source_sha256": "8f3a50466907d8199eacabf038375ceb35aa8f8e2c76ee7ebcd41c224909d921",
+    "ko": "풍미 가득 미트볼"
+  },
+  {
+    "id": "TXT_SimsObjects_01484",
+    "source_sha256": "46b06346efee14e94d71fe688281e75ed4431ca679d53652cc3c32d81e5a5c18",
+    "ko": "입 냄새 제거제"
+  },
+  {
+    "id": "TXT_SimsObjects_01487",
+    "source_sha256": "46b06346efee14e94d71fe688281e75ed4431ca679d53652cc3c32d81e5a5c18",
+    "ko": "입 냄새 제거제"
+  },
+  {
+    "id": "TXT_SimsObjects_01491",
+    "source_sha256": "66500a9c5bd7dc0d3b9fa728b2b4e016f1be4092a53d00efce287c9bafc4e097",
+    "ko": "채 썬 채소 구이"
+  },
+  {
+    "id": "TXT_SimsObjects_01495",
+    "source_sha256": "66500a9c5bd7dc0d3b9fa728b2b4e016f1be4092a53d00efce287c9bafc4e097",
+    "ko": "채 썬 채소 구이"
+  },
+  {
+    "id": "TXT_SimsObjects_01498",
+    "source_sha256": "ed1318d0e8cd1a74fe8cb5f493f71f29cdd146b2a046807dbaa169db6e5f9f00",
+    "ko": "생선과 채소 구이"
+  },
+  {
+    "id": "TXT_SimsObjects_01502",
+    "source_sha256": "ed1318d0e8cd1a74fe8cb5f493f71f29cdd146b2a046807dbaa169db6e5f9f00",
+    "ko": "생선과 채소 구이"
+  },
+  {
+    "id": "TXT_SimsObjects_01505",
+    "source_sha256": "bd8914af446dc7e4fbbd173114ebe380a18443705844801f863b2fa026a42e29",
+    "ko": "팬에 구운 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01506",
+    "source_sha256": "bd8914af446dc7e4fbbd173114ebe380a18443705844801f863b2fa026a42e29",
+    "ko": "팬에 구운 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01509",
+    "source_sha256": "bd8914af446dc7e4fbbd173114ebe380a18443705844801f863b2fa026a42e29",
+    "ko": "팬에 구운 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01512",
+    "source_sha256": "2748eca70bedf36e1cf6d22e505dc2278e5046ce0f056d16135f84ffe6b6439b",
+    "ko": "붉은 소스 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01513",
+    "source_sha256": "2748eca70bedf36e1cf6d22e505dc2278e5046ce0f056d16135f84ffe6b6439b",
+    "ko": "붉은 소스 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01516",
+    "source_sha256": "2748eca70bedf36e1cf6d22e505dc2278e5046ce0f056d16135f84ffe6b6439b",
+    "ko": "붉은 소스 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01519",
+    "source_sha256": "872703088d933d034cd0a1cd4a5a8302fa6fe2870514316efbc82cf2240abfaf",
+    "ko": "채소로 속을 채운 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01521",
+    "source_sha256": "872703088d933d034cd0a1cd4a5a8302fa6fe2870514316efbc82cf2240abfaf",
+    "ko": "채소로 속을 채운 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01524",
+    "source_sha256": "872703088d933d034cd0a1cd4a5a8302fa6fe2870514316efbc82cf2240abfaf",
+    "ko": "채소로 속을 채운 생선"
+  },
+  {
+    "id": "TXT_SimsObjects_01526",
+    "source_sha256": "56d7717a924aacdbf9e3bb36d55e0903c98e6c087fbf59938e8f117dcc15c53a",
+    "ko": "해산물 비스크"
+  },
+  {
+    "id": "TXT_SimsObjects_01527",
+    "source_sha256": "56d7717a924aacdbf9e3bb36d55e0903c98e6c087fbf59938e8f117dcc15c53a",
+    "ko": "해산물 비스크"
+  },
+  {
+    "id": "TXT_SimsObjects_01530",
+    "source_sha256": "56d7717a924aacdbf9e3bb36d55e0903c98e6c087fbf59938e8f117dcc15c53a",
+    "ko": "해산물 비스크"
+  },
+  {
+    "id": "TXT_SimsObjects_01533",
+    "source_sha256": "c20d9d1c8981060c61f430f0417a20cf74ae44b7a3351eb08b7b097e15ca3e61",
+    "ko": "매콤한 생선 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01534",
+    "source_sha256": "c20d9d1c8981060c61f430f0417a20cf74ae44b7a3351eb08b7b097e15ca3e61",
+    "ko": "매콤한 생선 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01540",
+    "source_sha256": "e6376ca10932ad49a25668cad0a422e3d8bc99f38bc693dd07c7ad9c88ae48cb",
+    "ko": "놀라운 채소 요리"
+  },
+  {
+    "id": "TXT_SimsObjects_01544",
+    "source_sha256": "e6376ca10932ad49a25668cad0a422e3d8bc99f38bc693dd07c7ad9c88ae48cb",
+    "ko": "놀라운 채소 요리"
+  },
+  {
+    "id": "TXT_SimsObjects_01547",
+    "source_sha256": "2e29f7e0d64d3a9f4d3bdb95106990b87a72d2419d15b55373b2826976a81dbb",
+    "ko": "생선 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01548",
+    "source_sha256": "2e29f7e0d64d3a9f4d3bdb95106990b87a72d2419d15b55373b2826976a81dbb",
+    "ko": "생선 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01551",
+    "source_sha256": "2e29f7e0d64d3a9f4d3bdb95106990b87a72d2419d15b55373b2826976a81dbb",
+    "ko": "생선 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01554",
+    "source_sha256": "56d7717a924aacdbf9e3bb36d55e0903c98e6c087fbf59938e8f117dcc15c53a",
+    "ko": "해산물 비스크"
+  },
+  {
+    "id": "TXT_SimsObjects_01555",
+    "source_sha256": "56d7717a924aacdbf9e3bb36d55e0903c98e6c087fbf59938e8f117dcc15c53a",
+    "ko": "해산물 비스크"
+  },
+  {
+    "id": "TXT_SimsObjects_01558",
+    "source_sha256": "56d7717a924aacdbf9e3bb36d55e0903c98e6c087fbf59938e8f117dcc15c53a",
+    "ko": "해산물 비스크"
+  },
+  {
+    "id": "TXT_SimsObjects_01561",
+    "source_sha256": "91735317835b72b681f69a816a68ff4b609f2858e0e8b7f3a24dfcf04c68a748",
+    "ko": "생선 차우더"
+  },
+  {
+    "id": "TXT_SimsObjects_01562",
+    "source_sha256": "91735317835b72b681f69a816a68ff4b609f2858e0e8b7f3a24dfcf04c68a748",
+    "ko": "생선 차우더"
+  },
+  {
+    "id": "TXT_SimsObjects_01565",
+    "source_sha256": "91735317835b72b681f69a816a68ff4b609f2858e0e8b7f3a24dfcf04c68a748",
+    "ko": "생선 차우더"
+  },
+  {
+    "id": "TXT_SimsObjects_01568",
+    "source_sha256": "1045fa793a0016becf0c41943b79eb4ff4df86e83018fb77a4f389ee5aced205",
+    "ko": "생선과 채소 만찬"
+  },
+  {
+    "id": "TXT_SimsObjects_01569",
+    "source_sha256": "1045fa793a0016becf0c41943b79eb4ff4df86e83018fb77a4f389ee5aced205",
+    "ko": "생선과 채소 만찬"
+  },
+  {
+    "id": "TXT_SimsObjects_01572",
+    "source_sha256": "1045fa793a0016becf0c41943b79eb4ff4df86e83018fb77a4f389ee5aced205",
+    "ko": "생선과 채소 만찬"
+  },
+  {
+    "id": "TXT_SimsObjects_01575",
+    "source_sha256": "56d7717a924aacdbf9e3bb36d55e0903c98e6c087fbf59938e8f117dcc15c53a",
+    "ko": "해산물 비스크"
+  },
+  {
+    "id": "TXT_SimsObjects_01576",
+    "source_sha256": "56d7717a924aacdbf9e3bb36d55e0903c98e6c087fbf59938e8f117dcc15c53a",
+    "ko": "해산물 비스크"
+  },
+  {
+    "id": "TXT_SimsObjects_01579",
+    "source_sha256": "56d7717a924aacdbf9e3bb36d55e0903c98e6c087fbf59938e8f117dcc15c53a",
+    "ko": "해산물 비스크"
+  },
+  {
+    "id": "TXT_SimsObjects_01582",
+    "source_sha256": "b21efd9742880c36d1afe1e43422a526faa34b81f7561479480e4971374fa537",
+    "ko": "매콤한 생선 수프"
+  },
+  {
+    "id": "TXT_SimsObjects_01583",
+    "source_sha256": "b21efd9742880c36d1afe1e43422a526faa34b81f7561479480e4971374fa537",
+    "ko": "매콤한 생선 수프"
+  },
+  {
+    "id": "TXT_SimsObjects_01586",
+    "source_sha256": "b21efd9742880c36d1afe1e43422a526faa34b81f7561479480e4971374fa537",
+    "ko": "매콤한 생선 수프"
+  },
+  {
+    "id": "TXT_SimsObjects_01589",
+    "source_sha256": "3687d6630259751cf67a01b326773d002f732175a5c02feec88ce4091b105da2",
+    "ko": "리소토"
+  },
+  {
+    "id": "TXT_SimsObjects_01590",
+    "source_sha256": "3687d6630259751cf67a01b326773d002f732175a5c02feec88ce4091b105da2",
+    "ko": "리소토"
+  },
+  {
+    "id": "TXT_SimsObjects_01593",
+    "source_sha256": "3687d6630259751cf67a01b326773d002f732175a5c02feec88ce4091b105da2",
+    "ko": "리소토"
+  },
+  {
+    "id": "TXT_SimsObjects_01596",
+    "source_sha256": "78a4b2ca21e60b523e91a1ba8531e850d926449374bff37dd19234ed3e14d2fc",
+    "ko": "피시 앤드 칩스"
+  },
+  {
+    "id": "TXT_SimsObjects_01597",
+    "source_sha256": "78a4b2ca21e60b523e91a1ba8531e850d926449374bff37dd19234ed3e14d2fc",
+    "ko": "피시 앤드 칩스"
+  },
+  {
+    "id": "TXT_SimsObjects_01600",
+    "source_sha256": "78a4b2ca21e60b523e91a1ba8531e850d926449374bff37dd19234ed3e14d2fc",
+    "ko": "피시 앤드 칩스"
+  },
+  {
+    "id": "TXT_SimsObjects_01603",
+    "source_sha256": "0a58b81ac2d84a19e16ed9eb3936ed0faf74f252fe65302d70bac57146ad6a83",
+    "ko": "잠발라야"
+  },
+  {
+    "id": "TXT_SimsObjects_01604",
+    "source_sha256": "0a58b81ac2d84a19e16ed9eb3936ed0faf74f252fe65302d70bac57146ad6a83",
+    "ko": "잠발라야"
+  },
+  {
+    "id": "TXT_SimsObjects_01607",
+    "source_sha256": "0a58b81ac2d84a19e16ed9eb3936ed0faf74f252fe65302d70bac57146ad6a83",
+    "ko": "잠발라야"
+  },
+  {
+    "id": "TXT_SimsObjects_01610",
+    "source_sha256": "d99186c7298d4909854fcd5cd296c5891cf28d23891e5c0123d1acb622ceadb3",
+    "ko": "생선 국수 캐서롤"
+  },
+  {
+    "id": "TXT_SimsObjects_01612",
+    "source_sha256": "d99186c7298d4909854fcd5cd296c5891cf28d23891e5c0123d1acb622ceadb3",
+    "ko": "생선 국수 캐서롤"
+  },
+  {
+    "id": "TXT_SimsObjects_01615",
+    "source_sha256": "d99186c7298d4909854fcd5cd296c5891cf28d23891e5c0123d1acb622ceadb3",
+    "ko": "생선 국수 캐서롤"
+  },
+  {
+    "id": "TXT_SimsObjects_01617",
+    "source_sha256": "276c7553084d05f6962881c66dd206054be85e14bdf3cf0364ad709d248548a6",
+    "ko": "최고급 생선 샐러드"
+  },
+  {
+    "id": "TXT_SimsObjects_01619",
+    "source_sha256": "276c7553084d05f6962881c66dd206054be85e14bdf3cf0364ad709d248548a6",
+    "ko": "최고급 생선 샐러드"
+  },
+  {
+    "id": "TXT_SimsObjects_01622",
+    "source_sha256": "276c7553084d05f6962881c66dd206054be85e14bdf3cf0364ad709d248548a6",
+    "ko": "최고급 생선 샐러드"
+  },
+  {
+    "id": "TXT_SimsObjects_01624",
+    "source_sha256": "0a58b81ac2d84a19e16ed9eb3936ed0faf74f252fe65302d70bac57146ad6a83",
+    "ko": "잠발라야"
+  },
+  {
+    "id": "TXT_SimsObjects_01625",
+    "source_sha256": "0a58b81ac2d84a19e16ed9eb3936ed0faf74f252fe65302d70bac57146ad6a83",
+    "ko": "잠발라야"
+  },
+  {
+    "id": "TXT_SimsObjects_01628",
+    "source_sha256": "0a58b81ac2d84a19e16ed9eb3936ed0faf74f252fe65302d70bac57146ad6a83",
+    "ko": "잠발라야"
+  },
+  {
+    "id": "TXT_SimsObjects_01631",
+    "source_sha256": "91735317835b72b681f69a816a68ff4b609f2858e0e8b7f3a24dfcf04c68a748",
+    "ko": "생선 차우더"
+  },
+  {
+    "id": "TXT_SimsObjects_01632",
+    "source_sha256": "91735317835b72b681f69a816a68ff4b609f2858e0e8b7f3a24dfcf04c68a748",
+    "ko": "생선 차우더"
+  },
+  {
+    "id": "TXT_SimsObjects_01635",
+    "source_sha256": "91735317835b72b681f69a816a68ff4b609f2858e0e8b7f3a24dfcf04c68a748",
+    "ko": "생선 차우더"
+  },
+  {
+    "id": "TXT_SimsObjects_01638",
+    "source_sha256": "b6c89492fb124f670309700cf48264056a89165f0366eece4737c7f0dbd7b352",
+    "ko": "생선 호기 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01639",
+    "source_sha256": "b6c89492fb124f670309700cf48264056a89165f0366eece4737c7f0dbd7b352",
+    "ko": "생선 호기 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01642",
+    "source_sha256": "b6c89492fb124f670309700cf48264056a89165f0366eece4737c7f0dbd7b352",
+    "ko": "생선 호기 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01645",
+    "source_sha256": "b6c89492fb124f670309700cf48264056a89165f0366eece4737c7f0dbd7b352",
+    "ko": "생선 호기 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01646",
+    "source_sha256": "b6c89492fb124f670309700cf48264056a89165f0366eece4737c7f0dbd7b352",
+    "ko": "생선 호기 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01649",
+    "source_sha256": "b6c89492fb124f670309700cf48264056a89165f0366eece4737c7f0dbd7b352",
+    "ko": "생선 호기 샌드위치"
+  },
+  {
+    "id": "TXT_SimsObjects_01652",
+    "source_sha256": "e34046d011d67d684cebc87d86c94d14a48f78b70becaa109e34d3dc24b7365f",
+    "ko": "푸타네스카"
+  },
+  {
+    "id": "TXT_SimsObjects_01654",
+    "source_sha256": "e34046d011d67d684cebc87d86c94d14a48f78b70becaa109e34d3dc24b7365f",
+    "ko": "푸타네스카"
+  },
+  {
+    "id": "TXT_SimsObjects_01657",
+    "source_sha256": "e34046d011d67d684cebc87d86c94d14a48f78b70becaa109e34d3dc24b7365f",
+    "ko": "푸타네스카"
+  },
+  {
+    "id": "TXT_SimsObjects_01659",
+    "source_sha256": "f59eb7855a7fd46b7195b246d726e47e40e1de151d2165e8a6af9bc9e93b9a7f",
+    "ko": "쿠스쿠스"
+  },
+  {
+    "id": "TXT_SimsObjects_01660",
+    "source_sha256": "f59eb7855a7fd46b7195b246d726e47e40e1de151d2165e8a6af9bc9e93b9a7f",
+    "ko": "쿠스쿠스"
+  },
+  {
+    "id": "TXT_SimsObjects_01663",
+    "source_sha256": "f59eb7855a7fd46b7195b246d726e47e40e1de151d2165e8a6af9bc9e93b9a7f",
+    "ko": "쿠스쿠스"
+  },
+  {
+    "id": "TXT_SimsObjects_01666",
+    "source_sha256": "15c7b27e0ca8f4aa48ae5c0ef4d7d89d00bfb50c7b118b16250fc6590342fb56",
+    "ko": "간단한 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01673",
+    "source_sha256": "60ff4845f733b208a779256b276b0980fb80ba0876b2e30577f42759a3fc5eb1",
+    "ko": "정체불명의 오븐구이"
+  },
+  {
+    "id": "TXT_SimsObjects_01675",
+    "source_sha256": "60ff4845f733b208a779256b276b0980fb80ba0876b2e30577f42759a3fc5eb1",
+    "ko": "정체불명의 오븐구이"
+  },
+  {
+    "id": "TXT_SimsObjects_01678",
+    "source_sha256": "60ff4845f733b208a779256b276b0980fb80ba0876b2e30577f42759a3fc5eb1",
+    "ko": "정체불명의 오븐구이"
+  },
+  {
+    "id": "TXT_SimsObjects_01680",
+    "source_sha256": "9f032097687a99b4e22c24f79f85e36cc3bc24dbf01d4c805dd7075bbd8de4f1",
+    "ko": "왕대 카레"
+  },
+  {
+    "id": "TXT_SimsObjects_01681",
+    "source_sha256": "9f032097687a99b4e22c24f79f85e36cc3bc24dbf01d4c805dd7075bbd8de4f1",
+    "ko": "왕대 카레"
+  },
+  {
+    "id": "TXT_SimsObjects_01684",
+    "source_sha256": "9f032097687a99b4e22c24f79f85e36cc3bc24dbf01d4c805dd7075bbd8de4f1",
+    "ko": "왕대 카레"
+  },
+  {
+    "id": "TXT_SimsObjects_01687",
+    "source_sha256": "654c83b2e213894c2d60681576260bae4443572d22a55c4134f8e465fdea8365",
+    "ko": "정체불명의 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01688",
+    "source_sha256": "654c83b2e213894c2d60681576260bae4443572d22a55c4134f8e465fdea8365",
+    "ko": "정체불명의 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01691",
+    "source_sha256": "654c83b2e213894c2d60681576260bae4443572d22a55c4134f8e465fdea8365",
+    "ko": "정체불명의 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01694",
+    "source_sha256": "5de65c95fa9bf3de01c7d0df8a316aefebbb65b3a13a6de5bdd82ccf4883c973",
+    "ko": "푸짐한 고기 접시"
+  },
+  {
+    "id": "TXT_SimsObjects_01696",
+    "source_sha256": "5de65c95fa9bf3de01c7d0df8a316aefebbb65b3a13a6de5bdd82ccf4883c973",
+    "ko": "푸짐한 고기 접시"
+  },
+  {
+    "id": "TXT_SimsObjects_01699",
+    "source_sha256": "5de65c95fa9bf3de01c7d0df8a316aefebbb65b3a13a6de5bdd82ccf4883c973",
+    "ko": "푸짐한 고기 접시"
+  },
+  {
+    "id": "TXT_SimsObjects_01701",
+    "source_sha256": "ce72270eeb12c3a324d1c0b85b35e4b7b83438301904933d3c72206869bbe72f",
+    "ko": "매콤한 검보"
+  },
+  {
+    "id": "TXT_SimsObjects_01702",
+    "source_sha256": "ce72270eeb12c3a324d1c0b85b35e4b7b83438301904933d3c72206869bbe72f",
+    "ko": "매콤한 검보"
+  },
+  {
+    "id": "TXT_SimsObjects_01705",
+    "source_sha256": "ce72270eeb12c3a324d1c0b85b35e4b7b83438301904933d3c72206869bbe72f",
+    "ko": "매콤한 검보"
+  },
+  {
+    "id": "TXT_SimsObjects_01708",
+    "source_sha256": "15e59012a3ab987e28e7d694abd62674cb1244bf1ce655e570214abcc98700bf",
+    "ko": "정체불명의 차우더"
+  },
+  {
+    "id": "TXT_SimsObjects_01709",
+    "source_sha256": "15e59012a3ab987e28e7d694abd62674cb1244bf1ce655e570214abcc98700bf",
+    "ko": "정체불명의 차우더"
+  },
+  {
+    "id": "TXT_SimsObjects_01712",
+    "source_sha256": "15e59012a3ab987e28e7d694abd62674cb1244bf1ce655e570214abcc98700bf",
+    "ko": "정체불명의 차우더"
+  },
+  {
+    "id": "TXT_SimsObjects_01715",
+    "source_sha256": "66e078585183f7ce302a56847e1d1b4081aa8d101037e70e072e6dbeae743af2",
+    "ko": "검보"
+  },
+  {
+    "id": "TXT_SimsObjects_01716",
+    "source_sha256": "66e078585183f7ce302a56847e1d1b4081aa8d101037e70e072e6dbeae743af2",
+    "ko": "검보"
+  },
+  {
+    "id": "TXT_SimsObjects_01719",
+    "source_sha256": "66e078585183f7ce302a56847e1d1b4081aa8d101037e70e072e6dbeae743af2",
+    "ko": "검보"
+  },
+  {
+    "id": "TXT_SimsObjects_01722",
+    "source_sha256": "66e078585183f7ce302a56847e1d1b4081aa8d101037e70e072e6dbeae743af2",
+    "ko": "검보"
+  },
+  {
+    "id": "TXT_SimsObjects_01723",
+    "source_sha256": "66e078585183f7ce302a56847e1d1b4081aa8d101037e70e072e6dbeae743af2",
+    "ko": "검보"
+  },
+  {
+    "id": "TXT_SimsObjects_01726",
+    "source_sha256": "66e078585183f7ce302a56847e1d1b4081aa8d101037e70e072e6dbeae743af2",
+    "ko": "검보"
+  },
+  {
+    "id": "TXT_SimsObjects_01729",
+    "source_sha256": "ce72270eeb12c3a324d1c0b85b35e4b7b83438301904933d3c72206869bbe72f",
+    "ko": "매콤한 검보"
+  },
+  {
+    "id": "TXT_SimsObjects_01730",
+    "source_sha256": "ce72270eeb12c3a324d1c0b85b35e4b7b83438301904933d3c72206869bbe72f",
+    "ko": "매콤한 검보"
+  },
+  {
+    "id": "TXT_SimsObjects_01733",
+    "source_sha256": "ce72270eeb12c3a324d1c0b85b35e4b7b83438301904933d3c72206869bbe72f",
+    "ko": "매콤한 검보"
+  },
+  {
+    "id": "TXT_SimsObjects_01736",
+    "source_sha256": "8867ebccdc1de5b8a6f46c16c5f3f510320c6539ae63876f094e85ea4cb678ca",
+    "ko": "고기 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01738",
+    "source_sha256": "8867ebccdc1de5b8a6f46c16c5f3f510320c6539ae63876f094e85ea4cb678ca",
+    "ko": "고기 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01741",
+    "source_sha256": "8867ebccdc1de5b8a6f46c16c5f3f510320c6539ae63876f094e85ea4cb678ca",
+    "ko": "고기 파이"
+  },
+  {
+    "id": "TXT_SimsObjects_01743",
+    "source_sha256": "9f15a01ad42983cb4ba1dc5717c3bb690bc60ba82847070f7d31f25ff87e6a64",
+    "ko": "생선 파히타"
+  },
+  {
+    "id": "TXT_SimsObjects_01744",
+    "source_sha256": "9f15a01ad42983cb4ba1dc5717c3bb690bc60ba82847070f7d31f25ff87e6a64",
+    "ko": "생선 파히타"
+  },
+  {
+    "id": "TXT_SimsObjects_01747",
+    "source_sha256": "9f15a01ad42983cb4ba1dc5717c3bb690bc60ba82847070f7d31f25ff87e6a64",
+    "ko": "생선 파히타"
+  },
+  {
+    "id": "TXT_SimsObjects_01750",
+    "source_sha256": "ba2f797e520ab2b3a39af2ca0f80ca490bb26c7835b5662facd049aa95e722fa",
+    "ko": "생선 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01752",
+    "source_sha256": "ba2f797e520ab2b3a39af2ca0f80ca490bb26c7835b5662facd049aa95e722fa",
+    "ko": "생선 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01755",
+    "source_sha256": "ba2f797e520ab2b3a39af2ca0f80ca490bb26c7835b5662facd049aa95e722fa",
+    "ko": "생선 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01757",
+    "source_sha256": "ba2f797e520ab2b3a39af2ca0f80ca490bb26c7835b5662facd049aa95e722fa",
+    "ko": "생선 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01759",
+    "source_sha256": "ba2f797e520ab2b3a39af2ca0f80ca490bb26c7835b5662facd049aa95e722fa",
+    "ko": "생선 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01762",
+    "source_sha256": "ba2f797e520ab2b3a39af2ca0f80ca490bb26c7835b5662facd049aa95e722fa",
+    "ko": "생선 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01764",
+    "source_sha256": "04df936cef99665eb5be39bb3294298ce5f0a04ab0a53b2a0aeb191a60ae669c",
+    "ko": "콤비네이션 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01766",
+    "source_sha256": "04df936cef99665eb5be39bb3294298ce5f0a04ab0a53b2a0aeb191a60ae669c",
+    "ko": "콤비네이션 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01769",
+    "source_sha256": "04df936cef99665eb5be39bb3294298ce5f0a04ab0a53b2a0aeb191a60ae669c",
+    "ko": "콤비네이션 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_01771",
+    "source_sha256": "f04ae53f070c3701cac4a49b2b2d8e8481409f7c896219d522b7bb59b0942e1c",
+    "ko": "고기 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01772",
+    "source_sha256": "f04ae53f070c3701cac4a49b2b2d8e8481409f7c896219d522b7bb59b0942e1c",
+    "ko": "고기 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01775",
+    "source_sha256": "f04ae53f070c3701cac4a49b2b2d8e8481409f7c896219d522b7bb59b0942e1c",
+    "ko": "고기 스튜"
+  },
+  {
+    "id": "TXT_SimsObjects_01778",
+    "source_sha256": "450ffdb90b9aef441c1911e4d0276aa8641a07c4cfaf63e7c0fea008cd106b60",
+    "ko": "한입 채소 튀김"
+  },
+  {
+    "id": "TXT_SimsObjects_01782",
+    "source_sha256": "450ffdb90b9aef441c1911e4d0276aa8641a07c4cfaf63e7c0fea008cd106b60",
+    "ko": "한입 채소 튀김"
+  },
+  {
+    "id": "TXT_SimsObjects_01785",
+    "source_sha256": "e56de76a53d6fd89d66c71e03d6f7b4a48a4b03c6a66ed41e45fe230fcb4084d",
+    "ko": "베리와 감귤류"
+  },
+  {
+    "id": "TXT_SimsObjects_01786",
+    "source_sha256": "779089b3f75751620b9e35210fb5add8d685a5921c2971efbb61b356ef2a90b1",
+    "ko": "과일"
+  },
+  {
+    "id": "TXT_SimsObjects_01787",
+    "source_sha256": "ab2c08f88b590a45afc130de6de438c24bdb5583174b345cf288355f6f075371",
+    "ko": "곡물과 견과류"
+  },
+  {
+    "id": "TXT_SimsObjects_01788",
+    "source_sha256": "a94cd52fa92624d84eef8082159a8e6d9c38fc44d0aa3a359eb78975fc721e0b",
+    "ko": "큰 물고기"
+  },
+  {
+    "id": "TXT_SimsObjects_01789",
+    "source_sha256": "ba4c9e950f0978e0eed5a90acfee89e2afece3333e512d44418766dd1c7fee4f",
+    "ko": "고기"
+  },
+  {
+    "id": "TXT_SimsObjects_01790",
+    "source_sha256": "e2105d37b8bc7e99cb4cd8b8b0b383730077717cc4ce105412a6d9e05e9e5e1e",
+    "ko": "중간 물고기"
+  },
+  {
+    "id": "TXT_SimsObjects_01791",
+    "source_sha256": "7c110bee6ab8f25cb47f80aad21ba46e2df8d1d692830f9b4b2f16aa3c5fbb75",
+    "ko": "작은 물고기"
+  },
+  {
+    "id": "TXT_SimsObjects_01792",
+    "source_sha256": "cec38a3cf93b81cb25b79905aa4faff8d1a08fc368cd5a86e6fda3016050ca59",
+    "ko": "향신료"
+  },
+  {
+    "id": "TXT_SimsObjects_01793",
+    "source_sha256": "7a500e9eb1cef6d14608b86b9b4d4d61d3f45bfdbc4ad2625e10b99a4ffb60ef",
+    "ko": "채소"
+  },
+  {
+    "id": "TXT_SimsObjects_01794",
+    "source_sha256": "cb36058d10bc164441539b7cdd9c68170df4986331b1c9306cc070ca6d5357c0",
+    "ko": "날개다랑어"
+  },
+  {
+    "id": "TXT_SimsObjects_01798",
+    "source_sha256": "e9dd98981ebfb844afd0d04c2cbf499643f19be66db4d83417f4995e4a78bc6c",
+    "ko": "아몬드"
+  }
+]

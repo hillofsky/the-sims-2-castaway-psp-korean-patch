@@ -1,0 +1,827 @@
+[
+  {
+    "id": "TXT_SimsObjects_03221",
+    "source_sha256": "dd9724bcd6d34cb15f183c3c084f56072d443bf2e2e5c43d955ef6ab5dfeb4d0",
+    "ko": "빚어낸 가정부"
+  },
+  {
+    "id": "TXT_SimsObjects_03223",
+    "source_sha256": "e94fb7a6eb4e43e795d27bfaa704854b4a93179ba041c4b9fa9d22b8185c59cd",
+    "ko": "조각상"
+  },
+  {
+    "id": "TXT_SimsObjects_03224",
+    "source_sha256": "aa50d7cdb4656bd2f92064275c8d382f4ad2458df29d5fba264d3fe2f765b3f9",
+    "ko": "휴식 중인 우편함"
+  },
+  {
+    "id": "TXT_SimsObjects_03226",
+    "source_sha256": "e94fb7a6eb4e43e795d27bfaa704854b4a93179ba041c4b9fa9d22b8185c59cd",
+    "ko": "조각상"
+  },
+  {
+    "id": "TXT_SimsObjects_03227",
+    "source_sha256": "30ff1f338ecc5df695569503918b803de2295378d493786e1be95c07faf93015",
+    "ko": "예언의 침팬지"
+  },
+  {
+    "id": "TXT_SimsObjects_03229",
+    "source_sha256": "3c080b85b195f820d9c42b7b8041432a0e5bb51b6e17c5225db7f56c482fa2b3",
+    "ko": "그림"
+  },
+  {
+    "id": "TXT_SimsObjects_03230",
+    "source_sha256": "64726daa94acf4c24429da76958e4b44df3d8ef16554b88b901640c909e8efba",
+    "ko": "고대 비석"
+  },
+  {
+    "id": "TXT_SimsObjects_03233",
+    "source_sha256": "0608d42bbdfb0956d76650e62a607a138873c4f36b561d42a675bbebf3c0e66b",
+    "ko": "웃픈 씨"
+  },
+  {
+    "id": "TXT_SimsObjects_03235",
+    "source_sha256": "3c080b85b195f820d9c42b7b8041432a0e5bb51b6e17c5225db7f56c482fa2b3",
+    "ko": "그림"
+  },
+  {
+    "id": "TXT_SimsObjects_03236",
+    "source_sha256": "e7907957a4a1c7deceb16a3b3aed744d778d2908519cc2942725a9168c1956b5",
+    "ko": "심술쟁이 청새치"
+  },
+  {
+    "id": "TXT_SimsObjects_03238",
+    "source_sha256": "3c080b85b195f820d9c42b7b8041432a0e5bb51b6e17c5225db7f56c482fa2b3",
+    "ko": "그림"
+  },
+  {
+    "id": "TXT_SimsObjects_03241",
+    "source_sha256": "3c080b85b195f820d9c42b7b8041432a0e5bb51b6e17c5225db7f56c482fa2b3",
+    "ko": "그림"
+  },
+  {
+    "id": "TXT_SimsObjects_03257",
+    "source_sha256": "1ba231b001ebf3a2fe7dab95100e27c9a172eafc8b91a44f49bfd2cfd0248be1",
+    "ko": "튼튼한 간이침대"
+  },
+  {
+    "id": "TXT_SimsObjects_03260",
+    "source_sha256": "df36e1778abcc24d11f90e76f197d8df6f6851be84ed49fe197561ed8b576551",
+    "ko": "급조한 간이침대"
+  },
+  {
+    "id": "TXT_SimsObjects_03263",
+    "source_sha256": "947cdefc8d3cc13ba06143332efabb793f18b54d8d1482daa6724dfa26633da1",
+    "ko": "편안한 간이침대"
+  },
+  {
+    "id": "TXT_SimsObjects_03266",
+    "source_sha256": "aa381845af1c3da8e9bac27f0f0a69e4bec9c0e4e807f9ba88144aef93a6b525",
+    "ko": "임시 간이침대"
+  },
+  {
+    "id": "TXT_SimsObjects_03299",
+    "source_sha256": "f81135479e576a4ef7cb6e70c829dbc435cdf3a741102b34c79230a2804668d1",
+    "ko": "통나무 식탁 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03302",
+    "source_sha256": "ebe7b9ca979efb4eca5f89910df2381921c3c28b790235aa042a5d63f466b6d2",
+    "ko": "판잣집 식탁 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03308",
+    "source_sha256": "e047bfdf360231076bdffa23ea3f8692a1c7f468fb6a5993b331ba1ffcba534e",
+    "ko": "오두막 식탁 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03398",
+    "source_sha256": "48ec322060aef17c138e16f04e65731bd42a363d16cf12471657c7d1876b0bba",
+    "ko": "단단한 통나무집 문"
+  },
+  {
+    "id": "TXT_SimsObjects_03404",
+    "source_sha256": "80f49ce1646032261f105438b6fe2fe124d380ea88783d2e955fe705697a2d60",
+    "ko": "통나무집 문틀"
+  },
+  {
+    "id": "TXT_SimsObjects_03407",
+    "source_sha256": "0eea0154ba018b89a11be6ca0e4199cbca5ae885f71095f0e81f17e77f0ad3fd",
+    "ko": "소박한 대문"
+  },
+  {
+    "id": "TXT_SimsObjects_03410",
+    "source_sha256": "798edc02416104cc5911242f25767071928f8d5bf3392ce5c461196f3a13c66c",
+    "ko": "호화로운 대문"
+  },
+  {
+    "id": "TXT_SimsObjects_03413",
+    "source_sha256": "4d57b1255d507b322991026f6801d20c0b5d5d811939dd45b259b92cc73bedc3",
+    "ko": "판잣집 문"
+  },
+  {
+    "id": "TXT_SimsObjects_03416",
+    "source_sha256": "498f885cf8e98a24f5875f92e6824b85b741943019c583fff6e6c65ca1de5455",
+    "ko": "판잣집 문틀"
+  },
+  {
+    "id": "TXT_SimsObjects_03425",
+    "source_sha256": "fcf9ec1b5f9f7fbdda28508bed0534a7c9e9b9c8e0ea714dd1cb1e8559703e7a",
+    "ko": "방갈로 문틀"
+  },
+  {
+    "id": "TXT_SimsObjects_03428",
+    "source_sha256": "5be1126bd4111e3900f9bcb9f82215e137b89c15ad6f3f9f52f789afe149e80f",
+    "ko": "오두막 문"
+  },
+  {
+    "id": "TXT_SimsObjects_03431",
+    "source_sha256": "67e69568bcffa135d52b7741abb204f4fd0d725c3648859efd6dabed706e128f",
+    "ko": "오두막 문틀"
+  },
+  {
+    "id": "TXT_SimsObjects_03638",
+    "source_sha256": "26fc80a06eb67346fac78551eee3fb3be73eae2e928b1b708b07eecc912a3760",
+    "ko": "마림바"
+  },
+  {
+    "id": "TXT_SimsObjects_03640",
+    "source_sha256": "26fc80a06eb67346fac78551eee3fb3be73eae2e928b1b708b07eecc912a3760",
+    "ko": "마림바"
+  },
+  {
+    "id": "TXT_SimsObjects_03644",
+    "source_sha256": "22da4e32ababa522476c216f9cc94ef38e5712a78f0e44f999412e6ac4f9e037",
+    "ko": "셰이커"
+  },
+  {
+    "id": "TXT_SimsObjects_03646",
+    "source_sha256": "22da4e32ababa522476c216f9cc94ef38e5712a78f0e44f999412e6ac4f9e037",
+    "ko": "셰이커"
+  },
+  {
+    "id": "TXT_SimsObjects_03653",
+    "source_sha256": "326d23a03f12b5c87b2118a508cc869c42601c41d673111fb793981b91b61747",
+    "ko": "통나무집 장스탠드"
+  },
+  {
+    "id": "TXT_SimsObjects_03656",
+    "source_sha256": "c4765321dd19fb120b3ee4618096ecbf8fd3d6543eb66ddc208b53f811e18c57",
+    "ko": "판잣집 장스탠드"
+  },
+  {
+    "id": "TXT_SimsObjects_03659",
+    "source_sha256": "2f957d6fa9b5b4645f49d9fdf45f716189b4ee9a4f5b72ec015283d19dfa73d2",
+    "ko": "방갈로 장스탠드"
+  },
+  {
+    "id": "TXT_SimsObjects_03662",
+    "source_sha256": "d1c7e2eef37d90b79c1d67b73425246a8820bc78b310df9d6313e69e9e8ea517",
+    "ko": "오두막 장스탠드"
+  },
+  {
+    "id": "TXT_SimsObjects_03668",
+    "source_sha256": "e3c1678965f2c736c91e19c60abde3227ccd3b1fc709a30af13dc82a380ad935",
+    "ko": "통나무집 탁상등"
+  },
+  {
+    "id": "TXT_SimsObjects_03671",
+    "source_sha256": "64d7400d4475d1ab488c2134c952ec493d9dbe0ee1735ca1c81fe66653b3302d",
+    "ko": "판잣집 탁상등"
+  },
+  {
+    "id": "TXT_SimsObjects_03674",
+    "source_sha256": "a5028ed6781544f2bc45af65c076b280fbe254fc0694e3c7069ee4d879c5e2c3",
+    "ko": "방갈로 탁상등"
+  },
+  {
+    "id": "TXT_SimsObjects_03677",
+    "source_sha256": "ad246100765b19362d73906208e64b320d1bd49cbe87a32622a76e6b62aa2015",
+    "ko": "오두막 탁상등"
+  },
+  {
+    "id": "TXT_SimsObjects_03797",
+    "source_sha256": "585a1ee56f12b9dff87c779dcc438d4edd5f92351f167cbb1191f92a74159126",
+    "ko": "붕아라야"
+  },
+  {
+    "id": "TXT_SimsObjects_03800",
+    "source_sha256": "6aeceab9b2085bc71de583a8ef66055e9dfd431a1e94c7b8f9ecf6514b579b17",
+    "ko": "눈물 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_03803",
+    "source_sha256": "9a9123a4c9a74389ee9f86c1b59ff22d2020b65fe8ec687bd26ded5aaf040458",
+    "ko": "야자나무 화분"
+  },
+  {
+    "id": "TXT_SimsObjects_03821",
+    "source_sha256": "13b40bb37d2fabe6fdb1a8fc39993688d2c44de61dde2f198029af7f1051dd6e",
+    "ko": "호화로운 야외 화장실"
+  },
+  {
+    "id": "TXT_SimsObjects_03827",
+    "source_sha256": "889db107fb5db3ccd3b771ba819fae1c9f070eaa83d142f9fbac75fa720ded80",
+    "ko": "실용적인 샤워 시설"
+  },
+  {
+    "id": "TXT_SimsObjects_03830",
+    "source_sha256": "7f7570ba4fe2a096bc73c1575734a4ff852c5eadd3f2706e9f5b01dab25dd536",
+    "ko": "호화로운 샤워 시설"
+  },
+  {
+    "id": "TXT_SimsObjects_03877",
+    "source_sha256": "7fc475a3c92cc3ca23289560dded2d376caf0bc8d6ae3aa06f9d658f5c8a6615",
+    "ko": "카누"
+  },
+  {
+    "id": "TXT_SimsObjects_03880",
+    "source_sha256": "919f7d779b71af23fe58ea3d60330079771a319ecbd8769773020508fc98bda1",
+    "ko": "쌍동선"
+  },
+  {
+    "id": "TXT_SimsObjects_03931",
+    "source_sha256": "353f8e1e5cc79db4dffdc8e74d9d3cfa2a12b366a39a35d9494de00ad99259ff",
+    "ko": "밧줄 다리"
+  },
+  {
+    "id": "TXT_SimsObjects_03977",
+    "source_sha256": "d003dadb78981e299f5b00a5c9837b08e255b640dbd65469f0a2d74594ae0919",
+    "ko": "닭"
+  },
+  {
+    "id": "TXT_SimsObjects_03979",
+    "source_sha256": "d003dadb78981e299f5b00a5c9837b08e255b640dbd65469f0a2d74594ae0919",
+    "ko": "닭"
+  },
+  {
+    "id": "TXT_SimsObjects_03982",
+    "source_sha256": "3d2c427b78bc9be2d965fc870eb2cdb0b61e506ad99ad2ed16ff018d79017f29",
+    "ko": "유목"
+  },
+  {
+    "id": "TXT_SimsObjects_03985",
+    "source_sha256": "3d2c427b78bc9be2d965fc870eb2cdb0b61e506ad99ad2ed16ff018d79017f29",
+    "ko": "유목"
+  },
+  {
+    "id": "TXT_SimsObjects_03994",
+    "source_sha256": "d22c09bca7df43a858411fc124b130acd244d786682d9540577ef4d4259a524a",
+    "ko": "아보카도"
+  },
+  {
+    "id": "TXT_SimsObjects_04000",
+    "source_sha256": "6728ee5a8b8ce7662623d82792af935e46aabeda8d8fafa08ddd7ad5391b5701",
+    "ko": "피망"
+  },
+  {
+    "id": "TXT_SimsObjects_04003",
+    "source_sha256": "6728ee5a8b8ce7662623d82792af935e46aabeda8d8fafa08ddd7ad5391b5701",
+    "ko": "피망"
+  },
+  {
+    "id": "TXT_SimsObjects_04006",
+    "source_sha256": "0187cf006f58f6f8aa69b24023ca18894ba5384582b76eb54a69ad1e46402544",
+    "ko": "블랙베리"
+  },
+  {
+    "id": "TXT_SimsObjects_04012",
+    "source_sha256": "cc286478c0f14270bf8eb80f0d16dcca22d55f1efd537e4fb71f497ade8ea445",
+    "ko": "블러드오렌지"
+  },
+  {
+    "id": "TXT_SimsObjects_04015",
+    "source_sha256": "cc286478c0f14270bf8eb80f0d16dcca22d55f1efd537e4fb71f497ade8ea445",
+    "ko": "블러드오렌지"
+  },
+  {
+    "id": "TXT_SimsObjects_04018",
+    "source_sha256": "502ac3c43f8714ea1327df43c60cadf5e0c4322cc3707934aeeddc0168eb6400",
+    "ko": "브라질너트"
+  },
+  {
+    "id": "TXT_SimsObjects_04024",
+    "source_sha256": "447601ff07f0cac42f2f83f7abb85660e17c938dba3a63433076d4323a5c7d1f",
+    "ko": "칸탈루프 멜론"
+  },
+  {
+    "id": "TXT_SimsObjects_04030",
+    "source_sha256": "9e87ba4dd07da92b8ecae2ed4d36e503c875d3e19548db7957402f570cefb39e",
+    "ko": "당근"
+  },
+  {
+    "id": "TXT_SimsObjects_04042",
+    "source_sha256": "abf61b12b0266e8e76b502ff0cdbc55a43bedea98531066d6f7852b1c27d262f",
+    "ko": "체리"
+  },
+  {
+    "id": "TXT_SimsObjects_04045",
+    "source_sha256": "abf61b12b0266e8e76b502ff0cdbc55a43bedea98531066d6f7852b1c27d262f",
+    "ko": "체리"
+  },
+  {
+    "id": "TXT_SimsObjects_04048",
+    "source_sha256": "bff0d9f9075b7096af62fb5a292f483f946c1cec702124f8e79e0549ce2f6779",
+    "ko": "오이"
+  },
+  {
+    "id": "TXT_SimsObjects_04051",
+    "source_sha256": "bff0d9f9075b7096af62fb5a292f483f946c1cec702124f8e79e0549ce2f6779",
+    "ko": "오이"
+  },
+  {
+    "id": "TXT_SimsObjects_04054",
+    "source_sha256": "6735f0e0ad41dae8946bf677fa11f7aeffa021822dfddb2b8b689d249cffb3b6",
+    "ko": "자몽"
+  },
+  {
+    "id": "TXT_SimsObjects_04057",
+    "source_sha256": "6735f0e0ad41dae8946bf677fa11f7aeffa021822dfddb2b8b689d249cffb3b6",
+    "ko": "자몽"
+  },
+  {
+    "id": "TXT_SimsObjects_04060",
+    "source_sha256": "3c5cdb8438c853b05ac00da827b4000e3251df2d1f6aeba63849a2c5e82c832f",
+    "ko": "구아바"
+  },
+  {
+    "id": "TXT_SimsObjects_04063",
+    "source_sha256": "3c5cdb8438c853b05ac00da827b4000e3251df2d1f6aeba63849a2c5e82c832f",
+    "ko": "구아바"
+  },
+  {
+    "id": "TXT_SimsObjects_04066",
+    "source_sha256": "887faf457ae198a292754ee6322369fcc935afdd2008fca18956e410dbf9d924",
+    "ko": "햄"
+  },
+  {
+    "id": "TXT_SimsObjects_04084",
+    "source_sha256": "5213085713ee6d891e54d5a194c65bf0739f4d8e81267e414eaed5aa34ff119b",
+    "ko": "망고스틴"
+  },
+  {
+    "id": "TXT_SimsObjects_04090",
+    "source_sha256": "cc278ed65b2d4d792808abde8bcf79848ad5c13f4f9f540eb4cfef3d74902029",
+    "ko": "양파"
+  },
+  {
+    "id": "TXT_SimsObjects_04096",
+    "source_sha256": "193e5e1cb2367d43d35155afb6af96cb40f76dead96873f853562e62e789c7d7",
+    "ko": "파파야"
+  },
+  {
+    "id": "TXT_SimsObjects_04099",
+    "source_sha256": "193e5e1cb2367d43d35155afb6af96cb40f76dead96873f853562e62e789c7d7",
+    "ko": "파파야"
+  },
+  {
+    "id": "TXT_SimsObjects_04102",
+    "source_sha256": "2b1f3f0b7afa26e4a824521353a48880a0dbb7c6f7a371056fbde0c6ee03f407",
+    "ko": "복숭아"
+  },
+  {
+    "id": "TXT_SimsObjects_04105",
+    "source_sha256": "2b1f3f0b7afa26e4a824521353a48880a0dbb7c6f7a371056fbde0c6ee03f407",
+    "ko": "복숭아"
+  },
+  {
+    "id": "TXT_SimsObjects_04108",
+    "source_sha256": "2c96298f9c9cc8dd84fe361fa37da4779e6148a350b7a90855f51521fa5e7972",
+    "ko": "감"
+  },
+  {
+    "id": "TXT_SimsObjects_04114",
+    "source_sha256": "80421e0021c50527f28a00a856c834752d5ce3d3071e2c02a00479301975b81b",
+    "ko": "파인애플"
+  },
+  {
+    "id": "TXT_SimsObjects_04117",
+    "source_sha256": "80421e0021c50527f28a00a856c834752d5ce3d3071e2c02a00479301975b81b",
+    "ko": "파인애플"
+  },
+  {
+    "id": "TXT_SimsObjects_04120",
+    "source_sha256": "6b9e1f86100c7a63b855407d3032e014cb668c33aec60779cbe1c24381da0980",
+    "ko": "라즈베리"
+  },
+  {
+    "id": "TXT_SimsObjects_04124",
+    "source_sha256": "211c88f510052a41e1b9c9a5f8571a7e42a466de764a333ce89b976931c1b482",
+    "ko": "대두"
+  },
+  {
+    "id": "TXT_SimsObjects_04126",
+    "source_sha256": "211c88f510052a41e1b9c9a5f8571a7e42a466de764a333ce89b976931c1b482",
+    "ko": "대두"
+  },
+  {
+    "id": "TXT_SimsObjects_04132",
+    "source_sha256": "984bf24037fc2a362e0550e9ef42d310babf5301d8adc03604fe0d89f9f1c35c",
+    "ko": "스타프루트"
+  },
+  {
+    "id": "TXT_SimsObjects_04138",
+    "source_sha256": "8b08b70bef0c5f31046c217add159aca8236f286665088b39d872ae5b37c1771",
+    "ko": "딸기"
+  },
+  {
+    "id": "TXT_SimsObjects_04141",
+    "source_sha256": "8b08b70bef0c5f31046c217add159aca8236f286665088b39d872ae5b37c1771",
+    "ko": "딸기"
+  },
+  {
+    "id": "TXT_SimsObjects_04144",
+    "source_sha256": "44a41bce228dc28e836dc335963d03ee8e865263a7999c08e92d02d0c307ae66",
+    "ko": "귤"
+  },
+  {
+    "id": "TXT_SimsObjects_04147",
+    "source_sha256": "44a41bce228dc28e836dc335963d03ee8e865263a7999c08e92d02d0c307ae66",
+    "ko": "귤"
+  },
+  {
+    "id": "TXT_SimsObjects_04150",
+    "source_sha256": "8289a9844fd5125f9ecc55b600da78766f44f8477d0a908e2962fbd77eb78372",
+    "ko": "토마토"
+  },
+  {
+    "id": "TXT_SimsObjects_04153",
+    "source_sha256": "8289a9844fd5125f9ecc55b600da78766f44f8477d0a908e2962fbd77eb78372",
+    "ko": "토마토"
+  },
+  {
+    "id": "TXT_SimsObjects_04174",
+    "source_sha256": "99c40ab405926cb5ad1def9cff4d7ce624f8f8abfff4e85f655347fcb949d08e",
+    "ko": "대추야자"
+  },
+  {
+    "id": "TXT_SimsObjects_04177",
+    "source_sha256": "99c40ab405926cb5ad1def9cff4d7ce624f8f8abfff4e85f655347fcb949d08e",
+    "ko": "대추야자"
+  },
+  {
+    "id": "TXT_SimsObjects_04180",
+    "source_sha256": "6455dbcb9597e2174aedccfd387db577d487fc7fc6027c2d66eb7c239cf56922",
+    "ko": "망고"
+  },
+  {
+    "id": "TXT_SimsObjects_04183",
+    "source_sha256": "6455dbcb9597e2174aedccfd387db577d487fc7fc6027c2d66eb7c239cf56922",
+    "ko": "망고"
+  },
+  {
+    "id": "TXT_SimsObjects_04211",
+    "source_sha256": "b43b401dc51b590b7c3bc51a0d2e8c57da3b48df14f5876512f2618aef1ff15a",
+    "ko": "야자나무 잎"
+  },
+  {
+    "id": "TXT_SimsObjects_04213",
+    "source_sha256": "b43b401dc51b590b7c3bc51a0d2e8c57da3b48df14f5876512f2618aef1ff15a",
+    "ko": "야자나무 잎"
+  },
+  {
+    "id": "TXT_SimsObjects_04219",
+    "source_sha256": "bb628a14dfcbd58beb40d838148364b7e95272d20239d83cf5394daa535c1980",
+    "ko": "앵무조개 껍데기"
+  },
+  {
+    "id": "TXT_SimsObjects_04225",
+    "source_sha256": "6fa048c1526601371026afe75d74341f4c03576737ef637b8baaec2740c61580",
+    "ko": "새조개 껍데기"
+  },
+  {
+    "id": "TXT_SimsObjects_04228",
+    "source_sha256": "d3b926fde2e17e583faca37202bdfcf43007bdc67384a04fea34c5afde28dbfb",
+    "ko": "개오지 껍데기"
+  },
+  {
+    "id": "TXT_SimsObjects_04231",
+    "source_sha256": "c227f57b982a3253279880c0ae14a5a47c685541382855c0f44603775602bf94",
+    "ko": "주교관고둥 껍데기"
+  },
+  {
+    "id": "TXT_SimsObjects_04234",
+    "source_sha256": "16305b0d244ce0c8aef050cf80bea50e066a2b4845f7a28bc2b9d7ba4d3ad50b",
+    "ko": "해시계고둥 껍데기"
+  },
+  {
+    "id": "TXT_SimsObjects_04243",
+    "source_sha256": "20e17d635069242e7f7fc4dbb62188c462abafcc07fb1f4945696713005ee378",
+    "ko": "아주 작은 1x3 통나무집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04255",
+    "source_sha256": "001cf9df189e29d64857a8a2dcdf98cc5d65066b8e9b020ded13fc870267a3a6",
+    "ko": "아주 작은 1x3 판잣집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04282",
+    "source_sha256": "d501aacc0e68e325b81b1ced03e46a0322ca779d78f2614231d7743a35804daf",
+    "ko": "아주 작은 1x3 오두막 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04288",
+    "source_sha256": "f2ccac4bcb6c7adbe042c8ebf4fbac0e16aee43142926b9e4b7d95f1e68cb4ea",
+    "ko": "작은 3x4 오두막 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04294",
+    "source_sha256": "e1499f02642a545e27bd7be68dbe106891f8e418bbbd4612e7600c40c21ef97e",
+    "ko": "큰 5x7 오두막 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04297",
+    "source_sha256": "3363a191685de971571a1096d323c39a931f8b040993dab12dfa756b2e87983f",
+    "ko": "통나무집 깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_04303",
+    "source_sha256": "2383e42ea9b314ea7430ccc20ce165379a698f71a88d908f249b0f0392e19f71",
+    "ko": "판잣집 깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_04312",
+    "source_sha256": "e080fdab2826c03f2a3d5c7a03ead0e39a349163258f2848f1e9336977415d9d",
+    "ko": "오두막 깔개"
+  },
+  {
+    "id": "TXT_SimsObjects_04315",
+    "source_sha256": "7ec720b594e1a2584895f7039b9065c92c7dba9b51c2ef1ffd25f4e3105d3370",
+    "ko": "모래 친구"
+  },
+  {
+    "id": "TXT_SimsObjects_04317",
+    "source_sha256": "7ec720b594e1a2584895f7039b9065c92c7dba9b51c2ef1ffd25f4e3105d3370",
+    "ko": "모래 친구"
+  },
+  {
+    "id": "TXT_SimsObjects_04318",
+    "source_sha256": "5fbe71c7c3a432aa56423dece5623ed3bf9a4e6d8f8c20bff76955947c4db2f1",
+    "ko": "허수아비"
+  },
+  {
+    "id": "TXT_SimsObjects_04320",
+    "source_sha256": "5fbe71c7c3a432aa56423dece5623ed3bf9a4e6d8f8c20bff76955947c4db2f1",
+    "ko": "허수아비"
+  },
+  {
+    "id": "TXT_SimsObjects_04546",
+    "source_sha256": "886d2aa3679488bd12233ae1aa8b12d14d55ff18c00cece7f2380b7df605e06a",
+    "ko": "통나무 소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04549",
+    "source_sha256": "fc44726431fdd0b225144b75eee7539645df2bb3d711ce55883070c0b0a8786c",
+    "ko": "판잣집 소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04552",
+    "source_sha256": "df21c48205246a653f77c8a53395fc523746d2197ebedf7aeb0c68cf5cc48a6d",
+    "ko": "방갈로 소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04555",
+    "source_sha256": "4585fd901c65eb3fb01a0d21031d2df97b3819478f21ac1bcda7a6a1946f4bf0",
+    "ko": "오두막 소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04558",
+    "source_sha256": "f8fe7a092b4e19cab1e66255966c81ec12a1e1d4aa654ae9cbaedeaada1ca128",
+    "ko": "통나무 2인용 소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04561",
+    "source_sha256": "e1420a259108e366dcae9295e026d089fb208d757ca9b5bbaa8df5d4d37f1273",
+    "ko": "판잣집 2인용 소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04564",
+    "source_sha256": "5217c55a38a88b9cb089b93ca93fcd79b0108f3182e75217d2cc052f26e2ce50",
+    "ko": "방갈로 2인용 소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04567",
+    "source_sha256": "409a28add1cfc3a0c9ccb61e83693bd3ec58e9847ae3ebe0ba97dac29de3d0ad",
+    "ko": "오두막 2인용 소파"
+  },
+  {
+    "id": "TXT_SimsObjects_04642",
+    "source_sha256": "b6811f2ceb6b1aeb0e06f7bd081cc43290f5003b6f10336deb1285ed4839b3b6",
+    "ko": "닭장"
+  },
+  {
+    "id": "TXT_SimsObjects_04712",
+    "source_sha256": "ad9f7e6a05be8e87cc4b4b8a1ce902d8759182963e10dc3326747ef09ef432bb",
+    "ko": "붓꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04715",
+    "source_sha256": "ad9f7e6a05be8e87cc4b4b8a1ce902d8759182963e10dc3326747ef09ef432bb",
+    "ko": "붓꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04718",
+    "source_sha256": "f5df052d45af1f036c66b3c005a2bc85144bd82358f53bf6c63dd7eebd1eba14",
+    "ko": "파란 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04721",
+    "source_sha256": "f5df052d45af1f036c66b3c005a2bc85144bd82358f53bf6c63dd7eebd1eba14",
+    "ko": "파란 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04724",
+    "source_sha256": "0c80f5fa4dc08ce4e70ebc74ec3fb73b8c6ede2b423658b0cc4f65d05c6443f2",
+    "ko": "분홍 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04727",
+    "source_sha256": "0c80f5fa4dc08ce4e70ebc74ec3fb73b8c6ede2b423658b0cc4f65d05c6443f2",
+    "ko": "분홍 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04730",
+    "source_sha256": "205d84fdffa638082cb6a2182be3dedfe776794db28b40a76d366cb54523a6d3",
+    "ko": "보라 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04733",
+    "source_sha256": "205d84fdffa638082cb6a2182be3dedfe776794db28b40a76d366cb54523a6d3",
+    "ko": "보라 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04736",
+    "source_sha256": "de18fa28b668cd77cff52fb182d23f0eb0f82872ef9ed14c36d87d3d7db3486b",
+    "ko": "빨간 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04741",
+    "source_sha256": "553eb2c0b62179844faad6772802202861b6763e2951f8d040838fcb399385fa",
+    "ko": "하얀 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04744",
+    "source_sha256": "553eb2c0b62179844faad6772802202861b6763e2951f8d040838fcb399385fa",
+    "ko": "하얀 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04798",
+    "source_sha256": "544a9cb451f2a731f20e658e5f6d1547ef51017cd1d4e88f5fdbff73f68300df",
+    "ko": "생강"
+  },
+  {
+    "id": "TXT_SimsObjects_04822",
+    "source_sha256": "9111288f1bbe7693877ce6aea02345f00429b07e00e8ed5d78f1e6825f4c206d",
+    "ko": "맨드레이크 뿌리"
+  },
+  {
+    "id": "TXT_SimsObjects_04858",
+    "source_sha256": "3a617c209cf86e9eff0e6665954ff12f028202b734adfcc17c0c16e7092415df",
+    "ko": "비누풀"
+  },
+  {
+    "id": "TXT_SimsObjects_05171",
+    "source_sha256": "f94c8a137e2fa2515755ab996e70fd9a67ad4f1acb6cf714d41321d55b93a963",
+    "ko": "오두막 조리대"
+  },
+  {
+    "id": "TXT_SimsObjects_05174",
+    "source_sha256": "f94c8a137e2fa2515755ab996e70fd9a67ad4f1acb6cf714d41321d55b93a963",
+    "ko": "오두막 조리대"
+  },
+  {
+    "id": "TXT_SimsObjects_05177",
+    "source_sha256": "f94c8a137e2fa2515755ab996e70fd9a67ad4f1acb6cf714d41321d55b93a963",
+    "ko": "오두막 조리대"
+  },
+  {
+    "id": "TXT_SimsObjects_05180",
+    "source_sha256": "3048339d81d8c9734edfad44af1e336e055a3c88c33ee6feb1c3d28122c30b3e",
+    "ko": "작은 통나무 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05183",
+    "source_sha256": "a3e22e6c8bb55e0d191fa2cd609318981489e2e7f684040c59edcfbbaa7d20ee",
+    "ko": "작은 판잣집 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05189",
+    "source_sha256": "d250022b3b737c32bc8b69e236ab0fc93a2cec0b19642eebc46694f6776cf5ee",
+    "ko": "작은 오두막 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05195",
+    "source_sha256": "d4f46e667438d1a0a7f524c1559483f2aaea4092eee6462d85e4e449cec7a089",
+    "ko": "보통 오두막 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05198",
+    "source_sha256": "a81ad986963472a394ba036e2a86e068a7e037b0012e630c98ef33d195771fba",
+    "ko": "큰 통나무 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05201",
+    "source_sha256": "6df228b8a1f767a1fca47b3f24edd4418f0f880657e015dcf573f49c600928b7",
+    "ko": "큰 판잣집 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05207",
+    "source_sha256": "4825df08224638f8d4e80451111f37a6dbc2bd86f9ad33e23d8b7557c67b6d43",
+    "ko": "큰 오두막 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05210",
+    "source_sha256": "13931ae3eef8679515b507f5c31e32d04e9fbf59fe73ef01073acbed59f5fb98",
+    "ko": "방갈로 보조 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05236",
+    "source_sha256": "f1b1943ead83bb173c7cc1ef8029d1d6a2df65c73dd7048f8e423f8fe8a60683",
+    "ko": "닭 덫"
+  },
+  {
+    "id": "TXT_SimsObjects_05237",
+    "source_sha256": "a0be98704c34dd45a59d3c1e3c70d73230d10507eb9957c6849fcdc706f8593c",
+    "ko": "금속 끌"
+  },
+  {
+    "id": "TXT_SimsObjects_05239",
+    "source_sha256": "a0be98704c34dd45a59d3c1e3c70d73230d10507eb9957c6849fcdc706f8593c",
+    "ko": "금속 끌"
+  },
+  {
+    "id": "TXT_SimsObjects_05254",
+    "source_sha256": "dd9b695a6d88c12ac57342a0c22aee9140dcd6bbde1551c632baa1e4619146d6",
+    "ko": "물고기 덫"
+  },
+  {
+    "id": "TXT_SimsObjects_05269",
+    "source_sha256": "add71474746175c1b2ec0a2ac62836817ad37897e9473fab1a96fbb085bbefe7",
+    "ko": "마체테"
+  },
+  {
+    "id": "TXT_SimsObjects_05278",
+    "source_sha256": "002cd44506fc153ad4901d450b6df4652c8411e08c4b8cee7655ce4be0ead69c",
+    "ko": "바느질 도구"
+  },
+  {
+    "id": "TXT_SimsObjects_05291",
+    "source_sha256": "3046954ea3a15477e54de897e706308f303de849c3a7b97b4edaddceb7af48f9",
+    "ko": "화장지"
+  },
+  {
+    "id": "TXT_SimsObjects_05293",
+    "source_sha256": "3046954ea3a15477e54de897e706308f303de849c3a7b97b4edaddceb7af48f9",
+    "ko": "화장지"
+  },
+  {
+    "id": "TXT_SimsObjects_05351",
+    "source_sha256": "30db9b112f81a62fa7969f22efb22156d19d9a61cc215958ce63da0207b826cf",
+    "ko": "호화로운 울타리"
+  },
+  {
+    "id": "TXT_SimsObjects_05408",
+    "source_sha256": "3c33879ca0d1bf75d1fd5de53e8d0101699523d0effb92de369a54f3ca1e7c2a",
+    "ko": "방갈로 벽"
+  },
+  {
+    "id": "TXT_SimsObjects_05411",
+    "source_sha256": "ff327994dba76a9972cce7c34060041d92673bddc79569794b1c2bde657172bf",
+    "ko": "오두막 벽"
+  },
+  {
+    "id": "TXT_SimsObjects_05420",
+    "source_sha256": "83b06f8e7258435c77f0bd3e877cf18f1fc8097ba04e92e70c0595d27f2c2310",
+    "ko": "통나무집 창틀"
+  },
+  {
+    "id": "TXT_SimsObjects_05423",
+    "source_sha256": "5e736e670d13bbaf7de45f1944672ea241c75eb0b2cda8c0782ab554851ebe55",
+    "ko": "통나무집 덧문"
+  },
+  {
+    "id": "TXT_SimsObjects_05426",
+    "source_sha256": "cfa6ea4f6eca5ccca311d944bdd4c9e7c4a89dfdf5f30a19053baa933a475446",
+    "ko": "판잣집 창틀"
+  },
+  {
+    "id": "TXT_SimsObjects_05429",
+    "source_sha256": "33227fcd66c28e1ba5a54cf6852dfed28a8cedd0fb8e2933ec02affdc1b3896f",
+    "ko": "판잣집 덧문"
+  },
+  {
+    "id": "TXT_SimsObjects_05441",
+    "source_sha256": "161c9d67a249d4ac91a6a29581a8d53b4c95bba818a1faa7a93bfcc4bf6d7867",
+    "ko": "방갈로 덧문"
+  },
+  {
+    "id": "TXT_SimsObjects_05444",
+    "source_sha256": "61a0b38a1af8dd77e7b030db7e33dc1fac24ee9da77c0767f25dfaeae6eb18f0",
+    "ko": "오두막 창틀"
+  },
+  {
+    "id": "TXT_SimsObjects_05447",
+    "source_sha256": "666f3d2d3da4eb414e402410d52d79e12d5a18f65ee27d15ae573f71a0c607ba",
+    "ko": "오두막 덧문"
+  }
+]

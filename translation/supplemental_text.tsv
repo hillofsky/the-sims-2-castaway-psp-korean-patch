@@ -1,0 +1,66 @@
+﻿id	source_file	string_index	source_text	ko_current	official_ko_reference	status	notes
+TRC_000	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	0	FILE SIZE	파일 크기	파일 사이즈	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_001	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	1	FILES	파일	파일	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_002	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	2	LAST SAVE	마지막 저장	최종변경일	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_003	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	3	Corrupt	손상됨	손상	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_004	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	4	DELETE %s	%s 삭제	%s 삭제하기	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_005	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	5	LOAD %s	%s 불러오기	%s 불러오기	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_006	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	6	New	새로 만들기	신규	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_007	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	7	SAVE %s	%s 저장	%s 저장하기	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_008	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	8	Cancel	취소	취소	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_009	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	9	Cancel format?	포맷을 취소하시겠습니까?	포맷을 취소하시겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_010	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	10	Cancel load?	불러오기를 취소하시겠습니까?	불러오기를 취소하시겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_011	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	11	Memory Stick™ error! Please check Memory Stick™ and try again.	Memory Stick™ 오류가 발생했습니다! Memory Stick™을 확인한 뒤 다시 시도하세요.	불러오기 실패. Memory Stick Duo™를 확인하고 다시 시도하십시오.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_012	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	12	The Memory Stick™ was removed.	Memory Stick™이 제거되었습니다.	Memory Stick Duo™가 제거되었습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_013	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	13	The Memory Stick™ was removed. Do you wish to retry?	Memory Stick™이 제거되었습니다. 다시 시도하시겠습니까?	Memory Stick Duo™가 제거되었습니다. 다시 시도하겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_014	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	14	Checking Memory Stick™. Do not remove the Memory Stick™ or reset/switch off the console.	Memory Stick™을 확인하고 있습니다. Memory Stick™을 제거하거나 본체를 초기화하거나 끄지 마세요.	Memory Stick Duo™를 제거하거나 본체를 끄거나 리셋하지 마십시오.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_015	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	15	Are you sure you want to delete this save game?	이 게임 저장 데이터를 삭제하시겠습니까?	파일을 삭제하시겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_016	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	16	Delete failed!	삭제하지 못했습니다!	삭제를 실패했습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_017	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	17	Delete Successful.	삭제했습니다.	삭제를 성공했습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_018	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	18	Deleting data from Memory Stick™.  Do not remove Memory Stick™, or reset/switch off the console.	Memory Stick™에서 데이터를 삭제하고 있습니다. Memory Stick™을 제거하거나 본체를 초기화하거나 끄지 마세요.	"Memory Stick Duo™에서 파일을 삭제합니다.
+Memory Stick Duo™를 제거하거나 본체를 끄거나 리셋하지 마십시오."	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_019	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	19	Deleting data from Memory Stick™.  Do not remove Memory Stick™ or reset/switch off the console.	Memory Stick™에서 데이터를 삭제하고 있습니다. Memory Stick™을 제거하거나 본체를 초기화하거나 끄지 마세요.	"Memory Stick Duo™에서 파일을 삭제합니다.
+Memory Stick Duo™를 제거하거나 본체를 끄거나 리셋하지 마십시오."	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_020	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	20	Are you sure you want to format Memory Stick™ ?	Memory Stick™을 포맷하시겠습니까?	Memory Stick Duo™를 포맷하시겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_021	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	21	Format failed. An error occurred while formatting the Memory Stick™. Do you wish to continue the game without saving?	포맷하지 못했습니다. Memory Stick™ 포맷 중 오류가 발생했습니다. 저장하지 않고 게임을 계속하시겠습니까?	Memory Stick Duo™의 포맷을 실패했습니다. 저장하지 않고 진행하시겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_022	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	22	Format Successful.	포맷했습니다.	포맷을 성공했습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_023	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	23	Formatting Memory Stick™. Do not remove Memory Stick™ or reset/switch off the console.	Memory Stick™을 포맷하고 있습니다. Memory Stick™을 제거하거나 본체를 초기화하거나 끄지 마세요.	"Memory Stick Duo™를 포맷합니다.
+Memory Stick Duo™를 제거하거나 본체를 끄거나 리셋하지 마십시오."	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_024	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	24	Load failed. Save game data on Memory Stick™  appears to be corrupt.	불러오지 못했습니다. Memory Stick™의 게임 저장 데이터가 손상된 것 같습니다.	불러오기 실패. 저장 파일이 손상되었습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_025	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	25	Load failed!	불러오지 못했습니다!	불러오기를 실패했습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_026	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	26	No <game title> save data present on Memory Stick™.	Memory Stick™에 <game title> 저장 데이터가 없습니다.	Memory Stick Duo™에 <game title>의 저장 파일이 없습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_027	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	27	Load Successful.	불러왔습니다.	불러오기를 성공했습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_028	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	28	Loading data from Memory Stick™. Do not remove the Memory Stick™ or reset/switch off the console.	Memory Stick™에서 데이터를 불러오고 있습니다. Memory Stick™을 제거하거나 본체를 초기화하거나 끄지 마세요.	"Memory Stick Duo™를 불러옵니다.
+Memory Stick Duo™를 제거하거나 본체를 끄거나 리셋하지 마십시오."	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_029	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	29	Autosave has been disabled.	자동 저장 기능이 꺼졌습니다.	자동 저장 기능을 해제했습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_030	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	30	Load Failed. Would you like to retry?	불러오지 못했습니다. 다시 시도하시겠습니까?	불러오기 실패. 다시 시도하시겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_031	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	31	Save Failed. Would you like to retry?	저장하지 못했습니다. 다시 시도하시겠습니까?	저장하기 실패. 다시 시도하시겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_032	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	32	"The status of the Memory Stick™ has changed. Do you want to save game data?
+"	"Memory Stick™의 상태가 바뀌었습니다. 게임 데이터를 저장하시겠습니까?
+"	Memory Stick Duo™의 상태가 변경되었습니다. 게임 데이터를 저장하시겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_033	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	33	No	아니요	아니오	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_034	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	34	No Memory Stick™ inserted.	Memory Stick™이 삽입되지 않았습니다.	Memory Stick Duo™가 삽입되어 있지 않습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_035	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	35	OK	확인	확인	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_036	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	36	Are you sure you want to overwrite save game data?	게임 저장 데이터를 덮어쓰시겠습니까?	Memory Stick Duo™의 저장 파일을 덮어쓰겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_037	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	37	Save Failed. An error occurred while saving game data to the Memory Stick™. Do you wish to continue the game without saving?	저장하지 못했습니다. Memory Stick™에 게임 데이터를 저장하는 중 오류가 발생했습니다. 저장하지 않고 게임을 계속하시겠습니까?	저장하기 실패. 저장하지 않고 진행하시겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_038	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	38	The Memory Stick™ is unformatted. Format Memory Stick™?	Memory Stick™이 포맷되지 않았습니다. Memory Stick™을 포맷하시겠습니까?	Memory Stick Duo™가 포맷되어 있지 않습니다. 포맷하시겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_039	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	39	Insufficient space on the Memory Stick™. Insert a Memory Stick™ with at least %2 KB of free space. Retry?	Memory Stick™의 여유 공간이 부족합니다. 최소 %2 KB의 여유 공간이 있는 Memory Stick™을 삽입하세요. 다시 시도하시겠습니까?	"Memory Stick Duo™에 빈 용량이 부족합니다.
+%2 KB 이상의 빈 용량이 있어야 게임 진행 내용을 저장할 수 있습니다. 다시 시도하시겠습니까?"	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_040	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	40	No Memory Stick™ inserted. Do you want to continue the game without saving?	Memory Stick™이 삽입되지 않았습니다. 저장하지 않고 게임을 계속하시겠습니까?	Memory Stick Duo™가 삽입되어 있지 않습니다. 저장하지 않고 진행하시겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_041	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	41	Save Successful.	저장했습니다.	저장하기를 성공했습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_042	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	42	Saving data to Memory Stick™. Do not remove Memory Stick™ or reset/switch off the console.	Memory Stick™에 데이터를 저장하고 있습니다. Memory Stick™을 제거하거나 본체를 초기화하거나 끄지 마세요.	"Memory Stick Duo™를 저장합니다.
+Memory Stick Duo™를 제거하거나 본체를 끄거나 리셋하지 마십시오."	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_043	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	43	System was put in sleep mode. Please load again.	본체가 절전 모드에 들어갔습니다. 다시 불러오세요.	슬립 기능이 작동 중이었습니다. 다시 불러오십시오.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_044	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	44	System was put in sleep mode. Please save again.	본체가 절전 모드에 들어갔습니다. 다시 저장하세요.	슬립 기능이 작동 중이었습니다. 다시 저장하십시오.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_045	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	45	"Please ensure that there is at least
+%d KB of free space on the Memory Stick™ to save game data."	"게임 데이터를 저장하려면 Memory Stick™에 최소
+%d KB의 여유 공간이 있는지 확인하세요."	Memory Stick Duo™에 최소한 %d KB의 빈 용량이 있는지 확인하십시오.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_046	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	46	An Autosave feature is available. Do you want to enable the Autosave feature?	자동 저장 기능을 사용할 수 있습니다. 자동 저장 기능을 켜시겠습니까?	자동 저장 기능이 있습니다. 이 기능을 사용하시겠습니까?	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_047	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	47	Insufficient space on the Memory Stick™ to save new game data. Insert a Memory Stick™ with at least %2 KB of free space. Do you want to start?	새 게임 데이터를 저장할 Memory Stick™의 여유 공간이 부족합니다. 최소 %2 KB의 여유 공간이 있는 Memory Stick™을 삽입하세요. 시작하시겠습니까?	"Memory Stick Duo™에 빈 용량이 부족합니다.
+%2 KB 이상의 빈 용량이 있어야 게임 진행 상황을 저장할 수 있습니다. 시작하시겠습니까?"	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_048	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	48	Are you sure you want to continue without the Autosave feature? Caution! If you choose to do so, your progress and settings will not be saved automatically.	자동 저장 기능 없이 계속하시겠습니까? 주의! 이 경우 진행 상황과 설정이 자동으로 저장되지 않습니다.	자동 저장 기능을 사용하지 않고 진행하시겠습니까? 이 기능을 사용하지 않으면 진행 내용과 설정이 자동으로 저장되지 않습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_049	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	49	No Memory Stick™ inserted. If you wish to save game data, insert a Memory Stick™ with at least %2KB of free space. Do you want to start?	Memory Stick™이 삽입되지 않았습니다. 게임 데이터를 저장하려면 최소 %2KB의 여유 공간이 있는 Memory Stick™을 삽입하세요. 시작하시겠습니까?	"Memory Stick Duo™가 삽입되어 있지 않습니다.
+%2 KB 이상의 빈 용량이 있는
+Memory Stick Duo™를 삽입하십시오. 시작하시겠습니까?"	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_050	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	50	The Memory Stick™  is unformatted.	Memory Stick™이 포맷되지 않았습니다.	Memory Stick Duo™가 포맷되어 있지 않습니다.	DRAFT	Shipped Korean resource consulted; wording aligned with English source.
+TRC_051	/PSP_GAME/USRDIR/data/locale/trc/eng_us.loc	51	Yes	예	예	DRAFT	Shipped Korean resource consulted; wording aligned with English source.

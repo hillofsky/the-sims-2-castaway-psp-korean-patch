@@ -1,0 +1,15 @@
+{
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "key": "psp_icon",
+      "path": "D:\\심즈2캐스트어웨이\\work\\supplemental_assets\\ICON0.PNG",
+      "prompt": "Use case text-localization. Supplied image is the edit target: PSP game-selection icon for The Sims2 Castaway. Preserve full flat image, exact blue water background, Sims2 logo at top, red wooden plaque with gold bamboo frame and all existing proportions. Replace ONLY English CASTAWAY on the plaque with exact Korean text '캐스트어웨이', readable single line, pale gold bamboo-like strokes. Keep the SIMS2 trademark/logo unchanged. No new content, no mockup, no perspective. Preserve original wide aspect ratio144:80 and complete edges. Will be downsampled144x80."
+    },
+    {
+      "key": "boot_screen",
+      "path": "D:\\심즈2캐스트어웨이\\work\\supplemental_assets\\boot_bgr565.png",
+      "prompt": "Use case text-localization. Supplied image is edit target: full PSP game boot screen. Preserve blue watery background, drops, exact layout, central The Sims2 logo and red bamboo-framed wooden plaque. Replace only CASTAWAY on red plaque with exact Korean text '캐스트어웨이', single line pale gold bamboo-style letters. At bottom replace copyright line with exact '© 2007 Electronic Arts Inc. 모든 권리 보유.' in small white sans-serif. Leave The Sims2 logo and trademark unchanged. Preserve entire480:272 wide aspect ratio and all margins, no cropping, no added content, no mockup. Output a flat game screen texture."
+    }
+  ]
+}

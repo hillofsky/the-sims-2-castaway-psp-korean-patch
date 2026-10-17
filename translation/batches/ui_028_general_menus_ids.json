@@ -1,0 +1,617 @@
+[
+  {
+    "id": "TXT_urbzui_00651",
+    "source_sha256": "505543ea0f521b7f5822d2d2cf6c75f6970b2c0216e75d85d1a9cd0ff515d018",
+    "ko": "경고! \r\n심즈™ 2 캐스트어웨이의 \r\n저장 데이터를 덮어쓰시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00652",
+    "source_sha256": "30a4b6e0ef3eaf9d046507a9c6d6dfba7011eaac4029655ae0d41b6fedf4df61",
+    "ko": "계속하기 전에 게임을 저장하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00653",
+    "source_sha256": "c135572aecefac6cb1e0e187bad624348474da287ffd6f50f268c906a2bf8c46",
+    "ko": "종료하기 전에 저장하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00655",
+    "source_sha256": "843ac01149cced785dfebd0028d3b03ba78e286e1c6f9517ebfcdb609d97af4c",
+    "ko": "확인"
+  },
+  {
+    "id": "TXT_urbzui_00668",
+    "source_sha256": "dbc236831db4078163211cbd17bc85d6a28a7ca65ba69a2484be94100bb5f6da",
+    "ko": "심즈 2\r\n캐스트어웨이"
+  },
+  {
+    "id": "TXT_urbzui_00679",
+    "source_sha256": "f99b5fd125c15c14a34269fab55435fa7685af4791131cc13784d23b389ade7c",
+    "ko": "심 추가"
+  },
+  {
+    "id": "TXT_urbzui_00684",
+    "source_sha256": "250dc4f3954b14c3732603c9f7ebf1b87006da121b263978b2ba7bfe8633cafd",
+    "ko": "심 1"
+  },
+  {
+    "id": "TXT_urbzui_00685",
+    "source_sha256": "45502c0de4b11b4ec32735e868458acb06c84816d554018cd6478482b33ec6de",
+    "ko": "심 2"
+  },
+  {
+    "id": "TXT_urbzui_00686",
+    "source_sha256": "d035ab43e31cb934baa74a6afa62935173443bbddba5cb3cbd49d76404b58d3d",
+    "ko": "심 3"
+  },
+  {
+    "id": "TXT_urbzui_00687",
+    "source_sha256": "ca28fa1e759fb08a65c3735b2dc1af93172ef8216d1a1b6e53d0349672d20ab8",
+    "ko": "심 4"
+  },
+  {
+    "id": "TXT_urbzui_00688",
+    "source_sha256": "7e629a92e0aa283a02215eee01f4f91a1fbfe75987dc5797d16e538115be82bb",
+    "ko": "심 5"
+  },
+  {
+    "id": "TXT_urbzui_00689",
+    "source_sha256": "1b92e47435c798c38940571f1016da277294a625b239fd7a032dfb4f5ff63817",
+    "ko": "심 6"
+  },
+  {
+    "id": "TXT_urbzui_00690",
+    "source_sha256": "9857d12f6b4547801d54a4fed83330ffbdedbcd09eb0c2321be117126ae0d3c2",
+    "ko": "심 7"
+  },
+  {
+    "id": "TXT_urbzui_00691",
+    "source_sha256": "21927a08d640174fc8f2312377540ff161b5e836f0f40e2260d0c4122b0d509e",
+    "ko": "심 8"
+  },
+  {
+    "id": "TXT_urbzui_00692",
+    "source_sha256": "facbcdc6fa5c67edf01466dbf4385c91e88316af6d3310390e3b1acdfa70c1e2",
+    "ko": "심 1의 저장 데이터가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00693",
+    "source_sha256": "f67d9a80df1cc2f4d13f760e02dabb5afabb55a2297a66c895f8c6a2a353109c",
+    "ko": "심 2의 저장 데이터가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00694",
+    "source_sha256": "350ad965e91ffaef1c24db283e9674d5c481dcdfe532bd102773e036b5f2d15a",
+    "ko": "심 3의 저장 데이터가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00695",
+    "source_sha256": "69ffa70b925c5a935fd8915561f55e89a611509d05281ac4fd51c80c9dca5a6b",
+    "ko": "심 4의 저장 데이터가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00696",
+    "source_sha256": "2a623753d56eb9fa305a3f957a0e0ffd559eed957912bbf7bb55d01aab8b876f",
+    "ko": "심 5의 저장 데이터가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00697",
+    "source_sha256": "a9346e8125403860c699a5bcdb818cc9ffeea99cd278db4f7591cdbd298e01dc",
+    "ko": "심 6의 저장 데이터가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00698",
+    "source_sha256": "a000e7712166c3fb0a9185b71a5b84c528603e686cbb96753db910c884287cb9",
+    "ko": "심 7의 저장 데이터가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00699",
+    "source_sha256": "75b00ba22804874122522477b3d4fc432598efb70da5186e52b5c28e4763fd90",
+    "ko": "심 8의 저장 데이터가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00704",
+    "source_sha256": "db5e3709a92254971c37996e3e92c1ef11028caab4e99abba7c7e0d351a6b64e",
+    "ko": "게임 데이터를 불러올 위치를 선택하세요. "
+  },
+  {
+    "id": "TXT_urbzui_00705",
+    "source_sha256": "d490668bc2fc5531926be0454f767b9e36ea38661eed4c14ab697d5a76edfc30",
+    "ko": "플레이어 <size>의 심을 선택하세요:"
+  },
+  {
+    "id": "TXT_urbzui_00707",
+    "source_sha256": "232cbfa1f04274e08c6c1032ee769b258c5888f19faf9c14bed0f0d1388e365a",
+    "ko": "심즈™ 2 캐스트어웨이 저장 데이터를 선택하세요"
+  },
+  {
+    "id": "TXT_urbzui_00709",
+    "source_sha256": "354ea0b3a66ed7effbd13fade856a9a7c1d687c6fbdbc23d7f1968b880e0b748",
+    "ko": "새 게임을 시작하여 저장하면 이전에 저장한 데이터가 사라집니다.\r\n\r\n계속하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00715",
+    "source_sha256": "e5aab7371b40b702322b9161c3fe3272caeb1f69fdb7de0e7e87e7876d127eb1",
+    "ko": "포맷에 성공했습니다."
+  },
+  {
+    "id": "TXT_urbzui_00716",
+    "source_sha256": "6753baa3f1894934c260a088fb129e05ad9d95a83308ec45971576426ad7697f",
+    "ko": "현재 불러온 게임 데이터에서는 심을 가져올 수 없습니다.\r\n\r\n확인을 눌러 계속하세요."
+  },
+  {
+    "id": "TXT_urbzui_00721",
+    "source_sha256": "786f793d2488ed3b888b60665f1975b2a19e84d9aa63db8915151bb9087596ac",
+    "ko": "불러오기에 성공했습니다. "
+  },
+  {
+    "id": "TXT_urbzui_00723",
+    "source_sha256": "1efedf134eaafda39af298f5c0fad7f95c426388e3ce0116802bfabf6825f1ed",
+    "ko": "심즈™ 2 캐스트어웨이 게임 데이터가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00729",
+    "source_sha256": "8bb65b9711d33723de7eb1ecf3ace3e5cdba2bbc3270264bf7f2db12849076d5",
+    "ko": "저장에 성공했습니다."
+  },
+  {
+    "id": "TXT_urbzui_00733",
+    "source_sha256": "d99471be8fb7dfaf2d70ee30885a5ef607c85ad96a45373a7e901ca1c7035c2a",
+    "ko": "게임 데이터를 저장할 위치를 선택하세요. "
+  },
+  {
+    "id": "TXT_urbzui_00734",
+    "source_sha256": "15217191891da91f14f76aed6dca8b0ccf2141f6bd10a82eb17c6effe3a27aad",
+    "ko": "심 선택:"
+  },
+  {
+    "id": "TXT_urbzui_00735",
+    "source_sha256": "232cbfa1f04274e08c6c1032ee769b258c5888f19faf9c14bed0f0d1388e365a",
+    "ko": "심즈™ 2 캐스트어웨이 저장 데이터를 선택하세요"
+  },
+  {
+    "id": "TXT_urbzui_00736",
+    "source_sha256": "839fbfc542276555ce2bec062a3ab9a4a22fa56b8a98dc80dad3cbcc053ee43f",
+    "ko": "포맷을 취소하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00737",
+    "source_sha256": "c4dedb26154d999769d8f459028ea7277260e369e8d37462cfbbc1db707c7e1c",
+    "ko": "심 <p1_first_name> <p1_last_name>을 삭제하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00740",
+    "source_sha256": "571f47566aa659e1298a0ed590fbfa5b5468a58e3ec8846c6dbf84ecb9cf5806",
+    "ko": "심 <p1_first_name> <p1_last_name>을 가져오시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00741",
+    "source_sha256": "7f6501093040388227f8fa1fd15c6cbf9fa6071717b1e1fe6d91039502b28cc5",
+    "ko": "HDD에서 게임 데이터를 불러오시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00743",
+    "source_sha256": "e34d0f2682e948cd75fe3784b86fe2715678b5c0802381104bac3d5437757c4a",
+    "ko": "새 게임을 시작합니다. 새 심 가족과 새 동네를 만드시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00746",
+    "source_sha256": "0295b88b46fa2eaf1990a557fe14cbba85b6ae28727dd11ce10a47156ac22b02",
+    "ko": "기존 저장 데이터를 불러오시겠습니까, 아니면 새 게임 파일을 시작하시겠습니까? "
+  },
+  {
+    "id": "TXT_urbzui_00747",
+    "source_sha256": "9e3d8205d794f29ecd2b3742debd904a27c6b414eb4fa85467efec79f1d6f35b",
+    "ko": "계속하면 현재 심의 변경 사항이 모두 저장됩니다. 계속하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00748",
+    "source_sha256": "40e02e918985c6185c844ae808c50628571f74166119892d9aa16c722c9f2cbb",
+    "ko": "지금은 게임을 저장할 수 없습니다. 그래도 종료하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00752",
+    "source_sha256": "30a4b6e0ef3eaf9d046507a9c6d6dfba7011eaac4029655ae0d41b6fedf4df61",
+    "ko": "계속하기 전에 게임을 저장하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00753",
+    "source_sha256": "c135572aecefac6cb1e0e187bad624348474da287ffd6f50f268c906a2bf8c46",
+    "ko": "종료하기 전에 저장하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00756",
+    "source_sha256": "942087cc2d41e01304b7195558d093d10c72af8e838c7556d6a02d471ee71852",
+    "ko": "다시 시도"
+  },
+  {
+    "id": "TXT_urbzui_00766",
+    "source_sha256": "250dc4f3954b14c3732603c9f7ebf1b87006da121b263978b2ba7bfe8633cafd",
+    "ko": "심 1"
+  },
+  {
+    "id": "TXT_urbzui_00767",
+    "source_sha256": "45502c0de4b11b4ec32735e868458acb06c84816d554018cd6478482b33ec6de",
+    "ko": "심 2"
+  },
+  {
+    "id": "TXT_urbzui_00768",
+    "source_sha256": "d035ab43e31cb934baa74a6afa62935173443bbddba5cb3cbd49d76404b58d3d",
+    "ko": "심 3"
+  },
+  {
+    "id": "TXT_urbzui_00769",
+    "source_sha256": "ca28fa1e759fb08a65c3735b2dc1af93172ef8216d1a1b6e53d0349672d20ab8",
+    "ko": "심 4"
+  },
+  {
+    "id": "TXT_urbzui_00770",
+    "source_sha256": "7e629a92e0aa283a02215eee01f4f91a1fbfe75987dc5797d16e538115be82bb",
+    "ko": "심 5"
+  },
+  {
+    "id": "TXT_urbzui_00771",
+    "source_sha256": "1b92e47435c798c38940571f1016da277294a625b239fd7a032dfb4f5ff63817",
+    "ko": "심 6"
+  },
+  {
+    "id": "TXT_urbzui_00772",
+    "source_sha256": "9857d12f6b4547801d54a4fed83330ffbdedbcd09eb0c2321be117126ae0d3c2",
+    "ko": "심 7"
+  },
+  {
+    "id": "TXT_urbzui_00773",
+    "source_sha256": "21927a08d640174fc8f2312377540ff161b5e836f0f40e2260d0c4122b0d509e",
+    "ko": "심 8"
+  },
+  {
+    "id": "TXT_urbzui_00775",
+    "source_sha256": "16405ae87040210d3ef154bc3ad4d6ab0c35afb87a43731d6a527ce9ca85de3a",
+    "ko": "심 2의 저장된 게임이 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00776",
+    "source_sha256": "210d71c707c64eb49f9138a86a2f38b4ac7bcaf4965f2db50095d0eefbdf5252",
+    "ko": "심 3의 저장된 게임이 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00777",
+    "source_sha256": "5837cd47d390c7af3d54ae09c16f43255739cc06c3a15006e91454c807e36cd7",
+    "ko": "심 4의 저장된 게임이 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00778",
+    "source_sha256": "60826be144ac95799322e49e6c033421d9f4758c28a5f6710cfd587fe17920ff",
+    "ko": "심 5의 저장된 게임이 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00779",
+    "source_sha256": "420a1187964206f4c8054f855fc10985af03a7cadf7fe5d7aa7226e84ca43a28",
+    "ko": "심 6의 저장된 게임이 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00780",
+    "source_sha256": "c6552864aa7411a6f1d4b9e715fd1d7f55b6185760c85b086c8ed2d834f5693a",
+    "ko": "심 7의 저장된 게임이 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00781",
+    "source_sha256": "697e5ba015443cbc377034f3d6bcc9cd8513804312b9f5e3301d835fcc7042b5",
+    "ko": "심 8의 저장된 게임이 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00787",
+    "source_sha256": "f99b5fd125c15c14a34269fab55435fa7685af4791131cc13784d23b389ade7c",
+    "ko": "심 추가"
+  },
+  {
+    "id": "TXT_urbzui_00794",
+    "source_sha256": "15217191891da91f14f76aed6dca8b0ccf2141f6bd10a82eb17c6effe3a27aad",
+    "ko": "심 선택:"
+  },
+  {
+    "id": "TXT_urbzui_00803",
+    "source_sha256": "33e727ca08effb1e4fb25d085ea10a8753ea294ef380d41bfe48b15fdcefb468",
+    "ko": "불러오기에 성공했습니다."
+  },
+  {
+    "id": "TXT_urbzui_00804",
+    "source_sha256": "abffd5cb61f3c8be784e6dc3dbd62f346f899cf67450d63c34499f9b2cdbe269",
+    "ko": "하드 디스크에 저장된 게임이 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00807",
+    "source_sha256": "8bb65b9711d33723de7eb1ecf3ace3e5cdba2bbc3270264bf7f2db12849076d5",
+    "ko": "저장에 성공했습니다."
+  },
+  {
+    "id": "TXT_urbzui_00811",
+    "source_sha256": "15217191891da91f14f76aed6dca8b0ccf2141f6bd10a82eb17c6effe3a27aad",
+    "ko": "심 선택:"
+  },
+  {
+    "id": "TXT_urbzui_00812",
+    "source_sha256": "c4dedb26154d999769d8f459028ea7277260e369e8d37462cfbbc1db707c7e1c",
+    "ko": "심 <p1_first_name> <p1_last_name>을 삭제하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00813",
+    "source_sha256": "f942ce5c1d8194e32c5131c3f9ce036cf89560b8f058e9d451dff25c1f6b425c",
+    "ko": "심 <p1_first_name> <p1_last_name>을 옮기시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00814",
+    "source_sha256": "9d9fc9266e5b7d829df8da752153cc06d66f91b58b67c89d845c2bbfd41f775b",
+    "ko": "하드 디스크에서 저장된 게임을 불러오시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00815",
+    "source_sha256": "c74f8420552835a51a19cba96f8010d3fe56a6182cf0aa29fe70f3aa15059e8b",
+    "ko": "새 심 가족으로 새 저장 데이터를 만드시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00818",
+    "source_sha256": "8d5415eb2f21fd17445bea4ed6d9ff71f6e41c0b54932272182778972400c190",
+    "ko": "기존 저장 데이터를 불러오시겠습니까, 아니면 새 게임을 시작하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00820",
+    "source_sha256": "c92ea66cd9cf23c32fa4832622486e79d87d6579a84d262b668cab6b3fe5d193",
+    "ko": "종료하시겠습니까? \r\n\r\n현재 게임 상태에서는 저장할 수 없습니다. 지금 종료하면 마지막 저장 이후의 진행 내용이 사라집니다.\r\n"
+  },
+  {
+    "id": "TXT_urbzui_00823",
+    "source_sha256": "bb7b9d40b4b077d793f52f898ec932d7b81a5bf55fc9339b4ca160fc7e11a0dd",
+    "ko": "계속하기 전에 심 정보를 저장하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00824",
+    "source_sha256": "783f0405462433bbe30bd7035752c43ec087c8b05ec1994f3871206515aed68d",
+    "ko": "종료하기 전에 저장하시겠습니까? \r\n\r\n저장하지 않고 종료하면 마지막 저장 이후의 진행 내용이 사라집니다.\r\n\r\n"
+  },
+  {
+    "id": "TXT_urbzui_00826",
+    "source_sha256": "89713b9c9c1b8f659c9f49db25e4a47886dd673fee248c3f650391f09a759cef",
+    "ko": "확정"
+  },
+  {
+    "id": "TXT_urbzui_00827",
+    "source_sha256": "5f3089c200f3192124ccadc166ff60017fcd7ba34dce853ff4b122fac1c76456",
+    "ko": "<atm_pet_points> 반려동물 점수 = <atm_simoleons> 시몰레온"
+  },
+  {
+    "id": "TXT_urbzui_00828",
+    "source_sha256": "5cd425f518c2e59a42b8b70008e62212d41060cc25916cfc47ad64383f9be745",
+    "ko": "환전"
+  },
+  {
+    "id": "TXT_urbzui_00829",
+    "source_sha256": "4541b0cc29c03c27be12e96bd1c03726a338ccf1eb2caaa73f4db65fc9477d04",
+    "ko": "<money> 및 <pet_points>을 가지고 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_00830",
+    "source_sha256": "4355bdf3e56d28a69c1845ac15b6467fc9b7b72ccf4d7e97ab5f21434e561710",
+    "ko": "반려동물 점수가 얼마나 필요하신가요?"
+  },
+  {
+    "id": "TXT_urbzui_00831",
+    "source_sha256": "5af909adbc004d310def3baeafbc378720362fa94f61a56f0cc4dab53164ed90",
+    "ko": "반려동물 점수 교환기"
+  },
+  {
+    "id": "TXT_urbzui_00833",
+    "source_sha256": "6b0143d03864993fdf6922b8be1c69b93b24babb9989edd7533f9eeb680148e0",
+    "ko": "돌아가기"
+  },
+  {
+    "id": "TXT_urbzui_00835",
+    "source_sha256": "dc2556327220a529f0c598389f5c12cb44079b18c0d59cdb5d564b431e7444b8",
+    "ko": "<BUTTON_0D> 벽/지붕 전환"
+  },
+  {
+    "id": "TXT_urbzui_00836",
+    "source_sha256": "8b194f2b056c194e26ea624478d66c6ce718de931326e24806acadcb063a5914",
+    "ko": "<BUTTON_0E> 복제"
+  },
+  {
+    "id": "TXT_urbzui_00837",
+    "source_sha256": "b41fe97bb19c9e54fe147e79e0c550eab4607e59623a8c88427396da0bd63fb6",
+    "ko": "<BUTTON_0B>+<BUTTON_0C> 실행 취소/다시 실행"
+  },
+  {
+    "id": "TXT_urbzui_00838",
+    "source_sha256": "380d96ebea2261e47e8c0d89e511bc86a7d459904aa3f61d501ae83a85fd4378",
+    "ko": "<BUTTON_0A> 실행 취소/다시 실행"
+  },
+  {
+    "id": "TXT_urbzui_00839",
+    "source_sha256": "c98a87de55b70f23f5cf7b4ee4d8a721f0fd39ded6a2f7149dfeee964dae7e13",
+    "ko": "마을 규정상 방을 더 지을 수 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00869",
+    "source_sha256": "cafc71e0280a6ffa4ea1f8b2303ee6577a9bfefbb4f8eae36dd10c6127c79aaf",
+    "ko": "<BUTTON_06> 혼종 생성"
+  },
+  {
+    "id": "TXT_urbzui_00870",
+    "source_sha256": "49ea5fc41a2914274af1b3b9c7c0e047bc65becb05fb77a88db111d55a00e522",
+    "ko": "몸 의상"
+  },
+  {
+    "id": "TXT_urbzui_00871",
+    "source_sha256": "7fc778a2373d010ab605f97f63bfe47cdb5e60770f0a0c688a53c715b736710b",
+    "ko": "머리 장식"
+  },
+  {
+    "id": "TXT_urbzui_00873",
+    "source_sha256": "d1d3f5e29818c4a0d128c5fc01d0aea803f7e4face95809250ac9fb846158a16",
+    "ko": "목 장식"
+  },
+  {
+    "id": "TXT_urbzui_00874",
+    "source_sha256": "f7327446a8ebc0a359aacdb889d5079d9aaebf329dcc065b501d8095b1fc9346",
+    "ko": "털 꾸미기\r\n"
+  },
+  {
+    "id": "TXT_urbzui_00875",
+    "source_sha256": "76a6a09a0363ee99625d4e52036279fdc4b4fc43f6b11b096237d230d8a8ed88",
+    "ko": "털 색상"
+  },
+  {
+    "id": "TXT_urbzui_00876",
+    "source_sha256": "dc2e4a3a8581151da3a18cf9833e809587fb36ad4819ada3be42e84ad520f82a",
+    "ko": "추가 털"
+  },
+  {
+    "id": "TXT_urbzui_00877",
+    "source_sha256": "af69d8de6153977f7bab357d5c30493159e0be76b13b9c84abab8e56fa75498c",
+    "ko": "털 무늬"
+  },
+  {
+    "id": "TXT_urbzui_00878",
+    "source_sha256": "4288ade73ff9d32824e931c858f11acab4e0a323e6b1da9bfbe124473a13ac5a",
+    "ko": "무늬"
+  },
+  {
+    "id": "TXT_urbzui_00879",
+    "source_sha256": "dc2e4a3a8581151da3a18cf9833e809587fb36ad4819ada3be42e84ad520f82a",
+    "ko": "추가 털"
+  },
+  {
+    "id": "TXT_urbzui_00880",
+    "source_sha256": "e625aaef939206fdd939ccfe9e2eb490e963dcd0f25ffd89435723e648d44326",
+    "ko": "털 스타일"
+  },
+  {
+    "id": "TXT_urbzui_00881",
+    "source_sha256": "9bb0aacc6d51f1408ed983b84c42e941fca204de70ff5595a4d1b7cff8b22815",
+    "ko": "머리"
+  },
+  {
+    "id": "TXT_urbzui_00882",
+    "source_sha256": "a713e8832f9deb5b2f61dd7ee904fe47f78b55710b494a5242e12509d78e7954",
+    "ko": "반려동물 만들기"
+  },
+  {
+    "id": "TXT_urbzui_00883",
+    "source_sha256": "1ca43f36c1622d80ddfe8091cc2d3064ecdf9122cc2faea096bd631d4738c828",
+    "ko": "반려동물 수정"
+  },
+  {
+    "id": "TXT_urbzui_00884",
+    "source_sha256": "3ca5756413e8ebe0da90be578127572e1055b385baec710ebe7aea5c72cf2278",
+    "ko": "아래층"
+  },
+  {
+    "id": "TXT_urbzui_00886",
+    "source_sha256": "fc45d3b32c31279c8ac54b859369c5cf96e73c688183466d526831f3d7e72f9a",
+    "ko": "위층"
+  },
+  {
+    "id": "TXT_urbzui_00887",
+    "source_sha256": "43ce967a2bd5607febf4503f9cb715868f2408cb781b8fa68e0f857b5b77b6a0",
+    "ko": "눈 모양 조절"
+  },
+  {
+    "id": "TXT_urbzui_00890",
+    "source_sha256": "077626bf57362bf9ae74d822b7ffa9d599c65f174ac1fea18734affd0ce86420",
+    "ko": "주둥이 모양 조절"
+  },
+  {
+    "id": "TXT_urbzui_00891",
+    "source_sha256": "d925a5657a79d2db67baa24c41edd2ff7dd0b67cf02bdc492cd49ca1c33dbb03",
+    "ko": "올바르지 않은 코드입니다."
+  },
+  {
+    "id": "TXT_urbzui_00892",
+    "source_sha256": "9f9d3dfaba65790d2229b365abaf1af1b28ff5d8fe2a762d34e711f2c45530cf",
+    "ko": "이 반려동물의 변경 사항을 버리고 새 품종을 선택하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00893",
+    "source_sha256": "46b4d63367087b31766669d40e6828146e5f490d4c97ec09a4a524dea33b9173",
+    "ko": "이 가족에는 반려동물을 더 들일 자리가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00895",
+    "source_sha256": "6510c20f68bdb3b220116195ff97bef1015b4adbf2521714eac4c9371c7f33fa",
+    "ko": "이 아이템을 구입할 반려동물 점수가 부족합니다."
+  },
+  {
+    "id": "TXT_urbzui_00896",
+    "source_sha256": "ae9c3bd11f760426e0edff0fbb001a66b4d447cf32b8442980888349ff33b01b",
+    "ko": "꼬리"
+  },
+  {
+    "id": "TXT_urbzui_00901",
+    "source_sha256": "6f05538041cbdb29909ad8cd63db054bdef7ff391f5947927dd7ae5d82e84c17",
+    "ko": "아이스크림 수레"
+  },
+  {
+    "id": "TXT_urbzui_00904",
+    "source_sha256": "393c5b208e27ad2367c4fd47376f285c4c03bfea48eb98d2b5c0af4660b9b7b4",
+    "ko": "이 동료의 직업과 의상을 바꾸시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00928",
+    "source_sha256": "2614c6bda46cd1fb343fdada59ee21d01238fb248cb1081e2423c246cddc1284",
+    "ko": "창의력 야망을 지닌 심은 삶의 모든 면에서 실험하기를 좋아합니다. 주방에서 새 요리법을 만들든 최신 유행을 선도하는 옷장을 꾸미든, 삶의 문제에 늘 창의적인 해결책을 찾으려고 노력합니다."
+  },
+  {
+    "id": "TXT_urbzui_00929",
+    "source_sha256": "6ca89a418f02363088ad158ade01d86b2675e7ded30986631de049ed44599b7d",
+    "ko": "높은 점수의 야망"
+  },
+  {
+    "id": "TXT_urbzui_00930",
+    "source_sha256": "dcb3e1c00e79236dc91f5fd8b7b37dcc44364a8c2b61f05d04063a26588e77fe",
+    "ko": "지식"
+  },
+  {
+    "id": "TXT_urbzui_00931",
+    "source_sha256": "1e70b63a93f7ca6fa349d5ac06fe40067ca38aa23d119d676c1285013f19700d",
+    "ko": "지식 야망을 지닌 심은 세상의 모든 것을 알고 싶어 합니다. 공부하고 구석구석 탐험할 시간을 주세요. 이들의 삶은 간단한 방정식입니다. 지식이 많을수록 야망 수치가 높아지고 더 오래, 더 영리하게 살아갑니다."
+  },
+  {
+    "id": "TXT_urbzui_00933",
+    "source_sha256": "e17c4b259f85531c40f6f6e6168f9bb39f13cd6e253ac404443818ce148f8fab",
+    "ko": "인기 야망을 지닌 심은 수많은 친구와 멋진 파티를 원합니다. 전화를 하거나 정치를 연습하거나 밤새 춤추고 있지 않다면, 아마 그래야 할 겁니다. 진짜 친구든 기회주의자든 친구가 늘 때마다 야망 수치가 차올라 오래도록 유명하게 살아갈 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_00935",
+    "source_sha256": "bfbd95571bad210ee714ea9865b252fa9eeb69bee61ef1f466ead7eefb5b412a",
+    "ko": "가족 야망을 지닌 심은 가족과 더 많은 시간을 보내고 싶어 합니다. 많은 심은 먼저 동네에서 교류하며 꿈에 그리던 상대를 찾아 가족을 만드는 일부터 시작합니다. 그다음에는 정착하여 행복하고 건강한 가정생활에 집중합니다."
+  },
+  {
+    "id": "TXT_urbzui_00936",
+    "source_sha256": "35466d70b1189c565c010d286ca6e27265b7b5be031a960d1754a9bf8839d695",
+    "ko": "부"
+  },
+  {
+    "id": "TXT_urbzui_00937",
+    "source_sha256": "0bcb0c656969874b094b17c6f67aa20479a39617a88de0bb16b2bbdfd195b7ba",
+    "ko": "부를 향한 야망을 지닌 심은 돈과 직업의 정점, 그리고 비싼 물건을 갈망합니다. 야망 수치를 가득 채우고 돈을 중시하는 삶을 오래 행복하게 누리려면 이 모든 것이 잔뜩 필요합니다."
+  },
+  {
+    "id": "TXT_urbzui_00979",
+    "source_sha256": "6d3b4e6c9bf3fb7192ebbe4f80d6ea394332939959caa24dd308bb6a762157b3",
+    "ko": "<BUTTON_06> 어브 회전"
+  },
+  {
+    "id": "TXT_urbzui_00980",
+    "source_sha256": "9197a6c0211bec9a792d94ab1caf1dc81063525ba490269d24852ccc02f7c0f8",
+    "ko": "<BUTTON_06> 정면 모양 조절"
+  },
+  {
+    "id": "TXT_urbzui_00982",
+    "source_sha256": "67cdde54f4d76acef1ad4eee050a69161f00154e93d20e27e2f2ff9a2c287cf2",
+    "ko": "<BUTTON_06> 등 문신"
+  },
+  {
+    "id": "TXT_urbzui_00989",
+    "source_sha256": "3f25d46a1655b6281579d1aa630ce1ff936972fde05c260987f9fa6965e26c5f",
+    "ko": "이 어브로 도시에 들어갈 준비가 되었나요?"
+  }
+]

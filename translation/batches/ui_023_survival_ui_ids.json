@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "TXT_urbzui_01468",
+    "source_sha256": "d47d7cb0e4f8fd2be5ee07826694c18917d83ca77d0a01698582d05f432db996",
+    "ko": "더 보기"
+  },
+  {
+    "id": "TXT_urbzui_01469",
+    "source_sha256": "96be35593f210be7a301ba03ef5163c98d7272645a261dba285341ff4a57eca8",
+    "ko": "<BUTTON_06> 형태 변경"
+  },
+  {
+    "id": "TXT_urbzui_01471",
+    "source_sha256": "66c4eda5d4b21d7ff60d4ee10bb78eca4ec582a44434a61c71e245301ecde2e5",
+    "ko": "1인 심 만들기"
+  },
+  {
+    "id": "TXT_urbzui_01472",
+    "source_sha256": "ded733f591997977c8b640a42fcc073e4357e1de656dde8bfd6d088741dd890f",
+    "ko": "2인 플레이"
+  },
+  {
+    "id": "TXT_urbzui_01473",
+    "source_sha256": "1ff57a29d7c9d11bdf61c1b80f2b289b44c1ea844824d4b94a0d52b6ba5fc858",
+    "ko": "다음"
+  },
+  {
+    "id": "TXT_urbzui_01474",
+    "source_sha256": "30671e5b6ae81e5d8424cc600d7d80e05fa7372378df04b367842c8539219c01",
+    "ko": "다음 목적지:"
+  },
+  {
+    "id": "TXT_urbzui_01475",
+    "source_sha256": "013453de20fa453eb361d0ea3e27515d462164bdd119c4fd01a187304d323d3d",
+    "ko": "심즈™ 2 캐스트어웨이"
+  },
+  {
+    "id": "TXT_urbzui_01476",
+    "source_sha256": "844bdb464bd82c8fafa0edd47c25a457bd884b341f112c50b0dd875009512aff",
+    "ko": "데이터와 설정 저장"
+  },
+  {
+    "id": "TXT_urbzui_01478",
+    "source_sha256": "cc8fd9eb7f959b13f36a65625796d0b359ce5bce5551d159a3a920f41cb341ee",
+    "ko": "환영합니다!"
+  },
+  {
+    "id": "TXT_urbzui_01480",
+    "source_sha256": "10a378c60cc5a04dec4e65428ed3c55e4d04f5294c1790bb19be101eb01a40b0",
+    "ko": "부지 밖"
+  },
+  {
+    "id": "TXT_urbzui_01486",
+    "source_sha256": "c786a7cadcf517a14e595642fe2decbd6ed87735e28365e3caad2a35a1aea68b",
+    "ko": "EA 로고는 보이고 그 뒤의 검은 그림자는 보이지 않도록 TV 밝기를 조절하세요."
+  },
+  {
+    "id": "TXT_urbzui_01487",
+    "source_sha256": "37c38b579b487c1578acc2734c998fc61070c28c3710c91b2ab24a59819e7f4b",
+    "ko": "가장 먼저 보이는 짙은 회색입니다."
+  },
+  {
+    "id": "TXT_urbzui_01488",
+    "source_sha256": "0f7bd0fad19df9718b4af2c2ec692aa83fb39336cbd156e6620911aed460594a",
+    "ko": "계속 <BUTTON_00>\r\n뒤로 <BUTTON_01>"
+  },
+  {
+    "id": "TXT_urbzui_01489",
+    "source_sha256": "d6ed09d6566b2b35c0aab80915207bd5024f10d5847660c757174028edcefe94",
+    "ko": "화면 위치 조정\r\n\r\n<BUTTON_03> 버튼으로 화면 위치를 조절하세요."
+  },
+  {
+    "id": "TXT_urbzui_01490",
+    "source_sha256": "b833afb222cb618ee9fbd705028bcae968223fef8beca3afc2f10991a81a23f2",
+    "ko": "화면 조정"
+  },
+  {
+    "id": "TXT_urbzui_01491",
+    "source_sha256": "3a1180564b595fd447da1342f3f6243728f200f06d7e66df15e80750beb93166",
+    "ko": "TV 색조를 조절하여 다음 색상이 올바르게 보이도록 하세요.\r\n노랑, 청록, 초록, 자홍, 빨강"
+  },
+  {
+    "id": "TXT_urbzui_01506",
+    "source_sha256": "d99b465863e711367409d7f7728e6469e2e9b1407e37c13196c714f1985b1cf2",
+    "ko": "진동 기능 켜기"
+  },
+  {
+    "id": "TXT_urbzui_01507",
+    "source_sha256": "d1caeff2c174ad5639b473a0e30522c1ef216ebc99a0486cb679643d3b77b990",
+    "ko": "진동 기능 켜기"
+  },
+  {
+    "id": "TXT_urbzui_01508",
+    "source_sha256": "dd8f85698805d98b886e68371ecacc15783f2336a0878d84df70730c96f6fe07",
+    "ko": "진동 켜기"
+  },
+  {
+    "id": "TXT_urbzui_01510",
+    "source_sha256": "dbdbcb2a87f2ff782ca324399f99daa01f2dfd0dc6ddd05b6ac927d5328ec1bf",
+    "ko": "화면 위치"
+  },
+  {
+    "id": "TXT_urbzui_01517",
+    "source_sha256": "e7f2390b2b2fc821b18c311bc6cc775526439de26a06955fd2a71b2abe57cc02",
+    "ko": "기절함"
+  },
+  {
+    "id": "TXT_urbzui_01603",
+    "source_sha256": "f27f584a31847f450e670704b1ffb601e4aedf58da2d206c55cc3844d2333206",
+    "ko": "해제할 아이템 이름 입력"
+  },
+  {
+    "id": "TXT_urbzui_01605",
+    "source_sha256": "0421de120444dad31b883893333d474e505557cf255c2afd5d86389247ab6094",
+    "ko": "이름 입력"
+  },
+  {
+    "id": "TXT_urbzui_01606",
+    "source_sha256": "c04b03830b43d3ee5691cac819d96fe6439c0f9499d223103770a3e277eeaad0",
+    "ko": "해제 코드 입력"
+  },
+  {
+    "id": "TXT_urbzui_01607",
+    "source_sha256": "c04b03830b43d3ee5691cac819d96fe6439c0f9499d223103770a3e277eeaad0",
+    "ko": "해제 코드 입력"
+  },
+  {
+    "id": "TXT_urbzui_01614",
+    "source_sha256": "e9463dccf0541a9778589691543fd69249759d5de6a97cd57d6420c3e5d92baa",
+    "ko": "배치"
+  },
+  {
+    "id": "TXT_urbzui_01616",
+    "source_sha256": "4f9995e28b431c1a19c5635fad4bbb278a6117dacc67543a4ce8d34cbb431fbb",
+    "ko": "A 버튼을 누르세요"
+  },
+  {
+    "id": "TXT_urbzui_01618",
+    "source_sha256": "79072b726109d6ea5dd17fb358464fcc0017b90189e942a0c607d79552a8c9ef",
+    "ko": "START 버튼을 눌러 시작하세요."
+  },
+  {
+    "id": "TXT_urbzui_01619",
+    "source_sha256": "fb6a3bb3f6bb506b595b921ba11f2b3dcd1e783e959c55ae0db0451544771540",
+    "ko": "<BUTTON_0C> 미리 보기"
+  },
+  {
+    "id": "TXT_urbzui_01621",
+    "source_sha256": "339ed15a40921637e4a35a7e483b540468596fcafb7d07fde7d9f155870a8957",
+    "ko": "평판"
+  },
+  {
+    "id": "TXT_urbzui_01622",
+    "source_sha256": "7d1d5db049660aa09fca575cd57e9fcd34a2a930b70ca3b1845e4eb42e606c65",
+    "ko": "여기에서 게임 치트를 사용할 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01623",
+    "source_sha256": "84ec9627c0f4896d5d96c9d4f6368767216aad0e5958f8ced47f51d59884ffa8",
+    "ko": "축하합니다! 금지된 트로피를 획득했습니다!"
+  },
+  {
+    "id": "TXT_urbzui_01624",
+    "source_sha256": "6a9fac33b7c1e18c95bd33f3daeeb5dc4e9589257ad2ea8e1a6ee2bf2a9bb181",
+    "ko": "축하합니다!"
+  },
+  {
+    "id": "TXT_urbzui_01626",
+    "source_sha256": "38911f85ae07b250ed50b6a3ca1503c033f156661d1c70b868e0f020b02136b3",
+    "ko": "이 심에게서 새 의상을 해제했습니다!"
+  },
+  {
+    "id": "TXT_urbzui_01627",
+    "source_sha256": "26faca9660619ad517c4afd448f7391360d25e47fb18c38d68deaa73bb22f279",
+    "ko": "택시 승강장을 이용해 가세요!"
+  },
+  {
+    "id": "TXT_urbzui_01628",
+    "source_sha256": "159d096aa63aeb0846c049b5008c7af01af98c88f7e1592a466abe9954f16df2",
+    "ko": "새로운 장소를 해제했습니다!"
+  },
+  {
+    "id": "TXT_urbzui_01629",
+    "source_sha256": "6612e94927a2c134d737d33c7f6dbf97d19f59d6fabc7517355283bb88c373a0",
+    "ko": "구입 목록에 새로운 물건이 추가되었습니다!"
+  },
+  {
+    "id": "TXT_urbzui_01631",
+    "source_sha256": "d1fb8471e585fcf0195ad9a271a61674b09fd68c8878b61ae3383a5037e88ec6",
+    "ko": "음식을 만들 때 배운 요리법을 확인할 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01632",
+    "source_sha256": "7e0bc68dec449ca21279251fb12b905cd82dccd6852a133f94cc68db75e3f5ab",
+    "ko": "새 요리법을 배웠습니다!"
+  },
+  {
+    "id": "TXT_urbzui_01635",
+    "source_sha256": "2ec1e28159466f2a82a3d778394486baba97f065f20073206788bcfdc7f6d2ec",
+    "ko": "판매"
+  },
+  {
+    "id": "TXT_urbzui_01638",
+    "source_sha256": "3f7876f1fc7245dae33f8f0cf9b5c078e9aa0a0cbbcbf9869383a4e6f05457d7",
+    "ko": "모든 행동 보기 <BUTTON_06>"
+  },
+  {
+    "id": "TXT_urbzui_01639",
+    "source_sha256": "6ff357e93e3a2885a1e516b52180e4cb058724133ec7d1220a055206405cbd76",
+    "ko": "<BUTTON_00> 행동 삭제"
+  },
+  {
+    "id": "TXT_urbzui_01640",
+    "source_sha256": "5ea5fbe811dbe99a3f3d0d79704d2f54194692b349f2d682bd6fb86a9cbf8f12",
+    "ko": "이동"
+  },
+  {
+    "id": "TXT_urbzui_01642",
+    "source_sha256": "6003a00ba21d0a41174acd18b008f6f26677cae37e1dc32ae2ea27ca6b83860b",
+    "ko": "행동 이름 보기 <BUTTON_06>"
+  },
+  {
+    "id": "TXT_urbzui_01643",
+    "source_sha256": "edf4edb8467d2255544f0c616852f9a8bb5771ed620be9875084aa8963e36687",
+    "ko": "이 유물의 조각을 %d개 중 %d개 가지고 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_02079",
+    "source_sha256": "a7f173cdaae49a03443ed62db8c0e34857d8c6b11281e6da7af7377309772153",
+    "ko": "벽지"
+  },
+  {
+    "id": "TXT_urbzui_02096",
+    "source_sha256": "b9c9b8a9cca94f1613816c201d9108ccdc1909d7311a0010aa372f780f3ba613",
+    "ko": "빠른 요리"
+  },
+  {
+    "id": "TXT_urbzui_02097",
+    "source_sha256": "08a982bc9a0e40afd48ce23fd1e14b1506dace1603a79e7e73bc490f049bf092",
+    "ko": "빠른 요리 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02098",
+    "source_sha256": "275c7fa106b60ad0a8186cad7af4a5dd1d454968a8156ceb2557e22664ec2294",
+    "ko": "빠른 도구 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02099",
+    "source_sha256": "5d6b1d159a52989c3f45d33aa1c04bfc7a34420f2355e842238f95510d12e912",
+    "ko": "빠른 도구"
+  },
+  {
+    "id": "TXT_urbzui_02168",
+    "source_sha256": "73e847e2914a5eb43353a764e7281bd26b8c408fbfb20bfd2f360157a3b1e83e",
+    "ko": "축하합니다. 상형문자 조각을 모두 모았습니다. 이 그림문자는 고대 라마족의 길고 복잡한 역사를 보여 줍니다. 사람들의 정신적 깨달음, 라마 수호령의 도래, 외계인과 벌인 대전쟁, 라마족 최초의 위대한 지도자의 대관식, 짐승 길들이기, 그리고 현대 라마 춤이라는 고차원 예술의 탄생이 기록되어 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_02169",
+    "source_sha256": "e23821d31f602096daf17025a4eb746f2783d1f5d9275eaaa191f08559fe41c6",
+    "ko": "시간 거리"
+  },
+  {
+    "id": "TXT_urbzui_02171",
+    "source_sha256": "755c8b2a9fb114460e0909ab65c8cd47696b7648cbcdad3dbccd937c40660d0f",
+    "ko": "상태:"
+  },
+  {
+    "id": "TXT_urbzui_02172",
+    "source_sha256": "83a433246fe6bf6d1be905136191082e5de5437d5d72390c7b71a788e90be549",
+    "ko": "소유자: "
+  },
+  {
+    "id": "TXT_urbzui_02173",
+    "source_sha256": "6276cea244a09432e8dc3cb193b43cc9e566f16ee8b930f07f0114977bd2b3e9",
+    "ko": "이 물건은 소유물이 아니므로 팔 수 없습니다.\r\n\r\n선택한 물건을 그냥 삭제하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_02174",
+    "source_sha256": "ee281852a2705e6dcf7bec1ddf81062323aec958b5f286c4d84cda5b7627758b",
+    "ko": "공공 소유물"
+  },
+  {
+    "id": "TXT_urbzui_02176",
+    "source_sha256": "f74624cdeaeedd36e41d2bda309ee40da412bd5d198779cac55fadcf9f802b51",
+    "ko": "이 아이템을 구입하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_02186",
+    "source_sha256": "512b768c95ea7da70897e69c256bc7a330154f2a2b6c33d40a2fe7aeed0daed7",
+    "ko": "물건 잡기 모드"
+  },
+  {
+    "id": "TXT_urbzui_02199",
+    "source_sha256": "1d836f889b447e6ff68c1fa2eda5ffb9d71b24ba3c069704e4309604a93271a6",
+    "ko": "특별 사교"
+  },
+  {
+    "id": "TXT_urbzui_02251",
+    "source_sha256": "bdd254b65baac169f6ac50e8175ce6d930c1fcb086dec59808d3e0170ae2291d",
+    "ko": "건설"
+  },
+  {
+    "id": "TXT_urbzui_02252",
+    "source_sha256": "64e3cb0e4960ba69298843d481376d1ce7b92cd43cf70e61a982da651c0335f3",
+    "ko": "구입"
+  },
+  {
+    "id": "TXT_urbzui_02259",
+    "source_sha256": "d626c18727589a7ed2a5676ca7ee7897334095d092314cc24fa1288e65e8449d",
+    "ko": "소망"
+  },
+  {
+    "id": "TXT_urbzui_02261",
+    "source_sha256": "eebdbb25cbbc7651f9519d09e94ca52598e5531655ad0c4f8cf402c4cda1bff1",
+    "ko": "메시지"
+  },
+  {
+    "id": "TXT_urbzui_02262",
+    "source_sha256": "90e63d85fa1ab2c8ed65222f3ebd794b1e524b4b7cf84bec451542d0451b2985",
+    "ko": "분"
+  },
+  {
+    "id": "TXT_urbzui_02301",
+    "source_sha256": "4d616d53988e27e97423a7564dff09b644e2814d839751bccd589e05f29237ad",
+    "ko": "팝"
+  },
+  {
+    "id": "TXT_urbzui_02302",
+    "source_sha256": "c9608139ab383ee3ca9840ead670871389b53ff00b9cc54702c053a67dba5d78",
+    "ko": "레게"
+  },
+  {
+    "id": "TXT_urbzui_02303",
+    "source_sha256": "18e2fc50821a0d2e8374134575eb47f217a9642e0fe209f2ded419136685fbaa",
+    "ko": "서프"
+  },
+  {
+    "id": "TXT_urbzui_02304",
+    "source_sha256": "78ae647dc5544d227130a0682a51e30bc7777fbb6d8a8f17007463a3ecd1d524",
+    "ko": "월드"
+  },
+  {
+    "id": "TXT_urbzui_02305",
+    "source_sha256": "6ec41855884849c86ba1737e492bb1980557484ee9dc7de23139e57c7820cbb7",
+    "ko": "빅 밴드"
+  },
+  {
+    "id": "TXT_urbzui_02306",
+    "source_sha256": "d07db10385a04b30773f006bb3aebe7f549aa44f27a0b4de68c63fc1a16b3490",
+    "ko": "노래 미리 듣기 <BUTTON_06>"
+  },
+  {
+    "id": "TXT_urbzui_02345",
+    "source_sha256": "5b7742b0108a65e5c49a755ff141ff60053184e3527bb405c59beb3977147ddd",
+    "ko": "노래 미리 듣기"
+  },
+  {
+    "id": "TXT_urbzui_02346",
+    "source_sha256": "428a2426e0b4243a6b7aaaa01abda0c349ce12e6634634c2dd8e398c3bedd3db",
+    "ko": "아직 상형문자를 찾지 못했습니다."
+  },
+  {
+    "id": "TXT_urbzui_02347",
+    "source_sha256": "463782144bdb4207ea075a78acb20ffe71f26d29618af5ae50374181dc260e71",
+    "ko": "아직 보물 지도 조각을 찾지 못했습니다."
+  },
+  {
+    "id": "TXT_urbzui_02348",
+    "source_sha256": "9eb9d0038c7f5b475937c42a4f3ae3c1d14e8f90a7e35139d132ab9706faf427",
+    "ko": "<COLOR_FFFF0000>기력이_부족합니다"
+  },
+  {
+    "id": "TXT_urbzui_02349",
+    "source_sha256": "0a30a815d67d7dd2018fe18f4e995a26f3b753369cd4327e9b6034b50a2cd153",
+    "ko": "쪽"
+  },
+  {
+    "id": "TXT_urbzui_02354",
+    "source_sha256": "4b67834a4c0fa5590d2e36e30f2e6904049935f543dbbfbaaa17ab7f47a4357d",
+    "ko": "플레이어 2"
+  },
+  {
+    "id": "TXT_urbzui_02355",
+    "source_sha256": "4fdc1c84d9761eb1713d3a51d4a5eecc8144a2be89d82435773fab1bf85bd666",
+    "ko": "깔끔함"
+  },
+  {
+    "id": "TXT_urbzui_02356",
+    "source_sha256": "08fe3fbd46dfe419c51ceeccea669569904c8d1423d4f3bc1b76f66211d37081",
+    "ko": "지저분함"
+  },
+  {
+    "id": "TXT_urbzui_02357",
+    "source_sha256": "3619cf0b90923a4bd37c31000ea1185061b4b80156782aeb9524272108ae4b3c",
+    "ko": "외향적"
+  },
+  {
+    "id": "TXT_urbzui_02358",
+    "source_sha256": "b71b1c6ff5f90eefdd8e66d9baa2a277957fd99c4944044d2b6f6898bb61d90c",
+    "ko": "수줍음"
+  },
+  {
+    "id": "TXT_urbzui_02359",
+    "source_sha256": "92340695899bd2d86223e4a007620e0d6502fc0e08809773634c7e0743764a9c",
+    "ko": "활동적"
+  },
+  {
+    "id": "TXT_urbzui_02360",
+    "source_sha256": "7d1792c1768c0313ac1c08a29e3ce96ce682f6e0f196d82e851d10259248b9a7",
+    "ko": "게으름"
+  },
+  {
+    "id": "TXT_urbzui_02361",
+    "source_sha256": "dde9ac29785b19e6eb3c63c64b9387c6ca5dfd228fbed6dae0767fed76edfb42",
+    "ko": "장난기 많음"
+  },
+  {
+    "id": "TXT_urbzui_02362",
+    "source_sha256": "c173da2c2a4d4ca2930d8c094826016bd697cebeed949fe20eadf033f6b16037",
+    "ko": "진지함"
+  },
+  {
+    "id": "TXT_urbzui_02363",
+    "source_sha256": "f6762372b9ce32eb2c1ecdfb745dd977726a2e1845b812b63543c54142bc517c",
+    "ko": "까칠함"
+  },
+  {
+    "id": "TXT_urbzui_02364",
+    "source_sha256": "fdc96ffbf256523aec8846ae56321053c7ab751c99eb766e6bb4a7d362a4f060",
+    "ko": "다정함"
+  },
+  {
+    "id": "TXT_urbzui_02367",
+    "source_sha256": "968fb438fa2aaf1a098b6a3bba2c2198089f5a82781160b6b11d8919964b7b06",
+    "ko": "얼간이"
+  },
+  {
+    "id": "TXT_urbzui_02368",
+    "source_sha256": "06642139cec9e7fd248b950c558ad022c54aa782f1ff5bdc19ec25d8733cbaec",
+    "ko": "영리함"
+  },
+  {
+    "id": "TXT_urbzui_02369",
+    "source_sha256": "27d855f6f09b82c939072935501b8c91a7c9a334e813913f5f1045982b30bc7f",
+    "ko": "과잉 활동"
+  },
+  {
+    "id": "TXT_urbzui_02370",
+    "source_sha256": "7d1792c1768c0313ac1c08a29e3ce96ce682f6e0f196d82e851d10259248b9a7",
+    "ko": "게으름"
+  },
+  {
+    "id": "TXT_urbzui_02371",
+    "source_sha256": "397423500c32c55ac6f2a59142ba9c330361d9a2285e90b63e3d7e8953ececfe",
+    "ko": "친근함"
+  },
+  {
+    "id": "TXT_urbzui_02372",
+    "source_sha256": "6cbf0605ed3d9f53d3f06ccfc0bd398ebb83446cff46d4333da36e79921740e8",
+    "ko": "독립적"
+  },
+  {
+    "id": "TXT_urbzui_02373",
+    "source_sha256": "4ad0cc8ec0084946ade150954a43f214c3647a20fd4fa57aa8e1b6b2c35fc23c",
+    "ko": "공격적"
+  },
+  {
+    "id": "TXT_urbzui_02374",
+    "source_sha256": "6693bb6db2c31352ed7407a1c016fbbd9e3cbcbd2324f875442d0d3ec7907bc4",
+    "ko": "겁이 많음"
+  },
+  {
+    "id": "TXT_urbzui_02375",
+    "source_sha256": "a727d205a8c915172144ef7b8b242c445ae15a6d588bc1c659162110a7268148",
+    "ko": "지저분함"
+  },
+  {
+    "id": "TXT_urbzui_02376",
+    "source_sha256": "bf49aaafa83c86d7631405df9a15d9a61228eb191acdccd49a01a26d9bc97d7f",
+    "ko": "도도함"
+  },
+  {
+    "id": "TXT_urbzui_02382",
+    "source_sha256": "2668c3dd0633df2ee273ccf72eec92b9a599b60f77931df0ff00f00b51cfebba",
+    "ko": "요리법 "
+  },
+  {
+    "id": "TXT_urbzui_02383",
+    "source_sha256": "7b5a69abc30874af0a2804f016a9e51e71400c6d8d8d5a24a4152f399f7a3fd6",
+    "ko": "숙적"
+  },
+  {
+    "id": "TXT_urbzui_02384",
+    "source_sha256": "2fe61206ca626f3fb8030353c79097b3e64d06d434d30ab253ec3127592ef43e",
+    "ko": "절친"
+  },
+  {
+    "id": "TXT_urbzui_02385",
+    "source_sha256": "fd4982bc31020a050d8c067fc834614cf61219ea924918ad39ea13972fc1b8e0",
+    "ko": "짝사랑"
+  },
+  {
+    "id": "TXT_urbzui_02388",
+    "source_sha256": "bc8b388a133c844e0ea2b1df9e41e4cfbeb1862da9df3f6adea716983188644b",
+    "ko": "<BUTTON_03> / <BUTTON_02> 이동\r\n<BUTTON_04> 글 스크롤\r\n<BUTTON_01> 뒤로"
+  },
+  {
+    "id": "TXT_urbzui_02389",
+    "source_sha256": "452aaf0452bf7b470b66bd7c93cd34abfa1bd7e021de7ad2e702b390d7d7ab82",
+    "ko": "친구는 심의 승진과 인맥 형성에 도움이 됩니다. 하지만 모두와 친구가 될 필요는 없습니다.\r\n\r\n인간관계는 사교 행동에 따라 달라집니다. 심의 기분이 좋을 때 사교가 더 효과적입니다."
+  },
+  {
+    "id": "TXT_urbzui_02391",
+    "source_sha256": "08edf7637e045ddb742e37c04c5d9264d234f917020d2b18a98efda3fea03cc4",
+    "ko": "연인"
+  },
+  {
+    "id": "TXT_urbzui_02395",
+    "source_sha256": "fbff67bba18ae1dd6b925d9ad25923203832c40e11b75a0d318c25de0aa66b02",
+    "ko": "다른 심을 만나 보세요!"
+  },
+  {
+    "id": "TXT_urbzui_02396",
+    "source_sha256": "bc5595fc5665fcf33b14352b3772c28d8ae7a0e6159a1d504a4c500a9543d5a1",
+    "ko": "(인간관계 없음)"
+  },
+  {
+    "id": "TXT_urbzui_02398",
+    "source_sha256": "0aaec3dfc38a82bb3b779b78ed0c0b218b094e05ae62621bcc3d8d3215c6ba85",
+    "ko": "이동 <BUTTON_00>"
+  },
+  {
+    "id": "TXT_urbzui_02399",
+    "source_sha256": "9e28648fe9d1916c3a92a59b2a6e9a50307d1413a46475d3730454ceb8ab6a57",
+    "ko": "도끼"
+  },
+  {
+    "id": "TXT_urbzui_02400",
+    "source_sha256": "acf4224fe3b7c749609c91fe8d9f249e035a40c2853ab7332bb29a645ee80d72",
+    "ko": "작업대"
+  },
+  {
+    "id": "TXT_urbzui_02401",
+    "source_sha256": "9aa7e682cf041fe076e2665c0facd1e7446f72d735943ae06c0eac32a379de7c",
+    "ko": "끌"
+  },
+  {
+    "id": "TXT_urbzui_02402",
+    "source_sha256": "ced9c85aec8c517d349e76274ceea6e888b92174042389662aeab169de65d443",
+    "ko": "화덕"
+  },
+  {
+    "id": "TXT_urbzui_02403",
+    "source_sha256": "8899ecd1626db63dd12b9c57879efda72a1a78a21b498e943c07229dedc09ea7",
+    "ko": "용광로"
+  },
+  {
+    "id": "TXT_urbzui_02404",
+    "source_sha256": "c157cbf647f56e730a083e3cfd4de511b593e9f0e665b0b81fed4815137358ce",
+    "ko": "망치"
+  },
+  {
+    "id": "TXT_urbzui_02405",
+    "source_sha256": "f472cddcaecf53113933313ad3694ea50989210d6ac912d5d0205911af253150",
+    "ko": "괭이"
+  },
+  {
+    "id": "TXT_urbzui_02406",
+    "source_sha256": "846e26d154ced41e445ac0d508802798327de39f30f0efc2a129c7513260dc79",
+    "ko": "칼"
+  },
+  {
+    "id": "TXT_urbzui_02407",
+    "source_sha256": "a9b5a4dc663e67ec29e1ed290e32787b8201dfb4d9c7ee6cbcbeeaeb61a399dd",
+    "ko": "조리대"
+  },
+  {
+    "id": "TXT_urbzui_02408",
+    "source_sha256": "d0b9cd97fa22d3eb6903686b58febacbf778ec7435e82181e698ccd37b58d768",
+    "ko": "검"
+  },
+  {
+    "id": "TXT_urbzui_02409",
+    "source_sha256": "c6a0885892b2a9b3e15ea70ab9d178ec5fbd02762f4246bb62c2e8100af81a23",
+    "ko": "벨소리"
+  },
+  {
+    "id": "TXT_urbzui_02410",
+    "source_sha256": "21b111cbfe6e8fca2d181c43f53ad548b22e38aca955b9824706a504b0a07a2d",
+    "ko": "기본"
+  },
+  {
+    "id": "TXT_urbzui_02430",
+    "source_sha256": "55c45bc3c6456dcc48c484bca78216e853cebe8eb03e5456691940e62e3d3dc4",
+    "ko": "스킨"
+  },
+  {
+    "id": "TXT_urbzui_02431",
+    "source_sha256": "dcbdbf264b5a95578fee06bd74971bf87e344c669e73107d98aeef7a5e6e878f",
+    "ko": "현재 야망 점수"
+  },
+  {
+    "id": "TXT_urbzui_02432",
+    "source_sha256": "5d285367ec5de396d937d06d0458799b4cc7c8bb030e4935bff36c84fec95782",
+    "ko": "동료"
+  },
+  {
+    "id": "TXT_urbzui_02433",
+    "source_sha256": "010dd7b94f5f3d31b17799f0a5419c71e80438ef34ef70b0cb0500dabee32eeb",
+    "ko": "개인"
+  },
+  {
+    "id": "TXT_urbzui_02435",
+    "source_sha256": "41adbe25fd7cef8af1e25ad315bde01f7bef276b944b45f93d8c56d721e8234d",
+    "ko": "현재 반려동물 점수"
+  },
+  {
+    "id": "TXT_urbzui_02436",
+    "source_sha256": "ae6e150a0582d0ad1c9017e72ce330548e857444e44d3f8e48e1debdbb4088a5",
+    "ko": "누적 반려동물 점수 획득량"
+  },
+  {
+    "id": "TXT_urbzui_02437",
+    "source_sha256": "0642df2eac4ec5e6b0324ef77de3380add60e527378df3b2b132899f4ac5f598",
+    "ko": "누적 반려동물 점수 사용량"
+  },
+  {
+    "id": "TXT_urbzui_02438",
+    "source_sha256": "b2005064afcb6562a9a604a3d00109d9b6622fd20db414e42448e8706608937f",
+    "ko": "소유한 반려동물"
+  },
+  {
+    "id": "TXT_urbzui_02439",
+    "source_sha256": "f98679171f87afcc0ba89d74bfabd69fd30d2292a3f67a246bafe17567aced79",
+    "ko": "마을 상점 개선"
+  },
+  {
+    "id": "TXT_urbzui_02442",
+    "source_sha256": "4edf807be888f0c9b4de5e31187be42f994896ce423163677a31a0141b4a727a",
+    "ko": "축하합니다! 해적 수염수염이 숨겨 둔 보물 지도의 마지막 조각을 찾았습니다. 지도에는 수염수염이 거대한 라마 섬 제국을 떠돌며 발견한 모든 비밀이 드러나 있습니다. 드디어 악명 높은 해적 수염수염의 발자취를 따라갈 수 있습니다. 어허이, 친구여! 무엇을 찾든 마음껏 찾아라. 하지만 조심해라. 너무 많은 것을 알아내면 네 파멸까지 찾아내고 말 테니."
+  },
+  {
+    "id": "TXT_urbzui_02446",
+    "source_sha256": "67f66a9f75e72cceee517e32d85bdbaa24c1531da325384deb67a2e2810c7998",
+    "ko": "발견한 의상"
+  },
+  {
+    "id": "TXT_urbzui_02447",
+    "source_sha256": "79b9e2a2a23c0d03de0a416ff7d20fe40c9b137a800374c49a7c542ee41adf72",
+    "ko": "발견한 장소"
+  },
+  {
+    "id": "TXT_urbzui_02448",
+    "source_sha256": "831ddd99c911d5f9aab8a47ba29adf79df439580893c5ed22864581eacaa88cd",
+    "ko": "해제한 물건 "
+  },
+  {
+    "id": "TXT_urbzui_02449",
+    "source_sha256": "8817a67e39a62e09de958cad8a60bef9381a1c5f2a13062eed064d9ee3128609",
+    "ko": "전체 달성도"
+  },
+  {
+    "id": "TXT_urbzui_02450",
+    "source_sha256": "1b936ffa968c43585c2661f88ace713372420dbbd143e9de2d9783858d84be30",
+    "ko": "승진 횟수"
+  },
+  {
+    "id": "TXT_urbzui_02451",
+    "source_sha256": "9dc40a29dd77a9e9f69df60ccb244ae78d9e640267290f6680bcd1e07e4aec2c",
+    "ko": "배운 요리법"
+  },
+  {
+    "id": "TXT_urbzui_02452",
+    "source_sha256": "879968e0912d67348bf1c0b66eb0313e47b5bf18d2321a75800121ea267e6f6a",
+    "ko": "최고 레벨 기술"
+  },
+  {
+    "id": "TXT_urbzui_02453",
+    "source_sha256": "582f9c4c603cb53518914f9d266d40dc8d90b2ec5c8f8cd0559f34822b334ffb",
+    "ko": "획득한 기술 점수 "
+  },
+  {
+    "id": "TXT_urbzui_02454",
+    "source_sha256": "4418d57317d584aae21ce6345d8c3c103799b2ba1e9353d7cc9ee8bc2918ce9b",
+    "ko": "도움을 준 심"
+  },
+  {
+    "id": "TXT_urbzui_02456",
+    "source_sha256": "c40bf20ecf7027acc0034ea863e781d7bc7af77dc3acd66bf5603905998f6367",
+    "ko": "\r\n      <BUTTON_0B> / <BUTTON_0C> 분류 변경\r\n      <BUTTON_01> 뒤로\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_02459",
+    "source_sha256": "0dbd95fa75ac3f4436328e6710eac23d620eaae30cc8ae650be2cf3031c4d7af",
+    "ko": "소망과 야망"
+  },
+  {
+    "id": "TXT_urbzui_02460",
+    "source_sha256": "192d78959bbea6e88d3dfc8ff4283b2689725895532200f2c78fcb267ce7bc28",
+    "ko": "물병자리"
+  },
+  {
+    "id": "TXT_urbzui_02461",
+    "source_sha256": "611aa421f617bdf032ec56eaf2fa7d083aa9feff90e52d592b6a1bf8271bcac7",
+    "ko": "양자리"
+  },
+  {
+    "id": "TXT_urbzui_02462",
+    "source_sha256": "f2c28b5295d9ad14e2e24f8467e0dab646338858d7f11d5267b094e875e36edb",
+    "ko": "게자리"
+  },
+  {
+    "id": "TXT_urbzui_02463",
+    "source_sha256": "d15a3290f5f106ca68ed8fabf39448526ba64801ad6d84e56d20cc0969a34b09",
+    "ko": "염소자리"
+  },
+  {
+    "id": "TXT_urbzui_02464",
+    "source_sha256": "f6ece80b88d6dfbd2f65dad5ccde8e5ec2a0d4dbfadc2fe87bdf58642f17e446",
+    "ko": "쌍둥이자리"
+  },
+  {
+    "id": "TXT_urbzui_02465",
+    "source_sha256": "5bc426e8d81e2f4136a562fac893c2229e3faa99d97df09ab604a2f8a0c0a60c",
+    "ko": "사자자리"
+  },
+  {
+    "id": "TXT_urbzui_02466",
+    "source_sha256": "28fb1f3f9675e8f3311ad6cd7f9f62c86bff8c42239cad3060285e076ef98f2c",
+    "ko": "천칭자리"
+  },
+  {
+    "id": "TXT_urbzui_02467",
+    "source_sha256": "30961ce222dbd2ef50c2b1df95464603d41511d58444a30c71f480af1b46df40",
+    "ko": "물고기자리"
+  },
+  {
+    "id": "TXT_urbzui_02468",
+    "source_sha256": "96c3ee48c543220faa5b967432e5d4bc77bb102378fe797160e9a8842d73bd96",
+    "ko": "사수자리"
+  },
+  {
+    "id": "TXT_urbzui_02469",
+    "source_sha256": "1dc262fefd7b6f85b2a6bced38821e7ac406dc082a0e0d5d45dc3f7548674e6c",
+    "ko": "전갈자리"
+  },
+  {
+    "id": "TXT_urbzui_02470",
+    "source_sha256": "9ccc525b843a15c12c13e771e11193a9f24a36aa10400f3c9dcf4d3a4e7f6cf4",
+    "ko": "황소자리"
+  },
+  {
+    "id": "TXT_urbzui_02471",
+    "source_sha256": "a17905941e7921762bedfe68b4d4af57a8c2a51750f7bd3c15f8c63861edf0eb",
+    "ko": "처녀자리"
+  },
+  {
+    "id": "TXT_urbzui_02622",
+    "source_sha256": "cf7f3e1a7568723fb11939d484060bc489c965b594b71310777529b6143f5f3c",
+    "ko": "코치"
+  },
+  {
+    "id": "TXT_urbzui_02623",
+    "source_sha256": "3f3f00702d9a75878e718ccee8254c0c299815bc74882a7a39464d0490e07ee0",
+    "ko": "미술과_공예"
+  },
+  {
+    "id": "TXT_urbzui_02624",
+    "source_sha256": "84b06a5d87ee4f63ab96c54dcc4cbf22a40e547e114f121d12b53c58650a3eca",
+    "ko": "공원과_여가"
+  },
+  {
+    "id": "TXT_urbzui_02625",
+    "source_sha256": "19e4be434d01531c35083bfc7a815bf4801e2c48bb40693393c0278a41f44aa9",
+    "ko": "법_집행"
+  },
+  {
+    "id": "TXT_urbzui_02626",
+    "source_sha256": "76f68a75f01ed76f5a02ada71a3765a38ef2c45ba99106ee5a4bd5678d7bbdd0",
+    "ko": "사업"
+  },
+  {
+    "id": "TXT_urbzui_02627",
+    "source_sha256": "348a80554e64431bd00368472918759246eb7808ac6e8328701c4b06dd017cfc",
+    "ko": "의류_판매"
+  },
+  {
+    "id": "TXT_urbzui_02628",
+    "source_sha256": "c4d3d42ed3a4f2ba6d3cd9eebc85ffcbcc6cd7333de9d57f7cb61a4c524d982f",
+    "ko": "의료"
+  },
+  {
+    "id": "TXT_urbzui_02629",
+    "source_sha256": "512ab3c6b9869577bd4474c56b88f9e3f1c40c54d18e8e5a2329821254d362d2",
+    "ko": "교육"
+  },
+  {
+    "id": "TXT_urbzui_02630",
+    "source_sha256": "c71e90d2f497062ba8d068af0bed2a3dc1fc250e03ab2718d7a1b2bdf00adc09",
+    "ko": "공직"
+  },
+  {
+    "id": "TXT_urbzui_02631",
+    "source_sha256": "9dc7e90e56b2f2635e18b04c731ea09762e1acd223b106df46e0013851b532b1",
+    "ko": "건설"
+  },
+  {
+    "id": "TXT_urbzui_02637",
+    "source_sha256": "e4eb18069d65aaa901cecb66371155f389643796428e9d54c5f5127c91ab3fdc",
+    "ko": "음식"
+  },
+  {
+    "id": "TXT_urbzui_02638",
+    "source_sha256": "0b9bda2361da4d4bc3178e8ae2b1ddf7afa35e3b2ba0d0b191d24e38a044f2f4",
+    "ko": "재료_출처"
+  },
+  {
+    "id": "TXT_urbzui_02639",
+    "source_sha256": "c4b6d4d74377bd9155825cddd29504ab82bc5cce5b6f0d5f5d7913c740288fdf",
+    "ko": "음식_효과"
+  },
+  {
+    "id": "TXT_urbzui_02658",
+    "source_sha256": "c560122ac4706dcb19bcb43defe2afa6e84809176688807abd297bf17cd76388",
+    "ko": "쓰레기"
+  },
+  {
+    "id": "TXT_urbzui_02689",
+    "source_sha256": "07607d609f9a3592484e9a0eace33d5a5530379335466648e41279517f7d5859",
+    "ko": "조명"
+  },
+  {
+    "id": "TXT_urbzui_02696",
+    "source_sha256": "b1960a627ea667f0ad64b30a65273761a6f0398da2590e0dc400a80dc0617543",
+    "ko": "혐오감"
+  },
+  {
+    "id": "TXT_urbzui_02697",
+    "source_sha256": "e3db555493361594b1dad2325c25b6ef647b3c02362d89673e49023cf5722fbb",
+    "ko": "기력_상승"
+  },
+  {
+    "id": "TXT_urbzui_02698",
+    "source_sha256": "9ba85b80449afc7433afb80a26dca0cfc10887c22fe19bbe136f6f471e257482",
+    "ko": "이뇨_작용"
+  },
+  {
+    "id": "TXT_urbzui_02699",
+    "source_sha256": "d6bea94b06e90b1967396e5d4dc60ef78a1c17eaa5be60cfa0f2514705c5be28",
+    "ko": "메스꺼움"
+  },
+  {
+    "id": "TXT_urbzui_02700",
+    "source_sha256": "8a14b1001f5c71bf0b941cb8bb9c87794d6c69e6b48456adbf417ef79cd1df0d",
+    "ko": "포근한_기분"
+  },
+  {
+    "id": "TXT_urbzui_02701",
+    "source_sha256": "40369afebb5df86aebed8ce840206e98aa0fed97b0ac5b446c8aad7bb0d3b92e",
+    "ko": "기술_상승"
+  },
+  {
+    "id": "TXT_urbzui_02716",
+    "source_sha256": "0e00169ad8095561c51357e43f9d5cc76e316a950e70c4129b5d42ee6a3d7655",
+    "ko": "천적"
+  },
+  {
+    "id": "TXT_urbzui_02717",
+    "source_sha256": "e8be903b28f8734b5481ccf9a480317dd85d3e689257e59fcb4e896e4fcfa207",
+    "ko": "숙적"
+  },
+  {
+    "id": "TXT_urbzui_02722",
+    "source_sha256": "2fe61206ca626f3fb8030353c79097b3e64d06d434d30ab253ec3127592ef43e",
+    "ko": "절친"
+  },
+  {
+    "id": "TXT_urbzui_02723",
+    "source_sha256": "fd4982bc31020a050d8c067fc834614cf61219ea924918ad39ea13972fc1b8e0",
+    "ko": "짝사랑"
+  },
+  {
+    "id": "TXT_urbzui_02850",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02851",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02852",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02853",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02854",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02855",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02856",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02857",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02858",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02859",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02860",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02861",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02862",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02863",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02864",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02865",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02866",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02867",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02868",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02869",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02870",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02871",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02872",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  },
+  {
+    "id": "TXT_urbzui_02873",
+    "source_sha256": "ce9b04cd7fe10deb7d8a491fde2f0d17269046879c2fa617f6fc4cd8ddb0c038",
+    "ko": "새로운 심 옵션!"
+  }
+]

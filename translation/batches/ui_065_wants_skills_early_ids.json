@@ -1,0 +1,327 @@
+[
+  {
+    "id": "TXT_SimsObjects_10576",
+    "source_sha256": "e07e2207280256643d353bf72d571e4a9b25f04d8cc96b0a332742bf9b9cd6b3",
+    "ko": "<WT>기술_점수_얻기. 특정 물건을 사용하면 기술이 향상됩니다. 실망하지 마세요. 배움에는 시간이 걸립니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10577",
+    "source_sha256": "c19dabb5fc1afef319e02b938486057302b807bf60ff614886c902d803b5bde4",
+    "ko": "기술 점수 얻기"
+  },
+  {
+    "id": "TXT_SimsObjects_10578",
+    "source_sha256": "66942d7a717c1ec85b6abc454095c7cbd94c8ca81f7472f9bd5c74726867e247",
+    "ko": "<WT>$skill 기술 점수 얻기. 특정 물건을 사용하면 기술이 향상됩니다. 실망하지 마세요. 배움에는 시간이 걸립니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10579",
+    "source_sha256": "0352650116f8a717e9929ac2f8eeb33eb7df4e0fec0642b0a010be1be7150282",
+    "ko": "$skill 기술 점수 얻기"
+  },
+  {
+    "id": "TXT_SimsObjects_10580",
+    "source_sha256": "66942d7a717c1ec85b6abc454095c7cbd94c8ca81f7472f9bd5c74726867e247",
+    "ko": "<WT>$skill 기술 점수 얻기. 특정 물건을 사용하면 기술이 향상됩니다. 실망하지 마세요. 배움에는 시간이 걸립니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10581",
+    "source_sha256": "0352650116f8a717e9929ac2f8eeb33eb7df4e0fec0642b0a010be1be7150282",
+    "ko": "$skill 기술 점수 얻기"
+  },
+  {
+    "id": "TXT_SimsObjects_10582",
+    "source_sha256": "c119aa2c170cae01abdd86d1edf1f9e39b0ff5a1576c39a14d4b405e17cafc95",
+    "ko": "<WT>기술_점수_얻기. 승진하고 성공하려면 높은 기술이 필요합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10583",
+    "source_sha256": "2c39068bb34c851769937c6256ece4befbe030183e4db21fe5276ce9da857647",
+    "ko": "기술 점수 얻기"
+  },
+  {
+    "id": "TXT_SimsObjects_10584",
+    "source_sha256": "b3c13462fdf0d128aa88b038e7deb5fb8aeccb19227748631147cc71b49cda80",
+    "ko": "<WT>$skill_point 기술 점수 얻기! 훌륭한 요리사에게는 높은 기술이 필요합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10585",
+    "source_sha256": "02c8f6d0014d13e0fb72d6e14830249ce1cdaecd1c52298886449062ed251cb4",
+    "ko": "$skill 기술 점수 얻기"
+  },
+  {
+    "id": "TXT_SimsObjects_10586",
+    "source_sha256": "a81a260f3ca2ffe2f1addacbd9a5c5523e177d0322e96e7a58444e8e078d286c",
+    "ko": "<WT>$skill_point 기술 점수 얻기. 요리 기술이 1점 오를 때마다 새 요리법을 배웁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10587",
+    "source_sha256": "02c8f6d0014d13e0fb72d6e14830249ce1cdaecd1c52298886449062ed251cb4",
+    "ko": "$skill 기술 점수 얻기"
+  },
+  {
+    "id": "TXT_SimsObjects_10588",
+    "source_sha256": "826f9141d7af59907b9dd175034b2268d96aa534048907e91d4702df536175a4",
+    "ko": "<WT>$skill_skill_point 기술 점수 얻기. 매력은 아무리 많아도 넘치지 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10589",
+    "source_sha256": "02c8f6d0014d13e0fb72d6e14830249ce1cdaecd1c52298886449062ed251cb4",
+    "ko": "$skill 기술 점수 얻기"
+  },
+  {
+    "id": "TXT_SimsObjects_10590",
+    "source_sha256": "0362255e3ca71bb572db2ba9edf0b77c9f373c013c130c410d306e13994d4c1c",
+    "ko": "<WT>$skill_point 기술 점수 얻기. 성공 확률을 높이는 데는 약간의 $skill만 한 것이 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10591",
+    "source_sha256": "02c8f6d0014d13e0fb72d6e14830249ce1cdaecd1c52298886449062ed251cb4",
+    "ko": "$skill 기술 점수 얻기"
+  },
+  {
+    "id": "TXT_SimsObjects_10592",
+    "source_sha256": "73c3e51e61a97c57389bdeb437cc6702c40f36e64a6c7d058ecd2a9f1760655a",
+    "ko": "<WT>$skill_point 기술 점수 얻기. 영화 경력은 주춤해도 $me의 창의적인 꿈은 여전합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10593",
+    "source_sha256": "02c8f6d0014d13e0fb72d6e14830249ce1cdaecd1c52298886449062ed251cb4",
+    "ko": "$skill 기술 점수 얻기"
+  },
+  {
+    "id": "TXT_SimsObjects_10594",
+    "source_sha256": "b7a467e985d72929ba51a6dd5b06c2447c00e264bddace5a578e37d3d6a3bde0",
+    "ko": "<WT>$skill_point 기술 점수 얻기. $me의 작품을 성공적으로 팔려면 예술 기술부터 갈고닦아야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10595",
+    "source_sha256": "7fe28b389c01ce6f2ddb3ccd02cf027f120194cfc783df5a69cbe56830e0d6af",
+    "ko": "$skill 기술 점수 얻기 "
+  },
+  {
+    "id": "TXT_SimsObjects_10596",
+    "source_sha256": "8b76a7f75323558f631999c3dffa7a4aa08b494e335463503110b76a712befe4",
+    "ko": "<WT>레벨_$int_in_any_Skill 달성하기. 모든 심은 최선의 자신이 되도록 노력해야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10597",
+    "source_sha256": "cc0574b5bb2d7f9af8a322a4be1e23ca7c1a04e95faa565cfae28355eb269466",
+    "ko": "아무 기술에서 레벨 $int 달성하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10598",
+    "source_sha256": "614b0d9adb9836c10a345cfdce144a5f512b9ed9ec6e1f94be127e2e94daa045",
+    "ko": "<WT>레벨_$int_in_ 달성 / 기술: $skill. 모든 심은 최선의 자신이 되도록 노력해야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10599",
+    "source_sha256": "7732e21bf69960ae3930892e7cca837c20f58aeb0b20f49157adb47710d95773",
+    "ko": "기술 $skill / 레벨 $int 달성하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10600",
+    "source_sha256": "614b0d9adb9836c10a345cfdce144a5f512b9ed9ec6e1f94be127e2e94daa045",
+    "ko": "<WT>레벨_$int_in_ 달성 / 기술: $skill. 모든 심은 최선의 자신이 되도록 노력해야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10601",
+    "source_sha256": "7732e21bf69960ae3930892e7cca837c20f58aeb0b20f49157adb47710d95773",
+    "ko": "기술 $skill / 레벨 $int 달성하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10602",
+    "source_sha256": "090466836670781a4508db73aebed0cdb1fdd7332c498fb76a6e10fb2ac8c776",
+    "ko": "<WT>기술_$skill_skill_level_ / 레벨_$int 달성하기. 기술이 높아지면 새롭고 흥미로운 방식으로 물건을 사용할 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10603",
+    "source_sha256": "93f35d7d6d4de0b1a8f4c4fbad728e0fd5be8ac9d82849add5d63469b9d56dfe",
+    "ko": "기술 $skill / 레벨 $int 달성하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10604",
+    "source_sha256": "b131b34558f090f2e6aa76482099306a9d4eaa41b19860a03fa21c1903e04802",
+    "ko": "<WT>심에게_깊은_인상_주기. 교류하며 조금 더 노력해 다른 심의 관심을 얻으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10605",
+    "source_sha256": "a9d342dac5a8da5670ca44e87eb4ee7d6fc776de9d38f60716f5c23490b85cdd",
+    "ko": "심에게 깊은 인상 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_10606",
+    "source_sha256": "ead0a1fe48fe708bfc17088f23e26abe8cf0edc02eb66f44b27fb3590ed3c613",
+    "ko": "<WT>$sim에게 깊은 인상 주기. $sim의 관심을 확실히 끌 묘기를 써 보는 건 어떨까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_10607",
+    "source_sha256": "dd12b7c1717b39b93d0f610a723e919ff5df17e4fa1dcae8d5d818f633465911",
+    "ko": "$sim에게 깊은 인상 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_10608",
+    "source_sha256": "ead0a1fe48fe708bfc17088f23e26abe8cf0edc02eb66f44b27fb3590ed3c613",
+    "ko": "<WT>$sim에게 깊은 인상 주기. $sim의 관심을 확실히 끌 묘기를 써 보는 건 어떨까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_10609",
+    "source_sha256": "dd12b7c1717b39b93d0f610a723e919ff5df17e4fa1dcae8d5d818f633465911",
+    "ko": "$sim에게 깊은 인상 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_10610",
+    "source_sha256": "77f194a2371e278a76e5c13ef34334f531c0ff0db27bb9e4beef78e91feb8839",
+    "ko": "관계 X개: $Relationship(s)"
+  },
+  {
+    "id": "TXT_SimsObjects_10611",
+    "source_sha256": "14a26ac684654983037cc689ea4431464d15d24d0c68d79ca4aeb1f47f66a6a7",
+    "ko": "$relationship 관계를 심 $int명과 맺기"
+  },
+  {
+    "id": "TXT_SimsObjects_10612",
+    "source_sha256": "5e99f24cfd98f27ff16f1eb83ef5659a23a1ecef05e7c01f03253a68e45d9a18",
+    "ko": "<WT>관계_$relationship_Status_with_ / 심_$int_Sims. 성격에 따라 집중하고 싶은 관계의 종류도 다릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10613",
+    "source_sha256": "d1097dc97a820e642ab38e970c11cf5aa563bf008c9c0f9cf0e68a49e6703dde",
+    "ko": "$relationship 관계 맺기 (인원 $int)"
+  },
+  {
+    "id": "TXT_SimsObjects_10614",
+    "source_sha256": "d763f4c2ec8487647145bd47d362cabbf8fb0c9adf702a42282c7320c086f6b7",
+    "ko": "<WT>관계 $relationship / 심 $int명과 맺기. 성격에 따라 집중하고 싶은 관계의 종류도 다릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10615",
+    "source_sha256": "4dc500300bfa5d41980b07d65e4237c8a9ae2ed40864e3cb6072e45ef6483c78",
+    "ko": "$relationship 관계 맺기 (인원 $int)"
+  },
+  {
+    "id": "TXT_SimsObjects_10616",
+    "source_sha256": "cc9c1a8be1da4611596a6b8e8c265ab246e48c1a956efdcd588e5e035eb6217e",
+    "ko": "<WT>친구_$int_friends 사귀기. 인터넷으로 모으는 것만으로는 부족합니다. 심들은 컴퓨터 앞에서 익명으로 비꼬는 댓글만 달아도 만족합니다. $me의 인맥은 옛 방식으로 키워야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10618",
+    "source_sha256": "79c8c33d2135570bd45584eeb28b7ea321e03bf0a40aa89dc097d4a6db06a32f",
+    "ko": "<WT>연인_$int_lovers 사귀기. $me에게는 일부일처제라는 사회적 틀이 답답하게 느껴집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10619",
+    "source_sha256": "4978d46040da10f188fe5cc252d0205ca1df232507732c965c1b62802f7f7b3b",
+    "ko": "연인 $int명 사귀기"
+  },
+  {
+    "id": "TXT_SimsObjects_10620",
+    "source_sha256": "9cd2a638116860cfdc4a450c8de0e1499b85e0894dc5a4622f38cf346ef3ef6a",
+    "ko": "<WT>체커에서_닭_이기기. 얼마나 어렵겠어요? 닭인데요."
+  },
+  {
+    "id": "TXT_SimsObjects_10621",
+    "source_sha256": "8cce1c66d5f2f527a003b18384c470fd0c11198fcdc3c886371dd10ceab374fa",
+    "ko": "체커에서 닭 이기기"
+  },
+  {
+    "id": "TXT_SimsObjects_10622",
+    "source_sha256": "696c15d3f47ae6644c041800c942b6d781f76c86ea8cd9bc7928e2d477f8f452",
+    "ko": "체커에서 닭 이기기"
+  },
+  {
+    "id": "TXT_SimsObjects_10623",
+    "source_sha256": "696c15d3f47ae6644c041800c942b6d781f76c86ea8cd9bc7928e2d477f8f452",
+    "ko": "체커에서 닭 이기기"
+  },
+  {
+    "id": "TXT_SimsObjects_10624",
+    "source_sha256": "696c15d3f47ae6644c041800c942b6d781f76c86ea8cd9bc7928e2d477f8f452",
+    "ko": "체커에서 닭 이기기"
+  },
+  {
+    "id": "TXT_SimsObjects_10625",
+    "source_sha256": "696c15d3f47ae6644c041800c942b6d781f76c86ea8cd9bc7928e2d477f8f452",
+    "ko": "체커에서 닭 이기기"
+  },
+  {
+    "id": "TXT_SimsObjects_10626",
+    "source_sha256": "9c78dbc559bfdb1fe2ce4441d6dd46c5fd93178d7943d13df023b8c0d93175f4",
+    "ko": "<WT>외계인_만나기. 모든 심을 대표하는 대사가 되세요.  "
+  },
+  {
+    "id": "TXT_SimsObjects_10627",
+    "source_sha256": "dd284c8fd343e11dc706b10b043ee3e9168ecd541e2d36db9e0db3ea4d83ed9d",
+    "ko": "외계인 만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10628",
+    "source_sha256": "15784b40fec017f4647b0b7e6d860795969405f2d790b4438b3bc0a96860299a",
+    "ko": "외계인 만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10629",
+    "source_sha256": "15784b40fec017f4647b0b7e6d860795969405f2d790b4438b3bc0a96860299a",
+    "ko": "외계인 만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10630",
+    "source_sha256": "15784b40fec017f4647b0b7e6d860795969405f2d790b4438b3bc0a96860299a",
+    "ko": "외계인 만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10631",
+    "source_sha256": "15784b40fec017f4647b0b7e6d860795969405f2d790b4438b3bc0a96860299a",
+    "ko": "외계인 만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10632",
+    "source_sha256": "ca71cd5c1745b1e81450a120031a3c0362be0087405ced6533338239e692ff41",
+    "ko": "<WT>외계인_만나기. 스트레인지빌은 원래 조금 평범하지 않은 곳입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10633",
+    "source_sha256": "dd284c8fd343e11dc706b10b043ee3e9168ecd541e2d36db9e0db3ea4d83ed9d",
+    "ko": "외계인 만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10634",
+    "source_sha256": "ba320447102b47930cf6d1ce860311d0968aa1798548ddb9f40f1f04957334a2",
+    "ko": "<WT>유령_만나기. 오래전에 잃은 삼촌일지도 모릅니다. 아닐 수도 있고요.  "
+  },
+  {
+    "id": "TXT_SimsObjects_10640",
+    "source_sha256": "e1e321f5fde1eb7fd175c0aec2b6c022246ef033dd84e6715565108c03d4e3ae",
+    "ko": "<WT>외계인에게_납치되기. 별을 살펴보세요. 일생일대의 모험이 될 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10641",
+    "source_sha256": "6087008cc43ce5864f6ec925922af3f59001598933abf82d2b1ded07363250bd",
+    "ko": "외계인에게 납치되기"
+  },
+  {
+    "id": "TXT_SimsObjects_10642",
+    "source_sha256": "5a6a0ed0882ff7d41e633b160576cbb5f48e79663571c1e988b085db0dd6b3b9",
+    "ko": "외계인에게 납치되기"
+  },
+  {
+    "id": "TXT_SimsObjects_10643",
+    "source_sha256": "5a6a0ed0882ff7d41e633b160576cbb5f48e79663571c1e988b085db0dd6b3b9",
+    "ko": "외계인에게 납치되기"
+  },
+  {
+    "id": "TXT_SimsObjects_10644",
+    "source_sha256": "5a6a0ed0882ff7d41e633b160576cbb5f48e79663571c1e988b085db0dd6b3b9",
+    "ko": "외계인에게 납치되기"
+  },
+  {
+    "id": "TXT_SimsObjects_10645",
+    "source_sha256": "5a6a0ed0882ff7d41e633b160576cbb5f48e79663571c1e988b085db0dd6b3b9",
+    "ko": "외계인에게 납치되기"
+  },
+  {
+    "id": "TXT_SimsObjects_10646",
+    "source_sha256": "8fc91fcf91f9d341fc19009ec2a980ae6cd1395355b564a716a0dda4c3c4e22a",
+    "ko": "<WT>모든_기술_통달하기. 위대함이 이렇게 가까운데 왜 평범함에 만족하나요?"
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "TXT_SimsObjects_07470",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08110",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_08731",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08732",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_08733",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_08739",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08740",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_08741",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_08747",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08748",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_08749",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_08920",
+    "source_sha256": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+    "ko": "읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_08922",
+    "source_sha256": "a208c31c72b459222aa1e61f9d917d0b4b28098019ca60232947a6c36962710a",
+    "ko": "일자리 찾기"
+  },
+  {
+    "id": "TXT_SimsObjects_08932",
+    "source_sha256": "dc5117b2f764ff207dd1d15be37843b4b45ec8e0500156520defc28dfa810bd0",
+    "ko": "바나나 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_08940",
+    "source_sha256": "dc5117b2f764ff207dd1d15be37843b4b45ec8e0500156520defc28dfa810bd0",
+    "ko": "바나나 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_08956",
+    "source_sha256": "dc5117b2f764ff207dd1d15be37843b4b45ec8e0500156520defc28dfa810bd0",
+    "ko": "바나나 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_08964",
+    "source_sha256": "dc5117b2f764ff207dd1d15be37843b4b45ec8e0500156520defc28dfa810bd0",
+    "ko": "바나나 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_08972",
+    "source_sha256": "dc5117b2f764ff207dd1d15be37843b4b45ec8e0500156520defc28dfa810bd0",
+    "ko": "바나나 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_08984",
+    "source_sha256": "dc5117b2f764ff207dd1d15be37843b4b45ec8e0500156520defc28dfa810bd0",
+    "ko": "바나나 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_08992",
+    "source_sha256": "dc5117b2f764ff207dd1d15be37843b4b45ec8e0500156520defc28dfa810bd0",
+    "ko": "바나나 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_09009",
+    "source_sha256": "dc5117b2f764ff207dd1d15be37843b4b45ec8e0500156520defc28dfa810bd0",
+    "ko": "바나나 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_09092",
+    "source_sha256": "cb1d16c8c3a136cc53bdf42775b4292a479e1ec046c0e521d2aba7c2b919d9a7",
+    "ko": "반려동물 점수란?"
+  },
+  {
+    "id": "TXT_SimsObjects_09093",
+    "source_sha256": "ab63b5fdbc45792610e986b7a9039549020dac7d315a7089b06105f99b382bba",
+    "ko": "마을 광장 안내"
+  },
+  {
+    "id": "TXT_SimsObjects_09108",
+    "source_sha256": "fd30fe681b4b2d9e55f851cb34641f907401aa43e9d80f5b1e14ce714ef00497",
+    "ko": "함께하기"
+  },
+  {
+    "id": "TXT_SimsObjects_09109",
+    "source_sha256": "f33e435b3f76b36a58f2796b111dcad7df735a93432f6dc498b91c2b447037e7",
+    "ko": "타기"
+  },
+  {
+    "id": "TXT_SimsObjects_09142",
+    "source_sha256": "65719444b7a73b63cfd39669a69b0486a12aba45a297a74b68ca0e92a58664c5",
+    "ko": "협곡 건너기"
+  },
+  {
+    "id": "TXT_SimsObjects_09240",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09245",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09250",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09255",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09260",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09265",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09270",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09275",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09280",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09285",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09290",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09295",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09300",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09305",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09310",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09315",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09320",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09325",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09330",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09335",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09340",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09345",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09350",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09355",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09360",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09365",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09370",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09375",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09380",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09385",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09390",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09395",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09400",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09405",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09955",
+    "source_sha256": "e0f19b2a07c7991d47044425cfc4206667e41e82d590a0d2922a1776db099b91",
+    "ko": "자리공 열매 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_09959",
+    "source_sha256": "e0f19b2a07c7991d47044425cfc4206667e41e82d590a0d2922a1776db099b91",
+    "ko": "자리공 열매 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_09975",
+    "source_sha256": "e0f19b2a07c7991d47044425cfc4206667e41e82d590a0d2922a1776db099b91",
+    "ko": "자리공 열매 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_09982",
+    "source_sha256": "e0f19b2a07c7991d47044425cfc4206667e41e82d590a0d2922a1776db099b91",
+    "ko": "자리공 열매 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_09986",
+    "source_sha256": "e0f19b2a07c7991d47044425cfc4206667e41e82d590a0d2922a1776db099b91",
+    "ko": "자리공 열매 수확하기"
+  }
+]

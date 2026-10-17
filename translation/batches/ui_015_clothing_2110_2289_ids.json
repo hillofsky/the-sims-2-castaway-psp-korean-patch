@@ -1,0 +1,902 @@
+[
+  {
+    "id": "TXT_SimsObjects_02110",
+    "source_sha256": "34edd0e01be2fd4ba5fc1eda2691b44bde9122f90bdfaab5ea730d0fc7b1f7fd",
+    "ko": "정교한 바느질 카프리 바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02111",
+    "source_sha256": "c4df0a4f0b509344872c2e271d9ae53205129513cc20a8fc23ca13c1fbce8491",
+    "ko": "이 카프리 바지를 바느질할 수준에 이르기까지 오래 걸릴지 모릅니다. 하지만 바지는 그보다 훨씬 오래 버틸 테니 기억해 두세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02112",
+    "source_sha256": "63f89df0468a339f8e64e32ec422141112f08dd30ffb23923aa2619750a098bc",
+    "ko": "정교한 바느질 가우초 바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02113",
+    "source_sha256": "b164b0bab70a93dfc6161e15e2280f79f0fb94cb798b791aa21d92590a021a6b",
+    "ko": "우아한 가우초 바지는 패션을 아는 심이라면 꼭 만들어야 할 옷입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02114",
+    "source_sha256": "eb8942fe8edade4a153f9389a575c93f90317004392a8a67d4596f76d08e5910",
+    "ko": "무늬를 수놓은 반바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02115",
+    "source_sha256": "f3ca33fcbed887ba0a0ea99645885e583a8b3e6a1299ffc8fb02e89995ddc2c6",
+    "ko": "무늬의 본보기가 된 별들처럼, 이 반바지도 수십억 년은 버틸 겁니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_02116",
+    "source_sha256": "c3aae279599da6c7ae61115e7303b327fffd3f55a6eca2cfb489cb7b40335f11",
+    "ko": "조개 탱크톱 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02117",
+    "source_sha256": "37499bb2fed4e83245f5b1251baf82313dcafcf469915ffdb1dac60edcabe86a",
+    "ko": "앞을 끈으로 여며 심의 몸선을 자연스럽게 감싸는 탱크톱입니다. 독특한 목선과 조개 장식까지 더해 섬 패션의 정점에 올랐습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02118",
+    "source_sha256": "b92c0263e812b88fe1c37979c4dff1b1560714d3017cc72bb96f15e33093d494",
+    "ko": "조개 모둠 홀터톱 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02119",
+    "source_sha256": "9ce2b3847bfd454b5862bacd527114c20cc0edbc9ef83b24c86dde93e6316401",
+    "ko": "조개로 장식한 홀터톱은 모래 친구의 관심을 끌 게 분명합니다. 모래 친구가 질투 많고 음흉한 성격만 아니라면 좋은 일이죠. 무엇이 질투 나냐고요? 최고의 제작 능력을 갖춘 여러분이죠. 축하합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_02120",
+    "source_sha256": "4b5e9b88f2e8f9747f870cf750398e5017e585edb76a8de07132d120e8d40432",
+    "ko": "겹무늬 니트 상의 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02121",
+    "source_sha256": "88639c525cc1ab21fe3abae88c4d4a98a6ceb2176626d7f8ab0ed60be37a6893",
+    "ko": "무늬 위에 또 무늬를 겹쳤습니다. 여기서 솜씨가 더 좋아질 수 있을까요? 선명한 색감은 여러분의 아름다운 섬 보금자리에 바치는 찬사입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02122",
+    "source_sha256": "8d5249b4176e1dface0813b6a3c98fc31f9273d34499f3aa69b0eaad43f73e48",
+    "ko": "깃털 치마 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02123",
+    "source_sha256": "aec072f8110af563b1e01021843b31ba330678a2ac4f9a7f822f57f3b2ba7339",
+    "ko": "여린 깃털만으로 옷을 만들고도 풀어질 걱정이 없다면 정말 기분 좋지 않을까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_02124",
+    "source_sha256": "7d54f1b90b9e980bd6ed0be11f81f8822f18568b2312536d74ebbeaba0cccf3a",
+    "ko": "라탄과 풀 크롭톱 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02125",
+    "source_sha256": "9afdfa11b707e8f4d7d7ff0f4263974ef5c7000836402f035e06a97b6fc2b354",
+    "ko": "가슴 아래의 높은 허리선은 어떤 체형에도 가장 잘 어울리는 재단 방식입니다. 그러니 이 옷은 다음 제작 대상으로 아주 좋은 선택입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02126",
+    "source_sha256": "4722d578d6842c1aa58506e20b0181f7a22c22d8d4bed1b219fa8a197632d883",
+    "ko": "교차 짜임 카프리 바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02127",
+    "source_sha256": "59a61207d80213e9f4ef6a2b4f61ab20f44acdbaf7a05daae17067e995c555cf",
+    "ko": "이 카프리 바지를 만드는 심은 즐거운 시간과 웃음, 시원한 콜라를 좋아할 겁니다. 편안한 조임끈이 \"친구, 느긋하게 살자!\"라고 외칩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02128",
+    "source_sha256": "9b1eb4eff4fbaaa7d8fb6259d4c8de2c0e81f426908e725502194b6b031bf925",
+    "ko": "라탄 나팔바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02129",
+    "source_sha256": "966a3542168f5902559588eda722dabdb1d4541af64ee8103dfc796e1f5f07ed",
+    "ko": "복고풍 심에게 딱 맞는 나팔바지는 특유의 모양새를 자랑합니다. 폴리에스터와 합성 섬유를 쓰지 않은 라탄 나팔바지는 \"단단한\" 선택입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02130",
+    "source_sha256": "3996026c0b49626f57f4e890d12e9c42c1b72cb3c1b5119c044097fbdedd7697",
+    "ko": "격자 셔츠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02131",
+    "source_sha256": "a104b1ea93079c2a88aa3b57730dfafa12611e52258c4ffa97e80eb885f17c6c",
+    "ko": "식물을 사랑하는 해적 협회의 두 번째 공식 재료인 격자로 엮은 라탄은 이 셔츠에 딱 맞는 선택입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02132",
+    "source_sha256": "3996026c0b49626f57f4e890d12e9c42c1b72cb3c1b5119c044097fbdedd7697",
+    "ko": "격자 셔츠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02133",
+    "source_sha256": "a104b1ea93079c2a88aa3b57730dfafa12611e52258c4ffa97e80eb885f17c6c",
+    "ko": "식물을 사랑하는 해적 협회의 두 번째 공식 재료인 격자로 엮은 라탄은 이 셔츠에 딱 맞는 선택입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02134",
+    "source_sha256": "b271f793ee840f0f30a915d4ba45d0f1f309f7a9d3788c727436d384f0085edc",
+    "ko": "라탄 반바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02135",
+    "source_sha256": "3bbbc828b8406b7416ff6403a0d745400b73c589508c1fdd289250ad9601c068",
+    "ko": "섬에서 휴가를 보내며 즐겼던 초가지붕 열대 파라솔을 닮은 반바지입니다. 좋은 추억이 떠오를지 모릅니다. 기술을 더 높여 그리운 편안함을 다시 일상으로 되찾을 계기가 되면 좋겠군요."
+  },
+  {
+    "id": "TXT_SimsObjects_02136",
+    "source_sha256": "4788f11af76c65de482b210991ab7bfae7a7ead6c2687bf1c08fe965a33cc5fc",
+    "ko": "바구니 치마 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02137",
+    "source_sha256": "2376805a2c8fb226018cafcaef43b2316d3672a544f03f82c94b8b4d5369eca0",
+    "ko": "밑단을 마무리하지 않은 치마입니다. 전체적으로 보면 뒤집어 놓은 매력적인 바구니 같군요."
+  },
+  {
+    "id": "TXT_SimsObjects_02138",
+    "source_sha256": "4387c377f7f568f914e6c76c6786c9c83191d11791cd4142456854bb225ed3ea",
+    "ko": "엮은 라탄 조끼 (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02139",
+    "source_sha256": "beffa33f5463b90ef55dd54e41164093b4fe22c458f2b32d50cb3900bc05c667",
+    "ko": "라탄은 정글에서 가장 편안한 재료는 아니지만, 잘 엮어 놓으면 꽤 멋져 보입니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_02140",
+    "source_sha256": "2efe5c3c8a68b9b986cc3aba86d6e92be8c3e537bab8549d3dfa542912607283",
+    "ko": "꽃무늬 셔츠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02141",
+    "source_sha256": "7b3ad37f8fa92fbcdca9e7860e43e58f8633fc2a7f5ec95cf91671e76b5be003",
+    "ko": "이 셔츠를 만들며 면을 비단처럼 보이게 하는 놀라운 능력을 터득했습니다. 재료를 참 잘 활용했군요!"
+  },
+  {
+    "id": "TXT_SimsObjects_02142",
+    "source_sha256": "df73787cedd6eb5a1c532cc61a6aa9303f15219e6f810e43a73df67b79f035f2",
+    "ko": "면 해변 셔츠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02143",
+    "source_sha256": "0361627e0a474e44fdb88bf2eff65ead993d1aaf29fe5801b0ef540b980a47aa",
+    "ko": "햇살 가득한 낮과 여름밤을 좋아한다면 이 옷을 만들어 보세요. 춤과 리듬이 일상인 땅에서 온 해변 셔츠는 시원한 선택입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02144",
+    "source_sha256": "1e5316149f5356cb9b07d6b663bd3a5cc3623f5ef0d7d03f89935a3b711b625b",
+    "ko": "꽃무늬풍 조끼 (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02145",
+    "source_sha256": "8efab2fd719c55441bbb52a0905c3f27242a611bd8976a7ff7fb533f8ead7b7e",
+    "ko": "따뜻한 색들이 어우러져 꽃을 닮은 조끼를 만들었습니다. 납작한 돌과 가죽으로 고정한 디자인이 독특함에 도전합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02146",
+    "source_sha256": "ccf199291eae6ef316d8ef13fbd2502562762a96a7562a125c573d0d3fd07069",
+    "ko": "염색한 가죽 조끼 (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02147",
+    "source_sha256": "30df5e58334c5912ceef4ff5757e9856f16ad393e16fe83a18e7f89aeb938e14",
+    "ko": "최상급 바느질이 이 옷의 시선을 사로잡는 요소가 될 겁니다. 이만한 품질의 옷을 만드는 수고는 분명 보답받을 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02148",
+    "source_sha256": "6ba32c4ef2e05baf52b64a19f5fbc047694f6fa8e262ebfa1a0f4c3efe88b216",
+    "ko": "조개 비키니 상의 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02149",
+    "source_sha256": "976e4d8bd8f9afa0b6293b18b78ea290250fb9b4332d51019130f5aeda8bb878",
+    "ko": "이 비키니 상의로 섬에서 가장 쓸모없던 재료도 알뜰하게 쓸 수 있습니다. 커다란 조개 두 개를 묶어 가슴 쪽에 대기만 하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02150",
+    "source_sha256": "a680e015c3333ec85caac1cec514a6f395b5d66986632fff32861dfb4c874404",
+    "ko": "기하학 반바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02151",
+    "source_sha256": "cd63650ca31a2cdc7267b29035cbe99128b0fde6027a53d5693c3ec1a4d7891a",
+    "ko": "은은하게 짠 사이잘삼이 반듯한 기하학 무늬 밑단과 대비를 이룹니다. 정말 제법 멋집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02152",
+    "source_sha256": "bee771523b25cb80e07a74ee393274d967b4964d2471756144840a2d9b2ed8b0",
+    "ko": "멧돼지 엄니 직조 셔츠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02153",
+    "source_sha256": "1ae130eb39cb7507c9463caf77f04cf7b921b9d166ae69832d01b702141ff12e",
+    "ko": "단단하게 짠 이 셔츠는 제작에 들인 노력의 훌륭한 증거가 됩니다. 적어도 모래 친구보다는 보기 좋겠군요."
+  },
+  {
+    "id": "TXT_SimsObjects_02154",
+    "source_sha256": "bee771523b25cb80e07a74ee393274d967b4964d2471756144840a2d9b2ed8b0",
+    "ko": "멧돼지 엄니 직조 셔츠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02155",
+    "source_sha256": "1ae130eb39cb7507c9463caf77f04cf7b921b9d166ae69832d01b702141ff12e",
+    "ko": "단단하게 짠 이 셔츠는 제작에 들인 노력의 훌륭한 증거가 됩니다. 적어도 모래 친구보다는 보기 좋겠군요."
+  },
+  {
+    "id": "TXT_SimsObjects_02156",
+    "source_sha256": "6be95705cecd6302ff399dcdf44b3851fa5b1d6d7e4157307bb8c837917ea452",
+    "ko": "수풀 장식 기하학 카프리 바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02157",
+    "source_sha256": "31e730836846726871b194c06ec1c7bfe48c3fc69eef9ad260e0595c4fd895e6",
+    "ko": "푸른 식물을 조금 더하니 기하학 카프리 바지의 느낌이 완전히 달라졌습니다. 갈색에 초록을 섞은 느낌이랄까요. 산뜻합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_02158",
+    "source_sha256": "f58dee3996cc5981364da0d4e01fc8c64e752cbdd1a29b2f5fb3278273133794",
+    "ko": "식물 장식 사이잘삼 슬랙스 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02159",
+    "source_sha256": "ff3fbe7b92ad717ce5f2045ea816721c4d39077d3d20ebb8c4baa458954c4b63",
+    "ko": "촘촘하게 짠 사이잘삼 덕분에 징그러운 벌레들이 옷장 안으로 기어들기 더 어려워집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02160",
+    "source_sha256": "178df6c72a2de5ede24b1bf83bebbb97a90976e2498371c91ffb0b31b4b5c96f",
+    "ko": "맞춤 티나무 잎 블라우스 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02161",
+    "source_sha256": "af36b38468e14080bcd5174c13b4bcea36bbb422296d9f6dc2a4a31a104471ab",
+    "ko": "허리를 돋보이게 하는 바나나 잎만으로 마음에 들지 않는다면 시원하게 짠 무늬에는 반할지 모르죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02162",
+    "source_sha256": "b037fe51ebf3588d593550ca9c17f0782a441cb153a4d926977cba5454d8239e",
+    "ko": "카고 페달푸셔 바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02163",
+    "source_sha256": "9541e0476edf41e8d84671989c467368486901c7c243ae485b6491a758748984",
+    "ko": "페달푸셔 바지는 자전거가 도로를 누비던 시절에 생겨났습니다. 무심한 바짓단을 낚아채는 자전거 체인도, 자전거도 없는 섬에서는 오로지 멋을 위해 입는 옷입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02164",
+    "source_sha256": "b0bf87eff1fe7c03ac4c840050c2b875ccd52ce99076254dadcf06735bc5eac6",
+    "ko": "푸른 수풀 바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02165",
+    "source_sha256": "1f0a95e36675e9ffde7356b85e1ac48d9ada7787c12157b7ae8bc2bb161a17c2",
+    "ko": "정글의 좋은 것들을 사랑스럽게 한데 담은 바지입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02166",
+    "source_sha256": "f4f64d46d1f98900ceae45441b5e823f6c84a4397dea71edd34c83a8c0dd77cb",
+    "ko": "나뭇잎 모둠 재킷 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02167",
+    "source_sha256": "5d004802c06dd346b2331b5d52b9b12ea3ac1e7ed77ee132cd17bd912fe27690",
+    "ko": "지금까지 섬 패션은 갈색과 초록색으로 이루어졌습니다. 나뭇잎 모둠 재킷은 여기에 초록색을 더해 줍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02168",
+    "source_sha256": "f4f64d46d1f98900ceae45441b5e823f6c84a4397dea71edd34c83a8c0dd77cb",
+    "ko": "나뭇잎 모둠 재킷 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02169",
+    "source_sha256": "5d004802c06dd346b2331b5d52b9b12ea3ac1e7ed77ee132cd17bd912fe27690",
+    "ko": "지금까지 섬 패션은 갈색과 초록색으로 이루어졌습니다. 나뭇잎 모둠 재킷은 여기에 초록색을 더해 줍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02170",
+    "source_sha256": "85b9d5300d1b691223a6c4fea98628f7c01f06e44b1a02bd522a97809b266ad4",
+    "ko": "티나무 잎 카고 반바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02171",
+    "source_sha256": "c4eddc87553075b2af8a86e9c8a5bffdd5f31654a2b3ec3413b71744bb96e291",
+    "ko": "실용적인 디자인에서 영감을 받아 튼튼함과 위장복 같은 겉모습을 함께 갖춘 반바지입니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02172",
+    "source_sha256": "286150d35111bb98231b12cccab03838914997f1997daf87e553ae0f268af626",
+    "ko": "티나무 잎 치마 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02173",
+    "source_sha256": "00db508932e5e9c52f659b73618e0f9be7ccd380ee7c15813d24a8e089359df8",
+    "ko": "튼튼한 옷을 만들려면 형태를 잡아주는 구조가 중요합니다. 티나무 잎 치마는 멋과 구조 양쪽에서 중요한 디딤돌이 됩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02174",
+    "source_sha256": "ffc0199344aa2c4110c91a34f6ec55fc6cb43847311dc9cffba152c7fbb0acc6",
+    "ko": "지그재그 조끼 (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02175",
+    "source_sha256": "83b265cf9bc24f2184410412671c4f50b13d9a3c60943c35940185d850d26cb3",
+    "ko": "티나무 잎을 지그재그 모양으로 느슨하게 묶는 일은 어렵지 않지만, 보기에는 분명 멋집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02176",
+    "source_sha256": "7da3f6891c5aa539859ee6d393cfcea3e157696f72e670ff65f5df5e41d8bba9",
+    "ko": "덩굴 상의 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02177",
+    "source_sha256": "fb56ee2f438035b6534c21935146e54094d2ee837d3fc627db6202bb5c8700dd",
+    "ko": "이 끔찍한 패션을 완성한 것을 축하합니다. 기술을 높이면서 다른 재료도 찾아보세요. 이상한 모양으로 피부를 태우지 않는 옷을 만들 수 있을지도 모르죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02178",
+    "source_sha256": "9733bf8f646b6d30e9f5b8a3fca4672b3eb1edc1dfae702b86c89d07182580bd",
+    "ko": "정글 덩굴 치마 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02179",
+    "source_sha256": "6e7568c507d64b568deaec8d80abb373fec630854aa606f2ffaf3c845d99ff70",
+    "ko": "무성한 덩굴을 모으면 우거진 숲이 정리될 뿐 아니라, 사락사락 재미있는 치마도 만들 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02180",
+    "source_sha256": "8f3a632cec8b18556d5309109491b89d631d489bb4edeced7d7f86c3f880cc2f",
+    "ko": "묘목 멜빵 (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02181",
+    "source_sha256": "6ea4a9df387345c86a91d617bccb215d26ed6b8674ad1befeb0c2f2db9513a55",
+    "ko": "정글 중에서도 가장 깊은 정글에서 모은 재료라 습기와 썩은 냄새가 진동합니다. 덩굴이 가장 튼튼하거나 상쾌한 재료는 아니지만, 알몸보다는 낫습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02182",
+    "source_sha256": "2c2bdbc82211cf320e196cf00d30658f714030713d64a99cb14a44f03b885517",
+    "ko": "덩굴 성장 카프리 바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02183",
+    "source_sha256": "20609f1e722a1ab018e21dfb21093b3f47b97438a2806156cb7291fe58459aad",
+    "ko": "이 카프리 바지가 심의 몸을 꽉 조인다고 보는 사람도 있겠지만, 여러분의 창의적 표현이 발전한 결과라고 생각하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02184",
+    "source_sha256": "a60c5cdfb93ff5901f08e6ee70133c7a1b5a4a1995de89dedc2ebd638d039c52",
+    "ko": "덩굴과 짚 바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02185",
+    "source_sha256": "77e3f8e3343cc298e9dc49f3bff03de3cdd5f042ec64db5e468ccea435f108c7",
+    "ko": "심의 다리가 이 덩굴과 짚 바지를 위한 알맞은 덩굴 시렁이 되어 주기를 바랍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02186",
+    "source_sha256": "5bf4e7cca82439524a333d0678dcc9b5a3aaf35f596e81e68247f14d22f1ee5c",
+    "ko": "덩굴 반바지 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02187",
+    "source_sha256": "0f1be6d32369e8283e75282277eaa07ff4ecd265bb9c780af40dc6173f0d58c9",
+    "ko": "여러분의 창의력이 정글의 덩굴만큼 쑥쑥 자라나, 앞으로도 오랫동안 이런 참신한 옷을 만들 수 있기를 바랍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02188",
+    "source_sha256": "482986a78c24398acaf25e779fefa9f2777b82b826ea8f009e3e2632f0c70589",
+    "ko": "나뭇잎에 나뭇잎 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02189",
+    "source_sha256": "eea5e2e8187dfb356f0473ea2f400be41022d38cc575d22dcdc0b4cb2b4cabd2",
+    "ko": "초록색에는 여러 의미가 있습니다. 부와 번영을 나타내기도 하지만, 이 의상의 초록색이 보여주는 것은 다른 의미입니다. 풋내기라는 뜻이죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02190",
+    "source_sha256": "a19488a4055f96e89e0d3591bad5d17cb6c1efb4ed218f45794856924a96a777",
+    "ko": "원시 스타일 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02191",
+    "source_sha256": "148c87843697d2b61234fd24501e92c7acbe85cf1b4184ad7cee3b075ae680d5",
+    "ko": "섬에 오기 전에는 유행을 이끌지 못했다 해도, 이 새로운 경험에 어지러울 만큼 들뜰 수 있습니다! 거대한 나뭇잎의 신나는 세계에 오신 것을 환영합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_02192",
+    "source_sha256": "0a0e0bdf5d5b2822aa06e6a4fb236afc4c78745b7c99967efaf83fe10791ac32",
+    "ko": "엽록소 가득 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02193",
+    "source_sha256": "1da7b98d478342f0c448bd850ac6b3f7e29271a5f93e7ec9e56513fa6f92b108",
+    "ko": "비대칭 밑단이 넘쳐납니다! 여러분의 뛰어난 패션 감각이 낳은 유행이라고 하고 싶겠지만, 만든 솜씨가 그 말을 뒷받침하지 못하네요."
+  },
+  {
+    "id": "TXT_SimsObjects_02194",
+    "source_sha256": "7a686bb1181b3675b2a6d5558da99131e0305b6b7640764a1a4d81bad8230559",
+    "ko": "해변 한량 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02195",
+    "source_sha256": "912ff47e827b0041d0ea8af74df043513fbe4fc7d173e5f5c151447fd1a5c6e1",
+    "ko": "옛날 해변의 한량들을 떠올리게 하는 임시 의상입니다. 발가락 사이 모래 말고는 별로 누구의 눈길도 끌지 못할 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02196",
+    "source_sha256": "b69769bdd1c68d7c35005327d7c09000d1ccb2f3cf7080ca3a05ebd957279e9c",
+    "ko": "햇살 물든 초원 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02197",
+    "source_sha256": "ad0893abae896a655b2b28e0ebd558bafe6fe407c6f6d298a3dbe7e8a4e80bbe",
+    "ko": "산들바람에 흔들리는 해초 소리와 잎사귀를 어루만지는 바람의 고요한 감촉에서 영감을 받은 의상입니다. 적어도 옷이 풀어지기 전까지는 그렇게 생각해 두세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02198",
+    "source_sha256": "968f25c00af39758b45840329e2cae7bd6129b6cc6caa6e7b39cc3ff9b62d04a",
+    "ko": "나뭇잎 혼합 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02199",
+    "source_sha256": "c15551456e4664d596cd0dfda14f55c9ed2019fc5a99fee3e67334203ac506ad",
+    "ko": "나뭇잎과 풀의 말도 많고 탈도 많은 결합입니다. 이제 그 드라마를 직접 입어 보세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_02200",
+    "source_sha256": "6b76bd51f786af97fd72829fc7d98fd75e1cb66cc9cc9b680ecf73ccfa823172",
+    "ko": "덩굴 시렁 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02201",
+    "source_sha256": "a6ca5a995e9c8bae21608d4565fbcca1a1fb9c531efe6e2d7a0bc337f417b988",
+    "ko": "심의 몸이 이 덩굴과 짚 세트를 위한 알맞은 덩굴 시렁이 되어 주기를 바랍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02202",
+    "source_sha256": "6caad1cd6faead56b82ff4380c4e5b45e41e69a9c14ead693a59f10e1d609e44",
+    "ko": "탐험 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02203",
+    "source_sha256": "7588296d1ca965f932a7659e77d5299317511a3001b9cacddbbfc5156a0a0a5d",
+    "ko": "이름처럼 여러분은 여행을 시작했습니다. 질 좋고 튼튼한 옷을 만드는 여행 말입니다. 이 탐험 세트는 올바른 방향으로 내딛는 한 걸음입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02204",
+    "source_sha256": "e5472cf58e455779db4e483981155f5be1e37114ce69a23a76ae79847313fe15",
+    "ko": "사파리 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02205",
+    "source_sha256": "4c3efb822247518f2d6f3a535bb230004e05d126fd6c642fe6048231625fbf6d",
+    "ko": "천연 소재가 가장 편안하다고 한 사람은 크게 잘못 생각한 겁니다. 짚과 풀로 엮은 이 옷이 편안함을 최대로 유지해 주지는 못하겠지만, 그래도 필요한 도움은 될 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02206",
+    "source_sha256": "61e0017ea3286f84da1f5108ffdc9c1e4f1edf80017ba4eb5305926e1d1c9bd9",
+    "ko": "풀 사파리 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02207",
+    "source_sha256": "4c3efb822247518f2d6f3a535bb230004e05d126fd6c642fe6048231625fbf6d",
+    "ko": "천연 소재가 가장 편안하다고 한 사람은 크게 잘못 생각한 겁니다. 짚과 풀로 엮은 이 옷이 편안함을 최대로 유지해 주지는 못하겠지만, 그래도 필요한 도움은 될 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02208",
+    "source_sha256": "60c0a95486fd9ce96c7a4f5e06b3ae097a29cfadde7008b0f41fbae6cf77b4ad",
+    "ko": "덩굴이면 충분해 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02209",
+    "source_sha256": "99d9534b873af41da4f99f52b4df221a70f098c27f61e1100104a66c1ea44a08",
+    "ko": "높은 나무에 올라갔다가 내려오지 못하게 된다면 이 옷의 덩굴로 사다리를 만들 수 있습니다. 내려가는 모습도 여전히 멋질 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02210",
+    "source_sha256": "cb7e948156ea3978b3e3a2f43c850d6dc81d29f4acdbed94aaa7dfe937f084e9",
+    "ko": "나뭇잎 사랑 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02211",
+    "source_sha256": "65ef72836b4d9a4223f2ab9d83faccce78a5e87e1a60bbfd2b12872d6535a24d",
+    "ko": "무인도 생활은 소풍이 아닙니다. 하지만 이 나뭇잎 의상을 입으면 거대한 샐러드바의 한 접시처럼 보일 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02212",
+    "source_sha256": "c4e0ca4c5e668ba36224b7104694570eaeb80286d26508f0dc43c825bd82d176",
+    "ko": "코코넛 브래지어와 미니치마 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02213",
+    "source_sha256": "4b47ef5e3394d75d87cfa35f5aabeda4465ccbb8c12ff6d350e465ef00f3987d",
+    "ko": "매력적인 코코넛 브래지어와 어울리는 티나무 잎 미니치마로 자연의 보호막을 직접 누려 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02214",
+    "source_sha256": "555610a5a85a4b34d44abfc614834cc8d3ce50512d0059b6fa5e4b3925de6b0b",
+    "ko": "티나무 잎 반바지 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02215",
+    "source_sha256": "d4e3d60edc5c34ddfb2d9e6fb58ef4e82176ba865045bafc976ddcef0ef4d26a",
+    "ko": "실용적인 디자인에서 영감을 받아 튼튼함과 위장복 같은 겉모습을 함께 갖춘 의상입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02216",
+    "source_sha256": "66e465a4f633833ecaed446ed2a3ea73dc827097babc75a1d07ad4b26a13cb90",
+    "ko": "코코넛 브래지어와 카프리 바지 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02217",
+    "source_sha256": "fb66d22b84f869117333c7e0d0cd6e2cfef473c773e4a4e12f47ea97520488fc",
+    "ko": "매력적인 코코넛 브래지어와 어울리는 티나무 잎 카프리 바지로 자연의 보호막을 직접 누려 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02218",
+    "source_sha256": "f5960ffd4fe60b7e7746d9db465d5470ea2bc4b314ce2114417bae440e101264",
+    "ko": "티나무 잎 카프리 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02219",
+    "source_sha256": "d4e3d60edc5c34ddfb2d9e6fb58ef4e82176ba865045bafc976ddcef0ef4d26a",
+    "ko": "실용적인 디자인에서 영감을 받아 튼튼함과 위장복 같은 겉모습을 함께 갖춘 의상입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02220",
+    "source_sha256": "e9a911d25adb5df669c313882dfce074993ef82c57396afeabca3ce3f7eb13c9",
+    "ko": "조개 비키니 상의와 치마 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02221",
+    "source_sha256": "2e6f887a2db2cf7af86e7280dc0ee2bfe6100d2f8d9a68ec0acf0af9b307c2cc",
+    "ko": "이 비키니 상의로 섬에서 가장 쓸모없던 재료도 알뜰하게 쓸 수 있습니다. 커다란 조개 두 개를 묶어 가슴 쪽에 대기만 하세요. "
+  },
+  {
+    "id": "TXT_SimsObjects_02222",
+    "source_sha256": "5750fc9faae12cc41715b474e1ab2e1bbedf207a85dfd3e23ff82ae98f21b41e",
+    "ko": "라탄 짝꿍 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02223",
+    "source_sha256": "1f86a199e592f9dfa9d335a044f0630859b4b441f10358e658a14b8b17202bab",
+    "ko": "식물을 사랑하는 해적 협회의 두 번째 공식 재료인 라탄은 이 의상에 딱 맞는 선택입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02224",
+    "source_sha256": "3f3384d619d3e5c517e51ac1baadd26330d8fb3d0ba234176be5096498a8f319",
+    "ko": "조개 비키니 상의와 반바지 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02225",
+    "source_sha256": "2e6f887a2db2cf7af86e7280dc0ee2bfe6100d2f8d9a68ec0acf0af9b307c2cc",
+    "ko": "이 비키니 상의로 섬에서 가장 쓸모없던 재료도 알뜰하게 쓸 수 있습니다. 커다란 조개 두 개를 묶어 가슴 쪽에 대기만 하세요. "
+  },
+  {
+    "id": "TXT_SimsObjects_02226",
+    "source_sha256": "87ed7ff62ac7bc76ea0b70ec5fffef210c4e393c16cf06a975509ad7ce722296",
+    "ko": "겹겹이 나뭇잎 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02227",
+    "source_sha256": "5067634cac148c06ecc5283186c45455f553a7bdc1e120e442669b490b21d90e",
+    "ko": "상의는 그저 그렇습니다... 하지만 아름답게 겹친 치마의 나뭇잎은 옷장에 한층 더한 산뜻함을 선사합니다. 밑단을 탐구하는 것은 침팬지 등에서 진드기를 찾는 일만큼이나 재미있죠!"
+  },
+  {
+    "id": "TXT_SimsObjects_02228",
+    "source_sha256": "58b552361649c10353f7a74d9a99906554efb1f0da1f01c32540c8a68e8c27bb",
+    "ko": "가죽과 나뭇잎 반바지 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02229",
+    "source_sha256": "a81d94aa45ed75323ff85aa672df981de2486b6b5b803a05754cd5e5b85b64bc",
+    "ko": "부드러운 가죽으로 만든 랩 스타일 홀터톱입니다. 심에게 큰 편안함과 원시인의 멋을 선사할 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02230",
+    "source_sha256": "b8b36e9832937f299e2f07b54845667f1adb6a9d8f64701c81511a5fefe57a2f",
+    "ko": "가죽과 나뭇잎 바지 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02231",
+    "source_sha256": "a81d94aa45ed75323ff85aa672df981de2486b6b5b803a05754cd5e5b85b64bc",
+    "ko": "부드러운 가죽으로 만든 랩 스타일 홀터톱입니다. 심에게 큰 편안함과 원시인의 멋을 선사할 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02232",
+    "source_sha256": "7aa517d4e94b1ef690b641ecdad0e537a335eb219e627507e61b1be866de53ac",
+    "ko": "꽃을 엮은 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02233",
+    "source_sha256": "8b75c659910227635b0b8a239460c50f8636859d75f2a2713c16a6a12bd348c4",
+    "ko": "밝고 다채로운 꽃이 옷장에 생기를 더합니다! 섬세해 보이지만 면직물에 엮어 만들어, 일상적인 일을 할 때에도 유연하고 튼튼합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02234",
+    "source_sha256": "dd307d92d25d4283bd671741d3a071a151c5489ed66d3ed2892b810697e56522",
+    "ko": "라탄 짝꿍 세트 2 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02235",
+    "source_sha256": "d7a5d5daf667ce7487eccd7214126bb6107902a234a80dcb09ab4a84c24de0d1",
+    "ko": "섬에서 휴가를 보내며 즐겼던 초가지붕 열대 파라솔을 닮은 반바지입니다. 좋은 추억이 떠오를지 모릅니다. 기술을 더 높여 그리운 편안함을 다시 일상으로 되찾을 계기가 되면 좋겠군요."
+  },
+  {
+    "id": "TXT_SimsObjects_02236",
+    "source_sha256": "ea24dd5e614be00aa013df852fe89a4e67f870e49a02ff6462cb25d9174223bd",
+    "ko": "깃털 장식 튜브톱과 치마 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02237",
+    "source_sha256": "0d379f1f35b2893bb11a1cc13778771a91e9364612af49f1b391ddec6eb4abbf",
+    "ko": "깃털 장식 튜브톱을 만들어 옷장에 색과 약간의 엉뚱함을 더해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02238",
+    "source_sha256": "952bd8ea69d781f50c408e1af6dc845f3d18d69205abba8b2ada5f9a12b613c3",
+    "ko": "나팔소매 깃털 상의와 반바지 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02239",
+    "source_sha256": "81a9b3017663e73afc2fedd8ba77c6056389d30f6d9e0f9f5da6d8ae83485c4c",
+    "ko": "이 상의를 만들면 올바른 형태와 더 나은 구조를 배울 수 있습니다. 게다가 다채로운 색의 세계까지 손끝에 펼쳐집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02240",
+    "source_sha256": "4ccc545cf5e91e9e834882bf589a42a7c9dbafacdeabaa9560178a0290adb998",
+    "ko": "깃털 장식 튜브톱과 카프리 바지 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02241",
+    "source_sha256": "0d379f1f35b2893bb11a1cc13778771a91e9364612af49f1b391ddec6eb4abbf",
+    "ko": "깃털 장식 튜브톱을 만들어 옷장에 색과 약간의 엉뚱함을 더해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02242",
+    "source_sha256": "5604265264c26b3594a86cc06018ca31b2e290c7c9a71000241711262e9a68b4",
+    "ko": "가죽 야구 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02243",
+    "source_sha256": "f9b912af50c4ff834fadb0bc51a95d6a953c9ceda09db0b7aff6ed9282930b19",
+    "ko": "운동을 좋아하는 심에게 이 가죽 야구 세트는 핫도그와 응원, 침 뱉기로 가득한 사랑스러운 옛 취미를 떠올리게 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02244",
+    "source_sha256": "6c05306115406200d46130f37fc8b8bfb66b78e0a91e15f91f47f4269d8eab92",
+    "ko": "다채로운 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02245",
+    "source_sha256": "7ba57f7c77ad52cfe9fe581d35931b2ed193efcd4f58a9176fe2282cb2709ce3",
+    "ko": "옷의 윗부분에 배치한 무늬는 시선을 위로 끌어올려 눈에 주목하게 합니다. 이상적인 상황이죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02246",
+    "source_sha256": "c707071c1b16e7d55d12c4eb0c02cefed540fb5148385fcea0aa6a83da78e413",
+    "ko": "레그워머 다채로운 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02247",
+    "source_sha256": "cf245a17ba0c8d6a028eecc7d7fe117361fa9af42ba1de26b6b6643557b58de7",
+    "ko": "처음으로 레그워머를 갖춘 제작 의상이자, 비를 부르는 독특한 능력도 있는 옷입니다. 계속 춤을 추면 어느새 온몸에서 땀이 비처럼 쏟아질지도 모릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02248",
+    "source_sha256": "f7fbc705c16c560f8273145e9c133fb028a9f3b89669458ec3a99e9d139eea7a",
+    "ko": "원주민풍 시원한 의상 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02249",
+    "source_sha256": "644cceae3e3323456198dc85572ad36b7d20e8ea836385950320971e999a4e7e",
+    "ko": "한 가지 색이지만 눈길을 끄는 원주민풍 시원한 의상은 유행에 민감한 심을 위한 절제된 선택입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02250",
+    "source_sha256": "15312d6d667c5f0db3d59cb3de7a9af654d26c3fce5a7f4995c966c8995bad95",
+    "ko": "원주민풍 따뜻한 의상 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02251",
+    "source_sha256": "600dad93c5eee0b358bf7184ebb470342f4c307f4bc2fae15b619e2666f6eaf9",
+    "ko": "한 가지 색이지만 눈길을 끄는 원주민풍 따뜻한 의상은 유행에 민감한 심을 위한 절제된 선택입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02252",
+    "source_sha256": "555142492dcddb87c66bd84a423ae537b9dcb0134944f3c33c27c0330968e044",
+    "ko": "장식띠와 치마 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02253",
+    "source_sha256": "524ef4f7492cd4bedbeac613626b844dbe6ea49e3337391944c4e1fc7cbea76f",
+    "ko": "다채로운 면 장식띠에 정교한 무늬가 수놓여 있습니다. 질 좋은 재료로 만들어 며칠이고 충분한 지지력과 편안함을 선사합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02254",
+    "source_sha256": "ea603939f2174750bf8e6d2279df974f68fc87e98f3ba99442e81e6d7e46d62e",
+    "ko": "장식띠와 바지 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02255",
+    "source_sha256": "524ef4f7492cd4bedbeac613626b844dbe6ea49e3337391944c4e1fc7cbea76f",
+    "ko": "다채로운 면 장식띠에 정교한 무늬가 수놓여 있습니다. 질 좋은 재료로 만들어 며칠이고 충분한 지지력과 편안함을 선사합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02256",
+    "source_sha256": "43052bac5381ff495c0b8f3e301bb833717f05cfeeb9766f8aef73bdca7b73cd",
+    "ko": "비대칭 한 쌍 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02257",
+    "source_sha256": "f1ebd2e8c024639f914f806d835ff6286f872441149282fd6050e3e806e00f9f",
+    "ko": "발랄한 비대칭 의상 한 쌍에 흩뿌려진 색이 균형을 잡아줍니다. 세부 장식을 좋아한다면 가슴 아래의 높은 리본 장식이 마음을 간질일 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02258",
+    "source_sha256": "3ab5eb695c5edbb3fcf0ee5519b22ba2b1c595148614d2402f3a1579b00e84ba",
+    "ko": "면 해변 셔츠와 치마 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02259",
+    "source_sha256": "2c857fed541b15427c993aa9592e0064ea36982da2f336ffce4a398d217da3e1",
+    "ko": "햇살 가득한 낮과 여름밤을 좋아한다면 이 옷을 만들어 보세요. 춤과 리듬이 일상인 땅에서 온 해변 세트는 시원한 선택입니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02260",
+    "source_sha256": "eb0bfe6b109eb49c952d6e2115138969a9a8ffdea344b0dc32fd3eec30ab2ae3",
+    "ko": "깃대가 보이는 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02261",
+    "source_sha256": "81d5fb2d915e4a21e1ee31178c5326a21b6b3255f4608996342669c93f934d72",
+    "ko": "이 작은 세트에 얼마나 많은 색이 담겼는지 놀랍습니다. 눈에 띄기를 두려워하지 않는 심을 위한 옷입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02262",
+    "source_sha256": "8ba665d22e4191bb06c046ff8ddbb5cc4d30fdb8b57224ff30ba628c80cec72a",
+    "ko": "멋진 꽃무늬 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02263",
+    "source_sha256": "936e0d638c47abc1a09dc2c18cddd863292576b29ad6e444d974ef7a3b614d66",
+    "ko": "이 의상을 만들며 면을 비단처럼 보이게 하는 놀라운 능력을 터득했습니다. 재료를 참 잘 활용했군요!"
+  },
+  {
+    "id": "TXT_SimsObjects_02264",
+    "source_sha256": "16e7c7cb9101c1ecf5b9fbcb41364173fa79d241b04b41166ce5b914b1eb6d05",
+    "ko": "조개 모둠 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02265",
+    "source_sha256": "512132747619e62f33c81f3edec504977c51836c1344b87f3d7f068b4991229b",
+    "ko": "조개로 장식한 상의는 모래 친구의 관심을 끌 게 분명합니다. 모래 친구가 질투 많고 음흉한 성격만 아니라면 좋은 일이죠. 무엇이 질투 나냐고요? 최고의 제작 능력을 갖춘 여러분이죠. 축하합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_02266",
+    "source_sha256": "72dc666b960cad611378821fb7f0fbdaab58e6f604c45488931311c953c80ca1",
+    "ko": "겹무늬 니트 세트 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02267",
+    "source_sha256": "da08caaaf85e9f8801ea6f44e628647d66b42b52861b6ae480672f250ec89421",
+    "ko": "무늬 위에 또 무늬를 겹쳤습니다. 여기서 솜씨가 더 좋아질 수 있을까요? 선명한 색감은 여러분의 아름다운 섬 보금자리에 바치는 찬사입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02268",
+    "source_sha256": "86c46fd1d5853814f6736fc121b21d5777cfdeb0abcae63665c3f3009734d06f",
+    "ko": "여성 해적 의상 (여성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02269",
+    "source_sha256": "d1115ec3e6b2715d761ac1dbeb59914820c6bdb5568176e26869141f19b30cea",
+    "ko": "여성 제작 의상 41"
+  },
+  {
+    "id": "TXT_SimsObjects_02270",
+    "source_sha256": "c1d5f0718e022ad14f4c24c22dd23ee98073278c62ce50575b581c931cd223bf",
+    "ko": "정글 대사 I (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02271",
+    "source_sha256": "bf39694a51d6fbedc816170eec63eace30dc3ee54e06e0fcab9d56c6915ca6e6",
+    "ko": "임시 의상의 전형인 이 실용적이고 제법 위엄 있는 옷은 한동안 편안함을 지켜줄지도 모릅니다. 하지만 멋과 실용성을 모두 원한다면 창의력 기술을 갈고닦는 편이 좋겠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02272",
+    "source_sha256": "edd7dc9f9d4fd5b5c876df8a94c13a1f9f41cd70eb47a1a014e2d4fe1cbbb22c",
+    "ko": "엘프 짧은 반바지 (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02273",
+    "source_sha256": "ddb81d0d747bf4ac11944c54cd1b18ebb4d7041e9445046bfb3ea21f4784f073",
+    "ko": "신화 속 엘프가 무인도에 갇혀 정글을 뛰어다닐 실용적인 옷이 필요하다면, 이 엘프 반바지가 제 몫을 해낼 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02274",
+    "source_sha256": "ec818da649d532a3d4669ab9cdccde300ba650e8bcb170de8d75990569bb99a6",
+    "ko": "정글 대사 II (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02275",
+    "source_sha256": "bf39694a51d6fbedc816170eec63eace30dc3ee54e06e0fcab9d56c6915ca6e6",
+    "ko": "임시 의상의 전형인 이 실용적이고 제법 위엄 있는 옷은 한동안 편안함을 지켜줄지도 모릅니다. 하지만 멋과 실용성을 모두 원한다면 창의력 기술을 갈고닦는 편이 좋겠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02276",
+    "source_sha256": "8858c4bc3a9e9f055fc364686a6fbe11127083683f525fb21688d521a47b38a3",
+    "ko": "침팬지를 부르는 세트 I (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02277",
+    "source_sha256": "5a552fe407e59086c26e400b3253166d3574ab5f9c51b2018a16515b7f655ad5",
+    "ko": "주변 세계에서 영감을 받되 패션 감각의 한계에 갇힌 결과, 아무도 놀라지 않을 바나나 잎 의상이 탄생했습니다. 섬에서 가장 멋진 옷은 아니겠지만 침팬지들은 개의치 않을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02278",
+    "source_sha256": "24676eff29239359d93c1752457aadfdb7dbd8501daa98c10ebb7aa67c17c557",
+    "ko": "짚 묘목 멜빵 (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02279",
+    "source_sha256": "49f16170486c5bf25d7cca2c455b66e65e2a7584931accfe734f9a8e62670721",
+    "ko": "정글 중에서도 가장 깊은 정글에서 모은 재료라 습기와 썩은 냄새가 진동합니다. 덩굴이 가장 튼튼하거나 상쾌한 재료는 아니지만, 알몸보다는 낫습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02280",
+    "source_sha256": "381637b6bcfacf1f69522f9adb348a480539c02ca84e36edb2c10e81c7f17b1e",
+    "ko": "나들이 반바지 (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02281",
+    "source_sha256": "53d0c28bdc43f1b754b878db92695b05560f371d08ea0b0912e9bf55528932d4",
+    "ko": "옛이야기가 가르쳐 준 것이 있다면, 크고 무서운 장애물을 만났을 때 풀이 가장 튼튼한 재료는 아니라는 점이겠죠. 그래도 다른 재료를 쓸 수 있을 때까지는 버티게 해줄 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02282",
+    "source_sha256": "b0fa292bdf631467d4b13c5eb0ad242aff4931e2effbe648ca7ce6d782007fe2",
+    "ko": "덩굴 묘목 멜빵 (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02283",
+    "source_sha256": "49f16170486c5bf25d7cca2c455b66e65e2a7584931accfe734f9a8e62670721",
+    "ko": "정글 중에서도 가장 깊은 정글에서 모은 재료라 습기와 썩은 냄새가 진동합니다. 덩굴이 가장 튼튼하거나 상쾌한 재료는 아니지만, 알몸보다는 낫습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02284",
+    "source_sha256": "eddbd5c52765a91f69a64ceb967d6838a3f7b13ec15383cdaee85439dcff3489",
+    "ko": "덩굴 이모 스타일 (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02285",
+    "source_sha256": "1e4f04be498bf62a06c2a11bd9fdcb16dcf81d02f2f0a8d1e121b3d15ae6974c",
+    "ko": "덩굴이 없었다면 형태조차 없었을 옷에 덩굴이 모양과 윤곽을 잡아줍니다. 섬 공예의 정점은 아니지만 덩굴 이모는 별로 불평하지 않을 겁니다. 다만 마음 깊은 곳에서는 슬퍼할 테죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02286",
+    "source_sha256": "823c921d96dfb646e0fe0f7e55a4e3be0ee71ed58a27615558f6b65845a2714e",
+    "ko": "풀 사바나 세트 (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02287",
+    "source_sha256": "8004da9f8bdcdf3a83ca03dd802b66e7748771cf420d51487a428991aca4355f",
+    "ko": "사바나에서 사자와 하이에나를 사냥하고 있었다면 완벽한 위장복이었을 겁니다. 주변과 완전히 하나가 되지는 못해도, 노란색이 유행일 경우에는 잘 어울릴 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02288",
+    "source_sha256": "9fa5dc99c4376e9d21fd8ed98a090cf87da1c76e44836b15155418171b80f47e",
+    "ko": "침팬지를 부르는 세트 II (남성용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02289",
+    "source_sha256": "5a552fe407e59086c26e400b3253166d3574ab5f9c51b2018a16515b7f655ad5",
+    "ko": "주변 세계에서 영감을 받되 패션 감각의 한계에 갇힌 결과, 아무도 놀라지 않을 바나나 잎 의상이 탄생했습니다. 섬에서 가장 멋진 옷은 아니겠지만 침팬지들은 개의치 않을 겁니다."
+  }
+]

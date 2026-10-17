@@ -1,0 +1,622 @@
+[
+  {
+    "id": "TXT_SimsObjects_03117",
+    "source_sha256": "9a31b714a4c037b8d87f21cc3d2e069bdb1a1e26c8b4412ac213a1cb22ef375b",
+    "ko": "아직 정체가 밝혀지지 않은 꽃이지만, 꽃잎에는 세상을 떠난 사람의 영혼이 깃든 듯합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03168",
+    "source_sha256": "fc526a934ab88a0c39dda0324143ccbe55ed72395a09cefe9c72c5b3745cfb37",
+    "ko": "모래 친구는 표류자만을 위한 것이 아닙니다. 세계 곳곳의 사람들이 모래 우정만의 특별한 보람을 발견하고 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03239",
+    "source_sha256": "c1390196eeb7c25b71f769554dfdea5258b7655b49b5004a4f625972955da69a",
+    "ko": "수염수염의 보물 지도"
+  },
+  {
+    "id": "TXT_SimsObjects_03305",
+    "source_sha256": "ae99efc4242d8ad645382aa897fa946727cba9bf9e4f6d5cbd7652640bacd5c7",
+    "ko": "방갈로 식탁 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03311",
+    "source_sha256": "bf388aa906be2a9cf643429903328a2cf2ac34b561799c0dbc8968ef8a9c1f7e",
+    "ko": "통나무 거실 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03312",
+    "source_sha256": "3edc0ff28da530c948a66fff3d861f84037962f9e29642a2debb7fce5f7d7091",
+    "ko": "의자가 축하할 일이 된다면, 이 의자를 위해서만 품격 있는 저녁 파티를 열어도 좋을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03314",
+    "source_sha256": "5b9c32d82d5149817bf8bd77052ea8e690449732c67aa1c69fdd61317d15f3ea",
+    "ko": "판잣집 거실 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03317",
+    "source_sha256": "8e35483b129eb292d81c9efb2b67d7a2b0b0efcbae00e58fdb1a941687983f7a",
+    "ko": "방갈로 거실 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03318",
+    "source_sha256": "ad09cd843c0ef330fa7d7974a5d2454af95c9392502994b52a8f53923696cafc",
+    "ko": "앉을 것인가? 어쩌면 꿈을 꿀 것인가! 이 의자에 앉으면 졸릴 수 있다는 말을 고상하게 해본 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03320",
+    "source_sha256": "727b19cbea5c858becdbde422cb2850f998cba34b2086e0630ca90e95e062827",
+    "ko": "오두막 거실 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03321",
+    "source_sha256": "a802ebae3c7837cceb58f1e7789cbda96890b1c8ab7f9d43f5246680b328a6eb",
+    "ko": "거실 의자 하나면 적당하고 두 개면 넉넉하지만, 열두 개나 만들면 우스울 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03327",
+    "source_sha256": "d0ac1a2ed7f7a1a9f3fb109283b6ac9b89b575a7a33fef83fa1fe540033248cb",
+    "ko": "수수께끼입니다. 의자 하나를 만드는 데 표류자가 몇 명 필요할까요? 조금이라도 유능한 사람이라면 한 명이면 됩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03399",
+    "source_sha256": "9fe2e6bd8ff9c37749d981f062d8825246075c302ded2a494844ba8d8d1d35f3",
+    "ko": "야생 동물이 못 들어오게 하기에 완벽한 문입니다... 원한다면 못 나가게 할 수도 있죠."
+  },
+  {
+    "id": "TXT_SimsObjects_03401",
+    "source_sha256": "cf9082afe2ffb8fd67d47765a539a6e172f3c35217d0de579f4dae10ebbe3dcc",
+    "ko": "강화 통나무집 문"
+  },
+  {
+    "id": "TXT_SimsObjects_03402",
+    "source_sha256": "585baf4459bc32b6022a0794d00cdd0ce08daf887d006c0cd44e8794f651c05b",
+    "ko": "드디어 원치 않는 이웃이 찾아오면 뒤에 숨을 수 있을 만큼 튼튼하고 잘 만든 문이 생겼습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_03405",
+    "source_sha256": "7761085d73a904098b1d0e547b0ead5523a4dcc6e3319e0721c03533ffeff5e5",
+    "ko": "지진이 났을 때 이 문틀 아래 서 있는 것은 그냥 밖으로 나가는 것보다 아주 조금 더 위험할 뿐입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03408",
+    "source_sha256": "60f561095a153ea6865b5250eb63b93ddf679ad04bef171861a526cb582de058",
+    "ko": "오두막을 드나들 때마다 울타리를 뛰어넘을 생각이 아니라면 대문은 꽤 필수적인 물건 같습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03411",
+    "source_sha256": "e92fed36ba3e73556a272dd15d37ee6d82442728391d488ba5af5adc3f5ccbbe",
+    "ko": "멋진 대문이 집의 보안을 높여주지는 않겠지만, 대문 없는 섬 주민들의 부러움은 살 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03414",
+    "source_sha256": "cbd56e67a8cf12f201e401d05e7dbd95e4be9b36e5a136833c6cba019e4dfc25",
+    "ko": "재료도 솜씨도 형편없어서 문보다는 얇은 덮개에 가깝습니다. 그래도 덮개라도 없는 것보다는 낫죠."
+  },
+  {
+    "id": "TXT_SimsObjects_03419",
+    "source_sha256": "e52c28a03341ef18ec1e0e7cf60207f5cca57fa35c61dccdd6c18b5f3d04d6b0",
+    "ko": "아기자기한 방갈로 문"
+  },
+  {
+    "id": "TXT_SimsObjects_03420",
+    "source_sha256": "2fe0d4f417f97bd6e7ecc86249f5aa34a97c93bc136d2849c02272b53c846ec3",
+    "ko": "건물의 첫인상은 대개 현관문에서 시작됩니다. 이 매력적인 디자인은 실망시키지 않을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03422",
+    "source_sha256": "765f311444673321c416b78427468cb378cdfe85ffae27314a4e229e7de228b0",
+    "ko": "세련된 방갈로 문"
+  },
+  {
+    "id": "TXT_SimsObjects_03423",
+    "source_sha256": "da5196b427dda05e8ba098d0be00a08c4ab5bce83d3c1d0606ea2e9bc82bb849",
+    "ko": "생존용 건물은 결국 비슷비슷해지곤 합니다. 그래서 멋진 문이 더욱 중요하죠."
+  },
+  {
+    "id": "TXT_SimsObjects_03426",
+    "source_sha256": "3ee1451148265cd594fdcb2e113a55e14714e5e3deb27d622badf0561ef02031",
+    "ko": "귀엽고 세련되며 오래가도록 만들었습니다. 문과 관련된 가능성의 새 세계를 열어주는 문틀입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03429",
+    "source_sha256": "1109462a16100f4c4cbd2cfe880bdf4d45114f5b6c1d55562a65d5d869ad8ce9",
+    "ko": "꼭 맞게 닫히지는 않겠지만, 적어도 기쁘거나 답답할 때 쾅 닫을 문은 생겼습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03432",
+    "source_sha256": "867947a7705133f72f3f03d9e23d0d48e54957fb28d1c124525833ded197cb43",
+    "ko": "문틀 없는 오두막은 완성되었다고 할 수 없습니다. 입구도 없는 커다란 쓸모없는 상자를 짓는 게 아니라면요. "
+  },
+  {
+    "id": "TXT_SimsObjects_03633",
+    "source_sha256": "dce367cfe35900366cd9c19e9ce7aea6422b47d10151b8bf4b844a37ca18b2ad",
+    "ko": "섬의 자연스러운 리듬에 끌리나요? 그렇다면 작은 북으로 당김음 가득한 소란에 함께해 보세요. 박자는 꼭 지키시고요."
+  },
+  {
+    "id": "TXT_SimsObjects_03639",
+    "source_sha256": "6591514e368de265a53ff67b3a872e75d003a57e05947bef5106690c62ac4bad",
+    "ko": "실로폰의 관능적인 사촌인 마림바가 있다면 원치 않은 섬 체류도 한결 덜 지옥 같아질 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03645",
+    "source_sha256": "ce29cb2627a2aa55a2545c7a76545a42b3f8ec7080722c4aa6c21ae2e89df70f",
+    "ko": "간단한 리듬 악기가 필요할 때는 코코넛에 체리씨를 넣고 마음껏 흔들어 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_03648",
+    "source_sha256": "ae0b13cd1f6ac5ad958e448b71b879a5e9829d3bdcb0b844efb92c02a6f7f64d",
+    "ko": "죄수에게 하모니카가 있다면 표류자에게는 우쿨렐레가 있습니다. 하나 깎아 만들어 새 섬 생활의 배경음악을 연주해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_03654",
+    "source_sha256": "eb8881e1d1443900c9f5b5b68bcd799ad79c7c9142f13f57530367c6ae0fb9cd",
+    "ko": "한밤중의 일기나 짓궂은 익살시, 그 밖에 영감이 떠오르는 무엇이든 쓰기에 알맞은 조명입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03657",
+    "source_sha256": "9a6cb3c492a97d204295cd6911b977d8482c4639fe591e89c4db819c00013091",
+    "ko": "달빛은 해변에서 낭만적으로 산책하기에는 좋지만 오두막 안까지 밝히지는 못합니다. 조명을 만드는 편이 낫겠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03660",
+    "source_sha256": "6a27069420d7bc2bad0dd2237ca71d7b0745b4950b0260ded18f8a7156c2b261",
+    "ko": "은은하게 빛나는 이 조명은 오랫동안 신나게 그림자 인형극을 즐기기에 완벽한 배경이 됩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03669",
+    "source_sha256": "6405104c7d7b898651ca7d9219e201e15f953a0b06159de3b0cd018771aa69b9",
+    "ko": "밤에 오두막을 떠날 때 이 조명을 켜두면 돌아왔을 때 늘 환영받는 기분이 들 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03672",
+    "source_sha256": "967768a0ed542ce7cf591f072ad3a190e8cfb0a8891b088c48a38b2fb9712a07",
+    "ko": "초보 표류자들은 달빛 아래서 구조 요청 편지를 쓰느라 밤새 씨름하곤 합니다. 조명이 있다면 훨씬 쉬울 텐데 말이죠."
+  },
+  {
+    "id": "TXT_SimsObjects_03675",
+    "source_sha256": "0193394c12064b03a62128ce73708b13a950efaeb17282c3473f8f8c5df1ff19",
+    "ko": "진정한 조명 장인만이 이 정도 품질의 등을 만들 수 있습니다. 무럭무럭 자라는 전문성을 축하합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_03678",
+    "source_sha256": "55607974d0f9e8242cf9bb0dc98470050dcdf90497978ea6eb4dce0ae3fc6dc9",
+    "ko": "대부분의 조명이 그렇듯 얼굴을 바로 위에 대면 더 으스스하고 극적인 표정을 연출할 수 있습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_03798",
+    "source_sha256": "a01c0a2886c023b0b70e5812c484986123de2ccffb6c5f42eac40790c85bf414",
+    "ko": "히비스커스의 향긋한 냄새라면 집 안에 어떤 악취가 가득해도 감쪽같이 가려줄 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03801",
+    "source_sha256": "8d8ced75c4637775085f8bc740d11729f2d184629e8375000b7c18e57efdf610",
+    "ko": "식물에게 말을 걸면 식물 건강에 좋습니다. 하지만 연약한 눈물 난초에게는 언제나 실내에서 쓰는 조용한 목소리로 말하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_03804",
+    "source_sha256": "5dafda1af2baf40aaa813bf3bc86d7d88f0cf33af553465284723ddb6a5f22f1",
+    "ko": "바깥의 야자나무로도 부족하다면 이제 실내로 한 그루 들여놓을 기회입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03818",
+    "source_sha256": "b959f6112b6d31caf14ba0602454bd60a2d38310b9d6746a2277b8a18f6d36c0",
+    "ko": "실용적인 야외 화장실"
+  },
+  {
+    "id": "TXT_SimsObjects_03819",
+    "source_sha256": "6a1cd7d08c5c0ecca91e2f91137291c843d0c59876ff851e12d944e16c4f0af2",
+    "ko": "드디어 볼일을 볼 나만의 공간이 생겼습니다. 이제 시간을 보낼 읽을거리만 좀 인쇄하면 되겠군요."
+  },
+  {
+    "id": "TXT_SimsObjects_03822",
+    "source_sha256": "db9885566d6d38ce42ec05672203248519362d638e1c5286b7ce8c53c4d7b970",
+    "ko": "이 고급 화장실에는 부족한 것이 없습니다. 기묘하게 파란 변기 물과 원숭이 안내원 정도를 빼면요."
+  },
+  {
+    "id": "TXT_SimsObjects_03828",
+    "source_sha256": "b200a483ef59429f3d04d509dfaa829777f1b681a76a6f6e7fcf3b2012ed0b16",
+    "ko": "마지막으로 샤워한 게 언제인가요? 기억나지 않는다면 당장 샤워 시설을 만들 때입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03831",
+    "source_sha256": "ec36a8afcceb7d8747adac501dd50dc7fa6f278c74078dbca7e868840f9392a0",
+    "ko": "이렇게 복잡한 샤워 시설은 만들기 아주 어렵습니다. 버튼만 누르면 마법처럼 나타나게 할 수 있다면 좋을 텐데요."
+  },
+  {
+    "id": "TXT_SimsObjects_04212",
+    "source_sha256": "c8ab4aaf45934dd30655760d3e16f71674eaa9b58fe3d324af806e67a5d3bdb9",
+    "ko": "야자나무 잎의 용도는 정확히 1,001가지입니다. 새로운 용도를 발견하면 1,002가지가 되겠죠."
+  },
+  {
+    "id": "TXT_SimsObjects_04244",
+    "source_sha256": "e013905755da9a0f8cb757ae2ce768e999eafe8fa0b6add1c9596448018e62a3",
+    "ko": "자연의 횡포에 지쳤다면 강화한 이 지붕으로 한동안이나마 더 편안히 지내 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04246",
+    "source_sha256": "f12002ad107cde0ac1154ac609d7cbff8b04f724f7bfd8bc7dc5b7a05f477ba7",
+    "ko": "작은 3x4 통나무집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04247",
+    "source_sha256": "b0da7d7939c14606da92400df9b3df2bcf28b3163607b1d7cde9c6ea731b22ed",
+    "ko": "통나무집의 품질은 위에 얹은 지붕에 달렸고, 지붕의 품질은 만든 사람에게 달렸습니다. 부담이 팍팍 느껴지는군요!"
+  },
+  {
+    "id": "TXT_SimsObjects_04249",
+    "source_sha256": "d4e37fb13f6af107a61719ee12be0873d3bfa56a9096b8c07e567d7f3e47977a",
+    "ko": "보통 4x5 통나무집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04250",
+    "source_sha256": "da90fe73e2b9c70b3847885413ffe4bdd58c2c07a6915f706702d2754474b155",
+    "ko": "세 배로 강한 섬유 끈으로 묶어 만든 지붕입니다. 10년 품질 보증만 빼고 모두 갖췄습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04252",
+    "source_sha256": "3b3d8107a9b74315a089771ff9cd96e504969bbd4a032e051203356dfbea1b0d",
+    "ko": "큰 5x7 통나무집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04256",
+    "source_sha256": "bce1fa9c537d3875de4e9a21bf90118fd6bb6c777dae3d0cdcc9ac1a984f8daf",
+    "ko": "이 조그만 지붕은 물자를 보호하기에 좋습니다. 처참한 상황의 무게가 밀려올 때 밑에 웅크리고 있기에도 알맞습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_04258",
+    "source_sha256": "20e6f75471a7a6471c63a2ef55ebc4fdddabd8dd3a86739c75f59cd8f4a2bd71",
+    "ko": "작은 3x4 판잣집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04259",
+    "source_sha256": "ca216589e4be8332735bf336921f0838b509103fb93cc10a2eca930c7523a05a",
+    "ko": "TV 프로그램 \"굴러다니는 아무것으로 작은 지붕 만들기\"를 보며 보낸 수많은 시간이 이제 큰 보답을 해줄 겁니다! "
+  },
+  {
+    "id": "TXT_SimsObjects_04261",
+    "source_sha256": "fc2c59c9ee38bfcf9fb5377a8f98207881f1404ed6b0d964d1a58cc1e13a6845",
+    "ko": "보통 4x5 판잣집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04262",
+    "source_sha256": "5df3b3a66e6b531d634e7afa2a641a9e041931ba724bc19236b6f3fe0c5862f3",
+    "ko": "난파 생존자 대부분은 처음에는 보통 크기의 지붕을 고릅니다. 여러분도 이 유행을 따라갈 건가요?"
+  },
+  {
+    "id": "TXT_SimsObjects_04264",
+    "source_sha256": "abe9ba5a54c18afff1b85dddffb656b02d737903c8f1d6699bd2a1016e1b9327",
+    "ko": "큰 5x7 판잣집 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04270",
+    "source_sha256": "5b1f68b1fc3add26038825c9132682e6b3640ca7fbb13f651ff04c20236d8f36",
+    "ko": "아주 작은 1x3 방갈로 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04271",
+    "source_sha256": "a1351fff6d2d874edf3b7ad88e8fe7e79efedcc76047335862b3e6754c164ac7",
+    "ko": "지붕은 뒤집힌 천장에 불과하다는 사람도 있습니다. 하지만 이 근사한 작품은 그런 시야가 얼마나 좁은지 보여줍니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_04273",
+    "source_sha256": "3d4313a93170f6ccfeb6910cebffce24051899bdf6e2074160c9b19ccbdfa399",
+    "ko": "작은 3x4 방갈로 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04274",
+    "source_sha256": "2fa1f288d91972ec7510ad02415eeb583fa706c87a94ca850bf91c24d1d875c5",
+    "ko": "문명에서 멀어졌다고 모양과 기능을 세련되게 조화시킨 작은 지붕까지 포기할 필요는 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04276",
+    "source_sha256": "1c27cf4bcb27187c9f52e141cc115b810ef8ff86bdf137b651b6cd6d4d81ab8f",
+    "ko": "보통 4x5 방갈로 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04277",
+    "source_sha256": "49378ef2803e6174314dca29f383f68a5dfb77340d967acae1a8322af6c02bfc",
+    "ko": "대담하고 튼튼하며 멋스럽습니다. 지붕 경연 대회가 있다면 분명 1등을 할 만한 지붕이죠."
+  },
+  {
+    "id": "TXT_SimsObjects_04279",
+    "source_sha256": "7b378557995dc2457835670dacd7f1515ca4e0d88c62f756d4ccb79e8bff6474",
+    "ko": "큰 5x7 방갈로 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04280",
+    "source_sha256": "4fd962c74b165ec0f899bdf0a798d7279a9e9590328c3468e88eb18af48ec5ba",
+    "ko": "섬 거처의 궁극적인 지붕입니다. 크고 잘 만든 이 지붕이라면 최고급 열대 휴양지도 부러워할 겁니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_04283",
+    "source_sha256": "463ba5ffef6d2637d952467c0d506b00672285dadc880366d0de62738a71048d",
+    "ko": "지붕을 올리는 일은 흥을 돋우기 위해서만이 아닙니다. 초라한 집을 아늑한 오두막으로 바꾸는 중요한 단계이기도 하죠."
+  },
+  {
+    "id": "TXT_SimsObjects_04289",
+    "source_sha256": "b96fef0fe626310b42491952b88654b8d6ad11a2fa0df6301aa0a59df072f90b",
+    "ko": "바람과 비, 심술궂은 새들의 끊임없는 위협 때문에 더 믿음직한 지붕이 필요합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04291",
+    "source_sha256": "5686ad441174a7aa8cc2426dccc43157afd7d6b5149f8e32b93b4c7ba2ebb143",
+    "ko": "보통 4x5 오두막 지붕"
+  },
+  {
+    "id": "TXT_SimsObjects_04292",
+    "source_sha256": "5045ef79657d55ee70e2bfde557e56b066c6a630829dccd2281b8bb47c8d69b8",
+    "ko": "지난번 지붕이 바다로 날아갔다면 돌아오길 기다리지 마세요. 대신 더 튼튼한 이 디자인으로 바꿔 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04295",
+    "source_sha256": "7d57185ae38b9d1ebd7c304cdb992dccac20866649ded8b85f7d4c00cb8b29d7",
+    "ko": "불 가까이에 거처를 지으면 \"지붕에 불났다\"는 말이 비유로 끝나지 않을 수도 있습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_04298",
+    "source_sha256": "20f97ae8d1716560f9c2f82788f9ae764216b4a2e75b0c5c024a8a55824d5099",
+    "ko": "옛날에는 사람 머리카락으로 깔개를 만들었습니다. 필요해서가 아니라 그게 당시의 으스스한 유행이었기 때문입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04304",
+    "source_sha256": "7297af7c0f83e499fe3541e5d9710208c93be8c3ea4f3bb01fd560e338e863d4",
+    "ko": "깔개가 없다면 어느 날 실수로 바닥에서 잠들었다가 온몸에 생물들이 붙은 채 깨어나도 놀라지 마세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04313",
+    "source_sha256": "95c677b65fb13c45bad8c6d803b6b0b6811bf1541b4f19718371d459b003c63c",
+    "ko": "재미있는 실험을 해보세요. 이 깔개를 다 짜면 벌레 몇 마리를 감싸 얼마나 포근한지 시험하는 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04316",
+    "source_sha256": "fc526a934ab88a0c39dda0324143ccbe55ed72395a09cefe9c72c5b3745cfb37",
+    "ko": "모래 친구는 표류자만을 위한 것이 아닙니다. 세계 곳곳의 사람들이 모래 우정만의 특별한 보람을 발견하고 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04319",
+    "source_sha256": "76e52b0c7500bc10074575ae00032c3a0ddb0879402ca7f4b5044f0c606fa892",
+    "ko": "허수아비는 원예를 방해하는 악당들을 쫓도록 만든 기묘한 농장 인형입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04547",
+    "source_sha256": "3e0d85d0025a0d4aaa0dbfa77f0ccf98864b337acdbb717dcbcf650d46e4fe06",
+    "ko": "무인도에서 손수 만든 소파의 방석 틈에서도 잔돈이 나올 수 있다니 이상한 일입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04550",
+    "source_sha256": "fbbd6cc4317468f628704a0e21da989e2d2dc88b8339cbb3a28eefdbb70cb90f",
+    "ko": "부서진 산호 조각만으로 편안한 소파를 만드는 데 실패했으니 이제 단순한 이 디자인을 시도할 준비가 되었군요."
+  },
+  {
+    "id": "TXT_SimsObjects_04553",
+    "source_sha256": "f66795913055083dba473f2cf34d4c06107d9cdd9e93899f9ff58be6065eb194",
+    "ko": "소파를 그럴듯하게 꾸민 긴 의자쯤으로 여기는 사람은 분명 이 정도 수준의 소파를 만나본 적이 없는 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04556",
+    "source_sha256": "77432483447fa367935d93530a0fffce3501e5c59ed69f91667f20660bcc4ae9",
+    "ko": "조금 울퉁불퉁한 소파입니다. 방석에 엉덩이 자국이 제대로 새겨질 때까지는 아주 편하지 않을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04559",
+    "source_sha256": "0947037a346e4f6855ca422068f8425dbe99f91519dc30703c6e0c7b832e7830",
+    "ko": "2인용 소파는 연인이나 자기 자신을 아주 사랑하는 독신을 위해 만들어졌습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04562",
+    "source_sha256": "37e3700b11d276d05a7f76b23d94726e6acd109d05a4985a0b2d03936f75ce98",
+    "ko": "의자는 너무 작고 소파는 너무 큰 드문 상황이 오면 2인용 소파를 생각해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04565",
+    "source_sha256": "1bd19e4f42d413145924848c895e8a89376b4a2887fd8e50061a119404bb64c7",
+    "ko": "공기 중에 사랑이 가득합니다. 열정적인 솜씨 덕분에 이 수제 의자에도 사랑이 깃들었습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_04568",
+    "source_sha256": "976858b7f295fdbf0e8363267d31e68110fe7cdbccfe7329f2d2058786546f46",
+    "ko": "좋은 책이나 코코넛 한 자루와 함께, 또는 코코넛 한 자루를 다룬 좋은 책과 함께 이 2인용 소파에 포근히 앉아 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04643",
+    "source_sha256": "012379ce3c97a1e0fc1365481b43bd3b2f11fe12edcc19f11e5dfb4760109733",
+    "ko": "닭장은 닭을 위한 저렴한 공동 주택과 같습니다. 다만 조금 더 넓고 이웃이 더 조용할 뿐이죠.  "
+  },
+  {
+    "id": "TXT_SimsObjects_04854",
+    "source_sha256": "897a3d7447a471dc7ab25e6d0c885dc6446020fd510d52bf3e59a420e7734c74",
+    "ko": "이 기적 같은 식물 하나만 없었다면 위생도 난파로 잃어버린 불운한 것들 중 하나였을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04857",
+    "source_sha256": "897a3d7447a471dc7ab25e6d0c885dc6446020fd510d52bf3e59a420e7734c74",
+    "ko": "이 기적 같은 식물 하나만 없었다면 위생도 난파로 잃어버린 불운한 것들 중 하나였을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04863",
+    "source_sha256": "2ebbd8d8f62d9f37693826dbac0ae16d30c71374a2d22d2421675e14f2f4ee26",
+    "ko": "끝없이 펼쳐진 우주와 달리 딸기밭은 영원하지 않습니다. 그러니 아껴서 수확하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_05172",
+    "source_sha256": "660f8ad58206a73349ef59ba7926f2c76d1d0335306535bfab1b57a13c3c6cc4",
+    "ko": "불꽃 위에서 빵 한 덩이를 굽기는 거의 불가능합니다. 하지만 오븐과 조리대가 합쳐진 이 물건이라면 식은 죽 먹기죠."
+  },
+  {
+    "id": "TXT_SimsObjects_05175",
+    "source_sha256": "660f8ad58206a73349ef59ba7926f2c76d1d0335306535bfab1b57a13c3c6cc4",
+    "ko": "불꽃 위에서 빵 한 덩이를 굽기는 거의 불가능합니다. 하지만 오븐과 조리대가 합쳐진 이 물건이라면 식은 죽 먹기죠."
+  },
+  {
+    "id": "TXT_SimsObjects_05178",
+    "source_sha256": "660f8ad58206a73349ef59ba7926f2c76d1d0335306535bfab1b57a13c3c6cc4",
+    "ko": "불꽃 위에서 빵 한 덩이를 굽기는 거의 불가능합니다. 하지만 오븐과 조리대가 합쳐진 이 물건이라면 식은 죽 먹기죠."
+  },
+  {
+    "id": "TXT_SimsObjects_05181",
+    "source_sha256": "c19c27803bed95f35c8d59ab7a3d9d98a0be398ef2173c01bec754e72dc2fcf1",
+    "ko": "가장 별난 친구들을 이 가구 주위에 앉혀 \"네모 탁자의 기사들\" 역할극을 신나게 즐겨보세요. 진짜 친구든 상상 속 친구든 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05184",
+    "source_sha256": "9529be03ba37e5f625db79fedf83db2877ba04fe8e4146d49ce0732bccae4c8b",
+    "ko": "어머니가 바닥에서 음식을 먹지 말라고 가르쳤죠. 예의를 기억하고 어서 탁자를 만드세요. "
+  },
+  {
+    "id": "TXT_SimsObjects_05186",
+    "source_sha256": "a2ab64c8321f1927c89cf6eddd6a5b5f194ecad8045bfae970094735cb55acbd",
+    "ko": "작은 방갈로 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05187",
+    "source_sha256": "e751979ed5511642d3c322eec470ac911e7c3520e8fc89c88d43cbe768a0dcb6",
+    "ko": "이만한 품질의 탁자를 소유하면 컵받침과 물자국, 둥근 얼룩을 걱정해야 하는 문제가 생깁니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_05190",
+    "source_sha256": "0ec2b19e2b5c102253ea60e981a3f273238e05cf25b41904fe60e18af97d1531",
+    "ko": "최근의 불운을 \"뒤집으려면\" 이 가구를 돌려놓는 것만으로는 부족할 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05192",
+    "source_sha256": "58b290e29c5c388fcf878ca945911c0f755657479c040ad172db45bf084c4fdb",
+    "ko": "보통 판잣집 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05193",
+    "source_sha256": "08804959cd0d0453898e9abc1b1fe003520f00d6e1409280de3322f99fb2c1a3",
+    "ko": "주머니에 넣거나 무릎 위에 얹어둘 수 있는 것에도 한계가 있습니다. 결국 탁자가 필요하다는 사실을 뼈저리게 깨닫게 되죠."
+  },
+  {
+    "id": "TXT_SimsObjects_05196",
+    "source_sha256": "3346d0983bb45df4b74901dffc3f8695e0594bb2e31d32663fb38bec9272195a",
+    "ko": "아끼는 씹던 껌을 보관할 편리한 곳이 필요하다면 이 무난한 탁자 밑에 붙여 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_05199",
+    "source_sha256": "375b53911ad84733dedd0cf2a4d18363eaa046dbc40d786fbce057fdb2c9169c",
+    "ko": "갑자기 구조 기념 뷔페를 열게 되었다고 생각해 보세요. 그럴 때는 이런 탁자가 있어 기쁠 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05202",
+    "source_sha256": "dd66d4f6ad87dd65a2587d58650c1ef448d1554d11bb8b9e827643aee66569f0",
+    "ko": "지금은 무엇이든 탁자 위에 올릴 수 있습니다. 아직 탁자가 만들어지지 않았으니까요."
+  },
+  {
+    "id": "TXT_SimsObjects_05204",
+    "source_sha256": "fb2d665c9e602444e3e7ec80016b8acbc451a9e7bf8c311070d1f75d9ad7d828",
+    "ko": "큰 방갈로 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_05205",
+    "source_sha256": "ead72ef7e2d831d6a6c0514a984df6280df7cf57aaaa4475b13afd13077318c0",
+    "ko": "격정적인 몸짓으로 탁자 위 물건을 모두 쓸어버리고 싶었던 적이 있나요? 그렇다면 연습하기 좋은 탁자입니다.  "
+  },
+  {
+    "id": "TXT_SimsObjects_05211",
+    "source_sha256": "47c5d06e0e59cfa9f6b8ceb2fa758173c34879c686364480487d3f40742890f0",
+    "ko": "이미 모든 것을 갖춘 듯한 방갈로에 보조 탁자는 완벽한 장식이 됩니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_05244",
+    "source_sha256": "50c6915177550e287661278b2740f6d57765f1c3c2685bb44ad3d2041a745238",
+    "ko": "누구나 소라 끝을 잘라 나팔로 만들 수는 있지만, 그것으로 노래할 수 있는 거장은 손에 꼽을 만큼 적습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05292",
+    "source_sha256": "dc9a5d801112de579ceee9c6a4e89435b2723017637d98156c946df074e5cc99",
+    "ko": "부드러움의 편안함을 다시 느껴 보세요. 다시는 나무껍질로 돌아가지 못할 겁니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_05352",
+    "source_sha256": "20ef614466f343567f35c742ebb59d2ff4ca5e7842b32e7087940388492314be",
+    "ko": "록웰의 그림처럼 정겨운 이 울타리보다 보금자리의 영역을 멋지게 표시할 더 좋은 방법이 있을까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_05355",
+    "source_sha256": "31946c9d685877ac980c795e59272126ebb54f3626e287ef62b914ef91fe634f",
+    "ko": "제대로 된 판잣집이라면 벽은 필수입니다. 벽이 없으면 바닥과 지붕을 구분하기가 영 어렵거든요."
+  },
+  {
+    "id": "TXT_SimsObjects_05409",
+    "source_sha256": "8998351fa334a0479936e4b594279e852767794af63a7598bd2f0b9d1411a199",
+    "ko": "이 벽이 말을 할 수 있다면 뛰어난 구조적 안정성과 풍부한 미적 가치를 자랑할 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05421",
+    "source_sha256": "499c4fdfaec7fc033ba9215a24e29c2e1ab13e7987b633b447182e9160f37ae0",
+    "ko": "표류자라면 누구나 처음 튼튼한 창틀을 만들던 순간을 기억합니다. 추억은 이런 소중한 순간으로 만들어지죠."
+  },
+  {
+    "id": "TXT_SimsObjects_05424",
+    "source_sha256": "6207623996e90874393741c9d365fc69117fa739e83522b459d9d1cab6850f59",
+    "ko": "달빛이 알맞게 비치면 이 덧문은 통나무집 안에 매혹적인 느와르풍 그림자를 드리웁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05427",
+    "source_sha256": "518ad1b76fd03b216c8b06424317832f9094c25b5765d0694e0b491440372095",
+    "ko": "이렇게 서투르고 허술한 물건이라도 창틀만큼 우아하게 벽을 뚫는 것은 없습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_05430",
+    "source_sha256": "75afdfe0190d7215b5b0b86acc14e32452a7d8fb674be72f32cb1bad4a2d10a8",
+    "ko": "이 허술한 덧문이 폭풍이나 자연재해를 어떻게 견딜까요? 생각만 해도 덜덜 떨립니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05435",
+    "source_sha256": "c8693a7a9b2cf9dc7ddcbe9fde3ba0992641b705fe22a646f43a082d3007a176",
+    "ko": "방갈로 창틀"
+  },
+  {
+    "id": "TXT_SimsObjects_05436",
+    "source_sha256": "0ef24ca9affbc2e8f81eba8a804c0b8ad16b67477699de2a3def86f0ba38e0de",
+    "ko": "자존심 있는 방갈로라면 번듯한 창틀 한두 개쯤은 있어야 하지 않겠어요?"
+  },
+  {
+    "id": "TXT_SimsObjects_05438",
+    "source_sha256": "063f3e3f0b234da94765df832e60ff5424fe5a7f43b8136c3535c4ecb9a9983b",
+    "ko": "방갈로 유리창"
+  },
+  {
+    "id": "TXT_SimsObjects_05439",
+    "source_sha256": "c5e516e87ac52036c63a8c1259f3bec802f15e2ca57e5233adc65e94de7f5a03",
+    "ko": "모래를 쓸 만한 유리창으로 만드는 데는 수천 초가 걸리지만, 깨뜨리는 데는 단 1초면 됩니다. 책임이 막중하군요. "
+  },
+  {
+    "id": "TXT_SimsObjects_05442",
+    "source_sha256": "4c897ce72efdbb8b8e7263a447e022653a37563aadfe813c63347c958ec9d108",
+    "ko": "멋진 덧문은 유행을 타지 않습니다. 특히 생존자풍 세련미를 갖췄다면 더욱 그렇죠."
+  },
+  {
+    "id": "TXT_SimsObjects_05445",
+    "source_sha256": "38e2226b090936dbdbc44e9430617c873cacc48fe4d91473fc5e649acc9f2ed5",
+    "ko": "창틀은 환기와 자연 채광에 유용하며, 오두막에 편히 앉아 이웃을 엿보기에도 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05448",
+    "source_sha256": "1bf543b76f8e108415c7d315831750161bc64c28eaadb77a8528f78cac3fb40a",
+    "ko": "무난하고 칙칙한 이 덧문으로 주변의 아름다운 열대 풍경을 가려 버리세요. "
+  },
+  {
+    "id": "TXT_SimsObjects_07749",
+    "source_sha256": "40051822fc17f7b1c4710f734f971ce53132f78b4d07371d1c3f337b5534353c",
+    "ko": "닭을 쫓아다니지 말고 덫을 놓으세요."
+  },
+  {
+    "id": "TXT_urbzui_00744",
+    "source_sha256": "b6695e0745cd4789c4b3003ed8cc443bb381a0a03aafd619d9da71c78a22375e",
+    "ko": "변경 사항을 취소할까요?"
+  },
+  {
+    "id": "TXT_urbzui_00816",
+    "source_sha256": "b6695e0745cd4789c4b3003ed8cc443bb381a0a03aafd619d9da71c78a22375e",
+    "ko": "변경 사항을 취소할까요?"
+  },
+  {
+    "id": "TXT_urbzui_01022",
+    "source_sha256": "47f25f763e0dbcfb56f062a69060d84d21fd68dfcacef93a4fb5069bccd4bdf8",
+    "ko": "종료할까요?"
+  }
+]

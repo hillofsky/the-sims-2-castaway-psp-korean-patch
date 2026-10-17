@@ -1,0 +1,842 @@
+[
+  {
+    "id": "TXT_urbzui_01792",
+    "source_sha256": "ae4521cdd73ac01999f3b1671b38a3b06bddac828d9cacee81b1afded6c92948",
+    "ko": "키스 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01793",
+    "source_sha256": "a7c239b80a961cf53d53e1db901d0096d62286479040b1b5ba90ef7b0171b9a6",
+    "ko": "쓰레기 투기 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01794",
+    "source_sha256": "114995e49da5162aadb14cc1c734ad5539fccba2f7d4ae6ea20c965a9025c376",
+    "ko": "반려동물 소변 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01795",
+    "source_sha256": "88f96c95c8d0eb8fcd41bbe30fe6dce7b1d7519fd84bf849d017edb1d2773c22",
+    "ko": "반려동물 먹이 주기"
+  },
+  {
+    "id": "TXT_urbzui_01796",
+    "source_sha256": "fd718f99daa62052d7ae93d1f6909487bfc98e77c6d799ac0ce6109876f6face",
+    "ko": "감전 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01797",
+    "source_sha256": "1d432f58690c2b4a9737b0a97f04b70bb4f0d9950d5177619039afe139f3b31e",
+    "ko": "대화 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01798",
+    "source_sha256": "ead893dfb47360951740c381330ecb3bba0327120d040396935893096b9d745f",
+    "ko": "사귄 친구"
+  },
+  {
+    "id": "TXT_urbzui_01799",
+    "source_sha256": "170ba9307b8cf35753bfd9256a51448eee5d8581da645bb1dc9fa9aa46aa33da",
+    "ko": "잃은 친구"
+  },
+  {
+    "id": "TXT_urbzui_01800",
+    "source_sha256": "bcc5bd75dd3bf3f495119e921cd4e18f3ee3fc6544ff6e76e2be66ac888688ad",
+    "ko": "사귄 연인"
+  },
+  {
+    "id": "TXT_urbzui_01801",
+    "source_sha256": "fd8f04a160276a64e8ee071ad210b73973069b90b8dacb4c243c1f9aef9da6e6",
+    "ko": "잃은 연인"
+  },
+  {
+    "id": "TXT_urbzui_01802",
+    "source_sha256": "54d4fb73bd1fc7c3a5951b02f17171e8f0663c96089cc3106906d3a4d952e1e2",
+    "ko": "생긴 적"
+  },
+  {
+    "id": "TXT_urbzui_01803",
+    "source_sha256": "e7c31621042c7e2e7ff1eab7c71f9289456b23f7c4d2362cbfd1befb950bae7f",
+    "ko": "소변 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01804",
+    "source_sha256": "72c36b100cfb3e24e0afce4b4b0daf0174fe870ee049f55471d923f8c73d1dd9",
+    "ko": "줄어든 적"
+  },
+  {
+    "id": "TXT_urbzui_01805",
+    "source_sha256": "93dc45af2d748911d0dce75056bcd78c55aebc51a70555a2ea55b843535341e2",
+    "ko": "청소부 방문 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01806",
+    "source_sha256": "407cdd35d5225a203c484357db3bb76097520ff3e07c91c504da2e8b8edd365e",
+    "ko": "어브 소생 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01807",
+    "source_sha256": "aacfc99f085916b1ccb30e4f8f681f24d4a08c887dd1b45a9dcd3164f05a6c87",
+    "ko": "목욕 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01808",
+    "source_sha256": "7d869a92ea64ea07e901dc5f6df23d8137a11b409ed093e8417a94a77b7fddae",
+    "ko": "식사 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01809",
+    "source_sha256": "299de31402da34e4c425edbd80a3efde1771eaf912e8a4bbb16388b1bcae8b8c",
+    "ko": "기절 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01810",
+    "source_sha256": "1c0be594e801376f171f0e6f4e0b4eec443b53d5528c715e0faee24d27e70867",
+    "ko": "화재 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01811",
+    "source_sha256": "947fd867f3e130a7e95c8790627f98ab58d21bb0dbecaefe2142056bc2470071",
+    "ko": "알몸이 된 횟수"
+  },
+  {
+    "id": "TXT_urbzui_01812",
+    "source_sha256": "4e9d17f2229e4573684f31806b7305c1b4b7b2710652406d13d02c18b138801b",
+    "ko": "망가진 물건"
+  },
+  {
+    "id": "TXT_urbzui_01813",
+    "source_sha256": "73c0de5207b56435d8d6c74e6fbde336c3e1b1a1be24d5c944f77d10c44347d8",
+    "ko": "수리한 물건"
+  },
+  {
+    "id": "TXT_urbzui_01814",
+    "source_sha256": "6696ae5ddd67ecd1f4bb3801ea69adeb2dc5ad2f39da3fd76540276a149bf2d8",
+    "ko": "반려동물 제과점"
+  },
+  {
+    "id": "TXT_urbzui_01815",
+    "source_sha256": "95fffad1ce9100cf47c0a9c56d752a603cad82bc3ad85005b5d12cc5b06c7a90",
+    "ko": "반려동물 종합 상점"
+  },
+  {
+    "id": "TXT_urbzui_01816",
+    "source_sha256": "45704c76a224f21711869e6ec2857de5bd2f827e174a17a7c2fe2097c81c19de",
+    "ko": "반려동물 호텔"
+  },
+  {
+    "id": "TXT_urbzui_01817",
+    "source_sha256": "cf9fb769808a99829339a52100efc6a14d0c47193d8d8516ed1cb8c53fd3fe6d",
+    "ko": "반려동물 판매점"
+  },
+  {
+    "id": "TXT_urbzui_01818",
+    "source_sha256": "992f25c35dafca84aae186e2ffbeed0cbfde7c86e5410daf0acfe83df77c3914",
+    "ko": "맘바 무스 스무디 가게"
+  },
+  {
+    "id": "TXT_urbzui_01819",
+    "source_sha256": "184b8c2c7e997e2a8dc51630a3c7e98ef7e386f5021b542b303fe5a42ce75873",
+    "ko": "반려동물 장난감 가게"
+  },
+  {
+    "id": "TXT_urbzui_01821",
+    "source_sha256": "39921a740bf2b67802a2042e1f87e9dec566131c2458aba5683e2827ced0d2c3",
+    "ko": "전환"
+  },
+  {
+    "id": "TXT_urbzui_01822",
+    "source_sha256": "90ddf1963abb36c9921ce7f1ac9cbd94c9176d13e57c418d3d3c20ce44291c1c",
+    "ko": "탭"
+  },
+  {
+    "id": "TXT_urbzui_01823",
+    "source_sha256": "a0549cff425ad4e3bf05b9db7472aeec7f022d83061fe582f01d9a6c7fa66c85",
+    "ko": "기계"
+  },
+  {
+    "id": "TXT_urbzui_01825",
+    "source_sha256": "6fff8759a44274edc03cee6c229ba40ba51393396a314f45aff78a04a57feac6",
+    "ko": "축하합니다! 무인도에서 스스로 탈출하여 궁극의 자력 해결 과제를 완수했습니다. \r\n\r\n섬으로 돌아가 게임을 계속하시겠습니까?\r\n\r\n<COLOR_FFFF0000>주의: 게임을 종료하면 마지막 저장 이후의 진행 내용이 사라집니다."
+  },
+  {
+    "id": "TXT_urbzui_01826",
+    "source_sha256": "27d7bd3fe2247ff77164629aeb76accd2292caf4e19ac3f399c5825ffe940662",
+    "ko": "축하합니다! 심하게 망가진 골동품 라디오를 수리하여 근처 배에 신호를 보냈습니다. 구조되었습니다! \r\n\r\n섬으로 돌아가 게임을 계속하시겠습니까?\r\n\r\n<COLOR_FFFF0000>주의: 게임을 종료하면 마지막 저장 이후의 진행 내용이 사라집니다."
+  },
+  {
+    "id": "TXT_urbzui_01827",
+    "source_sha256": "be9bf88a002cf019554af6e25ea15e906a2f33064fb97cb84c0de30ba286fb1e",
+    "ko": "축하합니다, .... \r\n섬으로 돌아가 게임을 계속하시겠습니까? \r\n\r\n<COLOR_FFFF0000>주의: 게임을 종료하면 마지막 저장 이후의 진행 내용이 사라집니다."
+  },
+  {
+    "id": "TXT_urbzui_01831",
+    "source_sha256": "fd913ab3f585392672a3c5d11c251eb91ffdaee47e68aa22616f9ff3e1fbfa4d",
+    "ko": "Wii_Remote와의 통신이 끊겼습니다."
+  },
+  {
+    "id": "TXT_urbzui_01832",
+    "source_sha256": "f8b7472791f37c1a426a9aa3b97cdd17dbe3d78ec100b23082ef44f77dab7b06",
+    "ko": "배터리 잔량이 부족합니다."
+  },
+  {
+    "id": "TXT_urbzui_01833",
+    "source_sha256": "69827964f077a908f697834e4d263d384735c382281ba03fed1ebf5430d6d252",
+    "ko": "계속 플레이하려면 Wii_Remote에 눈차크를 연결하세요."
+  },
+  {
+    "id": "TXT_urbzui_01834",
+    "source_sha256": "71a6326d712f432b67156365e334054ee9b16e98455f61f6c585461dd69371ed",
+    "ko": "고양이 털 색상"
+  },
+  {
+    "id": "TXT_urbzui_01835",
+    "source_sha256": "633999f0c8909fe70922cb870d6398c28059bfb1be71daabc43c1e56495ffff8",
+    "ko": "고양이 털 무늬 색상"
+  },
+  {
+    "id": "TXT_urbzui_01836",
+    "source_sha256": "9cedc67966c4498ffcc1a18a4279929cc4b05ef606bf7f6db0eb422eed855d59",
+    "ko": "고양이 털 무늬"
+  },
+  {
+    "id": "TXT_urbzui_01837",
+    "source_sha256": "c4c07e58d4749a65c0b79f5aecfb279a6960848e17c9ddd438004b35630312ad",
+    "ko": "고양이 안경"
+  },
+  {
+    "id": "TXT_urbzui_01838",
+    "source_sha256": "35c923fd43507497526f6edbfaf511a03275bd57f5fbf4a67212728f66857c12",
+    "ko": "고양이 모자"
+  },
+  {
+    "id": "TXT_urbzui_01839",
+    "source_sha256": "9b02ee078a6c78473e176ea35b8cee3a2dd9e5f6492d26fadc75d052164ae929",
+    "ko": "고양이 후드티"
+  },
+  {
+    "id": "TXT_urbzui_01840",
+    "source_sha256": "ccd7381d8a5a253b317189148c5594139b6d6cf745fc2b092aefd2525d85fe34",
+    "ko": "고양이 목 장식"
+  },
+  {
+    "id": "TXT_urbzui_01841",
+    "source_sha256": "b9fc4592b5fbc6968cd9e84a4ec436f509dc2dd4660b538c91c6d0a411da59a7",
+    "ko": "고양이 셔츠"
+  },
+  {
+    "id": "TXT_urbzui_01842",
+    "source_sha256": "8ae87924fc47cc393ebc90d1ccf1587ecdc4853503a79908f8aac6d401101823",
+    "ko": "고양이 신발"
+  },
+  {
+    "id": "TXT_urbzui_01843",
+    "source_sha256": "12508c40b923c19f7ef6e52a96be730009c2b0f5164c6a30275c4fe2b5cb823f",
+    "ko": "개 털 색상"
+  },
+  {
+    "id": "TXT_urbzui_01844",
+    "source_sha256": "1532bf3b3e6c2626251a84d399f046ac713cb627a7b87628a53715336663c222",
+    "ko": "개 털 무늬 색상"
+  },
+  {
+    "id": "TXT_urbzui_01845",
+    "source_sha256": "4280e5b8d5de26d3cf25bcf9ce39ef229f60fd11c75bb0fec8ad9773a4587ef7",
+    "ko": "개 털 무늬"
+  },
+  {
+    "id": "TXT_urbzui_01846",
+    "source_sha256": "b5985d1af23e459024969e173782762b1e17a067669dcc9a98f023314d826877",
+    "ko": "개 안경"
+  },
+  {
+    "id": "TXT_urbzui_01847",
+    "source_sha256": "6cffc095bd8d5e739b5df5befd9fb3aaa718f50975155c2edf2704aae5f8cef1",
+    "ko": "개 모자"
+  },
+  {
+    "id": "TXT_urbzui_01848",
+    "source_sha256": "cdde50825e512fab326c201135a4f7249153f2ca69b95e6db615cf7fec0bcbdc",
+    "ko": "개 후드티"
+  },
+  {
+    "id": "TXT_urbzui_01849",
+    "source_sha256": "4b54f10384860bbea8934d25af7cb2d05740d471497b0663a1f347443dd99b36",
+    "ko": "개 목 장식"
+  },
+  {
+    "id": "TXT_urbzui_01850",
+    "source_sha256": "e15807318946c60895755848aa061536c6bfff7a4de36369727bf6b296c6d3c6",
+    "ko": "개 셔츠"
+  },
+  {
+    "id": "TXT_urbzui_01851",
+    "source_sha256": "dfcd8d51ad8ee372577d24842265857a0b78e95e3e345a5dcc7ea4ae0895bcc7",
+    "ko": "개 신발"
+  },
+  {
+    "id": "TXT_urbzui_01852",
+    "source_sha256": "d97e4c68b7d051cfd639b6f96204bbaca2f9b3da71932f2b87f80100bf45e85e",
+    "ko": "축하합니다! 남성 심과 여성 심의 셔츠 세트를 해제했습니다."
+  },
+  {
+    "id": "TXT_urbzui_01853",
+    "source_sha256": "1b722d12371de12abfe267c9b2c6e660796a99df22ff43d904f7ef2fa0953496",
+    "ko": "축하합니다! 남성 심과 여성 심의 셔츠 세트를 해제했습니다!"
+  },
+  {
+    "id": "TXT_urbzui_01854",
+    "source_sha256": "65a0103adcdc9bfa6796189ac45eac67ef7aa36a75c3ca95a4671b82ff48e0ab",
+    "ko": "축하합니다! 남성 심과 여성 심의 티키 가면을 해제했습니다!"
+  },
+  {
+    "id": "TXT_urbzui_01855",
+    "source_sha256": "b76c73e6a40c99516df04ab0d1539912363b9d4c4cf02f443e8bf3cfcc232364",
+    "ko": "축하합니다! 여성 심의 점프슈트를 해제했습니다!"
+  },
+  {
+    "id": "TXT_urbzui_01856",
+    "source_sha256": "b4354cebe746d55e3dea627484046e25387ef6e94e14862015134443727ee44a",
+    "ko": "새로운 소망!"
+  },
+  {
+    "id": "TXT_urbzui_01857",
+    "source_sha256": "e981ddae45d8f4ca53f1ccbe613ad254a041dacf65a06026099a6302d332113b",
+    "ko": "경고"
+  },
+  {
+    "id": "TXT_urbzui_01858",
+    "source_sha256": "0be0adff96212338c4ac058ffe50202637fb10a176d6d9d53cbdf441f386af54",
+    "ko": "갈 사람 선택"
+  },
+  {
+    "id": "TXT_urbzui_01861",
+    "source_sha256": "9c464849af5d7fdfb1d88e43fa5b5e95706f133b796575e7dab6f10cc74ea636",
+    "ko": "욕구"
+  },
+  {
+    "id": "TXT_urbzui_01862",
+    "source_sha256": "99af6606ff9d6cd5154d4d4e9c21e325086d3e904677cdb41d363c8a3480f862",
+    "ko": "메뉴"
+  },
+  {
+    "id": "TXT_urbzui_01863",
+    "source_sha256": "48ff71886c0468813c6784372247f2d1510937e19d89572d3fb8a2c3fc625598",
+    "ko": "인간관계 보기"
+  },
+  {
+    "id": "TXT_urbzui_01864",
+    "source_sha256": "f983e9fa2c8045e50513d45a81889bd6e69e847c601ff3bff11cf2821d65cb7c",
+    "ko": "심 전환"
+  },
+  {
+    "id": "TXT_urbzui_01865",
+    "source_sha256": "0a46232acfde366cedbb1bab42bb7a5893dfdf074f437ee64f3fa8df55c31992",
+    "ko": "시간 멈추기"
+  },
+  {
+    "id": "TXT_urbzui_01866",
+    "source_sha256": "ea93d6a262ecb87a9fa4d09edbd7654c046597936a8e235fc3949eb01775ff99",
+    "ko": "도구"
+  },
+  {
+    "id": "TXT_urbzui_01868",
+    "source_sha256": "a3865932bfb99f13f4ff87494801e55d4b7c61ed7f94229851c613c9bb0c8a14",
+    "ko": "제작 <BUTTON_00>"
+  },
+  {
+    "id": "TXT_urbzui_01869",
+    "source_sha256": "19cd2193e0cfaa3c5cb6ad75eb88d7d561a77de94f9e5bd1b3d7df17ef2f38f4",
+    "ko": "<BUTTON_07> 설명"
+  },
+  {
+    "id": "TXT_urbzui_01870",
+    "source_sha256": "7f2aa717cbe27d987fda7b695557cbc6145075826a5b9ceade375256c8c79805",
+    "ko": "<BUTTON_00> 먹기"
+  },
+  {
+    "id": "TXT_urbzui_01871",
+    "source_sha256": "1526740ca10f1472ac325ee5e75ce92bda2402b4dcdb8aca70fe533dad654c45",
+    "ko": "<BUTTON_00> 배치"
+  },
+  {
+    "id": "TXT_urbzui_01872",
+    "source_sha256": "2a5d750c710d6491038e1344efc9eece395e8267b7fa57a17f15d2b0561ba0e3",
+    "ko": "<BUTTON_00> 심기"
+  },
+  {
+    "id": "TXT_urbzui_01873",
+    "source_sha256": "8b836871194e83babf6603a6c740bf87a898f89d29806a130214f3cb5be380ff",
+    "ko": "<BUTTON_00> 사용"
+  },
+  {
+    "id": "TXT_urbzui_01874",
+    "source_sha256": "9292a78ca1c3a3108af06e82809087be19f390905cf93b92a6d57532c9beb3a8",
+    "ko": "<BUTTON_00> 착용"
+  },
+  {
+    "id": "TXT_urbzui_01875",
+    "source_sha256": "57f64bf9715866ab48f46478ad5c82c1180031954ae27aadfbbbfc7be96e0427",
+    "ko": "제작"
+  },
+  {
+    "id": "TXT_urbzui_01876",
+    "source_sha256": "526e0087cc3f254d9f86f6c7d8e23d954c4dfda2b312efc29194ae8a860106ba",
+    "ko": "설명"
+  },
+  {
+    "id": "TXT_urbzui_01877",
+    "source_sha256": "ebecb9cef8f2103c8885e5732df330174d137867b033b179cefc94b1ea23bb6d",
+    "ko": "먹기"
+  },
+  {
+    "id": "TXT_urbzui_01878",
+    "source_sha256": "e9463dccf0541a9778589691543fd69249759d5de6a97cd57d6420c3e5d92baa",
+    "ko": "배치"
+  },
+  {
+    "id": "TXT_urbzui_01879",
+    "source_sha256": "0bd287f6ce17c0df72d097db9e24f828fbe5e24987012f8153a21ef6189a3747",
+    "ko": "심기"
+  },
+  {
+    "id": "TXT_urbzui_01880",
+    "source_sha256": "c36d819e7bc6d2b7da51394411c733db89c395987885ca6770167a3b9bc45c3c",
+    "ko": "사용"
+  },
+  {
+    "id": "TXT_urbzui_01881",
+    "source_sha256": "39bb722018ba95a91503a812c2da67c4635f917b477a72ed10e0dc27954727a6",
+    "ko": "착용"
+  },
+  {
+    "id": "TXT_urbzui_01882",
+    "source_sha256": "bc9496bf5e713a29f5952aa827d1003b672067079e23c05487c5b870ace0d9f6",
+    "ko": "심은 신문이나 컴퓨터로 일자리를 찾습니다. 각 직업은 고유한 조건과 승진 속도, 급여, 보상을 지닌 직종에 속합니다.\r\n\r\n기술이 높고 친구를 꾸준히 사귀며 좋은 기분으로 출근하면 승진할 가능성이 높아집니다!"
+  },
+  {
+    "id": "TXT_urbzui_01883",
+    "source_sha256": "732863fa5c6125a201487a2f52e400a2f29a8c9548512fc84c35da1aef3d710d",
+    "ko": "직업"
+  },
+  {
+    "id": "TXT_urbzui_01884",
+    "source_sha256": "edd582232d55461339db41a5a672a4a4e11dbd5197e1b553714e0076d59a8ec3",
+    "ko": "근무 시간:"
+  },
+  {
+    "id": "TXT_urbzui_01885",
+    "source_sha256": "7cc6078a35ba69096f3697a1981c6072228f7c2611648ced011fd4ee6f2e8237",
+    "ko": "레벨:"
+  },
+  {
+    "id": "TXT_urbzui_01886",
+    "source_sha256": "82a477764933c1a3f4224ff51d72eace513eb0f28f17f13feae943e65db216d2",
+    "ko": "승진 조건"
+  },
+  {
+    "id": "TXT_urbzui_01887",
+    "source_sha256": "489b7ab47238e88a33f3676b2b29d5abe869cb0512e5292f37e50458cf7600f6",
+    "ko": "일당"
+  },
+  {
+    "id": "TXT_urbzui_01888",
+    "source_sha256": "00575a80dd87aee1cca4558e60aa6f6f7775391e16aac6ffd5152cf8c27b3a42",
+    "ko": "급여:"
+  },
+  {
+    "id": "TXT_urbzui_01889",
+    "source_sha256": "42adb0eb2dd2c38a6e2e40fc0ca9c89bbfe3a82708b3291231915d60d7cc58de",
+    "ko": "무직 "
+  },
+  {
+    "id": "TXT_urbzui_01890",
+    "source_sha256": "c2b7bfe34574dc9e41d7fe849134b99650e4f9d3df0145b1f1fc36e525b8a627",
+    "ko": "<BUTTON_0B> / <BUTTON_0C> 분류 왼쪽 / 오른쪽\r\n<BUTTON_03> / <BUTTON_02> 이동\r\n<BUTTON_04> 글 스크롤\r\n<BUTTON_00> 선택\r\n<BUTTON_06> 제거 / 물건 잡기 모드\r\n<BUTTON_01> 뒤로"
+  },
+  {
+    "id": "TXT_urbzui_01891",
+    "source_sha256": "f05078021861400e6bbdf98d19449929dbec88f196a75b2977dfa5b48efc8300",
+    "ko": "건설 목록 도움말"
+  },
+  {
+    "id": "TXT_urbzui_01892",
+    "source_sha256": "a278d75d120d11aba3197f4a771f1885aadeddc2c3bcca027b9ce6585bbd0fe7",
+    "ko": "<BUTTON_00> 벽 / 벽지 / 바닥 배치\r\n<BUTTON_0C> + <BUTTON_00> 방 짓기 / 방 채우기\r\n<BUTTON_01> 취소 / 뒤로"
+  },
+  {
+    "id": "TXT_urbzui_01893",
+    "source_sha256": "fe57dc0c9b25b21ec215b1778035f8aff5e1664dd4e63819befcfaa91b41b846",
+    "ko": "건설 모드 도움말"
+  },
+  {
+    "id": "TXT_urbzui_01894",
+    "source_sha256": "361c078933bab07952af4de57de1047979b9f4b8fe3501dda3949fc969aa0b19",
+    "ko": "<BUTTON_0B> / <BUTTON_0C> 분류 왼쪽 / 오른쪽\r\n<BUTTON_03> / <BUTTON_02> 이동\r\n<BUTTON_04> 글 스크롤\r\n<BUTTON_00> 물건 선택\r\n<BUTTON_06> 물건 잡기 모드\r\n<BUTTON_01> 뒤로"
+  },
+  {
+    "id": "TXT_urbzui_01895",
+    "source_sha256": "5099b7302e68c8f08ac237675f47a21d5ad74fbe21645c59f95090b1e3cd9de6",
+    "ko": "구입 목록 도움말"
+  },
+  {
+    "id": "TXT_urbzui_01896",
+    "source_sha256": "d176611b202e637926ba04ecbfb5735ee277bb01f0a28ae23d68cc43de0bdab1",
+    "ko": "<BUTTON_00> 물건 잡기 / 배치\r\n<BUTTON_0B> / <BUTTON_0C> 물건 회전\r\n<BUTTON_06> 물건 판매\r\n<BUTTON_01> 취소 / 뒤로"
+  },
+  {
+    "id": "TXT_urbzui_01897",
+    "source_sha256": "5ddb58a2f484767adc5b384618696da3d9a7b198ec4dedf8479639ea91a6ab8a",
+    "ko": "물건 잡기 모드 도움말"
+  },
+  {
+    "id": "TXT_urbzui_01899",
+    "source_sha256": "512b768c95ea7da70897e69c256bc7a330154f2a2b6c33d40a2fe7aeed0daed7",
+    "ko": "물건 잡기 모드"
+  },
+  {
+    "id": "TXT_urbzui_01900",
+    "source_sha256": "246bf9c38e3d8307fa22ea87e03c4d744f34b67bc39b1fabdec77db3567477b0",
+    "ko": "배치 모드"
+  },
+  {
+    "id": "TXT_urbzui_01901",
+    "source_sha256": "aeb3585c07a113af642663703c11380eab8e9d40fdd916047fd71b91e987ae3d",
+    "ko": "오두막 배치 모드"
+  },
+  {
+    "id": "TXT_urbzui_01902",
+    "source_sha256": "3b7664fddd11afa8bb4af1ca0169c436e36735cf98917652f71ff54028f891fe",
+    "ko": "<BUTTON_00> 벽 / 벽지 / 바닥 제거\r\n<BUTTON_0C> + <BUTTON_00> 방 전체 제거\r\n<BUTTON_07> 도구 변경\r\n<BUTTON_01> 취소 / 뒤로"
+  },
+  {
+    "id": "TXT_urbzui_01903",
+    "source_sha256": "93643b2ab2fc51ab25cccfc67bb63071c7216a2fa4fbb8138b395f9f35e1a9f6",
+    "ko": "제거 모드 도움말"
+  },
+  {
+    "id": "TXT_urbzui_01904",
+    "source_sha256": "8898ed2d88aa02dc7964cd0ede9bc3e64057ef54978b9f74effdaf79f5b66dde",
+    "ko": "선택한 물건을 삭제하시겠습니까? "
+  },
+  {
+    "id": "TXT_urbzui_01905",
+    "source_sha256": "055e8ddb9b3929e2826ca6c513f76322b548470d5dba21a84121db2f5a088095",
+    "ko": "물건 삭제"
+  },
+  {
+    "id": "TXT_urbzui_01906",
+    "source_sha256": "b8ab7d4e7778fac4d7354c44333bc85dc0bd79291a19a87c0198227fbfc069d7",
+    "ko": "가전제품"
+  },
+  {
+    "id": "TXT_urbzui_01907",
+    "source_sha256": "2e2a3cd1a00809d32d9b300a475dea8d875a18b330d5075c5d7b69529867c2d9",
+    "ko": "침대"
+  },
+  {
+    "id": "TXT_urbzui_01908",
+    "source_sha256": "7e7eb23aaa4f72705b5611b926ecd5f1cd523fdd1a4483a18b6617593af7099e",
+    "ko": "장식"
+  },
+  {
+    "id": "TXT_urbzui_01909",
+    "source_sha256": "dce4f5323faeb960a0c79a28d110181297a0ed31f775a9f64c9f0ed87a47daf1",
+    "ko": "야외 장식"
+  },
+  {
+    "id": "TXT_urbzui_01910",
+    "source_sha256": "7989480e41e3544426ea45c8f99617d2f36fd1a11c00475485c4bf937a4fc338",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_urbzui_01912",
+    "source_sha256": "456f81fe008ee8986c368a103772dd6a01cd4b93f1412581d08a1b214bc4cbfd",
+    "ko": "벽난로"
+  },
+  {
+    "id": "TXT_urbzui_01913",
+    "source_sha256": "f8db52bb7e7cfb04152e683e9668164445dde1687aeab6ad16756f5e6c88a221",
+    "ko": "바닥재"
+  },
+  {
+    "id": "TXT_urbzui_01914",
+    "source_sha256": "311f453ee128ef393940af7fb510c5d1a2d31c1ee1cf0118d62fc9353283259e",
+    "ko": "카펫"
+  },
+  {
+    "id": "TXT_urbzui_01915",
+    "source_sha256": "e658d3ae034a3dcf77eafffab7e7f78f5734e83eca41c698ed6e5fcc7e146a59",
+    "ko": "조경"
+  },
+  {
+    "id": "TXT_urbzui_01916",
+    "source_sha256": "6ea3c1948e8295cc11c5a51eab6cf45f4af90878425c60839b3e39c8f7479e7b",
+    "ko": "타일"
+  },
+  {
+    "id": "TXT_urbzui_01918",
+    "source_sha256": "835f128177c3df78c33ddaf509aa4046c78632a65186f9752e263fce356d2bc4",
+    "ko": "오두막 건설"
+  },
+  {
+    "id": "TXT_urbzui_01919",
+    "source_sha256": "6ffe6ba34fcfd83c9246be216ca0c282ca2cec8514616de59b453124e61f7a24",
+    "ko": "조립식 오두막"
+  },
+  {
+    "id": "TXT_urbzui_01920",
+    "source_sha256": "aa2ef10571c4be64bc83d6fee2efcf5fad3cf61ada25985430fe3431b1d1600b",
+    "ko": "조경"
+  },
+  {
+    "id": "TXT_urbzui_01921",
+    "source_sha256": "07607d609f9a3592484e9a0eace33d5a5530379335466648e41279517f7d5859",
+    "ko": "조명"
+  },
+  {
+    "id": "TXT_urbzui_01922",
+    "source_sha256": "d40668d48c6f1a3e7f86d381dff698ac90f3b8f0c4f45228dee150c4dba21895",
+    "ko": "야외 조명"
+  },
+  {
+    "id": "TXT_urbzui_01923",
+    "source_sha256": "5cb0b42660589925c804543d433ba0764dab859487e5a9ed855481dcbfec1f06",
+    "ko": "기타"
+  },
+  {
+    "id": "TXT_urbzui_01924",
+    "source_sha256": "f5108b52155b840306f34a234da347d72a3fb7259eced5539a597435f3f98eab",
+    "ko": "실내 식물"
+  },
+  {
+    "id": "TXT_urbzui_01925",
+    "source_sha256": "283bf30f86243d662c9cdd6b6eb761962cc2223ffad3ab3b36f13d4609edc32f",
+    "ko": "배관 설비"
+  },
+  {
+    "id": "TXT_urbzui_01926",
+    "source_sha256": "ca5a7994fff9e3653122ee2501666b628cec788c5dbc78096bfd166fa2fe830d",
+    "ko": "좌석"
+  },
+  {
+    "id": "TXT_urbzui_01927",
+    "source_sha256": "6df1bb18a59ab97df82e307b93fe4f3bbda34d531bcbb79ec573dda23ba64918",
+    "ko": "기술"
+  },
+  {
+    "id": "TXT_urbzui_01928",
+    "source_sha256": "fbb4dbb2d84d354cb9e682a39182e8ba0e7cda8d02bdae0c4ebd80beae9408d9",
+    "ko": "받침 가구"
+  },
+  {
+    "id": "TXT_urbzui_01929",
+    "source_sha256": "0971e32bde446fcf68dc7c1ed9bdc951b2286851f3d50f01f9acee7ebcd28ba8",
+    "ko": "벽 마감재"
+  },
+  {
+    "id": "TXT_urbzui_01931",
+    "source_sha256": "a7f173cdaae49a03443ed62db8c0e34857d8c6b11281e6da7af7377309772153",
+    "ko": "벽지"
+  },
+  {
+    "id": "TXT_urbzui_01932",
+    "source_sha256": "9aac1455b8cf2c417bf83babc4cc505242e0efd44fefd097373e964b6cffddec",
+    "ko": "야외"
+  },
+  {
+    "id": "TXT_urbzui_01933",
+    "source_sha256": "2dbc0138b1fa80cbc27f55398d8714b530b565b960d38459a94499ca3863cd70",
+    "ko": "실내 패널"
+  },
+  {
+    "id": "TXT_urbzui_01934",
+    "source_sha256": "6ea3c1948e8295cc11c5a51eab6cf45f4af90878425c60839b3e39c8f7479e7b",
+    "ko": "타일"
+  },
+  {
+    "id": "TXT_urbzui_01935",
+    "source_sha256": "2aeeeafc3911568ff5e69dd0232a7cd730d9fd7ad291adb6061b222411aa3170",
+    "ko": "벽과 울타리"
+  },
+  {
+    "id": "TXT_urbzui_01936",
+    "source_sha256": "d598026a9cbc60505f138ce53ac78088d582100c196d0f70c7e2538d4a8d7e10",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_urbzui_01938",
+    "source_sha256": "343972ece282ca7404faaaf951a2b3a557c6fb8181c494c5c6e730feeff775f8",
+    "ko": "바닥재 제거"
+  },
+  {
+    "id": "TXT_urbzui_01939",
+    "source_sha256": "77eebc0c1eb2d20cbc386cce66c70831bcb0ccb0f14d5416cc780ecb6329bf48",
+    "ko": "물건 복제"
+  },
+  {
+    "id": "TXT_urbzui_01940",
+    "source_sha256": "c1a8c278947ceef6d0da8ec81f244ccdd80990daff73f6a423f7a839439641e5",
+    "ko": "물건 잡기"
+  },
+  {
+    "id": "TXT_urbzui_01941",
+    "source_sha256": "cf6e64205aec48a832a9eab655dc456dd1ead721a8ef8f06ee1f7c55f25bcfce",
+    "ko": "벽 짓기"
+  },
+  {
+    "id": "TXT_urbzui_01942",
+    "source_sha256": "27a643c7f1f850d2fb2142d1fd08836dc758d2d1729404b19bf988c4cd2a14ec",
+    "ko": "벽 제거"
+  },
+  {
+    "id": "TXT_urbzui_01943",
+    "source_sha256": "54e0ec6faf3378bbd6186cd6c0cc60eeb9b461bc1f8f620d9ae8d3b596a04d43",
+    "ko": "벽지 바르기"
+  },
+  {
+    "id": "TXT_urbzui_01944",
+    "source_sha256": "ee30d51ff5f70520ac6cde27b55dcff5598f624cfea9c5656916b384eaabfe4e",
+    "ko": "벽지 제거"
+  },
+  {
+    "id": "TXT_urbzui_01954",
+    "source_sha256": "8ced2711c6671ae882a4229ceb89890d37c44860f37922c8c26f663cbf64c0ff",
+    "ko": "이 물건은 심즈™ 2 정식 제품에서 해제됩니다."
+  },
+  {
+    "id": "TXT_urbzui_01955",
+    "source_sha256": "2c5c0e9698800c2262361c7d3b603be846a6427c18240f65eeb37208156837f1",
+    "ko": "심즈™ 2 정식 제품에서만 재료를 수확할 수 있습니다!"
+  },
+  {
+    "id": "TXT_urbzui_01956",
+    "source_sha256": "42b5724aab9840f141ca253e246be5212a5f902a989a957559b0c9b78e0ae515",
+    "ko": "기본 설정으로 복원하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_01959",
+    "source_sha256": "120b22773e5007934d92e619be07f8fef4d95eef5bd5affdc583d9f52f9d1abb",
+    "ko": "이 칸을 사용하려면 평판을 높이세요."
+  },
+  {
+    "id": "TXT_urbzui_01960",
+    "source_sha256": "b221e7a14dae15f0d1538629f3b319ad15bc32c0bae2ff9ab5ae1ab41053d442",
+    "ko": "2인 모드에서는 XAM 카메라를 사용할 수 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_01961",
+    "source_sha256": "f4eec4431d624e0799b049e048b0907fc9d1ced22577f38e8ed0093b3520e309",
+    "ko": "<BUTTON_01> 뒤로"
+  },
+  {
+    "id": "TXT_urbzui_01962",
+    "source_sha256": "191021e60302238dd307e40a0649fd99e6cd60e22d5e399e97e05762694af2b2",
+    "ko": "<BUTTON_00> 촬영"
+  },
+  {
+    "id": "TXT_urbzui_01963",
+    "source_sha256": "69eaeffb3c23bc3d3458db41d2509f7c77d4a3cde1f3a4301d1161634e0f41e7",
+    "ko": "<BUTTON_02> 버리기"
+  },
+  {
+    "id": "TXT_urbzui_01964",
+    "source_sha256": "c11bdae2f059f0bdad97b786b46c3d0d9d47ef4675d4642871632b2a34440c2a",
+    "ko": "<BUTTON_00> 저장"
+  },
+  {
+    "id": "TXT_urbzui_01965",
+    "source_sha256": "0cf2c0c893006affae5824f5ec4a93caf040ec83192fe27c8649e075e21d286f",
+    "ko": "XAM 카메라"
+  },
+  {
+    "id": "TXT_urbzui_01966",
+    "source_sha256": "4c28a8c9d628b65d7aac4bbb63ef6ff1a4078bf8b7e514b3648f95673e0105b3",
+    "ko": "재료 추가"
+  },
+  {
+    "id": "TXT_urbzui_01967",
+    "source_sha256": "92960c8072f3b7674cdb749c2f556efd7eeba9d71eba4b5671c848ddf417234f",
+    "ko": "요리법 보기 <BUTTON_06>"
+  },
+  {
+    "id": "TXT_urbzui_01968",
+    "source_sha256": "e28001530d2290f110c1aac879132f2d0d8b8ad440e30ab1126808a7eb9dbe9e",
+    "ko": "<BUTTON_07> 재료 제거"
+  },
+  {
+    "id": "TXT_urbzui_01969",
+    "source_sha256": "b4861c3638669f116ebb2f3b3948cc4402f065d848bf652cd2c27ce226d0b2a6",
+    "ko": "접시로 전환 <BUTTON_06>\r\n선택 <BUTTON_00>\r\n요리법 <BUTTON_07>"
+  },
+  {
+    "id": "TXT_urbzui_01970",
+    "source_sha256": "58cf51720a08057eafaf36680e03f5f5bb93e5df6534fd089aae6fa86b3a70d4",
+    "ko": "재료로 전환 <BUTTON_06>\r\n선택 <BUTTON_00>\r\n요리법 <BUTTON_07>"
+  },
+  {
+    "id": "TXT_urbzui_01971",
+    "source_sha256": "11a6767d5674c7e45f7e00dc525762275b3a48491ad6045427d2609cc496c516",
+    "ko": "완료"
+  },
+  {
+    "id": "TXT_urbzui_01972",
+    "source_sha256": "6bd6b7c11e5b3f00a4e4a9002714406fc47b1b065775d3919f558d5fe7d5ac74",
+    "ko": "재료를 하나도 꺼내지 않고 냉장고에서 나가시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_01973",
+    "source_sha256": "bf84fe5d652f097fcde199fa4fb46d2ab06077d715b78377d39113dbdb963600",
+    "ko": "<BUTTON_0B> / <BUTTON_0C> 탭 왼쪽 / 오른쪽\r\n<BUTTON_03> / <BUTTON_02> 이동\r\n<BUTTON_04> 글 스크롤\r\n<BUTTON_00> 재료 선택 / 삭제\r\n<BUTTON_06> 접시로 / 접시에서 전환\r\n<BUTTON_07> 요리책 열기\r\n<BUTTON_01> 취소"
+  },
+  {
+    "id": "TXT_urbzui_01974",
+    "source_sha256": "35a188aef3e9368ea9accc29d91dd703056d55ab34d2e1242cf126ab087faa55",
+    "ko": "<WT>요리_만들기에 오신 것을 환영합니다!\r\n\r\n심은 최대 네 가지 재료를 조합해 자신만의 요리를 만들 수 있습니다. 알맞은 재료를 조합하면 특별한 효과가 있는 요리도 만들 수 있습니다.\r\n\r\n곳곳에 특별한 재료가 숨겨져 있으니 모든 물건을 조사해 보세요!"
+  },
+  {
+    "id": "TXT_urbzui_01975",
+    "source_sha256": "47a42b896fc8d9cd7428c4e78cc78baeeb4824605d7c2675d9a94e77491f0b07",
+    "ko": "요리 만들기 도움말"
+  },
+  {
+    "id": "TXT_urbzui_01977",
+    "source_sha256": "9b2a10042e512e85b755212394d382a5da444d90b4324f3a822e98977dd170f1",
+    "ko": "요리책"
+  },
+  {
+    "id": "TXT_urbzui_01978",
+    "source_sha256": "2d6c20e17aa5e1a0b75432e705248c4e5a1ae6c0bef17192abd6fea9577794bf",
+    "ko": "자세히 보기 <BUTTON_06>"
+  },
+  {
+    "id": "TXT_urbzui_01979",
+    "source_sha256": "319396fc4112487d5252fcf7a95871ade3161a3f712dff42045c4a54b8eb70f4",
+    "ko": "<BUTTON_0B> / <BUTTON_0C> 탭 왼쪽 / 오른쪽\r\n<BUTTON_03> / <BUTTON_02> 이동\r\n<BUTTON_00> 자세히 보기\r\n<BUTTON_01> 뒤로"
+  },
+  {
+    "id": "TXT_urbzui_01980",
+    "source_sha256": "2b43260ff7ff892aa6ed2caddace556e3e2bd5efced6940fa60ade3117a394fc",
+    "ko": "요리책 도움말"
+  },
+  {
+    "id": "TXT_urbzui_01981",
+    "source_sha256": "a11a81618ce12917d2493523c6756da287d220d40bb41c2e426f230c6c49c0e2",
+    "ko": "<BUTTON_00> 요리 재료 선택"
+  },
+  {
+    "id": "TXT_urbzui_01982",
+    "source_sha256": "bc403921d12f2faebfc04854694656581bef8ad36927454a55bad532aa4c5fd6",
+    "ko": "선택한 재료"
+  },
+  {
+    "id": "TXT_urbzui_01983",
+    "source_sha256": "87675db83a32caa1966ce6c94b089aea788ac3635683d9e5827390d4526ef41d",
+    "ko": "재료"
+  },
+  {
+    "id": "TXT_urbzui_01984",
+    "source_sha256": "18e872be2359d76e91912e5c59c1dce7e0113351c985eb160ef8b4642e09b8aa",
+    "ko": "합계:"
+  }
+]

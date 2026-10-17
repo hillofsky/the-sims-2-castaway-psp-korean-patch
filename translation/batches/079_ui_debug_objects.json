@@ -1,0 +1,402 @@
+[
+  {
+    "id": "TXT_SimsObjects_03342",
+    "source_sha256": "0ff0b408c3d7c557c4c1f19a866eea82b8eeeed657ba4e6db01f83dad1a55d62",
+    "ko": "번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_03720",
+    "source_sha256": "88f5d10b22dc2ab5d24f6e499ff51ea9bca8f9b396211dff08a9f74ba5e11cc7",
+    "ko": "ResFile.exe 자동 문자열"
+  },
+  {
+    "id": "TXT_SimsObjects_05862",
+    "source_sha256": "9b3e096f60837c3d89385d731df66c9cf59d8514af40306877ba5411d07acef3",
+    "ko": "디버그 동적 메뉴 (번역 대상 아님)"
+  },
+  {
+    "id": "TXT_SimsObjects_05975",
+    "source_sha256": "94a3d5a4c1cb62024f7f802563f13bf983eb8bf5ed64e9668046cf87ab86290c",
+    "ko": "번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_07557",
+    "source_sha256": "67d3fb8150f3397707621eb745640c1398e870e83d174a2bd3e473033063326f",
+    "ko": "사랑이라는 식물에 양분을 주지 않으면 시들다가 결국 죽어. 우리 사랑 식물은 방금 화분을 걷어찼어."
+  },
+  {
+    "id": "TXT_urbzui_00153",
+    "source_sha256": "94a95d3640d05a5a6a6f968b4c394e3a65ee4907a2e0316908e926892fbcdf64",
+    "ko": "디버그 이 문자열은 더 이상 사용하지 않습니다. 교체하거나 삭제하세요!"
+  },
+  {
+    "id": "TXT_urbzui_01945",
+    "source_sha256": "c262f06b6934848c777f03b3670fb6f814e685d09afa6073744498454d882046",
+    "ko": "디버그 - 사물 카탈로그"
+  },
+  {
+    "id": "TXT_urbzui_02139",
+    "source_sha256": "deb6dfe57cb860dda1cc462de4f5e690d5a091080ecf30c641034d001243da59",
+    "ko": "디버그 - 요리법"
+  },
+  {
+    "id": "TXT_urbzui_02249",
+    "source_sha256": "29b4f0f5e23b8340c3814a7877ecf6b80e8ce6b1331b82a840a0084d9837966a",
+    "ko": "디버그 - 건축 / 구매 모드"
+  },
+  {
+    "id": "TXT_urbzui_02779",
+    "source_sha256": "285a6313ff3252c09ddf22e4283fbfc377ae41458624abf1f5d56d641fa2be5b",
+    "ko": "디버그 진동 침대!"
+  },
+  {
+    "id": "TXT_urbzui_02780",
+    "source_sha256": "08e5328aced13d0914faa35ee678f19e193255b7e504e0a8b50d823ef4a5845a",
+    "ko": "디버그 실리 캠프 텐트!"
+  },
+  {
+    "id": "TXT_urbzui_02781",
+    "source_sha256": "ba9a4f1c8bdc9a37befbb34f564fb6de9d7910d24479b3d77e08db894517ca65",
+    "ko": "디버그 사랑의 욕조!"
+  },
+  {
+    "id": "TXT_urbzui_02782",
+    "source_sha256": "7e0ec06b2a8099be5aa2653e8c0e9483d5aa4219d7efae7151ef95417e668098",
+    "ko": "디버그 테슬라 코일!"
+  },
+  {
+    "id": "TXT_urbzui_02783",
+    "source_sha256": "8cfb505754c67b0fc4c58217b0c2ac773a564c7d65dffd6cca37e0df4851406b",
+    "ko": "디버그 망원경!"
+  },
+  {
+    "id": "TXT_urbzui_02784",
+    "source_sha256": "d46f7d25d6cf1c6ed2daedcec3e2606472a9397462c172182bc15cae41436d08",
+    "ko": "디버그 실험용 램프!"
+  },
+  {
+    "id": "TXT_urbzui_02785",
+    "source_sha256": "27bfafcce032bd0affe3b0c4f83c209338067c99a77b152c09c0845ec7455560",
+    "ko": "디버그 슈퍼루미놀테트라 램프!"
+  },
+  {
+    "id": "TXT_urbzui_02786",
+    "source_sha256": "29a445f4919c5fec03a9154f7a69445d72b4d457429d752f9c33900fe7f02434",
+    "ko": "디버그 미스 자이로틱!"
+  },
+  {
+    "id": "TXT_urbzui_02787",
+    "source_sha256": "63445fcd44a867b12ca9ed3339aed342b9a77588431836e7b38b1fa950afdc5c",
+    "ko": "디버그 라이트라이트!"
+  },
+  {
+    "id": "TXT_urbzui_02788",
+    "source_sha256": "11723c74ce2bf9a87d50ed1c113595c33b2020f79252dcf644fcfe2dc478fa87",
+    "ko": "디버그 동작 감지기!"
+  },
+  {
+    "id": "TXT_urbzui_02789",
+    "source_sha256": "c8745ea6d34a67673ae7296d06b524c0e1dd3192bc311cf37f71b6699d97d6bf",
+    "ko": "디버그 테더볼!"
+  },
+  {
+    "id": "TXT_urbzui_02790",
+    "source_sha256": "28260305eeab9826e6294bb01e702dda99a783d9ac3b43deee754e7943618d6f",
+    "ko": "디버그 탁구대!"
+  },
+  {
+    "id": "TXT_urbzui_02791",
+    "source_sha256": "dfd34e400c2ccd67d0cbc06a77f7f02e7bc665f3c4d178241b5f972167b33bcf",
+    "ko": "디버그 브로일배스터드 그릴!"
+  },
+  {
+    "id": "TXT_urbzui_02792",
+    "source_sha256": "170d6ab5513e8ddd3c20f515221849a1685d911277bd1b24095e444ea523aa4a",
+    "ko": "디버그 마이크!"
+  },
+  {
+    "id": "TXT_urbzui_02793",
+    "source_sha256": "1aecdb2f89fd0e59b2de804fdd56adfea639b4db7b77d533e1ca07923790c65c",
+    "ko": "디버그 정원 투광등!"
+  },
+  {
+    "id": "TXT_urbzui_02794",
+    "source_sha256": "b6bab3e152efcdb1ae1aeec78e7e9eaf9307fa6b7ff1f61a7dcdb978832c9c83",
+    "ko": "디버그 정보 지배자 TV!"
+  },
+  {
+    "id": "TXT_urbzui_02795",
+    "source_sha256": "a80fdeb360d8ac14d391105eed69fadb11e970eb9caa2a6729ae380a1ed3f013",
+    "ko": "디버그 마닐라 1000 수족관!"
+  },
+  {
+    "id": "TXT_urbzui_02796",
+    "source_sha256": "ac460119b6c77391d46e263ec7c901b543baf880300f884ffe68afa28d93a284",
+    "ko": "디버그 폰티스 푸블리쿠스 세면대!"
+  },
+  {
+    "id": "TXT_urbzui_02797",
+    "source_sha256": "187a040b9de104ac32fc2148233854d2441dde8cffba62d6d36b477e17b28125",
+    "ko": "디버그 고리버들 소파!"
+  },
+  {
+    "id": "TXT_urbzui_02798",
+    "source_sha256": "fbdbd2ef83528eb464263a6dc7ba5ef87b8f0ffd64fcb61e35ba8bd043ecf98c",
+    "ko": "디버그 영화배우 사원 노움!"
+  },
+  {
+    "id": "TXT_urbzui_02799",
+    "source_sha256": "1890dd5a8da88f61a9bbd816df480bf4b18e12a3bcf0b392e4fd1482e1737646",
+    "ko": "디버그 패션광 사원 노움!"
+  },
+  {
+    "id": "TXT_urbzui_02800",
+    "source_sha256": "4ad1612fba32915721c822c2852467c0b271c44846914755d826ba010881461a",
+    "ko": "디버그 운동선수 사원 노움!"
+  },
+  {
+    "id": "TXT_urbzui_02801",
+    "source_sha256": "f9516b40aef2ec2006e787c54e86bdfe2fb0fbb2ad751ea38ac93122303e0bc7",
+    "ko": "디버그 미친 과학자 사원 노움!"
+  },
+  {
+    "id": "TXT_urbzui_02802",
+    "source_sha256": "ad6345811bc89651668f16d7ab0d8646636f9846c3ac18141890648db2cf130a",
+    "ko": "디버그 반문화 사원 노움!"
+  },
+  {
+    "id": "TXT_urbzui_02803",
+    "source_sha256": "cbc2326f0e0aa79a3aeb9ee0264a0447689d2d0a400fa3712b9664b51f555e59",
+    "ko": "디버그 준군사 사원 노움!"
+  },
+  {
+    "id": "TXT_urbzui_02804",
+    "source_sha256": "e503393a1a03d14791a2602779a01b2b1ee997da78a94205fdb01a3933bce544",
+    "ko": "디버그 갱스터 사원 노움!"
+  },
+  {
+    "id": "TXT_urbzui_02805",
+    "source_sha256": "310bfa1c3944687a7087bed4fa5bd74438c3d565cc23d550464666edc43e3c89",
+    "ko": "디버그 큰 입 의자!"
+  },
+  {
+    "id": "TXT_urbzui_02806",
+    "source_sha256": "5118fe97d970b504deb3f5bc8f10b11da9721ca685fb342b532f9377858c7453",
+    "ko": "디버그 듀드 버기!"
+  },
+  {
+    "id": "TXT_urbzui_02807",
+    "source_sha256": "f852ff8592e2344e620ecf6315793da375fae16183a6257bc46dfde7626b3368",
+    "ko": "디버그 물레!"
+  },
+  {
+    "id": "TXT_urbzui_02808",
+    "source_sha256": "d2041d96ec8aa1ce4ade8ef6337f13b781f35d0e15dbfc8c313780ece698b84b",
+    "ko": "디버그 일렉트릭 기타!"
+  },
+  {
+    "id": "TXT_urbzui_02809",
+    "source_sha256": "c3c6224547ea683578241209e2616a8bfb29eabfc9f63c71799897b3f30a0dd3",
+    "ko": "디버그 크루제트 리바이어던!"
+  },
+  {
+    "id": "TXT_urbzui_02810",
+    "source_sha256": "36e4277f0ccf7ff36c04a97a8d95308665ffb6591a7bcd3c0ebcb8f30f851248",
+    "ko": "디버그 스테인드글라스 창문!"
+  },
+  {
+    "id": "TXT_urbzui_02811",
+    "source_sha256": "953b839ba87d5179039e38ed404144eab8392c0efcec6512da7fb6bdf2ddc2fe",
+    "ko": "디버그 해골 전시물!"
+  },
+  {
+    "id": "TXT_urbzui_02812",
+    "source_sha256": "1e7cdf970e1b26ae83a179ff9e2c4a467f25195417c8b6aa1c2084e8670693dd",
+    "ko": "디버그 강령술 탁자!"
+  },
+  {
+    "id": "TXT_urbzui_02813",
+    "source_sha256": "cb1c366d9336da0abd2b222b99752671b321cff77c470fff865f1dda59253d01",
+    "ko": "디버그 RGB 플래시백!"
+  },
+  {
+    "id": "TXT_urbzui_02814",
+    "source_sha256": "e6f52c938aea9e91266888d3a8a271467ac39c00b7f7c5699a739d58f3223ec9",
+    "ko": "디버그 DJ 부스!"
+  },
+  {
+    "id": "TXT_urbzui_02815",
+    "source_sha256": "6b94a2652f0ea66c26a37710a759cb9c2d746c5274a35be2d5c368156021ff0d",
+    "ko": "디버그 플러시 포스 변기!"
+  },
+  {
+    "id": "TXT_urbzui_02816",
+    "source_sha256": "1a19b15918fd29a254eb10ff3bde8f6207229c85fa6f437d628de6af774d13a6",
+    "ko": "디버그 쓰나미 X-TEQ!"
+  },
+  {
+    "id": "TXT_urbzui_02817",
+    "source_sha256": "16885a0c0acc1eb759f7767f4d73d2dbd6f56ed9c40eb4b261f7851179eebbaa",
+    "ko": "디버그 티키 횃불!"
+  },
+  {
+    "id": "TXT_urbzui_02818",
+    "source_sha256": "8d7f0c96bd01b1ead112b06d9b88939b6d9b33f394b6119271d5df78375d9c91",
+    "ko": "디버그 샴 샤그 곰 깔개!"
+  },
+  {
+    "id": "TXT_urbzui_02819",
+    "source_sha256": "ed1576d3dbca5367014ae1144ae7c6476385d8d802f400d10a18ee2c1d146ce5",
+    "ko": "디버그 그 시절 70년대 창문!"
+  },
+  {
+    "id": "TXT_urbzui_02820",
+    "source_sha256": "d201dba86fdd06e4604d397aaac535a624fab83b1f50f6c74ccc41e16456d319",
+    "ko": "디버그 다지 촛대!"
+  },
+  {
+    "id": "TXT_urbzui_02821",
+    "source_sha256": "669eb1fb2430bd3ef3d3347168174bf07712b8ac9a38a48ecfc9d32d09907142",
+    "ko": "디버그 극락조화!"
+  },
+  {
+    "id": "TXT_urbzui_02822",
+    "source_sha256": "fe32cdf956112c86a7b7da9a33740231c6c8c1b16cdc33a64902a8dba7357fda",
+    "ko": "디버그 레이더 접시!"
+  },
+  {
+    "id": "TXT_urbzui_02823",
+    "source_sha256": "e64bca4d5f79b2ffaa970c70b21d8f8fe4713626400e37654797282af9b85f0e",
+    "ko": "디버그 발명 작업장!"
+  },
+  {
+    "id": "TXT_urbzui_02824",
+    "source_sha256": "1e4c460ed52a964c0190fba9f2df0e497aecedd422be3a3e0a856dc44098560c",
+    "ko": "디버그 거대 고사리!"
+  },
+  {
+    "id": "TXT_urbzui_02825",
+    "source_sha256": "38a6634093052eaed5b11cc43e39eaad6ac5826b7326dae0542c64ce2bb2c5ab",
+    "ko": "디버그 패스매틱 문!"
+  },
+  {
+    "id": "TXT_urbzui_02826",
+    "source_sha256": "4312bf01081856455d4f610cec2cbb4f0189968ff5762f47e937b3e0c9e5e8a3",
+    "ko": "디버그 \"모어 세이크\" 욕조!"
+  },
+  {
+    "id": "TXT_urbzui_02827",
+    "source_sha256": "5f8d49a4369b7aa08ef4f94ff647324b83dde2916eb325174ba92a7c47da1387",
+    "ko": "디버그 댄스 플로어!"
+  },
+  {
+    "id": "TXT_urbzui_02828",
+    "source_sha256": "65b3faa2f3553e29e5caf71431622e2718b1dc11fc3cd0847301bd1df2b0ee3f",
+    "ko": "디버그 네온 간판!"
+  },
+  {
+    "id": "TXT_urbzui_02829",
+    "source_sha256": "66848119f49a013e84a81a72712bbc745f66c721abdf2adb29f98600b8653757",
+    "ko": "디버그 야외 샤워기!"
+  },
+  {
+    "id": "TXT_urbzui_02830",
+    "source_sha256": "08ae89272586d91e02cea10abfb0fc7db8c7a5e4059fb54f5898a13c2cfa151b",
+    "ko": "디버그 아틀란티스 기둥!"
+  },
+  {
+    "id": "TXT_urbzui_02831",
+    "source_sha256": "b7e616aaf5561736b4bad509e4cfd4d772479ca2811ea8a11c148c3399fa6a6f",
+    "ko": "디버그 스파르타 스페셜 램프!"
+  },
+  {
+    "id": "TXT_urbzui_02832",
+    "source_sha256": "a13dfced384c0e8d7fc1c66d69139fbaa76b3bcff7e67420dbcce0e2cca50a5b",
+    "ko": "디버그 장난감 앵무새!"
+  },
+  {
+    "id": "TXT_urbzui_02833",
+    "source_sha256": "a23619ad877918542fe934cd8339f84ef5793653c38066af6dcb656c90696f7d",
+    "ko": "디버그 앱도미네이터!"
+  },
+  {
+    "id": "TXT_urbzui_02834",
+    "source_sha256": "74ac6b4e2171bfc97d0a53bd114df6d01df1a3111829c235464ed60de7d957c6",
+    "ko": "디버그 온천!"
+  },
+  {
+    "id": "TXT_urbzui_02835",
+    "source_sha256": "09b996785ac3623760865188cab80986c3223c3ba909757ee6e504e8d84ed212",
+    "ko": "디버그 유로 벽난로!"
+  },
+  {
+    "id": "TXT_urbzui_02836",
+    "source_sha256": "6b98b8369a775923073f900c3125872d437def4bc3e73710227abeeaaf91cfd7",
+    "ko": "디버그 레드우드 탁자!"
+  },
+  {
+    "id": "TXT_urbzui_02837",
+    "source_sha256": "d29c8cecbdc56df1566c55e93730edbfecd3876663377b0eab57923d7570076b",
+    "ko": "디버그 그루터기 의자!"
+  },
+  {
+    "id": "TXT_urbzui_02838",
+    "source_sha256": "c44cf3e13484edf46ed5dc25ba6c2d5eb9973cffac80b45d7a99041b736a40b0",
+    "ko": "디버그 조립식 탁자!"
+  },
+  {
+    "id": "TXT_urbzui_02839",
+    "source_sha256": "cb7e1fc56ded96feb7d2b8e6a341819209e783772c06d890f7cf195221a7fe83",
+    "ko": "디버그 오버로드 당구대!"
+  },
+  {
+    "id": "TXT_urbzui_02840",
+    "source_sha256": "1686196725fefe92dac03a110756141a835755da5ecccee04bd10e0531ee5832",
+    "ko": "디버그 사이프러스 나무!"
+  },
+  {
+    "id": "TXT_urbzui_02841",
+    "source_sha256": "c1d8f00c9962763d072441380150722faf56f30384b1dd6522bf1a0004d3a661",
+    "ko": "디버그 콜로시쿠스 수영장!"
+  },
+  {
+    "id": "TXT_urbzui_02842",
+    "source_sha256": "191e5eacaf745111757514a44b707f16e53b0274b124845d2f95e69d61551154",
+    "ko": "디버그 디아볼로 GT 1000!"
+  },
+  {
+    "id": "TXT_urbzui_02843",
+    "source_sha256": "1086f307f7544a8334be285d788e59970bd190acb52e2922d3016985e6bc5c47",
+    "ko": "디버그 시몰레온 사원!"
+  },
+  {
+    "id": "TXT_urbzui_02844",
+    "source_sha256": "891e2e7fd8c530ca7f80234e5f3368d8029aa666dddf79dd342d103d062ecd8c",
+    "ko": "디버그 리모 울티모!"
+  },
+  {
+    "id": "TXT_urbzui_02845",
+    "source_sha256": "a3b75e0e6a87ad08198022ac5f63fa9b1c5e40d2d9c979e93d5d700c3328f69e",
+    "ko": "디버그 슈프리첸풍켄!"
+  },
+  {
+    "id": "TXT_urbzui_02846",
+    "source_sha256": "d2a697b45a4bb35f58dc968c4d4f3ad7ee1fd89ab761fde9f2e5acec03d23eb6",
+    "ko": "디버그 슈넬마이스터!"
+  },
+  {
+    "id": "TXT_urbzui_02847",
+    "source_sha256": "7ad5519ce2604f3dffe0d508e58c5cb11d795c305997c8c60c7470462cb9f9ee",
+    "ko": "디버그 Q3 안락의자!"
+  },
+  {
+    "id": "TXT_urbzui_02848",
+    "source_sha256": "f84308dce3a64389dd4887fc5b8749baf52aa460ac30ba2aebb120dfa39c4143",
+    "ko": "디버그 아케이드 게임기!"
+  },
+  {
+    "id": "TXT_urbzui_02849",
+    "source_sha256": "512ad5a1a092dbf50ecf59ff05aba619d04e008188a1f8607a93dc5b4159d238",
+    "ko": "디버그 유독성 통!"
+  }
+]

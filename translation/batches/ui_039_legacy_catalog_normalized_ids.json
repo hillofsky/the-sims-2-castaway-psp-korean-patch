@@ -1,0 +1,687 @@
+[
+  {
+    "id": "TXT_SimsObjects_03098",
+    "source_sha256": "50796b39c32f86a3a1373c29cdfa9dd5f0d4e90eac9f8684b72719800e6aa8b5",
+    "ko": "카누"
+  },
+  {
+    "id": "TXT_SimsObjects_03101",
+    "source_sha256": "b4f9759ed34a151fc6336f8ab9ffaa271b9b275fd458d7aa9b6e5d1d0d2647b3",
+    "ko": "쌍동선"
+  },
+  {
+    "id": "TXT_SimsObjects_03693",
+    "source_sha256": "6ab0068b9cacfa453f4830b557852f4469befe3bc8f1b01b91b03b4d196924ca",
+    "ko": "보물 지도 조각"
+  },
+  {
+    "id": "TXT_SimsObjects_03875",
+    "source_sha256": "008cdc284f8cd1ec5ab1c9bec3395c606219065152dd8a7a1ef39fa474ab5a6f",
+    "ko": "카누"
+  },
+  {
+    "id": "TXT_SimsObjects_03878",
+    "source_sha256": "087dfc2d06abb2ce2afbbbca2a2e7ccc3634f58d8d7f5a59bbdba4831a3addbc",
+    "ko": "쌍동선"
+  },
+  {
+    "id": "TXT_SimsObjects_03881",
+    "source_sha256": "e03e99fee13d5b7b8f491391cfc3992d04e56a03d478a80fd6827ebbdd7cf190",
+    "ko": "뗏목"
+  },
+  {
+    "id": "TXT_SimsObjects_03929",
+    "source_sha256": "e61576416e1c33243f06b788005fa24b5f89f2acb0d940158fe2e004ab4680dd",
+    "ko": "밧줄 다리"
+  },
+  {
+    "id": "TXT_SimsObjects_03980",
+    "source_sha256": "343c0c7a6750239f5fbf61cedb97495c31359b5761869c7b028aed66bf271913",
+    "ko": "유목 판자"
+  },
+  {
+    "id": "TXT_SimsObjects_03983",
+    "source_sha256": "eb74affa78f2c950aace676438ba72afeb273c5de424761bdeff2484cde04810",
+    "ko": "유목 막대"
+  },
+  {
+    "id": "TXT_SimsObjects_03986",
+    "source_sha256": "81fda04b5cade7f0dba73f34d3385accf1e18bc7cd92740365fa41b5fd6df143",
+    "ko": "아몬드"
+  },
+  {
+    "id": "TXT_SimsObjects_03987",
+    "source_sha256": "26500ea053c0e4cd909b2d9ed5681484dd2631e6e106f447ddfcbefabd4aa8d0",
+    "ko": "이 바삭한 견과류를 한입 깨물면 아몬드가 왜 세상 모두의 친구인지 쉽게 알 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03988",
+    "source_sha256": "81fda04b5cade7f0dba73f34d3385accf1e18bc7cd92740365fa41b5fd6df143",
+    "ko": "아몬드"
+  },
+  {
+    "id": "TXT_SimsObjects_03989",
+    "source_sha256": "d916ef1ad8c4e1b924a134166acce846e3d300820779fb98abe11c0882c640b0",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_03991",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_03992",
+    "source_sha256": "5b4e7b89b8310c3c1ca75ebc3d26ccac36b92a2fbad20849e0c7a90b459f307b",
+    "ko": "아보카도"
+  },
+  {
+    "id": "TXT_SimsObjects_03995",
+    "source_sha256": "d916ef1ad8c4e1b924a134166acce846e3d300820779fb98abe11c0882c640b0",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_03997",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_03998",
+    "source_sha256": "1de3055a7f4709aa3253d92235321edc5041c17d80bbdd1c28adbd8228d1b78b",
+    "ko": "피망"
+  },
+  {
+    "id": "TXT_SimsObjects_03999",
+    "source_sha256": "72ffee1d95f4af47cc8166d6b2adbad1d2a484c0972109996dbedf75abf94732",
+    "ko": "평범한 텃밭에서 나는 피망과는 다릅니다. 아, 잠깐. 그냥 그 피망이 맞네요."
+  },
+  {
+    "id": "TXT_SimsObjects_04001",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04002",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04004",
+    "source_sha256": "1129c5e739b7ed45cf4fc83f7d71d3c82fc57d9c6442b1f7cd0bc2883b844177",
+    "ko": "블랙베리"
+  },
+  {
+    "id": "TXT_SimsObjects_04005",
+    "source_sha256": "f3dc466a9199782296053800474e72f56cce750b9d32aed8342236e4bbaf950d",
+    "ko": "으깨서 잼으로 만들든 전투용 분장에 섞든, 블랙베리는 쓰임새가 많은 작은 과일입니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_04007",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04008",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04009",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04010",
+    "source_sha256": "1d9e1c3faf95091684364cb22a7e4a033b782f1f87604108341f609a55eb5f35",
+    "ko": "블러드오렌지"
+  },
+  {
+    "id": "TXT_SimsObjects_04013",
+    "source_sha256": "d916ef1ad8c4e1b924a134166acce846e3d300820779fb98abe11c0882c640b0",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04016",
+    "source_sha256": "8facab97aaf3b9171c4aaef08699c2f628f4af058797beea472b2321af2e8434",
+    "ko": "브라질너트"
+  },
+  {
+    "id": "TXT_SimsObjects_04017",
+    "source_sha256": "2d598aac9c0d549fe5bbe35bcc79538068872acbb7640ab28d79e54975cbeefd",
+    "ko": "놀라운 사실: 브라질너트는 사실 남아메리카 전역에서 자랍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04019",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04020",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04021",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04022",
+    "source_sha256": "cc9c76a146bcf2dfe73eb13535bddd00401b8013a16a870cf638b5d1f11e79b6",
+    "ko": "칸탈루프 멜론"
+  },
+  {
+    "id": "TXT_SimsObjects_04023",
+    "source_sha256": "2b88edea41617defb7c3e45cd085600be47fe7faad9e0e943a10cd3e9df79286",
+    "ko": "월간 멜론 잡지에 따르면 칸탈루프 멜론은 \"먹기 좋다\"고 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04025",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04026",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04027",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04028",
+    "source_sha256": "8d1f4cfe5732c3ca85cc7c17fe5b75a5dc3e4b0cacdef543abb2151020a5c2c4",
+    "ko": "당근"
+  },
+  {
+    "id": "TXT_SimsObjects_04031",
+    "source_sha256": "8d1f4cfe5732c3ca85cc7c17fe5b75a5dc3e4b0cacdef543abb2151020a5c2c4",
+    "ko": "당근"
+  },
+  {
+    "id": "TXT_SimsObjects_04032",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04033",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04034",
+    "source_sha256": "69fd76a3eaa0e3b881ecfeccfabdfa29fba854c34d06837c74f4a106a434eef5",
+    "ko": "캐슈너트"
+  },
+  {
+    "id": "TXT_SimsObjects_04035",
+    "source_sha256": "69fd76a3eaa0e3b881ecfeccfabdfa29fba854c34d06837c74f4a106a434eef5",
+    "ko": "캐슈너트"
+  },
+  {
+    "id": "TXT_SimsObjects_04036",
+    "source_sha256": "e8e6d50e5ef5f6f349cd6c4074a5d3247213c72298ea50f0e811a8ca3eab9b72",
+    "ko": "캐슈너트"
+  },
+  {
+    "id": "TXT_SimsObjects_04037",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04038",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04039",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04040",
+    "source_sha256": "3fbe62a3059383c895f176e977c94b555a53c7d10317689a62c6d716556de120",
+    "ko": "체리"
+  },
+  {
+    "id": "TXT_SimsObjects_04043",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04044",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04046",
+    "source_sha256": "df6c9e7c91c0fbbd18c3f6865f1e507b64ba30a82f667a07c8d99a8df2860bc1",
+    "ko": "오이"
+  },
+  {
+    "id": "TXT_SimsObjects_04049",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04050",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04052",
+    "source_sha256": "9eaa9f352034421f3d589b838ad3ccdf691c8ddb6e084489306035c985071c60",
+    "ko": "자몽"
+  },
+  {
+    "id": "TXT_SimsObjects_04058",
+    "source_sha256": "7233180b3d47eb760de72220bdf186d52a962ad2130b6918f973266d08eae58b",
+    "ko": "구아바"
+  },
+  {
+    "id": "TXT_SimsObjects_04061",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04062",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04064",
+    "source_sha256": "302f2c88ff691e10e3c5fd351423dcfb999a881a1eec057b4aec02386e4205e6",
+    "ko": "햄"
+  },
+  {
+    "id": "TXT_SimsObjects_04070",
+    "source_sha256": "a2e5c96de6b5f2eea27799b904b9efe540907fdd07b3b94d07ee06d66e07c3f5",
+    "ko": "리치"
+  },
+  {
+    "id": "TXT_SimsObjects_04072",
+    "source_sha256": "fa0fbfe3984af9e3d1bad850b883be2e67b02f96a84533b99c51495571d6eb21",
+    "ko": "리치"
+  },
+  {
+    "id": "TXT_SimsObjects_04073",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04074",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04075",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04076",
+    "source_sha256": "159fb5df50b95de74673e8ad52b39ec2d9f62e86c4d2a7da799b8d982cd26ae1",
+    "ko": "마카다미아"
+  },
+  {
+    "id": "TXT_SimsObjects_04078",
+    "source_sha256": "7b348598d80c6b279c3b82ae8e663674148a4b6ee144debb3ffddb0efbd2753c",
+    "ko": "마카다미아"
+  },
+  {
+    "id": "TXT_SimsObjects_04079",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04080",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04081",
+    "source_sha256": "00783f75a2175e7eb749b4bd77fe5e740e680069287c13c354b9a8ad09f72de7",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04082",
+    "source_sha256": "2661f4853a561f684988218806bd28e3d12d272f2c8f9f44ec501a46aa27e958",
+    "ko": "망고스틴"
+  },
+  {
+    "id": "TXT_SimsObjects_04085",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04086",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04087",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04088",
+    "source_sha256": "79da554e0d408acfe389c089782d375b1bda22b4a96a2a610e7e115cb6768719",
+    "ko": "양파"
+  },
+  {
+    "id": "TXT_SimsObjects_04089",
+    "source_sha256": "42493cb922d36207f895fd25d885d4b49da75e5474016885bc2e52b54b8fb14b",
+    "ko": "양파를 자르면 눈물을 묽은 황산으로 바꾸는 기체가 나옵니다. 멋지군요!"
+  },
+  {
+    "id": "TXT_SimsObjects_04093",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04094",
+    "source_sha256": "2abb93603b459d32c76ab53039965702c1713764e78f6ff1de23a8df2a2ef766",
+    "ko": "파파야"
+  },
+  {
+    "id": "TXT_SimsObjects_04097",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04098",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04100",
+    "source_sha256": "e8144988800be753a115171be94d50c5f5d82315b08b17350e7917860ad2b66e",
+    "ko": "복숭아"
+  },
+  {
+    "id": "TXT_SimsObjects_04103",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04104",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04106",
+    "source_sha256": "9685b8ca8dccc32dd1929760e8e2ad2a69a91c1d6a561087cd8276556d72064d",
+    "ko": "감"
+  },
+  {
+    "id": "TXT_SimsObjects_04109",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04110",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04111",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04112",
+    "source_sha256": "7ac2e72cccef90f77eb1f9ad61966fd697e1a1826cf276cde3e4400a90df77bc",
+    "ko": "파인애플"
+  },
+  {
+    "id": "TXT_SimsObjects_04115",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04116",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04118",
+    "source_sha256": "6ab40cb1e9b8aee5122a3369a914b613ff81a79e7eafe594199c947012f36d49",
+    "ko": "라즈베리"
+  },
+  {
+    "id": "TXT_SimsObjects_04121",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04122",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04123",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04127",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04129",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04130",
+    "source_sha256": "4cc430409a48c82ebdbf8bb390ba20c9a2f12459dd657978b58a57ee35d4483c",
+    "ko": "스타프루트"
+  },
+  {
+    "id": "TXT_SimsObjects_04133",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04134",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04135",
+    "source_sha256": "dd1081b0ec3c8352a5ed49aa61be06485711b0466b5dca60bb735dde83f02ca5",
+    "ko": "정체불명의 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_04136",
+    "source_sha256": "f2e94ff8f497dfe350d5125f3717e052a1b8cf2603707d9e4e7f507a389ca48e",
+    "ko": "딸기"
+  },
+  {
+    "id": "TXT_SimsObjects_04139",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04140",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04142",
+    "source_sha256": "94ec6e0fce71d2285aa07a171c4528a05db6c0de5624036bd2fa74afe9ac3d5f",
+    "ko": "귤"
+  },
+  {
+    "id": "TXT_SimsObjects_04145",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04146",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04148",
+    "source_sha256": "77f9eef5c444a25134c31b17ec29cb242d15b0e92eff9a6c6b46c4913d042afc",
+    "ko": "토마토"
+  },
+  {
+    "id": "TXT_SimsObjects_04151",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04152",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04154",
+    "source_sha256": "4236dda792cd1d46bb3b8d3aabfb081b0202a7ea9c32c95efa09d75411a2d55e",
+    "ko": "수박"
+  },
+  {
+    "id": "TXT_SimsObjects_04157",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04158",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04163",
+    "source_sha256": "1eebe9eb4bb80220b46366dcaa27b31d4b5285f3cb8446d1b9d21be6b583a1dc",
+    "ko": "바나나"
+  },
+  {
+    "id": "TXT_SimsObjects_04164",
+    "source_sha256": "6e52ccb3dcb68aacc41dd7ec6a5d4208ca8b03b8472728e9cc40367feb4f56d4",
+    "ko": "이야기할 사람이 없어 외롭다면 바나나를 귀에 대고 전화인 척해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_04169",
+    "source_sha256": "94736094b3b09d6e025defdb189589095c85e3e3f14dded0d9ca801b16307ae5",
+    "ko": "코코넛"
+  },
+  {
+    "id": "TXT_SimsObjects_04172",
+    "source_sha256": "d22167fb64096bb8a921a228cd7dcc21ca6c064030d1f4050d5052d888a9db97",
+    "ko": "대추야자"
+  },
+  {
+    "id": "TXT_SimsObjects_04173",
+    "source_sha256": "f787d776f314612727a61c693dddf47ed5bdf8840f260bd57a2664e3f809f9f6",
+    "ko": "이 풍부한 식감의 열매를 먹을 약속을 잡으면 대추야자와 데이트를 하는 셈입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_04178",
+    "source_sha256": "411bdf3a881a9d774d9375ea35fe09898b67eca09af51aae3042223f10cafa7c",
+    "ko": "망고"
+  },
+  {
+    "id": "TXT_SimsObjects_04179",
+    "source_sha256": "15a40ba0b7fe7cc67b4c0718a3a878fb1bfe13108651b7ddebc7b51af5c24fe6",
+    "ko": "풍미 가득한 이 과일을 너무 먹으면 망고 광증에 걸릴 위험이 있습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_04187",
+    "source_sha256": "94736094b3b09d6e025defdb189589095c85e3e3f14dded0d9ca801b16307ae5",
+    "ko": "코코넛"
+  },
+  {
+    "id": "TXT_SimsObjects_04217",
+    "source_sha256": "8537590f9b741ba5cd26fc5a40371393f9bf97545b94896d3f189d6e7fd32f6b",
+    "ko": "앵무조개 껍데기"
+  },
+  {
+    "id": "TXT_SimsObjects_05225",
+    "source_sha256": "93e0faaf1a7d5bb8bebdafcacc61751d187a559e3cee142221a9c7488c4763aa",
+    "ko": "돌도끼"
+  },
+  {
+    "id": "TXT_SimsObjects_05226",
+    "source_sha256": "93e0faaf1a7d5bb8bebdafcacc61751d187a559e3cee142221a9c7488c4763aa",
+    "ko": "돌도끼"
+  },
+  {
+    "id": "TXT_SimsObjects_05228",
+    "source_sha256": "690fe58574ea578780efabda61f20c42e86bd7eeb0cc9f0b471092cd7687764f",
+    "ko": "금속 도끼"
+  },
+  {
+    "id": "TXT_SimsObjects_05231",
+    "source_sha256": "02b2e88da020079e614f0641c80507bca4c566fb417a41b12135e01cbbc6fa40",
+    "ko": "조개 도끼"
+  },
+  {
+    "id": "TXT_SimsObjects_05234",
+    "source_sha256": "3ca2217c47876384f09b1dfb22de5efa885e6c407db065f0cfa5ea48cebf8e98",
+    "ko": "닭 덫"
+  },
+  {
+    "id": "TXT_SimsObjects_05235",
+    "source_sha256": "32454e5a0cea31f332081eb4966f210fadd1443757c316e46fe1e59e0617221c",
+    "ko": "고대인들은 원시적인 악기를 연주한 뒤 그 악기로 닭을 때려서 잡았습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05246",
+    "source_sha256": "b3d79337904539019c04f8544ce5d3b1c0fd3268e17a05df7145b122cf2098b7",
+    "ko": "대나무 낚싯대"
+  },
+  {
+    "id": "TXT_SimsObjects_05247",
+    "source_sha256": "caad4dbdc1aea8078a1aa23ba1642dedeeb1470ec2ddece00ddcf8f8194d796e",
+    "ko": "유연하면서도 튼튼한 대나무 낚싯대만 있으면, 다 잡은 \"대어\"를 다시는 놓치지 않을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05250",
+    "source_sha256": "e43050720842590f512e9a22ac67589a8b2279a4aa14300b63ce8b26a34c627d",
+    "ko": "물고기를 홀리는 피리 부는 사나이만이 신나는 곡조로 저녁거리를 잡을 수 있습니다. 여러분에게는 낚싯대가 필요합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05252",
+    "source_sha256": "df1e3475556353c5e0fe7ed6a89ca8411e0edda81bf8c3eeb2c4d57c3005fa3a",
+    "ko": "물고기 덫"
+  },
+  {
+    "id": "TXT_SimsObjects_05253",
+    "source_sha256": "2d67c19b2f1b8fd9f18377e8f3c75bbf322f7d88da1968b5aeaba6678d898ec6",
+    "ko": "최초의 물고기 덫은 끝을 깎은 막대기를 물에 꽂아 놓은 것이었습니다. 어떻게 물고기가 잡힐지는 아무도 몰랐지만, 그래도 시작은 시작이었죠."
+  },
+  {
+    "id": "TXT_SimsObjects_05267",
+    "source_sha256": "ff2c7eb69d811f4ed1f089f507c6b666f928403d30ee7b7973405017a2760460",
+    "ko": "마체테"
+  },
+  {
+    "id": "TXT_SimsObjects_05273",
+    "source_sha256": "96185bb9657066f193e0aded5d17e4a8dcdf0b0b0fbe875e1729cebb8252f05d",
+    "ko": "흑요석 칼"
+  },
+  {
+    "id": "TXT_SimsObjects_05274",
+    "source_sha256": "3b0ae9d7934cabc5b6e401eecc5db6a5f305deb43b3250dc68c01caa692b8b31",
+    "ko": "흑요석 칼은 분자만큼 얇게 날을 세울 수 있지만, 머리카락을 쪼개는 데 쓰는 것은 권하지 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_05276",
+    "source_sha256": "b1bd184840fbf49652c8baef723a1f343ab69d371e3b67e4b887066ad77dc639",
+    "ko": "바느질 도구"
+  },
+  {
+    "id": "TXT_SimsObjects_05285",
+    "source_sha256": "37dfc671e27705c4494af059d99908be6d4a2a3c532f1cc806b03bbfab370f1f",
+    "ko": "대나무 창"
+  },
+  {
+    "id": "TXT_SimsObjects_05288",
+    "source_sha256": "f9b1afb93e965fc089796318b38fa076fe0120d76d6dd874dfa974ef2daf850e",
+    "ko": "수염수염의 검"
+  }
+]

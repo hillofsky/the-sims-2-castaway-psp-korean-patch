@@ -1,0 +1,17 @@
+﻿{
+    "executable":  "D:\\심즈2캐스트어웨이\\work\\ppsspp_1.19.3\\CASTAWAYEMU.exe",
+    "expected_game_id":  "ULUS10296",
+    "iso":  "D:\\심즈2캐스트어웨이\\build\\CASTAWAY_STEP019_KO_EXPERIMENTAL.iso",
+    "config":  "D:\\심즈2캐스트어웨이\\runtime\\instances\\castaway_STEP010_20261016_225308_981\\ppsspp.ini",
+    "pid":  27452,
+    "started_by_this_script":  true,
+    "run_id":  "castaway_STEP010_20261016_225308_981",
+    "status":  "FINISHED",
+    "process_start":  "2026-10-16T22:53:09.0563796+09:00",
+    "port":  26480,
+    "detected_game":  {
+                          "id":  "ULUS10296",
+                          "version":  "1.00",
+                          "title":  "The Sims™ 2 Castaway"
+                      }
+}

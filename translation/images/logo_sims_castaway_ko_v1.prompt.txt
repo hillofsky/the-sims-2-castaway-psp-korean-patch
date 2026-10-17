@@ -1,0 +1,5 @@
+Tool: built-in imagegen (text-localization edit), transparent background.
+Edit target: work/image_candidates/logo_sims_castaway_en.png, decoded from owned original ISO.
+Prompt: Replace only the word CASTAWAY on the lower wooden red plaque with exact Korean text "캐스트어웨이". Preserve the upper The Sims 2 logo, green plumbob, wooden plaque shape, colors, weathered gold/bamboo letter style, composition and transparent background. Korean letters must read 캐 스 트 어 웨 이 precisely, in a single line centered on the plaque, readable at small size. No additional words, no border, no extra symbols. Keep the complete logo uncropped with matching proportions. Output transparent PNG.
+Saved project asset: translation/images/logo_sims_castaway_ko_v1.png
+Build processing: resize RGBA to original 263x130, Pillow DXT5 compression, PSP block reordering. Preserve SHPM headers, dimensions, payload size and metadata. Rebuild textures.arc and startscreen dataset clone. Runtime review is owned by user.

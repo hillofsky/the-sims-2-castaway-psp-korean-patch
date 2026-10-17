@@ -1,0 +1,522 @@
+[
+  {
+    "id": "TXT_SimsObjects_02830",
+    "source_sha256": "0feede0f37829147debfbe8afcc74bed8a8f95e444ff20a6240d041a5fcd9d91",
+    "ko": "상어 가죽"
+  },
+  {
+    "id": "TXT_SimsObjects_02831",
+    "source_sha256": "aed4bdffafa4c0b8867d921603a546b4a0a3793ccd268537baed3d4aa76a12a5",
+    "ko": "상어는 원래 온순하고 유쾌한 동물이었습니다. 사람들이 상어로 신발을 만들기 전까지는요."
+  },
+  {
+    "id": "TXT_SimsObjects_02832",
+    "source_sha256": "bfdbcdbd2bb6d6f4ef4d22f826d39d1e9041fdd23f1e03d4b7ab9b3bdcfd49f4",
+    "ko": "상어 이빨"
+  },
+  {
+    "id": "TXT_SimsObjects_02833",
+    "source_sha256": "4d862d13c134aa7be0d2af39bcfb8b3e08cce8e2160bfc0972f869efe5687d85",
+    "ko": "상어 이빨을 다룰 때는 조심하세요. 어디에 있던 물건인지 알 수 없으니까요."
+  },
+  {
+    "id": "TXT_SimsObjects_02836",
+    "source_sha256": "c25b4cddf70c1cc069fb5aa35a7cd7e500927389ac809c633ee5d525190daf6b",
+    "ko": "바나나 잎 신발 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02837",
+    "source_sha256": "dc2d525f069f5564cb7c886a4d4030a4064da5c0f53fa15360054e9f300b70ec",
+    "ko": "포근한 발은 행복한 발입니다! 못생긴 신발은 발까지 못생기게 하죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02838",
+    "source_sha256": "59fb75fa1f0e90efc2ad9da4fe8ff93b5791e19585dbcf74bb37f332d8de4bda",
+    "ko": "나뭇잎 발목띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02839",
+    "source_sha256": "5680973529186355f0c9662b4e6627efa3a75c951441c6b6b9d1e5b6fd7afb5e",
+    "ko": "발을 제대로 보호하는 신발을 만들려면 더 열심히 노력해야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02840",
+    "source_sha256": "9282d2fd9ee0954353738f5f041e44536ccaa3adda5dcb8aee7728e562ff0b3b",
+    "ko": "가죽 모카신 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02841",
+    "source_sha256": "229690c6bec5ec041307861a2bacdbb002236baaa9e537f1b1ce98f3def04a90",
+    "ko": "신발이 더 예뻐지지는 않았지만 튼튼한 제작 솜씨를 보여주는 좋은 예입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02842",
+    "source_sha256": "97b528541aee6aa953691a4a62325de6b5e589c57ce776b7a6e63f57b3e2cd57",
+    "ko": "상어가죽 정장 구두 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02843",
+    "source_sha256": "0abd9f4fae03339cdf08e94502f29164831f0a2d99a53c5ab9565834173298e2",
+    "ko": "부드럽고 매끈한 상어가죽 신발은 발에 붙은 따뜻하고 포근한 생선 마시멜로 같습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02844",
+    "source_sha256": "97b528541aee6aa953691a4a62325de6b5e589c57ce776b7a6e63f57b3e2cd57",
+    "ko": "상어가죽 정장 구두 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02845",
+    "source_sha256": "3dbac1a468a05a2b64ac368e6a644ced27348e0d980913445e64add464b08f3d",
+    "ko": "부드럽고 매끈한 상어가죽 신발은 발에 붙은 따뜻하고 포근한 생선 마시멜로 같습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02846",
+    "source_sha256": "fd478bda820c0966853a6e5805ca67349eaa526c037142685900c002240ad8ce",
+    "ko": "섬 슬리퍼 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02847",
+    "source_sha256": "ca08205954434420205499e9099727cb0d858fdbc528dd0581abccdcc69e15f0",
+    "ko": "아주 편안하기는 하지만 깊은 정글을 탐험하기에 알맞은 신발은 아닙니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02848",
+    "source_sha256": "5eca01a0b34e3a6057d4bb4c4f17fcc4d83d3993a0d8be084f37d8d2bc6a6726",
+    "ko": "사이잘삼"
+  },
+  {
+    "id": "TXT_SimsObjects_02849",
+    "source_sha256": "7d2771b28474c16abfbb07707a176e3dafc81bf0a0cffe84e2b336933a29874b",
+    "ko": "사이잘삼 학자들은 이 튼튼한 직물이 미적으로 무엇을 뜻하는지 오랫동안 논쟁해 왔습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02852",
+    "source_sha256": "f58143e6e618ddc8a90aa305665fe9d04dd524855f8b068f227c8dede0b8c5ae",
+    "ko": "작은입배스"
+  },
+  {
+    "id": "TXT_SimsObjects_02853",
+    "source_sha256": "41d2d814b57735d09dde927bab7baec23170368c31a074cafb1cfc3fe4af0edf",
+    "ko": "배스는 입 크기를 신경 쓰니 빤히 쳐다봐서 더 불편하게 만들지 마세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02854",
+    "source_sha256": "e9b67251f7b77cea78541706a83874b067b6252249951760bccf59645bf54a6b",
+    "ko": "스노베리"
+  },
+  {
+    "id": "TXT_SimsObjects_02855",
+    "source_sha256": "312f8e707a0aac8d26a23825fda5ff8efa77a2cd345cf39d9f37b4d550760388",
+    "ko": "이 과일의 팬들은 스노베리 같은 열매는 또 없다고 주장합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02856",
+    "source_sha256": "3a617c209cf86e9eff0e6665954ff12f028202b734adfcc17c0c16e7092415df",
+    "ko": "비누풀"
+  },
+  {
+    "id": "TXT_SimsObjects_02857",
+    "source_sha256": "897a3d7447a471dc7ab25e6d0c885dc6446020fd510d52bf3e59a420e7734c74",
+    "ko": "이 기적 같은 식물 하나만 없었다면 위생도 난파로 잃어버린 불운한 것들 중 하나였을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02858",
+    "source_sha256": "886d2aa3679488bd12233ae1aa8b12d14d55ff18c00cece7f2380b7df605e06a",
+    "ko": "통나무 소파"
+  },
+  {
+    "id": "TXT_SimsObjects_02859",
+    "source_sha256": "3e0d85d0025a0d4aaa0dbfa77f0ccf98864b337acdbb717dcbcf650d46e4fe06",
+    "ko": "무인도에서 손수 만든 소파의 방석 틈에서도 잔돈이 나올 수 있다니 이상한 일입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02860",
+    "source_sha256": "fc44726431fdd0b225144b75eee7539645df2bb3d711ce55883070c0b0a8786c",
+    "ko": "판잣집 소파"
+  },
+  {
+    "id": "TXT_SimsObjects_02861",
+    "source_sha256": "fbbd6cc4317468f628704a0e21da989e2d2dc88b8339cbb3a28eefdbb70cb90f",
+    "ko": "부서진 산호 조각만으로 편안한 소파를 만드는 데 실패했으니 이제 단순한 이 디자인을 시도할 준비가 되었군요."
+  },
+  {
+    "id": "TXT_SimsObjects_02862",
+    "source_sha256": "df21c48205246a653f77c8a53395fc523746d2197ebedf7aeb0c68cf5cc48a6d",
+    "ko": "방갈로 소파"
+  },
+  {
+    "id": "TXT_SimsObjects_02863",
+    "source_sha256": "f66795913055083dba473f2cf34d4c06107d9cdd9e93899f9ff58be6065eb194",
+    "ko": "소파를 그럴듯하게 꾸민 긴 의자쯤으로 여기는 사람은 분명 이 정도 수준의 소파를 만나본 적이 없는 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02864",
+    "source_sha256": "4585fd901c65eb3fb01a0d21031d2df97b3819478f21ac1bcda7a6a1946f4bf0",
+    "ko": "오두막 소파"
+  },
+  {
+    "id": "TXT_SimsObjects_02865",
+    "source_sha256": "77432483447fa367935d93530a0fffce3501e5c59ed69f91667f20660bcc4ae9",
+    "ko": "조금 울퉁불퉁한 소파입니다. 방석에 엉덩이 자국이 제대로 새겨질 때까지는 아주 편하지 않을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02868",
+    "source_sha256": "211c88f510052a41e1b9c9a5f8571a7e42a466de764a333ce89b976931c1b482",
+    "ko": "대두"
+  },
+  {
+    "id": "TXT_SimsObjects_02869",
+    "source_sha256": "0a880dbc9be9aca2ead1de43675e7b6b5906d85da5d5a79e2d8941175da97087",
+    "ko": "삶아도, 굳혀도, 우유처럼 짜내도 좋은 만능 콩입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02872",
+    "source_sha256": "af4b61607244b534d012da89476a790164d9486647c8a377202fb43ca85110a7",
+    "ko": "오징어"
+  },
+  {
+    "id": "TXT_SimsObjects_02873",
+    "source_sha256": "5f82af6821c81ed1c06c3f865b10e241ed88810e7461277dd137cdd8d7dd9289",
+    "ko": "대부분의 두족류는 오징어 골목을 벗어나지 못합니다. 이 녀석은 운이 좋았죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02874",
+    "source_sha256": "b5ec03b7a7eb0c0bf4e894fd62cfa114a39bb22763cbe0e0af2c45cd0b03c0be",
+    "ko": "오징어 먹물"
+  },
+  {
+    "id": "TXT_SimsObjects_02875",
+    "source_sha256": "480db15b57b35037649bf758a31d9d8aed8debc5e335e514e7666dce72379888",
+    "ko": "옛 선원들은 오징어 먹물로 뱃노래를 기록했습니다. 이제 여러분도 그럴 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02876",
+    "source_sha256": "984bf24037fc2a362e0550e9ef42d310babf5301d8adc03604fe0d89f9f1c35c",
+    "ko": "스타프루트"
+  },
+  {
+    "id": "TXT_SimsObjects_02877",
+    "source_sha256": "db3206c57fe8d0d799e80ef10101f64e5e3c73999f6567431fef9ad45582ccc2",
+    "ko": "레몬을 닮은 자두 맛이 나는 스타프루트는 대개 가장 세련된 입맛을 위해 아껴둡니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02878",
+    "source_sha256": "0fd699f669a52861f95893889ea60c21c5055a1483b8df57b50aff02dea8e15c",
+    "ko": "별무늬 볼락"
+  },
+  {
+    "id": "TXT_SimsObjects_02879",
+    "source_sha256": "577bca5f90940a2a36fd06b00a545e7dd5389e84bce42a434b28febd6ed2dedc",
+    "ko": "별무늬 볼락 무리는 별자리 대형으로 헤엄치는 것으로 알려져 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02888",
+    "source_sha256": "41303760742a88ece2d232cedb0a5063552fd817659b48dd7a710b6fcdf5e784",
+    "ko": "판잣집 등받이 없는 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_02889",
+    "source_sha256": "d0ac1a2ed7f7a1a9f3fb109283b6ac9b89b575a7a33fef83fa1fe540033248cb",
+    "ko": "수수께끼입니다. 의자 하나를 만드는 데 표류자가 몇 명 필요할까요? 조금이라도 유능한 사람이라면 한 명이면 됩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02890",
+    "source_sha256": "8b08b70bef0c5f31046c217add159aca8236f286665088b39d872ae5b37c1771",
+    "ko": "딸기"
+  },
+  {
+    "id": "TXT_SimsObjects_02891",
+    "source_sha256": "2ebbd8d8f62d9f37693826dbac0ae16d30c71374a2d22d2421675e14f2f4ee26",
+    "ko": "끝없이 펼쳐진 우주와 달리 딸기밭은 영원하지 않습니다. 그러니 아껴서 수확하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02892",
+    "source_sha256": "33c6fbe93f946aa2980068e271648edb3b4fdc89870c4620342562bbc14ce7b2",
+    "ko": "줄무늬 배스"
+  },
+  {
+    "id": "TXT_SimsObjects_02893",
+    "source_sha256": "ccf5248c1d74e21f1d096836607a542855376ba1c237a8df192b8a659cfd5d11",
+    "ko": "가로줄 무늬 때문에 이 배스는 뚱뚱해 보입니다. 세로줄이었다면 훨씬 날씬해 보였을 텐데요."
+  },
+  {
+    "id": "TXT_SimsObjects_02894",
+    "source_sha256": "9e65b309905b20a74791184b77b5336adebc4cafa46011b51364af91fe7e942e",
+    "ko": "전망형 통나무집"
+  },
+  {
+    "id": "TXT_SimsObjects_02895",
+    "source_sha256": "c5f47c9d6aea82ac7c9a149afa732a206361a6d3761c33c140f47b0f29bccc69",
+    "ko": "통나무집은 널찍하고 날씨에도 대체로 잘 견딥니다. 큰 방 세 개와 넉넉한 현관, 전망을 최대한 살린 덧문 없는 뒷창을 갖췄습니다. 뒷마루도 집 전체 길이만큼 이어집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02896",
+    "source_sha256": "79c0e621d8053bbc46325591f9ae039096887812db5f2b9e4724c0ef50dab7a1",
+    "ko": "가족형 통나무집"
+  },
+  {
+    "id": "TXT_SimsObjects_02897",
+    "source_sha256": "df7692dd003ce974a94b71fe916b487ea231c44ba996a35a51f27b9458d9d90f",
+    "ko": "통나무집은 널찍하고 날씨에도 대체로 잘 견딥니다. 큰 거실에 창문이 넉넉하며, 덮개가 있는 양문으로 앞뒤 출입구를 편히 드나들 수 있습니다. 작은 방부터 중간 크기의 방까지 옆방 세 개를 갖췄습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02898",
+    "source_sha256": "d4882bfc4320d86cac6c48fac281f03649c3f902604fed0a136d197c5a8ab361",
+    "ko": "전원형 통나무집"
+  },
+  {
+    "id": "TXT_SimsObjects_02899",
+    "source_sha256": "4c4a8c8f5385424a2c6995adee1761bec32f9c59be69afc3fe664d3d4c75aa80",
+    "ko": "통나무집은 널찍하고 날씨에도 대체로 잘 견딥니다. 방 다섯 개가 있는 이 거처에는 가족과 즐겁게 지낼 공간이 넉넉합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02900",
+    "source_sha256": "614d212d36d9d579ebaa8cc0095c03a34fafcd8cb9cbfc5a67ca8b67f502be41",
+    "ko": "항구형 통나무집"
+  },
+  {
+    "id": "TXT_SimsObjects_02901",
+    "source_sha256": "6010c4b5da794b036fc874dce6823a126adbbf9675c96e944fc1880dc71f6cae",
+    "ko": "통나무집은 널찍하고 날씨에도 대체로 잘 견딥니다. 넓은 중앙 거실에 뒤쪽으로 작은 방 세 개가 모여 있고 햇볕 잘 드는 앞방도 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02902",
+    "source_sha256": "f3b8e2803703eca2c7c0e476aa6961192a697744317a9ea7d4ab065dc03cd0ad",
+    "ko": "목장형 방갈로"
+  },
+  {
+    "id": "TXT_SimsObjects_02903",
+    "source_sha256": "a51d1aac671d5faa9f64d8469971ff3c01def4ced77dd38602d1970606987fde",
+    "ko": "방갈로는 아주 널찍하고 날씨에도 잘 견딥니다. 큰 중앙 거실을 작은 방 세 개와 중간 크기의 앞방이 둘러쌉니다. 양문이 있는 앞마루가 반갑게 맞이합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02904",
+    "source_sha256": "082b6b0bdbfbb3182c7938dcc2a5ab969a31d168dbce7217ea17fbb1b653930f",
+    "ko": "장원형 방갈로"
+  },
+  {
+    "id": "TXT_SimsObjects_02905",
+    "source_sha256": "03ba10fc330e20dd3aa779ad014cbbc4cad5e34c8c8e660f4f2ba4909c64518b",
+    "ko": "방갈로는 아주 널찍하고 날씨에도 잘 견딥니다. 매우 탁 트인 거실과 옆방 세 개가 있습니다. 적당한 크기의 뒷마루는 그늘에서 바람을 쐬기에 딱 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02906",
+    "source_sha256": "872564f9d7d898a34155007d1f2f881f1c1ef4905f2b8ac8ccf658fce1e4ecb9",
+    "ko": "사탕수수"
+  },
+  {
+    "id": "TXT_SimsObjects_02907",
+    "source_sha256": "18b17e3902dc185faf165c727700df1e5cd23dc80909a0db71bd5160b34b594d",
+    "ko": "\"사탕수수가 없으면 보람도 없다\"는 설탕만 먹는 식단을 맹신하는 사람들의 생활신조입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02908",
+    "source_sha256": "16305b0d244ce0c8aef050cf80bea50e066a2b4845f7a28bc2b9d7ba4d3ad50b",
+    "ko": "해시계고둥 껍데기"
+  },
+  {
+    "id": "TXT_SimsObjects_02909",
+    "source_sha256": "79e1d8c4767f50265959019e9b1c2883f687554fdfbd801642e245e231b0f641",
+    "ko": "이 껍데기는 원래 곧으며 물에 닿았을 때에만 말립니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02910",
+    "source_sha256": "9bca097a27dd8af0f87fedf5cca30b7857a9a06b6ce9be5b4dfe4c18ad5ea3b9",
+    "ko": "개방형 오두막"
+  },
+  {
+    "id": "TXT_SimsObjects_02911",
+    "source_sha256": "8bdb3316c7071c992c932cb07710a318665827c3268a01599c73269fa479c8d4",
+    "ko": "오두막은 판잣집보다 훨씬 낫지만 여전히 날씨에 약합니다. 3x4 크기의 이 집은 한쪽 벽이 열려 있어 바람이 잘 통합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02912",
+    "source_sha256": "07ebc93f9ecab26033e30633a3695194760cb71f57a9e1ad27b196c5cd5b2fec",
+    "ko": "밀폐형 오두막"
+  },
+  {
+    "id": "TXT_SimsObjects_02913",
+    "source_sha256": "3bb75f1734416c4daa282d3ffb0bdf295f0d66b0d2090e27b960ec4fe13c9436",
+    "ko": "오두막은 판잣집보다 훨씬 낫지만 여전히 날씨에 약합니다. 완전히 막힌 3x4 크기의 한 칸짜리 거처에는 작은 앞마루가 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02914",
+    "source_sha256": "85a76a23bba6524d851e7b6188b51544d37227b3fd6ffd18d9434ae15f0cb2be",
+    "ko": "네모난 오두막"
+  },
+  {
+    "id": "TXT_SimsObjects_02915",
+    "source_sha256": "fabfb89e328c3979959b335a5ccb1cf7d4715354dbb0d52bdf6e95a1930c2353",
+    "ko": "오두막은 판잣집보다 훨씬 낫지만 여전히 날씨에 약합니다. 방 하나에 4x5 크기인 이 집은 단순하고 기본적인 거처입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02916",
+    "source_sha256": "48bcb9f21c2df54be69997ac597bef4e75451819a56a6b9f293326438c2102c3",
+    "ko": "ㄴ자형 오두막"
+  },
+  {
+    "id": "TXT_SimsObjects_02917",
+    "source_sha256": "62d68856d2486036f74e73e378fc27ee6f166f99279dd0d39851feadfa4622b9",
+    "ko": "오두막은 판잣집보다 훨씬 낫지만 여전히 날씨에 약합니다. 방 하나에 4x5 크기인 이 집은 ㄴ자형 앞마루를 갖췄습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02918",
+    "source_sha256": "9ba7f5e8c4d62e57cb62eea00841757aa6a90b8a289fec48ce8bcdfc55d3472e",
+    "ko": "직사각형 오두막"
+  },
+  {
+    "id": "TXT_SimsObjects_02919",
+    "source_sha256": "053171d281abf25f70b674a157e9f32f5d3ce64f7ea2c53142eb2f59ef1412dd",
+    "ko": "오두막은 판잣집보다 훨씬 낫지만 여전히 날씨에 약합니다. 한 칸짜리 5x7 크기의 이 집에는 뒷문이 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02920",
+    "source_sha256": "5a70142035bd6f991a2ebe851741ce723de476113e2cf990e114ac5675466277",
+    "ko": "대저택형 방갈로"
+  },
+  {
+    "id": "TXT_SimsObjects_02921",
+    "source_sha256": "688eff883bb4e6e98f867904426cb320d9a638f5e230a4a5111bbfe6ed69e680",
+    "ko": "방갈로는 아주 널찍하고 날씨에도 잘 견딥니다. 넓고 여유로운 거실이 있습니다. 서쪽에는 큰 다목적 방, 동쪽에는 작은 방 두 개를 두었습니다. 호화로운 뒷마루는 집 전체 길이만큼 이어집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02922",
+    "source_sha256": "3048339d81d8c9734edfad44af1e336e055a3c88c33ee6feb1c3d28122c30b3e",
+    "ko": "작은 통나무 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02923",
+    "source_sha256": "c19c27803bed95f35c8d59ab7a3d9d98a0be398ef2173c01bec754e72dc2fcf1",
+    "ko": "가장 별난 친구들을 이 가구 주위에 앉혀 \"네모 탁자의 기사들\" 역할극을 신나게 즐겨보세요. 진짜 친구든 상상 속 친구든 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02924",
+    "source_sha256": "a3e22e6c8bb55e0d191fa2cd609318981489e2e7f684040c59edcfbbaa7d20ee",
+    "ko": "작은 판잣집 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02925",
+    "source_sha256": "9529be03ba37e5f625db79fedf83db2877ba04fe8e4146d49ce0732bccae4c8b",
+    "ko": "어머니가 바닥에서 음식을 먹지 말라고 가르쳤죠. 예의를 기억하고 어서 탁자를 만드세요. "
+  },
+  {
+    "id": "TXT_SimsObjects_02926",
+    "source_sha256": "a2ab64c8321f1927c89cf6eddd6a5b5f194ecad8045bfae970094735cb55acbd",
+    "ko": "작은 방갈로 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02927",
+    "source_sha256": "e751979ed5511642d3c322eec470ac911e7c3520e8fc89c88d43cbe768a0dcb6",
+    "ko": "이만한 품질의 탁자를 소유하면 컵받침과 물자국, 둥근 얼룩을 걱정해야 하는 문제가 생깁니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02928",
+    "source_sha256": "d250022b3b737c32bc8b69e236ab0fc93a2cec0b19642eebc46694f6776cf5ee",
+    "ko": "작은 오두막 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02929",
+    "source_sha256": "0ec2b19e2b5c102253ea60e981a3f273238e05cf25b41904fe60e18af97d1531",
+    "ko": "최근의 불운을 \"뒤집으려면\" 이 가구를 돌려놓는 것만으로는 부족할 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02930",
+    "source_sha256": "58b290e29c5c388fcf878ca945911c0f755657479c040ad172db45bf084c4fdb",
+    "ko": "보통 판잣집 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02931",
+    "source_sha256": "08804959cd0d0453898e9abc1b1fe003520f00d6e1409280de3322f99fb2c1a3",
+    "ko": "주머니에 넣거나 무릎 위에 얹어둘 수 있는 것에도 한계가 있습니다. 결국 탁자가 필요하다는 사실을 뼈저리게 깨닫게 되죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02932",
+    "source_sha256": "193f3d0814da407cb9bc9d79b0a3dd0282059f0a8ac4c47acc987789eacb54ad",
+    "ko": "보통 방갈로 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02933",
+    "source_sha256": "22b47eba13d837bebed19a26b8c878586efccd5daabcb0c2dfebf542c9ec5821",
+    "ko": "진지한 제작 솜씨와 섬세한 손길이 만들어낸 멋진 탁자입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02934",
+    "source_sha256": "d4f46e667438d1a0a7f524c1559483f2aaea4092eee6462d85e4e449cec7a089",
+    "ko": "보통 오두막 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02935",
+    "source_sha256": "3346d0983bb45df4b74901dffc3f8695e0594bb2e31d32663fb38bec9272195a",
+    "ko": "아끼는 씹던 껌을 보관할 편리한 곳이 필요하다면 이 무난한 탁자 밑에 붙여 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02936",
+    "source_sha256": "f82573263c131959f3bddf154c08720921da15787512d8b4466228d535f88855",
+    "ko": "보통 통나무 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02937",
+    "source_sha256": "6f3c5882725fdb51942afc3571dfb944c8de8b7295b49e5cef67913382875d62",
+    "ko": "다부지고 튼튼한 이 탁자는 아무리 힘든 상황에서도 충분히 버텨줄 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02938",
+    "source_sha256": "a81ad986963472a394ba036e2a86e068a7e037b0012e630c98ef33d195771fba",
+    "ko": "큰 통나무 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02939",
+    "source_sha256": "375b53911ad84733dedd0cf2a4d18363eaa046dbc40d786fbce057fdb2c9169c",
+    "ko": "갑자기 구조 기념 뷔페를 열게 되었다고 생각해 보세요. 그럴 때는 이런 탁자가 있어 기쁠 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02940",
+    "source_sha256": "6df228b8a1f767a1fca47b3f24edd4418f0f880657e015dcf573f49c600928b7",
+    "ko": "큰 판잣집 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02941",
+    "source_sha256": "dd66d4f6ad87dd65a2587d58650c1ef448d1554d11bb8b9e827643aee66569f0",
+    "ko": "지금은 무엇이든 탁자 위에 올릴 수 있습니다. 아직 탁자가 만들어지지 않았으니까요."
+  },
+  {
+    "id": "TXT_SimsObjects_02942",
+    "source_sha256": "fb2d665c9e602444e3e7ec80016b8acbc451a9e7bf8c311070d1f75d9ad7d828",
+    "ko": "큰 방갈로 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02943",
+    "source_sha256": "ead72ef7e2d831d6a6c0514a984df6280df7cf57aaaa4475b13afd13077318c0",
+    "ko": "격정적인 몸짓으로 탁자 위 물건을 모두 쓸어버리고 싶었던 적이 있나요? 그렇다면 연습하기 좋은 탁자입니다.  "
+  },
+  {
+    "id": "TXT_SimsObjects_02944",
+    "source_sha256": "4825df08224638f8d4e80451111f37a6dbc2bd86f9ad33e23d8b7557c67b6d43",
+    "ko": "큰 오두막 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02945",
+    "source_sha256": "4cb4c6d21a66c3454a652089222d69ce1f9564d138420df92c923e0c11bcaeee",
+    "ko": "여러분에게는 늘 탁자에 내놓을 무언가가 있었습니다. 이제 그걸 가져올 완벽한 탁자가 생겼군요."
+  },
+  {
+    "id": "TXT_SimsObjects_02946",
+    "source_sha256": "13931ae3eef8679515b507f5c31e32d04e9fbf59fe73ef01073acbed59f5fb98",
+    "ko": "방갈로 보조 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_02947",
+    "source_sha256": "47c5d06e0e59cfa9f6b8ceb2fa758173c34879c686364480487d3f40742890f0",
+    "ko": "이미 모든 것을 갖춘 듯한 방갈로에 보조 탁자는 완벽한 장식이 됩니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02948",
+    "source_sha256": "3dfc382a8334cfac7f0baeb41ceecec62e4953aa4f7647d9c1092fd996b3383a",
+    "ko": "탈랑퀸피시"
+  },
+  {
+    "id": "TXT_SimsObjects_02949",
+    "source_sha256": "33e18fd704206360084191db7e447072792a9e452e21db94e947fad7dd5132dc",
+    "ko": "탈랑, 탈랑, 탈랑 퀸피시가 노래하고, 딸랑, 딸랑, 딸랑 조개가 울립니다."
+  }
+]

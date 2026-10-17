@@ -1,0 +1,332 @@
+[
+  {
+    "id": "TXT_urbzui_01482",
+    "source_sha256": "7c0d3606ab4ce6f4251acc5dd4377da0c75c26c67f5eb015cff8eb2fa5c633b3",
+    "ko": "설정 적용"
+  },
+  {
+    "id": "TXT_urbzui_01483",
+    "source_sha256": "2d0ba556b2aaeb442a872fe08dd7747166c204215782e6e125f92010d72b9ff5",
+    "ko": "환경음"
+  },
+  {
+    "id": "TXT_urbzui_01484",
+    "source_sha256": "80220450d7f7b6f087f8f7733469b9ede945fef8c5c073fc1a25ffc6ef1647bd",
+    "ko": "시점 자동 복귀"
+  },
+  {
+    "id": "TXT_urbzui_01485",
+    "source_sha256": "b841456d2baaf7a980acbb2d5b679a9c98c10b0c45d2a382dcee1d3d270e6723",
+    "ko": "자동 확대"
+  },
+  {
+    "id": "TXT_urbzui_01492",
+    "source_sha256": "d1d08daae6be0d90154cf70b89b36696bc11e56f21237f0b3cf2d79c5e8bea7b",
+    "ko": "변경 사항을 취소할까요?"
+  },
+  {
+    "id": "TXT_urbzui_01493",
+    "source_sha256": "c1bb8ac4a9ce5e1a82841141ee6b8129eae172ae3724bb846d9aa496d6a28805",
+    "ko": "빠르게 진행"
+  },
+  {
+    "id": "TXT_urbzui_01494",
+    "source_sha256": "f6fb75298b88094fe48f8fe77b1c1cd023e14bcb345ddc88654cb2b2241aebca",
+    "ko": "자율 행동 시작 시간"
+  },
+  {
+    "id": "TXT_urbzui_01495",
+    "source_sha256": "74e82396abdc9167c974d69868c4c1b4b47242910b5dc6a06b179e800491238f",
+    "ko": "자율 행동 허용"
+  },
+  {
+    "id": "TXT_urbzui_01497",
+    "source_sha256": "f1dc28ff5309a05adcbd16b6a3e94cd40d7e464de70ec13e3db61c517725fc54",
+    "ko": "<BUTTON_0B> / <BUTTON_0C> 이전 / 다음 탭\r\n<BUTTON_03> / <BUTTON_02> 이동 / 설정 조절\r\n<BUTTON_00> 선택\r\n<BUTTON_01> 뒤로"
+  },
+  {
+    "id": "TXT_urbzui_01498",
+    "source_sha256": "eb4c36a88397d6ef6f54862965ee895ba18cac277c9d54ec73a48a569b115f51",
+    "ko": "게임 설정 도움말 "
+  },
+  {
+    "id": "TXT_urbzui_01499",
+    "source_sha256": "92a0338cc98d830fb8a4c8f5229bca60460e4d34a53b0760163ad1af4c3a78d1",
+    "ko": "카메라 회전 반전"
+  },
+  {
+    "id": "TXT_urbzui_01500",
+    "source_sha256": "92a0338cc98d830fb8a4c8f5229bca60460e4d34a53b0760163ad1af4c3a78d1",
+    "ko": "카메라 회전 반전"
+  },
+  {
+    "id": "TXT_urbzui_01501",
+    "source_sha256": "799c269135742a36ae48dddf3a69c47c7d2a428a34e351f6da93ae6490101b47",
+    "ko": "조작"
+  },
+  {
+    "id": "TXT_urbzui_01502",
+    "source_sha256": "34e108c0896d0158ca4f2797d4f12a143943803be2151aa5d2136ea1bcd9a468",
+    "ko": "화면"
+  },
+  {
+    "id": "TXT_urbzui_01503",
+    "source_sha256": "45314e97b0c26a862b5411d0a943d801583e13bb5d104382ed7a2f4773969e66",
+    "ko": "시뮬레이션"
+  },
+  {
+    "id": "TXT_urbzui_01515",
+    "source_sha256": "87bf2bc08589f0bd4a078db145c34ad5e14b8fda53c3ae65b78601294913df95",
+    "ko": "목소리"
+  },
+  {
+    "id": "TXT_urbzui_01513",
+    "source_sha256": "14f0f9082358a5c95c918981d200523c9979a7062cbe39447c5b31129ff29478",
+    "ko": "스테레오"
+  },
+  {
+    "id": "TXT_urbzui_01514",
+    "source_sha256": "2e1cffc7aeeca4d68b1cc78cb4f3cd5cd21bf2b1d4ec36cbc4ae0608fbacc07c",
+    "ko": "서라운드 사운드"
+  },
+  {
+    "id": "TXT_urbzui_01755",
+    "source_sha256": "2bc7ac8897beeb2f16bbfb24f56441edfa2867d489ac0244e1010d15a8bca050",
+    "ko": "닫기"
+  },
+  {
+    "id": "TXT_urbzui_01756",
+    "source_sha256": "b79cac926e0b2e347e72cc91d5174037c9e17ae7733fd7bdb570f71b10cd7bfc",
+    "ko": "도움말"
+  },
+  {
+    "id": "TXT_urbzui_01757",
+    "source_sha256": "927de226dcd82778913c777262accca2f95064dd3a8e2ac9f4061ee00ceb60e4",
+    "ko": "누르고 있으면 빠르게 진행"
+  },
+  {
+    "id": "TXT_urbzui_01758",
+    "source_sha256": "aef2da417eae1afcd293dd75d68a11c0d6a82185b87b5d87732cb671c3bf6fda",
+    "ko": "누르고 있으면 일시 정지\r\n"
+  },
+  {
+    "id": "TXT_urbzui_01759",
+    "source_sha256": "cee384d3fe103942d1b3c353ab84e009899ef85f3b9cb7753dc68a8f6a4e7c0a",
+    "ko": "누르고 있으면 미리 보기"
+  },
+  {
+    "id": "TXT_urbzui_01765",
+    "source_sha256": "9fd728c66c9a256b121472dabf32a34317aed01d8427d70ec830289cf23a7cc8",
+    "ko": "추가"
+  },
+  {
+    "id": "TXT_urbzui_01767",
+    "source_sha256": "7f6d78088151456bef7579ed200994e93d0ff3f39ed27a83da826d75e20a4235",
+    "ko": "선택한 지역으로 이동할까요?\r\n"
+  },
+  {
+    "id": "TXT_urbzui_01769",
+    "source_sha256": "128f0885cae2436bf14b3ad1c9ab5af59905ba3d9d4364842282893ed3290d03",
+    "ko": "선택한 물건을 삭제할까요, 소지품에 넣을까요?"
+  },
+  {
+    "id": "TXT_urbzui_01770",
+    "source_sha256": "7ef1b5ec11d7bb37d81685c8473f6a5af10f80ee26a407caa6ab71a1275fdc4f",
+    "ko": "계속하려면 이름을 입력해야 합니다."
+  },
+  {
+    "id": "TXT_urbzui_01771",
+    "source_sha256": "8e9988477e940d393359e1cbaf97d0f647d09f136ffe0beec2e02a521f05c321",
+    "ko": "정말 나갈까요? 심에게 적용한 변경 사항이 모두 사라집니다.\r\n"
+  },
+  {
+    "id": "TXT_urbzui_01774",
+    "source_sha256": "3e9a4903dad0c811a09d8d41e36385f4d9566d81f71d53d909cffda5109d5765",
+    "ko": "이 설계도로 제작할까요?"
+  },
+  {
+    "id": "TXT_urbzui_01775",
+    "source_sha256": "9fb41c5c8a44b9f3f1b0558e503e5696792d1f989be7e7b631e9d33623ac21e8",
+    "ko": "표류자 만들기로 돌아갈까요?"
+  },
+  {
+    "id": "TXT_urbzui_01776",
+    "source_sha256": "b6cc0d3a1b861b61a83e925621b63bee2516f4caee8ca95c1cd8ec7d9995b7da",
+    "ko": "변경 사항을 유지할까요?"
+  },
+  {
+    "id": "TXT_urbzui_01777",
+    "source_sha256": "eb2c631e4f5b702ecb9e8cd51b3c885e5bef2e49b41fef53429549a8d3adbb87",
+    "ko": "종료하기 전에 저장할까요?"
+  },
+  {
+    "id": "TXT_urbzui_01778",
+    "source_sha256": "3d10559c2bdebd6171cfcf0dedb97a49c9798c00410028d61fb998b176b981c0",
+    "ko": "아직 사용하지 않은 포인트가 있습니다"
+  },
+  {
+    "id": "TXT_urbzui_01985",
+    "source_sha256": "e8448cafab870baf5ab688355a83c49720dba4025874a1b56390c5f383918a5a",
+    "ko": "제1권: 머니웰의 생존 대백과"
+  },
+  {
+    "id": "TXT_urbzui_01986",
+    "source_sha256": "07b0da3eebe841c6427d890cd9ebc3e0dd8eea3d8258d1bd52f55e5753f1892f",
+    "ko": "기본 생존"
+  },
+  {
+    "id": "TXT_urbzui_01987",
+    "source_sha256": "1af31cb1b871079e3d3986f4af2f71185ea3f90f570a38349045f86ffc757da5",
+    "ko": "여기까지 왔다면 당장 목숨을 잃을 위기는 넘겼다는 뜻입니다. 축하합니다. 이제 곧 닥칠 죽음을 생각해 봅시다. 이를 피하는 가장 좋은 방법은 장기적인 생존 계획을 세우는 것입니다. 오래 살아남는 데 도움이 될 기술을 익히고 도구를 마련할 때입니다."
+  },
+  {
+    "id": "TXT_urbzui_01988",
+    "source_sha256": "dcedcec06b547e1105f535b90ac43a434d8d78855ab478c1dc9ad84c1cf157ba",
+    "ko": "작업대 만들기"
+  },
+  {
+    "id": "TXT_urbzui_01989",
+    "source_sha256": "a5ebabaa5e32634344dde61bfa0fd2a6ad96db000b934a328f6ee88020e552c6",
+    "ko": "생선 요리하기"
+  },
+  {
+    "id": "TXT_urbzui_01990",
+    "source_sha256": "66ea2204693d79661aed057f0ed391e79734d8605448ee05e0c116028b77b531",
+    "ko": "정글 탐험하기"
+  },
+  {
+    "id": "TXT_urbzui_01991",
+    "source_sha256": "4b5e11e25d840226e11f4676bfac37cb73f708cdb168ca09bd96501616e1eacb",
+    "ko": "거처 만들기"
+  },
+  {
+    "id": "TXT_urbzui_01992",
+    "source_sha256": "6c02b98eca23082682ff4cc63f94c1ccb38a4434fbc7f42323f7839399b7d368",
+    "ko": "동료 찾기"
+  },
+  {
+    "id": "TXT_urbzui_01993",
+    "source_sha256": "8ba27094c337d58a900890c4a915646731179d9931b4a7cf54010aea9e659f1b",
+    "ko": "재난에서 살아남아 무인도에 도착했다면 다른 사람들도 살아남았을 가능성이 있습니다. 기본적인 욕구를 해결했다면 최선을 다해 다른 생존자를 찾아보세요. 제정신이기만 하다면 혼자보다 여럿이 일하는 편이 효율적이니까요. 기억하세요. 눈을 유난히 자주 깜박이는 사람을 만나면 그냥 내버려 두는 편이 좋을 겁니다."
+  },
+  {
+    "id": "TXT_urbzui_01994",
+    "source_sha256": "ef6664194b23bde94b2555207ff0462c83cb299e6c6d9603b279215e66aa0a57",
+    "ko": "동료에게 인사하기"
+  },
+  {
+    "id": "TXT_urbzui_01995",
+    "source_sha256": "84d7e3b9c885b5f486d8a22554f29a749c2d94780e6c8db4451e19de0b7c01f0",
+    "ko": "동료와 친구 되기"
+  },
+  {
+    "id": "TXT_urbzui_01996",
+    "source_sha256": "a957941fc5eea6a3cd683538aa34752faae3d5538cbd257fbee97c71b219b971",
+    "ko": "심을 부족에 초대하기"
+  },
+  {
+    "id": "TXT_urbzui_01997",
+    "source_sha256": "6d840bf3685409e8ec42970c51d07b6c4023589428591cd127a65c666670a872",
+    "ko": "모든 동료 찾기"
+  },
+  {
+    "id": "TXT_urbzui_01998",
+    "source_sha256": "8fff0ca45e65ff5c69e9e5cf272b8eec98f78f998720b27bf7e34e9032cac0b3",
+    "ko": "집으로 돌아갈 방법 찾기"
+  },
+  {
+    "id": "TXT_urbzui_01999",
+    "source_sha256": "565aa256f1410f98b43771a2796d6192801e301c3d09d99378be576204006bb9",
+    "ko": "어떤 사람들은 재난의 문턱에서 새로운 보금자리를 발견합니다. 남은 평생을 열대 섬에서 보내는 것보다 나쁜 일도 있으니까요. 그래도 집에 가고 싶다면 계획이 필요합니다. 보통 방법은 두 가지입니다. 스스로 섬을 떠나거나, 데리러 올 사람에게 연락하는 것이죠. 운이 좋다면 직접 선택할 수 있을 것입니다."
+  },
+  {
+    "id": "TXT_urbzui_02000",
+    "source_sha256": "74e967e86c7f4a6509557d124fc3abd3a752f33258ba206ac102d9f047188ffd",
+    "ko": "무선 송신기 조립하기"
+  },
+  {
+    "id": "TXT_urbzui_02001",
+    "source_sha256": "3e03f45706d85b83f94a2f9fba2fefc38591a1ff2063f6af2f9d079ba6fcf480",
+    "ko": "높은 곳에서 구조 신호 보내기"
+  },
+  {
+    "id": "TXT_urbzui_02002",
+    "source_sha256": "45f7e657967e0b34dab8d9191427767453a9066b95437236c6c507792b38fccb",
+    "ko": "바다를 건널 배 만들기"
+  },
+  {
+    "id": "TXT_urbzui_02073",
+    "source_sha256": "67d750fb7448a1d255fda28d0db6addbe2fd46249dc7ae4373c9cb4788f64f48",
+    "ko": "팔찌 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02074",
+    "source_sha256": "2fd67c7578167f1b6f9c761a26faa5bac8111c8d6ab7274b559e419e9a503366",
+    "ko": "침대 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02075",
+    "source_sha256": "1b55aed14ba13fc1b43611786e2491419a9558314201fd7fd0b6bfafc080463c",
+    "ko": "건설 및 구입 모드"
+  },
+  {
+    "id": "TXT_urbzui_02076",
+    "source_sha256": "ad617a0fdd57e3f4b8ebb27f6f60470bc4468aadec290db57e612f751767745d",
+    "ko": "직업"
+  },
+  {
+    "id": "TXT_urbzui_02077",
+    "source_sha256": "f561d047e9d5e174c82bd09684667d67c9efd43340809ae0d437ad0f89ec8e78",
+    "ko": "건설 및 구입 목록"
+  },
+  {
+    "id": "TXT_urbzui_02080",
+    "source_sha256": "5bea3ab36d884792954cfa0f3bae76334d75580b675b56b7877ae8fc3339efa2",
+    "ko": "의상"
+  },
+  {
+    "id": "TXT_urbzui_02081",
+    "source_sha256": "464007594dbc76641c6eedd5caf0642229717176b0ef4937e0641349c70b5f65",
+    "ko": "의상 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02082",
+    "source_sha256": "90f564a7b77cbff7a108a5e2f2cbbaa44792516165abd7aee18db831a784585b",
+    "ko": "수집품"
+  },
+  {
+    "id": "TXT_urbzui_02083",
+    "source_sha256": "b269dc4e81a528a4d42e9e74101923514a626f55f8dd76b1461e0690e72d041a",
+    "ko": "명령"
+  },
+  {
+    "id": "TXT_urbzui_02084",
+    "source_sha256": "f4d65626b68fde6e780a111a8e6ef1d80366515cc5c223af4107a6bcf22cab1c",
+    "ko": "제작 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02085",
+    "source_sha256": "673d9b1cc866f191453142a4a5cab4429ed7a889d3492de824ce33b33068aff0",
+    "ko": "욕구 효과"
+  },
+  {
+    "id": "TXT_urbzui_02086",
+    "source_sha256": "1dc9b5c2b40d310b580a523af640b84f659c2a56087332af4624ada58a6e724a",
+    "ko": "장소, 도구와 기술"
+  },
+  {
+    "id": "TXT_urbzui_02087",
+    "source_sha256": "3b036d4db5698d02dedafffa5c782e38b2718b2074a4d3a9c1c96aa3dab7265b",
+    "ko": "필요한 자원"
+  },
+  {
+    "id": "TXT_urbzui_02089",
+    "source_sha256": "7ee077d0c3414f3ef42b367f62a845888494c4d42adfd1b2b6057d46a26901f9",
+    "ko": "문 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02095",
+    "source_sha256": "705a94faf819c790cb1dfb3114b2d9ec0598914c905f59867f7083c9a86cb692",
+    "ko": "의상과 외모 꾸미기"
+  }
+]

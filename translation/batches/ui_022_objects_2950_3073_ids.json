@@ -1,0 +1,572 @@
+[
+  {
+    "id": "TXT_SimsObjects_02950",
+    "source_sha256": "44a41bce228dc28e836dc335963d03ee8e865263a7999c08e92d02d0c307ae66",
+    "ko": "귤"
+  },
+  {
+    "id": "TXT_SimsObjects_02951",
+    "source_sha256": "c5094f5b0a660c453cf1258df6ca4c59b4a191ac4ff0ce13a866a62815ef7417",
+    "ko": "펙틴을 구할 수만 있다면 마멀레이드를 만들기에 딱 좋은 과일입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02952",
+    "source_sha256": "fabdb53b6add8a8c54c257dc16eab1ce499b3ad704024b42d9cc69ef09a5640f",
+    "ko": "토란"
+  },
+  {
+    "id": "TXT_SimsObjects_02953",
+    "source_sha256": "e2166e0ba300999ba2a2331f3394ad3349d94f84eed3167b1dcda73ab498b528",
+    "ko": "인류가 처음 재배한 맛없는 음식 중 하나인 토란은 수천 년 동안 아이들을 울상 짓게 했습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02954",
+    "source_sha256": "9094c2f572773f8a2f5bb589ca8c8476b1cea9a715107dcdc1b7452545cfc423",
+    "ko": "타폰"
+  },
+  {
+    "id": "TXT_SimsObjects_02955",
+    "source_sha256": "bcdafc37637180758cf565609b2488fd5704007fb13dd5ad42d632da5a4df8d0",
+    "ko": "썰물이 올 때마다 타폰은 제 지느러미 값을 해냅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02956",
+    "source_sha256": "9c0ad578754791ba7620c6e6befa9e26851a248ff10a6a8a2fa53719b84b30f9",
+    "ko": "티나무 잎"
+  },
+  {
+    "id": "TXT_SimsObjects_02957",
+    "source_sha256": "2d80a010f4b8d1492297ff1da5437a5a86e16545cd6ed35c6ed813c76a5cdcea",
+    "ko": "티나무 잎은 예로부터 옷과 장식을 만드는 데 쓰였습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02958",
+    "source_sha256": "e448e5b691eecfc0e440950928bb0f3b07112ddd2f0cb03de1ea350b5a23e460",
+    "ko": "뱀상어"
+  },
+  {
+    "id": "TXT_SimsObjects_02959",
+    "source_sha256": "6f29f248d4ae04bfa82c5e5058ad1962c0d99a901d9515daa1821adf7885545e",
+    "ko": "뱀상어는 생선, 물개, 햇볕에 너무 오래 둔 감자 샐러드까지 거의 무엇이든 먹습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02960",
+    "source_sha256": "8adf17c6317d3864d0f75e56e7f54d91e3bf398f74f1382fd384cdc55a1b5dac",
+    "ko": "토헤드상어"
+  },
+  {
+    "id": "TXT_SimsObjects_02961",
+    "source_sha256": "8ef3b15394b5f4de8a766bbd34ab13014982bf7edd882073ef476cd0e9afd46e",
+    "ko": "토헤드상어는 끝도 없는 지루한 이야기로 먹잇감을 죽이는 호전적인 멍청이입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02962",
+    "source_sha256": "3046954ea3a15477e54de897e706308f303de849c3a7b97b4edaddceb7af48f9",
+    "ko": "화장지"
+  },
+  {
+    "id": "TXT_SimsObjects_02963",
+    "source_sha256": "dc9a5d801112de579ceee9c6a4e89435b2723017637d98156c946df074e5cc99",
+    "ko": "부드러움의 편안함을 다시 느껴 보세요. 다시는 나무껍질로 돌아가지 못할 겁니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02964",
+    "source_sha256": "8289a9844fd5125f9ecc55b600da78766f44f8477d0a908e2962fbd77eb78372",
+    "ko": "토마토"
+  },
+  {
+    "id": "TXT_SimsObjects_02965",
+    "source_sha256": "7a71eb09ffb3d053007636898282f5bedc480fe01ef77e6a48ac0ad40d72aecc",
+    "ko": "샐러드와 소스에 넣거나 형편없는 거리 공연자에게 던지기에 안성맞춤입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02968",
+    "source_sha256": "0d8b4fa008fc512b03a68defb1bbbccfa501fa5ca14054fb92cb4ba883cbbe2a",
+    "ko": "보물 지도 조각"
+  },
+  {
+    "id": "TXT_SimsObjects_02969",
+    "source_sha256": "b563de69a51e512a632e8c0c4481f21ab7ca5e2f5352de443079a378cb2a49a2",
+    "ko": "너덜너덜한 종잇조각에 희미하게 남은 표시가 수상할 정도로 지도처럼 보입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02970",
+    "source_sha256": "b33d3ac3e3e234d11684c4ac623ce238ab4bc22ee3a53bb2d06ef2ab90901c9d",
+    "ko": "강황 뿌리"
+  },
+  {
+    "id": "TXT_SimsObjects_02971",
+    "source_sha256": "f2866daff5809b31fba90a216a6092075f8952aaa9901601b50c673ea66eb67b",
+    "ko": "강황 뿌리는 어떤 음식에든 선명한 색과 카레의 풍미를 더합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02972",
+    "source_sha256": "918ede7b9dcb02cf954e5f7ac12a5d8a3dbcb27c43772707d451aaa5b54fce8c",
+    "ko": "터키피시"
+  },
+  {
+    "id": "TXT_SimsObjects_02973",
+    "source_sha256": "5f839f96b9786005af8bd484a4fd313dc541b2024bcda656110bb56754614155",
+    "ko": "커다란 터키피시 구이와 해초 속재료가 없다면 표류자의 추수감사절 만찬이 무슨 소용일까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_02974",
+    "source_sha256": "9142b6d68029399ea8461a92f8123282303990fb0385245c787fa553d0c82243",
+    "ko": "노끈"
+  },
+  {
+    "id": "TXT_SimsObjects_02975",
+    "source_sha256": "7a56af59a340e54165d974740f59b3c6a5746ad3eae43325997b420bd4bb68da",
+    "ko": "무엇이든 묶어야 할 때는 노끈을 조금 풀어 쓰세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02976",
+    "source_sha256": "e4d775da5e6b87af8a0d5e19d5f25a31681e3c38243577ed4e6580ff5c0316d7",
+    "ko": "우산"
+  },
+  {
+    "id": "TXT_SimsObjects_02977",
+    "source_sha256": "08e9f26137315f12fadf958941ffe6955b96f1a3f9230dd7ccbacc41e716a1c0",
+    "ko": "거처 안에서는 절대 우산을 펴지 마세요. 무인도에 갇혀 있어도 미신의 법칙은 여전히 유효합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02978",
+    "source_sha256": "45f6d6c5e64b00d27e05ce6b0f1f428eb61047ace158f8371aca3e0514298031",
+    "ko": "버밀리언볼락"
+  },
+  {
+    "id": "TXT_SimsObjects_02979",
+    "source_sha256": "e466a5761b3700091874bf5c864901ea3f865cef693ff45e806bd3335fd64b88",
+    "ko": "이 특별한 물고기들은 하나하나가 백만 분의 일 같은 존재입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02982",
+    "source_sha256": "3757f86e8439da6652fda6f42ce7367bce4fb7eb1b795284eb649873d8960404",
+    "ko": "와후"
+  },
+  {
+    "id": "TXT_SimsObjects_02983",
+    "source_sha256": "27d05b2cb0c7137e10f660d844c88bf6ee557ebd9871b18e6acfab383c64962c",
+    "ko": "산란기가 되면 바다에 와후가 와글와글 넘쳐납니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02984",
+    "source_sha256": "93f2debf512f0697c8fe919db2e1e8aa229e2d0f423d8d153fb7267fe70e54c6",
+    "ko": "통나무집 벽"
+  },
+  {
+    "id": "TXT_SimsObjects_02985",
+    "source_sha256": "b4ce2329506e9171086c3521f84723a2c68f95f353688538e9eba183d78bcbf5",
+    "ko": "입김 몇 번으로 무너질 벽은 아니지만, 계절풍이라면 충분하니 조심하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02986",
+    "source_sha256": "1def3acc8edcd73613f003bef1629cc785d0b76060bab00e66acdebdadfcb40b",
+    "ko": "통나무집 벽 x 3"
+  },
+  {
+    "id": "TXT_SimsObjects_02987",
+    "source_sha256": "0473c937b567c551ddd093e6ce3e376b1a8556497f0b2cfc018b61e396290c19",
+    "ko": "비바람을 제법 막아 주는 벽입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02988",
+    "source_sha256": "85478a4e6d60730cf2b0c66d4584992b6e9aa6dd59947745ee8651302ae435aa",
+    "ko": "통나무집 벽 x 5"
+  },
+  {
+    "id": "TXT_SimsObjects_02989",
+    "source_sha256": "0473c937b567c551ddd093e6ce3e376b1a8556497f0b2cfc018b61e396290c19",
+    "ko": "비바람을 제법 막아 주는 벽입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02990",
+    "source_sha256": "bd0aad0fa6c2ab96a65c19420b3e65bf750c2ee7d947e9f95314e6231f7dee0c",
+    "ko": "통나무집 벽 x 7"
+  },
+  {
+    "id": "TXT_SimsObjects_02991",
+    "source_sha256": "0473c937b567c551ddd093e6ce3e376b1a8556497f0b2cfc018b61e396290c19",
+    "ko": "비바람을 제법 막아 주는 벽입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02992",
+    "source_sha256": "ab5571e78a38eadf7fa23cd1dfd52bbd8c3a9e179c93bf02208843a1b7025331",
+    "ko": "판잣집 벽"
+  },
+  {
+    "id": "TXT_SimsObjects_02993",
+    "source_sha256": "31946c9d685877ac980c795e59272126ebb54f3626e287ef62b914ef91fe634f",
+    "ko": "제대로 된 판잣집이라면 벽은 필수입니다. 벽이 없으면 바닥과 지붕을 구분하기가 영 어렵거든요."
+  },
+  {
+    "id": "TXT_SimsObjects_02994",
+    "source_sha256": "f97c35e373e918ec11b65f6635ba5b2ac712df5c52289bfbeae73f135eee14c0",
+    "ko": "판잣집 벽 x 3"
+  },
+  {
+    "id": "TXT_SimsObjects_02995",
+    "source_sha256": "3143a9a5743b66be12a832ac0b4202f308a0a3d8090e7ef33aa034af7191df3e",
+    "ko": "비바람을 조금밖에 막아 주지 못하는 벽입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02996",
+    "source_sha256": "6ef022e85d19ef935e3c813241d4326f12a72c3b0ce960ca704961e2cfc258d4",
+    "ko": "판잣집 벽 x 5"
+  },
+  {
+    "id": "TXT_SimsObjects_02997",
+    "source_sha256": "3143a9a5743b66be12a832ac0b4202f308a0a3d8090e7ef33aa034af7191df3e",
+    "ko": "비바람을 조금밖에 막아 주지 못하는 벽입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02998",
+    "source_sha256": "f4c76f7aadfc65e1fdc472d832cfb53b506a23fb8799c6886de0935b281c3588",
+    "ko": "판잣집 벽 x 7"
+  },
+  {
+    "id": "TXT_SimsObjects_02999",
+    "source_sha256": "3143a9a5743b66be12a832ac0b4202f308a0a3d8090e7ef33aa034af7191df3e",
+    "ko": "비바람을 조금밖에 막아 주지 못하는 벽입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03000",
+    "source_sha256": "3c33879ca0d1bf75d1fd5de53e8d0101699523d0effb92de369a54f3ca1e7c2a",
+    "ko": "방갈로 벽"
+  },
+  {
+    "id": "TXT_SimsObjects_03001",
+    "source_sha256": "8998351fa334a0479936e4b594279e852767794af63a7598bd2f0b9d1411a199",
+    "ko": "이 벽이 말을 할 수 있다면 뛰어난 구조적 안정성과 풍부한 미적 가치를 자랑할 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03002",
+    "source_sha256": "94f22a7c242e82e3749e85c0285f51ecae3f19370453564d54ac37f062873096",
+    "ko": "방갈로 내부 벽"
+  },
+  {
+    "id": "TXT_SimsObjects_03003",
+    "source_sha256": "8998351fa334a0479936e4b594279e852767794af63a7598bd2f0b9d1411a199",
+    "ko": "이 벽이 말을 할 수 있다면 뛰어난 구조적 안정성과 풍부한 미적 가치를 자랑할 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03004",
+    "source_sha256": "70a81ddef9090e5387b105184128c0582e79d356f422af89a0a98edf2076c107",
+    "ko": "방갈로 내부 벽 x 3"
+  },
+  {
+    "id": "TXT_SimsObjects_03005",
+    "source_sha256": "8998351fa334a0479936e4b594279e852767794af63a7598bd2f0b9d1411a199",
+    "ko": "이 벽이 말을 할 수 있다면 뛰어난 구조적 안정성과 풍부한 미적 가치를 자랑할 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03006",
+    "source_sha256": "10730db5bae75383fd6b472450f1e04a5a62a67b2f8b3a6d684ff75c7ad122fb",
+    "ko": "방갈로 내부 벽 x 5"
+  },
+  {
+    "id": "TXT_SimsObjects_03007",
+    "source_sha256": "8998351fa334a0479936e4b594279e852767794af63a7598bd2f0b9d1411a199",
+    "ko": "이 벽이 말을 할 수 있다면 뛰어난 구조적 안정성과 풍부한 미적 가치를 자랑할 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03008",
+    "source_sha256": "5296587329d4cb7da1f3c390e411b56dcd8c36d56d4f5ed5d9230bfe7ac3fca7",
+    "ko": "방갈로 내부 벽 x 7"
+  },
+  {
+    "id": "TXT_SimsObjects_03009",
+    "source_sha256": "8998351fa334a0479936e4b594279e852767794af63a7598bd2f0b9d1411a199",
+    "ko": "이 벽이 말을 할 수 있다면 뛰어난 구조적 안정성과 풍부한 미적 가치를 자랑할 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03010",
+    "source_sha256": "3b73b3840c2e3ebfa1bea58cc760e2f97631943eeac860a86189f903c736e409",
+    "ko": "방갈로 벽 x 3"
+  },
+  {
+    "id": "TXT_SimsObjects_03011",
+    "source_sha256": "fbbfe4b6824fc156f2644093367609b5b225b02f2e3a90b5a6fd20ca7f0bacbd",
+    "ko": "비바람을 완벽하게 막아 주는 벽입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03012",
+    "source_sha256": "cf5db728a03ce35768eb11fad14d645379ac8d3cfc2a748b7e65a625e68c2d18",
+    "ko": "방갈로 벽 x 5"
+  },
+  {
+    "id": "TXT_SimsObjects_03013",
+    "source_sha256": "fbbfe4b6824fc156f2644093367609b5b225b02f2e3a90b5a6fd20ca7f0bacbd",
+    "ko": "비바람을 완벽하게 막아 주는 벽입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03014",
+    "source_sha256": "1dfe5c302dd344f5d94c3c0b790b015e5bf6fcb4f5b9abce63c039abb04003f5",
+    "ko": "방갈로 벽 x 7"
+  },
+  {
+    "id": "TXT_SimsObjects_03015",
+    "source_sha256": "fbbfe4b6824fc156f2644093367609b5b225b02f2e3a90b5a6fd20ca7f0bacbd",
+    "ko": "비바람을 완벽하게 막아 주는 벽입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03016",
+    "source_sha256": "ff327994dba76a9972cce7c34060041d92673bddc79569794b1c2bde657172bf",
+    "ko": "오두막 벽"
+  },
+  {
+    "id": "TXT_SimsObjects_03017",
+    "source_sha256": "2b322bfef90bfa8d36f3c8e2e271e31f8a0eb6606f78c0102257ae5525506732",
+    "ko": "섬 생활의 스트레스 때문에 벽에 몰린 기분이라면, 적어도 무너지지 않는 벽을 지어 보는 건 어떨까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_03018",
+    "source_sha256": "e0aeb9019a011303c140baecb3cb97ad8a6c26444671bb34e7918fa10b05464a",
+    "ko": "오두막 벽 x 3"
+  },
+  {
+    "id": "TXT_SimsObjects_03019",
+    "source_sha256": "b78cbe05e924cb72abce677b1116dca92128663f9dc08e527c83a58165c36624",
+    "ko": "비바람을 어느 정도 막아 주는 벽입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03020",
+    "source_sha256": "6751ec98eadc5563c095a82a186cfa9cabd9a0dbe01b30aa356db3cf34129cf7",
+    "ko": "오두막 벽 x 5"
+  },
+  {
+    "id": "TXT_SimsObjects_03021",
+    "source_sha256": "b78cbe05e924cb72abce677b1116dca92128663f9dc08e527c83a58165c36624",
+    "ko": "비바람을 어느 정도 막아 주는 벽입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03022",
+    "source_sha256": "d89afea2487e82d2f44afd584b0e2ac965ad5177a55c0df9022512a9c41551e9",
+    "ko": "오두막 벽 x 7"
+  },
+  {
+    "id": "TXT_SimsObjects_03023",
+    "source_sha256": "b78cbe05e924cb72abce677b1116dca92128663f9dc08e527c83a58165c36624",
+    "ko": "비바람을 어느 정도 막아 주는 벽입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03026",
+    "source_sha256": "cca303e99f5f821dfd9d74b81b18be6a03a7ee271123158a9d6a7092f326b1bf",
+    "ko": "밀"
+  },
+  {
+    "id": "TXT_SimsObjects_03027",
+    "source_sha256": "41bd6ac812521e2bf58ac4cc952998dd2e119dbbde57787a9af85080764d1d20",
+    "ko": "칙칙한 갈색 껍질에도 불구하고 밀은 여전히 세상에서 가장 지루한 음식입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03028",
+    "source_sha256": "e26bd41feb48b3a322b365b8df87caa689e753c58aaf601045d6747d3309220b",
+    "ko": "흰색 히비스커스"
+  },
+  {
+    "id": "TXT_SimsObjects_03029",
+    "source_sha256": "0695ee14cc7f603cdb845f1f9e8aa9bc1b1f7ef31cd6f172fb7f6b24fcd2466f",
+    "ko": "흰색 히비스커스는 노동절 전에 착용하는 것이 좋습니다. 그 뒤에 달면 촌스러워 보이거든요."
+  },
+  {
+    "id": "TXT_SimsObjects_03030",
+    "source_sha256": "72bc7b6a2e0a2fb047e87d09425f6ea7cd12a641e6901def23b47496e1c73640",
+    "ko": "흑기흉상어"
+  },
+  {
+    "id": "TXT_SimsObjects_03031",
+    "source_sha256": "6ac3f7ed7b23c49efa206536e7fff46a6ca8c79b9a690e010976e97b99e26294",
+    "ko": "지느러미 끝을 하얗게 만들려고 살인도 마다하지 않을 상어가 많지만, 이 녀석은 그럴 필요가 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03032",
+    "source_sha256": "583613887f6602bcbc34e6dbfba4fca29519467438d38cca97a53905b44aadd1",
+    "ko": "위도볼락"
+  },
+  {
+    "id": "TXT_SimsObjects_03033",
+    "source_sha256": "b6237d534da56a8551a84196395e6e3d16aee4d0b10b65c73927c07122d33130",
+    "ko": "남편을 잃은 뒤로 이 과부 볼락은 예전 같지 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03034",
+    "source_sha256": "83b06f8e7258435c77f0bd3e877cf18f1fc8097ba04e92e70c0595d27f2c2310",
+    "ko": "통나무집 창틀"
+  },
+  {
+    "id": "TXT_SimsObjects_03035",
+    "source_sha256": "499c4fdfaec7fc033ba9215a24e29c2e1ab13e7987b633b447182e9160f37ae0",
+    "ko": "표류자라면 누구나 처음 튼튼한 창틀을 만들던 순간을 기억합니다. 추억은 이런 소중한 순간으로 만들어지죠."
+  },
+  {
+    "id": "TXT_SimsObjects_03036",
+    "source_sha256": "5e736e670d13bbaf7de45f1944672ea241c75eb0b2cda8c0782ab554851ebe55",
+    "ko": "통나무집 덧문"
+  },
+  {
+    "id": "TXT_SimsObjects_03037",
+    "source_sha256": "6207623996e90874393741c9d365fc69117fa739e83522b459d9d1cab6850f59",
+    "ko": "달빛이 알맞게 비치면 이 덧문은 통나무집 안에 매혹적인 느와르풍 그림자를 드리웁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03038",
+    "source_sha256": "cfa6ea4f6eca5ccca311d944bdd4c9e7c4a89dfdf5f30a19053baa933a475446",
+    "ko": "판잣집 창틀"
+  },
+  {
+    "id": "TXT_SimsObjects_03039",
+    "source_sha256": "518ad1b76fd03b216c8b06424317832f9094c25b5765d0694e0b491440372095",
+    "ko": "이렇게 서투르고 허술한 물건이라도 창틀만큼 우아하게 벽을 뚫는 것은 없습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_03040",
+    "source_sha256": "33227fcd66c28e1ba5a54cf6852dfed28a8cedd0fb8e2933ec02affdc1b3896f",
+    "ko": "판잣집 덧문"
+  },
+  {
+    "id": "TXT_SimsObjects_03041",
+    "source_sha256": "75afdfe0190d7215b5b0b86acc14e32452a7d8fb674be72f32cb1bad4a2d10a8",
+    "ko": "이 허술한 덧문이 폭풍이나 자연재해를 어떻게 견딜까요? 생각만 해도 덜덜 떨립니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03042",
+    "source_sha256": "c8693a7a9b2cf9dc7ddcbe9fde3ba0992641b705fe22a646f43a082d3007a176",
+    "ko": "방갈로 창틀"
+  },
+  {
+    "id": "TXT_SimsObjects_03043",
+    "source_sha256": "0ef24ca9affbc2e8f81eba8a804c0b8ad16b67477699de2a3def86f0ba38e0de",
+    "ko": "자존심 있는 방갈로라면 번듯한 창틀 한두 개쯤은 있어야 하지 않겠어요?"
+  },
+  {
+    "id": "TXT_SimsObjects_03044",
+    "source_sha256": "063f3e3f0b234da94765df832e60ff5424fe5a7f43b8136c3535c4ecb9a9983b",
+    "ko": "방갈로 유리창"
+  },
+  {
+    "id": "TXT_SimsObjects_03045",
+    "source_sha256": "c5e516e87ac52036c63a8c1259f3bec802f15e2ca57e5233adc65e94de7f5a03",
+    "ko": "모래를 쓸 만한 유리창으로 만드는 데는 수천 초가 걸리지만, 깨뜨리는 데는 단 1초면 됩니다. 책임이 막중하군요. "
+  },
+  {
+    "id": "TXT_SimsObjects_03046",
+    "source_sha256": "161c9d67a249d4ac91a6a29581a8d53b4c95bba818a1faa7a93bfcc4bf6d7867",
+    "ko": "방갈로 덧문"
+  },
+  {
+    "id": "TXT_SimsObjects_03047",
+    "source_sha256": "4c897ce72efdbb8b8e7263a447e022653a37563aadfe813c63347c958ec9d108",
+    "ko": "멋진 덧문은 유행을 타지 않습니다. 특히 생존자풍 세련미를 갖췄다면 더욱 그렇죠."
+  },
+  {
+    "id": "TXT_SimsObjects_03048",
+    "source_sha256": "61a0b38a1af8dd77e7b030db7e33dc1fac24ee9da77c0767f25dfaeae6eb18f0",
+    "ko": "오두막 창틀"
+  },
+  {
+    "id": "TXT_SimsObjects_03049",
+    "source_sha256": "38e2226b090936dbdbc44e9430617c873cacc48fe4d91473fc5e649acc9f2ed5",
+    "ko": "창틀은 환기와 자연 채광에 유용하며, 오두막에 편히 앉아 이웃을 엿보기에도 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03050",
+    "source_sha256": "666f3d2d3da4eb414e402410d52d79e12d5a18f65ee27d15ae573f71a0c607ba",
+    "ko": "오두막 덧문"
+  },
+  {
+    "id": "TXT_SimsObjects_03051",
+    "source_sha256": "1bf543b76f8e108415c7d315831750161bc64c28eaadb77a8528f78cac3fb40a",
+    "ko": "무난하고 칙칙한 이 덧문으로 주변의 아름다운 열대 풍경을 가려 버리세요. "
+  },
+  {
+    "id": "TXT_SimsObjects_03054",
+    "source_sha256": "80f4d09c648751487a5cff9c72a532157f11608dd1febaf1fc9a8fe5f257233e",
+    "ko": "검은꼬리놀래기"
+  },
+  {
+    "id": "TXT_SimsObjects_03055",
+    "source_sha256": "308f4a15324171e5d04b98cc283ac152f0962e9966a5d2034db3c3ce66b83fc4",
+    "ko": "검은꼬리놀래기는 자극을 받으면 보이지 않는 침 구름을 내뿜습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03056",
+    "source_sha256": "a67708557056f4177995d1f592daa1f96a7fe5f30af301eb5c9666581fb27ee3",
+    "ko": "얌"
+  },
+  {
+    "id": "TXT_SimsObjects_03057",
+    "source_sha256": "3a4f334fd4e8527dc30b6be9f363934124dd176373babc48573781c2f31173ef",
+    "ko": "어떤 문화의 주술사들은 얌에 마법의 힘을 불어넣습니다. 다른 이들은 버터와 흑설탕을 넣죠."
+  },
+  {
+    "id": "TXT_SimsObjects_03058",
+    "source_sha256": "74cd862496117da4e510b039547edab1bf224d7ac7ea06a2a106ee9cbbcd3166",
+    "ko": "노란색 히비스커스"
+  },
+  {
+    "id": "TXT_SimsObjects_03059",
+    "source_sha256": "cc9027cd779d7855f47df4ae88fdc276f03479c1850d83b5a7433b25bb2e0aca",
+    "ko": "고향이 그리운 표류자들은 외로운 마음을 담아 야자수에 노란 히비스커스를 묶곤 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03060",
+    "source_sha256": "24ce9d7c47e70c2096cd61500cdeb288805389d0ba416b6c6c34e5436d051088",
+    "ko": "황다랑어"
+  },
+  {
+    "id": "TXT_SimsObjects_03061",
+    "source_sha256": "252fc399f662afbd9f17e1210b69f49e22d6f33d7186a44967188703d54cdff8",
+    "ko": "다랑어는 무게가 400파운드에 달하기도 하는 거대한 물고기라서 작은 통조림에 넣기가 어렵습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03062",
+    "source_sha256": "072da33bcd3d9af789569a94e8381ed8350c0fb82e20a2b006eea1a7cb97bace",
+    "ko": "노란꼬리볼락"
+  },
+  {
+    "id": "TXT_SimsObjects_03063",
+    "source_sha256": "ea97ff20c02fb87ff8c164890409b3113e4038690639309efa850e20db1511a3",
+    "ko": "이 볼락들은 심각한 노란 꼬리를 달고 태어나지만, 지극히 정상적인 삶을 살아갑니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03064",
+    "source_sha256": "812d4d08cf372e62a3b992c65c7142afcc81a7742cd6203ea0a7dc1db9445987",
+    "ko": "노란꼬리퉁돔"
+  },
+  {
+    "id": "TXT_SimsObjects_03065",
+    "source_sha256": "2f642cc5e40eec7546623072c2f9f758d79dc8178ebf91ff7b213448c65daf0e",
+    "ko": "경쾌한 노란 꼬리가 없다면 이 퉁돔은 전화 발신음보다도 따분할 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03068",
+    "source_sha256": "7fc475a3c92cc3ca23289560dded2d376caf0bc8d6ae3aa06f9d658f5c8a6615",
+    "ko": "카누"
+  },
+  {
+    "id": "TXT_SimsObjects_03069",
+    "source_sha256": "adb83e53ada219d311d1909dc5f5ad7d13a5779dd1912531f4d86080b6865c4f",
+    "ko": "좌우 양쪽에 안정 장치를 갖춘 이 카누에는 수동 추진 엔진이 달려 있지만, 아쉽게도 플라밍고는 없습니다. 좁고 물살이 빠른 해협을 건너기에 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03070",
+    "source_sha256": "919f7d779b71af23fe58ea3d60330079771a319ecbd8769773020508fc98bda1",
+    "ko": "쌍동선"
+  },
+  {
+    "id": "TXT_SimsObjects_03071",
+    "source_sha256": "f7f34b952e984d6b0762bb8159d1f6358834c78e185bdc6ea988e5366a89dd1d",
+    "ko": "커다란 라마 선수상과 튼튼한 돛을 갖춘 이 쌍동선은 아무리 멀더라도 원하는 곳까지 데려다줄 만큼 튼튼할지도 모릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03072",
+    "source_sha256": "353f8e1e5cc79db4dffdc8e74d9d3cfa2a12b366a39a35d9494de00ad99259ff",
+    "ko": "밧줄 다리"
+  },
+  {
+    "id": "TXT_SimsObjects_03073",
+    "source_sha256": "4ae6a5d38017ad67beccf012b58300f9a5239f120d43904df903c6e9428f7053",
+    "ko": "밧줄 다리는 온갖 골짜기와 협곡을 건너는 안전하면서도 아찔한 방법입니다. 기억하세요. 아래를 보지 마세요."
+  }
+]

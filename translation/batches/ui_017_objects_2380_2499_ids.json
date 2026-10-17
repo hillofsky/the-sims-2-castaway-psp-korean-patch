@@ -1,0 +1,537 @@
+[
+  {
+    "id": "TXT_SimsObjects_02380",
+    "source_sha256": "5451d8afe1110ae66eea8b02b94d7d8f89d4e1ddece259211fbcb351ed459e90",
+    "ko": "경작 가능한 텃밭"
+  },
+  {
+    "id": "TXT_SimsObjects_02381",
+    "source_sha256": "846de0e3aa18b7d71df76d1fe24a4f63f69f2c28f976075939d3abc97e73cd6d",
+    "ko": "흙에는 대체로 광물과 유기물이 균형 있게 섞여 있어 식물이 잘 자라기에 알맞은 환경을 제공합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02382",
+    "source_sha256": "61aa1c8300d42c023ef8561df96673f3292b3554a1c8589b8e718810cc81f066",
+    "ko": "다그다그"
+  },
+  {
+    "id": "TXT_SimsObjects_02383",
+    "source_sha256": "6fb28e8daf8695feac90ceff80a0e068e16d46e4b21693967f23e856380e4139",
+    "ko": "덤덤 물고기라고도 불리는 다그다그는 느리고 멍청하며, 타이어를 태운 듯한 맛이 납니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02384",
+    "source_sha256": "99c40ab405926cb5ad1def9cff4d7ce624f8f8abfff4e85f655347fcb949d08e",
+    "ko": "대추야자"
+  },
+  {
+    "id": "TXT_SimsObjects_02385",
+    "source_sha256": "70296c5ead9f14d577e86ab325fdd2b2818a415e728253c8e0a0535491db78ac",
+    "ko": "이 풍부한 식감의 열매를 먹을 약속을 잡으면 대추야자와 데이트를 하는 셈입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02386",
+    "source_sha256": "1310f51f2dcd8c6f734be2f952c44e14c0ed3478aa1c440b6e5eb81bb36f908d",
+    "ko": "죽음의 데이지"
+  },
+  {
+    "id": "TXT_SimsObjects_02387",
+    "source_sha256": "9a31b714a4c037b8d87f21cc3d2e069bdb1a1e26c8b4412ac213a1cb22ef375b",
+    "ko": "아직 정체가 밝혀지지 않은 꽃이지만, 꽃잎에는 세상을 떠난 사람의 영혼이 깃든 듯합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02388",
+    "source_sha256": "acaa2eed4f43d5edc32a7bb01cdac5f8f2dc3d9089fc3f7e18d06badcd83d586",
+    "ko": "죽음의 데이지 물약"
+  },
+  {
+    "id": "TXT_SimsObjects_02389",
+    "source_sha256": "99807b637bd93a6bed8bb3e9aea063d2a567f6f1e2b2fbbeccd901d909994b8d",
+    "ko": "죽음의 데이지 물약이 나오기 전까지 죽은 자를 되살리는 일은 신과 미친 과학자의 전유물이었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02390",
+    "source_sha256": "e4159d480c2796090664e8eae211b785f09b36ba0209f8dbc0f958fc390fe69d",
+    "ko": "만새기"
+  },
+  {
+    "id": "TXT_SimsObjects_02391",
+    "source_sha256": "e05d8c65c0be5207546a23fb4b3da35f836465ac22a102b87dd6118403e0a112",
+    "ko": "평균 지능지수가 185를 넘으므로 가장 멍청한 만새기조차 여러분보다 훨씬 똑똑합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02392",
+    "source_sha256": "cf9082afe2ffb8fd67d47765a539a6e172f3c35217d0de579f4dae10ebbe3dcc",
+    "ko": "강화 통나무집 문"
+  },
+  {
+    "id": "TXT_SimsObjects_02393",
+    "source_sha256": "585baf4459bc32b6022a0794d00cdd0ce08daf887d006c0cd44e8794f651c05b",
+    "ko": "드디어 원치 않는 이웃이 찾아오면 뒤에 숨을 수 있을 만큼 튼튼하고 잘 만든 문이 생겼습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02394",
+    "source_sha256": "48ec322060aef17c138e16f04e65731bd42a363d16cf12471657c7d1876b0bba",
+    "ko": "단단한 통나무집 문"
+  },
+  {
+    "id": "TXT_SimsObjects_02395",
+    "source_sha256": "9fe2e6bd8ff9c37749d981f062d8825246075c302ded2a494844ba8d8d1d35f3",
+    "ko": "야생 동물이 못 들어오게 하기에 완벽한 문입니다... 원한다면 못 나가게 할 수도 있죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02396",
+    "source_sha256": "80f49ce1646032261f105438b6fe2fe124d380ea88783d2e955fe705697a2d60",
+    "ko": "통나무집 문틀"
+  },
+  {
+    "id": "TXT_SimsObjects_02397",
+    "source_sha256": "7761085d73a904098b1d0e547b0ead5523a4dcc6e3319e0721c03533ffeff5e5",
+    "ko": "지진이 났을 때 이 문틀 아래 서 있는 것은 그냥 밖으로 나가는 것보다 아주 조금 더 위험할 뿐입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02398",
+    "source_sha256": "4d57b1255d507b322991026f6801d20c0b5d5d811939dd45b259b92cc73bedc3",
+    "ko": "판잣집 문 "
+  },
+  {
+    "id": "TXT_SimsObjects_02399",
+    "source_sha256": "cbd56e67a8cf12f201e401d05e7dbd95e4be9b36e5a136833c6cba019e4dfc25",
+    "ko": "재료도 솜씨도 형편없어서 문보다는 얇은 덮개에 가깝습니다. 그래도 덮개라도 없는 것보다는 낫죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02400",
+    "source_sha256": "498f885cf8e98a24f5875f92e6824b85b741943019c583fff6e6c65ca1de5455",
+    "ko": "판잣집 문틀"
+  },
+  {
+    "id": "TXT_SimsObjects_02401",
+    "source_sha256": "7af99011f17ae20a9d20d69a7326bbe913f53e68338e570c6e0b92fe37173179",
+    "ko": "문틀 없는 판잣집은 부리 없는 닭과 같습니다. 다만 조금 덜 기괴할 뿐이죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02402",
+    "source_sha256": "e52c28a03341ef18ec1e0e7cf60207f5cca57fa35c61dccdd6c18b5f3d04d6b0",
+    "ko": "아기자기한 방갈로 문"
+  },
+  {
+    "id": "TXT_SimsObjects_02403",
+    "source_sha256": "2fe0d4f417f97bd6e7ecc86249f5aa34a97c93bc136d2849c02272b53c846ec3",
+    "ko": "건물의 첫인상은 대개 현관문에서 시작됩니다. 이 매력적인 디자인은 실망시키지 않을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02404",
+    "source_sha256": "765f311444673321c416b78427468cb378cdfe85ffae27314a4e229e7de228b0",
+    "ko": "세련된 방갈로 문"
+  },
+  {
+    "id": "TXT_SimsObjects_02405",
+    "source_sha256": "da5196b427dda05e8ba098d0be00a08c4ab5bce83d3c1d0606ea2e9bc82bb849",
+    "ko": "생존용 건물은 결국 비슷비슷해지곤 합니다. 그래서 멋진 문이 더욱 중요하죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02406",
+    "source_sha256": "fcf9ec1b5f9f7fbdda28508bed0534a7c9e9b9c8e0ea714dd1cb1e8559703e7a",
+    "ko": "방갈로 문틀"
+  },
+  {
+    "id": "TXT_SimsObjects_02407",
+    "source_sha256": "3ee1451148265cd594fdcb2e113a55e14714e5e3deb27d622badf0561ef02031",
+    "ko": "귀엽고 세련되며 오래가도록 만들었습니다. 문과 관련된 가능성의 새 세계를 열어주는 문틀입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02408",
+    "source_sha256": "5be1126bd4111e3900f9bcb9f82215e137b89c15ad6f3f9f52f789afe149e80f",
+    "ko": "오두막 문"
+  },
+  {
+    "id": "TXT_SimsObjects_02409",
+    "source_sha256": "1109462a16100f4c4cbd2cfe880bdf4d45114f5b6c1d55562a65d5d869ad8ce9",
+    "ko": "꼭 맞게 닫히지는 않겠지만, 적어도 기쁘거나 답답할 때 쾅 닫을 문은 생겼습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02410",
+    "source_sha256": "67e69568bcffa135d52b7741abb204f4fd0d725c3648859efd6dabed706e128f",
+    "ko": "오두막 문틀"
+  },
+  {
+    "id": "TXT_SimsObjects_02411",
+    "source_sha256": "867947a7705133f72f3f03d9e23d0d48e54957fb28d1c124525833ded197cb43",
+    "ko": "문틀 없는 오두막은 완성되었다고 할 수 없습니다. 입구도 없는 커다란 쓸모없는 상자를 짓는 게 아니라면요. "
+  },
+  {
+    "id": "TXT_SimsObjects_02412",
+    "source_sha256": "3d2c427b78bc9be2d965fc870eb2cdb0b61e506ad99ad2ed16ff018d79017f29",
+    "ko": "유목"
+  },
+  {
+    "id": "TXT_SimsObjects_02413",
+    "source_sha256": "8dd0d0b014478a744c44a3a31dfbd45df774d32d74396a0b933d79392145cf0d",
+    "ko": "유목의 옹이 수는 바다를 떠돈 햇수와 같습니다. 사실이라면 참 흥미로울 텐데 말이죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02414",
+    "source_sha256": "3d2c427b78bc9be2d965fc870eb2cdb0b61e506ad99ad2ed16ff018d79017f29",
+    "ko": "유목"
+  },
+  {
+    "id": "TXT_SimsObjects_02415",
+    "source_sha256": "707898348c838ee2fcff389576a1b7e2f384b2bf2b8a88258fcf1a4c100b03cb",
+    "ko": "대부분의 유목은 이 섬에서 난 것이 아닙니다. 여러분처럼 먼 땅에서 떠밀려 왔습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02416",
+    "source_sha256": "69a6a9bd285a002357a30fde835e17ec9afe8e12e841aef1a16554a2861dfac5",
+    "ko": "직사각형 오두막 "
+  },
+  {
+    "id": "TXT_SimsObjects_02417",
+    "source_sha256": "b11f6cd575d4b256b40ee14658882d60a07bce48fa02790bdb469b6e09352ef6",
+    "ko": "오두막은 판잣집보다 훨씬 낫지만 여전히 날씨에 약합니다. 이 오두막은 5x7 공간에 방 두 개를 꽉 채워 넣었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02418",
+    "source_sha256": "e793920bc5daf3348b63209fdb370eaf3eefe1b2870b3f30ab3f0409bdd3fefc",
+    "ko": "비스듬한 오두막"
+  },
+  {
+    "id": "TXT_SimsObjects_02419",
+    "source_sha256": "51f2f0fc9c7c4979105298c6394ad99dcc1454d2a43cd78983cf8a9df0d92479",
+    "ko": "오두막은 판잣집보다 훨씬 낫지만 여전히 날씨에 약합니다. 제법 큰 방 세 개가 있는 이 집은 중앙의 4x3 앞마루를 둘러싸고 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02420",
+    "source_sha256": "516709ab567254ae743eed0e6d6e450fc761bff6f5a7247ac43617aec34ffd37",
+    "ko": "네모난 오두막"
+  },
+  {
+    "id": "TXT_SimsObjects_02421",
+    "source_sha256": "6b97d343e07a6211424b47ca82307340eb51323b885e7460e87eca903746a68b",
+    "ko": "오두막은 판잣집보다 훨씬 낫지만 여전히 날씨에 약합니다. 네모반듯한 이 거처에는 작은 방 두 개와 중간 크기 방 하나, 뒷마루가 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02422",
+    "source_sha256": "a08c0cb25a49ea40c50dbe403a17f7c34875dc74505ba070d4a31923bef1baf8",
+    "ko": "긴 오두막"
+  },
+  {
+    "id": "TXT_SimsObjects_02423",
+    "source_sha256": "48ea11238399d060afa7b4cccd2076e04f59f654e43d7f0b1dd9a710e725a302",
+    "ko": "오두막은 판잣집보다 훨씬 낫지만 여전히 날씨에 약합니다. 이 거처에는 큰 방 두 개가 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02424",
+    "source_sha256": "b41b9850ad8a31297944dbc86389acac20cb815e051c8c365e01179a138b189f",
+    "ko": "비정형 통나무집"
+  },
+  {
+    "id": "TXT_SimsObjects_02425",
+    "source_sha256": "85e0baf0794d9bd768ecffeea1d113021e76dacd4a2f6f52a5f9926d4f40be2d",
+    "ko": "통나무집은 널찍하고 날씨에도 대체로 잘 견딥니다. 독특한 모양의 거실에 작은 옆방 두 개, 작은 앞마루와 중간 크기 뒷마루를 갖췄습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02426",
+    "source_sha256": "583a46a462e61d3de0bd97b6eaa5c09935ea122f18eb87c94c27acbd6d02c029",
+    "ko": "소박한 판잣집"
+  },
+  {
+    "id": "TXT_SimsObjects_02427",
+    "source_sha256": "b94cbf5ace3452b338fcbbd27d7d156a893c9635395653f2b154755e94b11bb5",
+    "ko": "판잣집은 간신히 거처 노릇을 할 뿐입니다. 방 세 개가 있는 이 집은 심 몇 명이 지내기에 적당한 크기입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02428",
+    "source_sha256": "2d9d1d99aba19c49e40fb86bd238ae2d83c44778e84a16dc50df0571e3d08b9d",
+    "ko": "검은 염료"
+  },
+  {
+    "id": "TXT_SimsObjects_02429",
+    "source_sha256": "30ba82a798d68092a41e3756386e7dd1c51eb8b721f9264db712bc642cbea334",
+    "ko": "가차 없는 섬의 햇살 아래서도 기본인 검정은 무엇과나 잘 어울립니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02430",
+    "source_sha256": "0da83f142aa198ddadd7aa7a0d0bbb95b561f3997ac647c0b6d07165fc124e31",
+    "ko": "파란 염료"
+  },
+  {
+    "id": "TXT_SimsObjects_02431",
+    "source_sha256": "e7ce017911176e507ab8b955163568fe5ac15690e5e69c3a10e332df6ff26101",
+    "ko": "무언가를 파랗게 물들이고 싶나요? 그렇다면 이 염료가 딱입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02432",
+    "source_sha256": "87ef9d3307b7f4960a5742f4fa01afa363131af12ec7ae9a569c59ab2e808537",
+    "ko": "갈색 염료"
+  },
+  {
+    "id": "TXT_SimsObjects_02433",
+    "source_sha256": "86f355a1610ec3f11209142178d4e2b139b58d0d9f9d3bd9a5d20aa07ce99db4",
+    "ko": "얼룩을 감추고 패션계에는 이제 신경 끄겠다고 선언할 수 있는 갈색 염료는 언제나 즐겁습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02434",
+    "source_sha256": "8f8fd353e16545e6060ed034db8cf6cd50de4d4744378e4f625b21be6e9cb3c9",
+    "ko": "주황 염료"
+  },
+  {
+    "id": "TXT_SimsObjects_02435",
+    "source_sha256": "fb6d4d7d801a96ae4c9ba1dce97ea0771946f81030c7264ebf1c854e6921a34d",
+    "ko": "색을 뜻하는 오렌지보다 과일 오렌지의 이름이 훨씬 먼저 생겼습니다. 이런 쓸모없는 상식은 굳이 말하지 않는 편이 낫다고 생각하는 사람도 있죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02436",
+    "source_sha256": "82e776ce16bc702d4ecd7146a2d7a43a580e89afeb1bba0d303fddbd55b36474",
+    "ko": "보라 염료"
+  },
+  {
+    "id": "TXT_SimsObjects_02437",
+    "source_sha256": "08707abedf6fc2abcf276559dafb3d3af1af9ae465ed5462031f1943d3e2872b",
+    "ko": "깊고 고귀한 색이며 다시 유행할 때도 한참 지났습니다. 지금이야말로 보라색이 빛날 순간일지 모릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02438",
+    "source_sha256": "fd40ddf875617be703e41f154665780b8a6eb9db2adbada069b8258976f6684d",
+    "ko": "빨간 염료"
+  },
+  {
+    "id": "TXT_SimsObjects_02439",
+    "source_sha256": "c4fbb59f558f8e8876f3cb1d1e703f9b1810167fdc84ee393d12080f11e4be00",
+    "ko": "빨강은 분노와 전쟁의 색입니다. 기분에 따라서는 맛있는 딸기의 색이기도 하죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02440",
+    "source_sha256": "739b1796b94de88f90571479cf42070bf1875710fff2b38b46935b0b562a2b09",
+    "ko": "노란 염료"
+  },
+  {
+    "id": "TXT_SimsObjects_02441",
+    "source_sha256": "bae73d41396304032ed41e564821c921f37c5f0c7a30f2fea1e15584772628fa",
+    "ko": "노랑은 밝고 낙천적인 색입니다. 부엌과 일광욕실, 치아에 특히 잘 어울리죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02442",
+    "source_sha256": "37c50c935cd2a9ad065faec4824b7484acfd2b235c52368ccdb05d1f50240af0",
+    "ko": "달걀"
+  },
+  {
+    "id": "TXT_SimsObjects_02443",
+    "source_sha256": "1c1dc4e1823ca0ebf209b0f78580090f84dc4ae14f560d389bc2966001b515d3",
+    "ko": "고귀한 달걀. 닭의 뒤쪽에서 맺힌 열매입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02444",
+    "source_sha256": "30db9b112f81a62fa7969f22efb22156d19d9a61cc215958ce63da0207b826cf",
+    "ko": "호화로운 울타리"
+  },
+  {
+    "id": "TXT_SimsObjects_02445",
+    "source_sha256": "20ef614466f343567f35c742ebb59d2ff4ca5e7842b32e7087940388492314be",
+    "ko": "록웰의 그림처럼 정겨운 이 울타리보다 보금자리의 영역을 멋지게 표시할 더 좋은 방법이 있을까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_02446",
+    "source_sha256": "9575950fdeb6f7609b1b23052bd8c160aa4e73f7fd86bbd70df062d0457b878d",
+    "ko": "소박한 울타리"
+  },
+  {
+    "id": "TXT_SimsObjects_02447",
+    "source_sha256": "46c8e940ad2e5acdd9828136373ee4d4ae3085477371c1dcdc750a89e4e18df5",
+    "ko": "실용적인 울타리는 주변을 지켜줄 뿐 아니라 오두막의 전체 되팔기 가치까지 높여줍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02448",
+    "source_sha256": "798edc02416104cc5911242f25767071928f8d5bf3392ce5c461196f3a13c66c",
+    "ko": "호화로운 대문"
+  },
+  {
+    "id": "TXT_SimsObjects_02449",
+    "source_sha256": "e92fed36ba3e73556a272dd15d37ee6d82442728391d488ba5af5adc3f5ccbbe",
+    "ko": "멋진 대문이 집의 보안을 높여주지는 않겠지만, 대문 없는 섬 주민들의 부러움은 살 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02450",
+    "source_sha256": "0eea0154ba018b89a11be6ca0e4199cbca5ae885f71095f0e81f17e77f0ad3fd",
+    "ko": "소박한 대문"
+  },
+  {
+    "id": "TXT_SimsObjects_02451",
+    "source_sha256": "60f561095a153ea6865b5250eb63b93ddf679ad04bef171861a526cb582de058",
+    "ko": "오두막을 드나들 때마다 울타리를 뛰어넘을 생각이 아니라면 대문은 꽤 필수적인 물건 같습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02453",
+    "source_sha256": "f4c28a589e50cf1a6aa02193223e787ca547233506adae6b3cc25e1d7f0ec8ae",
+    "ko": "고운 모래는 싸구려 모래보다 훨씬 값집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02454",
+    "source_sha256": "e7080fde07cf57c17b8b983d379a9368cd36fa0f9402c8467a060a62025be2be",
+    "ko": "통나무집 조리대"
+  },
+  {
+    "id": "TXT_SimsObjects_02455",
+    "source_sha256": "206622fa5b377f1a88d7866368adf68cb9eedfe7be6e0bb82c4cdb45d28eef0b",
+    "ko": "오븐에 불을 피우기 전에 안을 확인하세요. 어떤 생물이 둥지로 쓰고 있을지 모릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02456",
+    "source_sha256": "5606b3599a462434fe247b55aa553b3b5159ca7967535f1f7acceee9bbde0b89",
+    "ko": "방갈로 조리대"
+  },
+  {
+    "id": "TXT_SimsObjects_02457",
+    "source_sha256": "cc38fd374ed69d0425e18a6972029441c64371eb9a1272bb46709bab8f22fb71",
+    "ko": "열이 고르게 퍼지지도 않고 자동 청소 기능도 없겠지만, 이 멋진 조리대는 단연 섬에서 최고입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02458",
+    "source_sha256": "f94c8a137e2fa2515755ab996e70fd9a67ad4f1acb6cf714d41321d55b93a963",
+    "ko": "오두막 조리대"
+  },
+  {
+    "id": "TXT_SimsObjects_02459",
+    "source_sha256": "660f8ad58206a73349ef59ba7926f2c76d1d0335306535bfab1b57a13c3c6cc4",
+    "ko": "불꽃 위에서 빵 한 덩이를 굽기는 거의 불가능합니다. 하지만 오븐과 조리대가 합쳐진 이 물건이라면 식은 죽 먹기죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02466",
+    "source_sha256": "7727be44ccc88f803853ab65c900ba6723b29619d50fe72d7b110a0f62ab42a9",
+    "ko": "점박이 바리"
+  },
+  {
+    "id": "TXT_SimsObjects_02467",
+    "source_sha256": "4a6381d3d3d515fc8d1c43fa18da0ac6c1c82cb598cf543b48bda7f1049f2402",
+    "ko": "임시 - 이 물고기 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_02468",
+    "source_sha256": "dd9b695a6d88c12ac57342a0c22aee9140dcd6bbde1551c632baa1e4619146d6",
+    "ko": "물고기 덫"
+  },
+  {
+    "id": "TXT_SimsObjects_02469",
+    "source_sha256": "5ab1be2b9c74e85b8e801311b4ed0a6d3efbe62d16e39eba926b15cda6916116",
+    "ko": "최초의 물고기 덫은 끝을 깎은 막대기를 물에 꽂아 놓은 것이었습니다. 어떻게 물고기가 잡힐지는 아무도 몰랐지만, 그래도 시작은 시작이었죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02470",
+    "source_sha256": "8b509e587b970d2d865020e0e451af99c745eccd301c7d1139658fb30d576ea6",
+    "ko": "날치"
+  },
+  {
+    "id": "TXT_SimsObjects_02471",
+    "source_sha256": "f8efb892dc6cc46e0f5230bbf54a311f87dd5f25a43e975da3cd1f628803d102",
+    "ko": "날치는 물 밖으로 뛰어오르면 지느러미로 양력과 저항을 조절합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02476",
+    "source_sha256": "c1aade8253979ee2f3959f043676c44454925643d62f6baef75a45afc170b666",
+    "ko": "체스"
+  },
+  {
+    "id": "TXT_SimsObjects_02477",
+    "source_sha256": "29441241a4d4738bee725add115112a2dd13ca83a49578f74260fd55f1abd9e2",
+    "ko": "수백 년 전 표류자들의 체스 세트에서는 진짜 새우를 폰으로 썼습니다. 하지만 새우들이 체스판을 기어 다니며 경기의 판도를 바꾸곤 했죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02478",
+    "source_sha256": "4e7bcd0c8d5b25bdb683b29be3304f89cf6a516eada88f227fe04018b876fdfb",
+    "ko": "마늘"
+  },
+  {
+    "id": "TXT_SimsObjects_02479",
+    "source_sha256": "478b3c75e840cbdd15498eae3685724fdd3614e0bbeb5543db1cedd073396d67",
+    "ko": "섬의 흡혈귀는 드물겠지만, 혹시 모르니 마늘 몇 쪽은 가까이 두는 편이 현명합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02480",
+    "source_sha256": "544a9cb451f2a731f20e658e5f6d1547ef51017cd1d4e88f5fdbff73f68300df",
+    "ko": "생강"
+  },
+  {
+    "id": "TXT_SimsObjects_02481",
+    "source_sha256": "8ac74447ba574ae275e8209902687329015fc2a0561b133066275626548d02f1",
+    "ko": "생강을 조금 씹으면 입 냄새를 상쾌하게 할 수 있습니다. 누구나 응원할 만한 뿌리죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02482",
+    "source_sha256": "82c268188cd665768bce0f6fd610a7c78d1e3991798c43aa6f1f41a2bf44cf84",
+    "ko": "유리"
+  },
+  {
+    "id": "TXT_SimsObjects_02483",
+    "source_sha256": "26d9ebc561cfe58895e92b2b9e5f6ba4fd92ce7c69be47b675b326d0a6c54970",
+    "ko": "장인들은 금속 산화물과 초콜릿 칩 같은 재료를 더해 유리의 성질을 바꾸는 법을 배웠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02484",
+    "source_sha256": "6c28d4d6f44c5e43a9a90752f6948ea3cdea9e69ca4b643e2342765f2c901f64",
+    "ko": "고트피시"
+  },
+  {
+    "id": "TXT_SimsObjects_02485",
+    "source_sha256": "b69e12782a7a232e14d3d15cb3a7c63b3d3856a0cf5c080a86c06e87c191fdad",
+    "ko": "고집 센 이 물고기는 머리 부딪치기를 좋아합니다. 뿔이 있었다면 뿔싸움도 했을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02486",
+    "source_sha256": "6249df4367d0a2e088c8eb1117ef59430f0d7dad4bf0fcf8a01d7f0415f4d511",
+    "ko": "금"
+  },
+  {
+    "id": "TXT_SimsObjects_02487",
+    "source_sha256": "1240af0792dbda0213baf14eb1d0e749ad5c4dc4b71eacde5ec79bb537191f0d",
+    "ko": "금은 아름답고 잘 늘어나는 금속으로, 수천 년 동안 화폐로 쓰였습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02488",
+    "source_sha256": "6735f0e0ad41dae8946bf677fa11f7aeffa021822dfddb2b8b689d249cffb3b6",
+    "ko": "자몽"
+  },
+  {
+    "id": "TXT_SimsObjects_02489",
+    "source_sha256": "8f16c884898c1acfc68544aa88a0f6fad70c77748222a99457ab364008d67d82",
+    "ko": "대부분의 열대 과일이 시럽처럼 달기만 할 때 자몽의 신맛은 기분 좋은 휴식이 됩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02492",
+    "source_sha256": "5adee9d72784509ba3c10e334c71f759cfd034a335e37a1b0e88f2b0f75e657b",
+    "ko": "점박이 바리"
+  },
+  {
+    "id": "TXT_SimsObjects_02493",
+    "source_sha256": "be693e9583dfbe3e72a42275a478ccb9b0957f8babd8c791046432cdbe3d1dd9",
+    "ko": "까마득한 세월 동안 진화하며 이 바리의 주근깨가 점무늬로 자라났습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02494",
+    "source_sha256": "066ccd0b4d5819a637a0b0dfeef70658e488379f03cc3f2fd304305013c373b5",
+    "ko": "치킨그런트"
+  },
+  {
+    "id": "TXT_SimsObjects_02495",
+    "source_sha256": "d11df30428dfddde9a18fab74b7e66cec87a18388f0c10d0491e98a98a769c46",
+    "ko": "치킨그런트는 닭보다는 그런트 쪽 맛에 더 가깝습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02496",
+    "source_sha256": "11570cc3cdf064044df74d9cea2e0a4fa9aaef03ef934bcfc5adcb121b062e48",
+    "ko": "과라나"
+  },
+  {
+    "id": "TXT_SimsObjects_02497",
+    "source_sha256": "5ee496a696614addcd31590a31aecfeab1d71498d78975b4c7bdc669768857be",
+    "ko": "과라나 씨앗은 천연 각성제 역할을 합니다. 덕분에 고대인들은 작은 돌로 큰 돌을 두드리면서도 정신을 또렷하게 유지할 수 있었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02498",
+    "source_sha256": "3c5cdb8438c853b05ac00da827b4000e3251df2d1f6aeba63849a2c5e82c832f",
+    "ko": "구아바"
+  },
+  {
+    "id": "TXT_SimsObjects_02499",
+    "source_sha256": "e357fc60f708b46dc473d07d152b8f7e5061e2311462383dd5880042572bddc8",
+    "ko": "조금만 재치를 발휘하면 영양 많은 이 과일로 맛있는 구아바 소스를 만들 수 있습니다. "
+  }
+]

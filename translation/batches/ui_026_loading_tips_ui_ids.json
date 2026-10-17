@@ -1,0 +1,567 @@
+[
+  {
+    "id": "TXT_urbzui_01010",
+    "source_sha256": "48735c4fae42d1501164976afec76730b9e5fe467f680bdd8daff4bb77674045",
+    "ko": "고양이"
+  },
+  {
+    "id": "TXT_urbzui_01011",
+    "source_sha256": "0eb129bf94594aaeee66e38361d7be212cd927c3df4dd92e3ded2e0da0c7ad88",
+    "ko": "개"
+  },
+  {
+    "id": "TXT_urbzui_01018",
+    "source_sha256": "5adfacb15bcb58bb671c220bb52d10b74e71e8ab9f59e321f9f11b74046466c9",
+    "ko": "의상 만들기를 종료하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_01019",
+    "source_sha256": "a12c1ac45fd5d446ecaba2f6886e7c519076817357d68075615154cdee01247d",
+    "ko": "의상 무작위 생성"
+  },
+  {
+    "id": "TXT_urbzui_01020",
+    "source_sha256": "1960156c369e9c82f9b9f79766c064b5cdb70c03743d50c65ed57717f4811f3a",
+    "ko": "유전"
+  },
+  {
+    "id": "TXT_urbzui_01021",
+    "source_sha256": "d071640330b8b1ec89c98d43892f1a3460dfc28e54f76f9f481e8d033bd35638",
+    "ko": "심 확정"
+  },
+  {
+    "id": "TXT_urbzui_01023",
+    "source_sha256": "a3586d6d47a19d13de723e35f05d0ba2642a077955aa9d9636b8bce34ae25443",
+    "ko": "암컷 반려동물"
+  },
+  {
+    "id": "TXT_urbzui_01024",
+    "source_sha256": "d76f3ac68399dd914b9180e48490106c8261f18da25997b4b49ecab9854fa5e6",
+    "ko": "새 심을 생성하시겠습니까? 현재 심에 적용한 변경 사항은 사라집니다."
+  },
+  {
+    "id": "TXT_urbzui_01025",
+    "source_sha256": "b4c5f41a40bd19dacbbdab1962ddcbb3c8ebfaee1308c3c1a83a6e14a1d826a7",
+    "ko": "<BLINK_3E64>심_생성_중..."
+  },
+  {
+    "id": "TXT_urbzui_01026",
+    "source_sha256": "4ecf03724b96e569d3d47ca9a16019ae3acc92d5d17b83db99740afd345937ca",
+    "ko": "수컷 반려동물"
+  },
+  {
+    "id": "TXT_urbzui_01027",
+    "source_sha256": "536a7177200b99a96b90f90b55d594a6d2a757502f36cf0de80e9dbfc6ea83dc",
+    "ko": "조부모 선택"
+  },
+  {
+    "id": "TXT_urbzui_01103",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_urbzui_01110",
+    "source_sha256": "2c7e63313045bbdff6dbfcc7d3565142a96abb111be1aeedf7d9fb3efcc5cffa",
+    "ko": "창의적"
+  },
+  {
+    "id": "TXT_urbzui_01133",
+    "source_sha256": "e0ed72066f341ceafdf9b7040914dfd2edd9df6cfc512e69313b2c0418f3db82",
+    "ko": "컨트롤러를 controller_port_1에 연결하세요."
+  },
+  {
+    "id": "TXT_urbzui_01134",
+    "source_sha256": "c78cf34f6c7ff5920d3b46fbe4c0e372792ad4fc6a35678653fdc53a9c006464",
+    "ko": "컨트롤러를 다시 연결하고 START 버튼을 눌러 계속하세요."
+  },
+  {
+    "id": "TXT_urbzui_01135",
+    "source_sha256": "f40d7f51f69edfaffa29c42910fbc6af6a822f1279162d486b4a7e11c3e0ae9b",
+    "ko": "월"
+  },
+  {
+    "id": "TXT_urbzui_01136",
+    "source_sha256": "d1eb39b09bf52b68d1c4cb75b98211855dcff0bb908c62c7b969b04ef9ce81f0",
+    "ko": "화"
+  },
+  {
+    "id": "TXT_urbzui_01137",
+    "source_sha256": "58339f45df960408051cce029b5b76f049c70c0cb1059b97ff3d4d6ed7a68644",
+    "ko": "수"
+  },
+  {
+    "id": "TXT_urbzui_01138",
+    "source_sha256": "7da11212ed340ea7976a39891c56c6f1e791a175a4bad537ba1cf21f5c83f6fd",
+    "ko": "목"
+  },
+  {
+    "id": "TXT_urbzui_01139",
+    "source_sha256": "66dab40cea1dea5c070c83f775b1ebc2b612b1b9cca1c62ad38815c4ff47b25d",
+    "ko": "금"
+  },
+  {
+    "id": "TXT_urbzui_01140",
+    "source_sha256": "fdeb71b569e0034d827041c354d2a609ee60b2d3ab71eb0e390faa70c10e36e1",
+    "ko": "토"
+  },
+  {
+    "id": "TXT_urbzui_01141",
+    "source_sha256": "db18f17fe532007616d0d0fcc303281c35aafc940b13e6af55e63f8fed304718",
+    "ko": "일"
+  },
+  {
+    "id": "TXT_urbzui_01142",
+    "source_sha256": "1310f51f2dcd8c6f734be2f952c44e14c0ed3478aa1c440b6e5eb81bb36f908d",
+    "ko": "죽음의 데이지"
+  },
+  {
+    "id": "TXT_urbzui_01151",
+    "source_sha256": "a79e1931a20af5668e2405309c96ae90cebef0296a3d1c261a45d4f2bb182206",
+    "ko": "동그라미 버튼을 눌러 체험판 종료"
+  },
+  {
+    "id": "TXT_urbzui_01158",
+    "source_sha256": "3fc3e6a9d0da453755b0b8c2700c7e4952a9f103014c7387b7c2b3beffb2305c",
+    "ko": "어브의 <COLOR_FFBF692A>이름을 입력하세요."
+  },
+  {
+    "id": "TXT_urbzui_01159",
+    "source_sha256": "70cabedf1f2458fa12abe34c2507b92dc9ee6749ae88e9d2bd09cee53e5b7d67",
+    "ko": "어브의 <COLOR_FFBF692A>성을 입력하세요."
+  },
+  {
+    "id": "TXT_urbzui_01160",
+    "source_sha256": "b3eb4d79d1ab528e788dc2ec5d257a38179796c92dddc05e2fcea945afcd86d9",
+    "ko": "반려동물 이름 입력"
+  },
+  {
+    "id": "TXT_urbzui_01173",
+    "source_sha256": "ebbff5e45761da961b1955f1a27caf9d07190a22676fcffcc90bc0dbb12786bc",
+    "ko": "이 장소의 모든 물건과 건축물을 제거하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_01176",
+    "source_sha256": "dc9d4604e249a5c2044bd36ed0b0c5c9528978cdf802b07568aa034dc3544168",
+    "ko": "집이 있는 가족"
+  },
+  {
+    "id": "TXT_urbzui_01177",
+    "source_sha256": "12caa22f174a16a51909e620ba77ff75cbc391895a946f7a914a7eb806caf4fc",
+    "ko": "변경 사항을 취소하고 주 메뉴로 돌아가시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_01179",
+    "source_sha256": "d465330c40e51cddb43779f8b4865338777af4538eae1ec6f2d6af201459df69",
+    "ko": "집 들어가기"
+  },
+  {
+    "id": "TXT_urbzui_01180",
+    "source_sha256": "668a3b4f654d2a6be8e3ae4703bf15a7cbab539405a8e1d757968eb82f10a3bd",
+    "ko": "가족 이사 내보내기"
+  },
+  {
+    "id": "TXT_urbzui_01181",
+    "source_sha256": "3397f30af9da9695705f147da85c0d484f83e433d4abefd25ad40276e9baf376",
+    "ko": "이 가족을 이 장소에서 내보내시겠습니까?\r\n\r\n가족은 부동산 사무소에 남아 있으며, 수정하거나 다른 장소로 이사 보낼 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01183",
+    "source_sha256": "ba390f4a88cb2bd7a032fef3fc466f9c06fc1cde8d32cf1b895df19de0eae11c",
+    "ko": "부동산 사무소가 가득 찼습니다. 다른 가족을 추가하기 전에 가족을 삭제하세요."
+  },
+  {
+    "id": "TXT_urbzui_01184",
+    "source_sha256": "cd85a8eb95bf55c7562003cd7cc068c2659ae331d39829f8744f3010e338b789",
+    "ko": "가족 삭제"
+  },
+  {
+    "id": "TXT_urbzui_01185",
+    "source_sha256": "d9aae9f70a78ae137d958144232a12789d36a7cbc846ce5ffd74e552bcaa2aaf",
+    "ko": "이 가족을 삭제하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_01186",
+    "source_sha256": "8fae034e813bd696c1dcf34d97969c2554a3ee8d39c78a035cc0de360cc0ada0",
+    "ko": "가족 수정"
+  },
+  {
+    "id": "TXT_urbzui_01187",
+    "source_sha256": "3c7cb901ff07ec6b555d694e7d11cc871dec4bfc8022a24c91f58a4730ee15c9",
+    "ko": "부동산 사무소"
+  },
+  {
+    "id": "TXT_urbzui_01189",
+    "source_sha256": "ed07e058824481e15125ceb44709e1a17ca72ff9ae96cc8c468596c5dca2fe66",
+    "ko": "모든 장소에 가족이 살고 있습니다. 새 가족을 들이려면 먼저 다른 가족을 내보내세요."
+  },
+  {
+    "id": "TXT_urbzui_01190",
+    "source_sha256": "0affdbc309c4f8bd472fbc376a2f5daf89d2bb7545b9f0ba1150070bbbeeb581",
+    "ko": "입주 가능한 모든 장소가 이 가족에게는 너무 비쌉니다. 빈 부지의 건축물을 철거하거나 건설/구입 모드에서 물건을 직접 제거하면 부지 가격을 낮출 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01191",
+    "source_sha256": "b9a33a996de00ebc08c2b464416e8c9f5b375f8eb3a890147635f8c60acb9759",
+    "ko": "가족 입주"
+  },
+  {
+    "id": "TXT_urbzui_01192",
+    "source_sha256": "f07d819dc9a8de427856fbd7e0ef7c1d167249bbe29fed265ece6c3ed71a5695",
+    "ko": "동네 이름 짓기"
+  },
+  {
+    "id": "TXT_urbzui_01193",
+    "source_sha256": "1a3a0c5c65beee0ae9809bdb348aa48ea74eea9fe211392cfa6d48c13ba5ef22",
+    "ko": "이 장소의 가격은 <money>입니다.\r\n\r\n가족의 자금은 <money2>뿐입니다."
+  },
+  {
+    "id": "TXT_urbzui_01195",
+    "source_sha256": "5acfdef4ac7c0005f358e70ff072796fefb26bd24304712d2f498b4067bf41b5",
+    "ko": "갈 곳"
+  },
+  {
+    "id": "TXT_urbzui_01196",
+    "source_sha256": "c69334032dc143f3101c58bb352a0f6f4ba0802faa5796f89dc6a912bb760c49",
+    "ko": "거주 중"
+  },
+  {
+    "id": "TXT_urbzui_01197",
+    "source_sha256": "466edbf33aedf666242d894d237a9ead4c4b83ef8c878e0d0365ef2eaf4ff162",
+    "ko": "미개발"
+  },
+  {
+    "id": "TXT_urbzui_01199",
+    "source_sha256": "1be18d20c43798c16a68e0db862107dcadb11164608340b01584b6d8cd6dcc06",
+    "ko": "빈집"
+  },
+  {
+    "id": "TXT_urbzui_01207",
+    "source_sha256": "a03b54502c37311c09b29908586531a63618ff0c9c310c324e7ea896fb15273b",
+    "ko": "플레이어 2는 <BUTTON_00> 버튼을 눌러 계속하세요.\r\n\r\n취소하려면 플레이어 1이 <BUTTON_01> 버튼을 누르세요."
+  },
+  {
+    "id": "TXT_urbzui_01220",
+    "source_sha256": "096a93026d1a4b0219a476e77741c2fa2b5801f0cbd1b63c9a73da9906e711f5",
+    "ko": "바닥 깔기"
+  },
+  {
+    "id": "TXT_urbzui_01221",
+    "source_sha256": "feb17e7c2417d21cdc54d0dc6d8845d70f813b544c8214bafe5be49edb0f26a5",
+    "ko": "커서를 벽에 놓고 <BUTTON_00> 버튼을 누르면 벽지 바르기를 시작하거나 마칩니다.\r\n\r\n<BUTTON_0C> 버튼을 길게 누르면 방 전체의 벽지를 미리 보고, <BUTTON_00> 버튼으로 적용합니다.\r\n\r\n<BUTTON_01> 버튼으로 취소하거나 목록으로 돌아갑니다."
+  },
+  {
+    "id": "TXT_urbzui_01222",
+    "source_sha256": "480e4be13a92060f0d2e716c7be11abb7bdb1b14f5afdcc59af62b8f1b754f07",
+    "ko": "벽지 바르기"
+  },
+  {
+    "id": "TXT_urbzui_01223",
+    "source_sha256": "d1ce7efb7c4f1a2510b9d63b08c60da2a3832b64738bccbaa4a252e84ba2ffeb",
+    "ko": "<BUTTON_00> 버튼으로 벽이나 울타리 짓기를 시작하거나 마칩니다.\r\n\r\n<BUTTON_0C> 버튼을 길게 누르면 방 전체를 그리고, <BUTTON_00> 버튼으로 짓습니다.\r\n\r\n<BUTTON_01> 버튼으로 취소하거나 목록으로 돌아갑니다."
+  },
+  {
+    "id": "TXT_urbzui_01224",
+    "source_sha256": "cbe816aa8d3a20d18a7d44221fd9a61c9e98b1349f6909fb09efa0bffa68c5c2",
+    "ko": "벽과 울타리 짓기"
+  },
+  {
+    "id": "TXT_urbzui_01225",
+    "source_sha256": "a366a32b3fc7d82c0f2dc0b28323e24c6c1719208835bf879a8bafeea7123b81",
+    "ko": "소망을 이루어 야망 점수를 얻고 목록의 물건을 더 해제하세요.\r\n\r\n<BUTTON_03> 버튼의 왼쪽을 누르면 각 소망의 자세한 정보를 볼 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01381",
+    "source_sha256": "dc8659db6d416dc32fcad510cc921af3c7eaf1176ddedfbe050ecf708fbac087",
+    "ko": "입력"
+  },
+  {
+    "id": "TXT_urbzui_01382",
+    "source_sha256": "ceebf4ba356ca2d9a1f37583ce74f0c1c772a071f1347060a38a924d0bf912c5",
+    "ko": "가족 구성원의 이름을 입력하세요."
+  },
+  {
+    "id": "TXT_urbzui_01383",
+    "source_sha256": "dfde9664061c2a97e7c00aee4697679f09b2bf6d1cf026254078c628cb45bdb2",
+    "ko": "가족 구성원의 새 성을 입력하세요."
+  },
+  {
+    "id": "TXT_urbzui_01384",
+    "source_sha256": "54dee42feb43dc2ad9ead199c05e4f5a3b34865477f2156793d1cbf448883078",
+    "ko": "가족 성"
+  },
+  {
+    "id": "TXT_urbzui_01389",
+    "source_sha256": "2e544a292f6979edfc57eb35f03b1a606ae021747e6f8d6b809e46f699722be5",
+    "ko": "시프트"
+  },
+  {
+    "id": "TXT_urbzui_01390",
+    "source_sha256": "9491fc41c39126862b949adbeffa73746599c495f2ea8d2132c6f61bcb433ace",
+    "ko": "기호"
+  },
+  {
+    "id": "TXT_urbzui_01391",
+    "source_sha256": "bd9b6abb39811686a3ce6937ab20e015e9670dd7284c04ffef25cc751b7317d6",
+    "ko": "대문자"
+  },
+  {
+    "id": "TXT_urbzui_01392",
+    "source_sha256": "4e8bbf3a2bea25e35eaea9ebd000f23887bcf6fcf0b344caaa86155e397feab0",
+    "ko": "소문자"
+  },
+  {
+    "id": "TXT_urbzui_01393",
+    "source_sha256": "20eac5aae274985fd88629d19eddccbbec21dacd82a8c7a7dd99661f2135be02",
+    "ko": "띄어쓰기"
+  },
+  {
+    "id": "TXT_urbzui_01406",
+    "source_sha256": "914600ca9f6bf3c798b5d2dd5e0716fc6417ae9b374b2c0b25408dd349f1286c",
+    "ko": "가끔 해변에 상자가 떠밀려옵니다. 상자 안에서 쓸 만한 물건을 많이 찾을 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01407",
+    "source_sha256": "6d8e62ba9e8be099ae387904779c9b4290449653e7a8d41f0cd046b82f2efa92",
+    "ko": "상형문자는 아주 오래전의 이야기를 전합니다. 조각을 모두 찾으면 비밀을 알게 됩니다."
+  },
+  {
+    "id": "TXT_urbzui_01408",
+    "source_sha256": "54c5e6fcd9358a043b2e2aae26866ad4b1c3bf2d439dad3da3792c198f4355d9",
+    "ko": "보물 지도 조각을 모두 모으면 심이 보상을 찾을 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01409",
+    "source_sha256": "c46805947e3eb93432ba7f862bc89663ad97c4c36b0965cfaeaf4eda4d17b612",
+    "ko": "유물은 섬 곳곳과 접근하기 어려운 장소에서 찾을 수 있습니다. 조각을 맞추어 고대의 용도를 알아보세요."
+  },
+  {
+    "id": "TXT_urbzui_01410",
+    "source_sha256": "92a4a5b4934b69cbb0f9f09e50966b8276115cc4f59ba6bbf5db153da9325081",
+    "ko": "무인도는 조개껍데기를 모으기에 좋은 곳입니다. 모두 모으셨나요?"
+  },
+  {
+    "id": "TXT_urbzui_01411",
+    "source_sha256": "1bfc2ac0c7521fbe7376ad4fe38ef9a63504d0ac4a3f20fccc709ff91e2e6504",
+    "ko": "만들거나 찾은 물건은 소지품에 넣을 수 있습니다. 하지만 너무 무거워지면 더는 넣을 수 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_01412",
+    "source_sha256": "1e99cca00aeae93f9e5d0124e5cb596a818e814001ea7462ebc0dc971e4539f6",
+    "ko": "배가 고프면 섬을 둘러보며 먹을 것을 찾으세요. 하지만 조심하세요. 무엇이든 몸에 좋은 것은 아닙니다."
+  },
+  {
+    "id": "TXT_urbzui_01413",
+    "source_sha256": "be0ef6a7b1c866fa72d9b1b0006112672a7b8a6c30fc02a870bbeca3d159de56",
+    "ko": "먹을 것을 찾아다니기 지쳤다면 직접 길러 보세요. 텃밭을 가꾸면 여유 시간이 조금 생깁니다."
+  },
+  {
+    "id": "TXT_urbzui_01414",
+    "source_sha256": "383e6fc039b8bab5c59c94696b4c8097c9afaa854ad1af2be2950cba3e0afa32",
+    "ko": "낚시는 허기를 달래기에 좋습니다. 더 좋은 낚싯대를 만들면 더 큰 물고기를 낚을 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01415",
+    "source_sha256": "9118a33f07c29ac7a2aa091ca46f0c5d22b3ad318161d7a5bce96bf1a558de46",
+    "ko": "동물을 쫓아다니면 지칩니다. 직접 기르면 더 좋은 성과를 얻을 수도 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01416",
+    "source_sha256": "fb1bf002ab332fcab8e9ddf233433637e74cac5a38495f884d99777b04faf851",
+    "ko": "거처는 생존에 중요합니다. 튼튼한 오두막도 없이 폭풍을 견디는 일은 즐겁지 않습니다."
+  },
+  {
+    "id": "TXT_urbzui_01417",
+    "source_sha256": "61f666af9fae0abe645e083015bbb5f37a974831aa4db13bec6db957c0fd6503",
+    "ko": "자원을 발견하면 새 물건을 만들 생각이 떠오릅니다. 설계도를 보고 생존과 풍요로운 생활에 필요한 물건을 만드세요."
+  },
+  {
+    "id": "TXT_urbzui_01418",
+    "source_sha256": "f18f7c75b9cc57cedea01faa5f2e43d7551b70efd382d22922aa89a9cc2b82cc",
+    "ko": "도구는 새 물건을 만들고 자원을 모으는 데 중요합니다. 가능할 때마다 도구를 개선해 유리한 고지를 차지하세요."
+  },
+  {
+    "id": "TXT_urbzui_01419",
+    "source_sha256": "713669e52362170ebbf8c5ffd87875b4b8da3653bae60d82a719fcdd1888709d",
+    "ko": "옷도 언젠가는 해집니다. 새 옷 만드는 법을 배워 너덜너덜한 옷을 갈아입으세요."
+  },
+  {
+    "id": "TXT_urbzui_01420",
+    "source_sha256": "0c901a2f6b870fbf82095ed16930e396a4ba4ba6e50363b39f53d90b0d6fa9f0",
+    "ko": "화덕은 몸을 따뜻하게 하고 요리하는 데 중요합니다. 불가에 앉아 쉬면 기분도 좋아집니다."
+  },
+  {
+    "id": "TXT_urbzui_01421",
+    "source_sha256": "3710b04fb1b71fa23862355d49a9d81cab2d35919469774f3495bbd854be6bfc",
+    "ko": "이색적인 요리를 배워 보세요. 훌륭한 요리는 특별한 힘을 줍니다."
+  },
+  {
+    "id": "TXT_urbzui_01422",
+    "source_sha256": "e83324b01e7941e03b87b4761f371db44bb4aea36238d4ef37e32274457325d3",
+    "ko": "음악은 심에게 좋습니다. 악기 만드는 법을 배워 보세요."
+  },
+  {
+    "id": "TXT_urbzui_01423",
+    "source_sha256": "03508d4ff09659d84113e1761cc5c8a06cd6999bb4fd921f700223bd53727e67",
+    "ko": "섬을 탐험하며 새 오두막과 도구를 만드는 데 쓸 다양한 자원을 찾아보세요. 물론 먹을 것도요."
+  },
+  {
+    "id": "TXT_urbzui_01424",
+    "source_sha256": "cee8f429fd6afae8acd5b1447c149e45dc42f9a1f36a232b5aa42742340b4e61",
+    "ko": "주변이 너무 정신없다면 <BUTTON_0B> 버튼을 길게 눌러 모두 멈추고 차분하게 결정하세요."
+  },
+  {
+    "id": "TXT_urbzui_01425",
+    "source_sha256": "ca83f9001be0b08cc8b8caecd7ee7ec52779cae13e5fd68ea1e56754d77fc6a8",
+    "ko": "열대 지방에서는 뇌우가 흔합니다. 몸을 피하고 궂은 날씨가 지나가기를 기다리세요."
+  },
+  {
+    "id": "TXT_urbzui_01426",
+    "source_sha256": "0a8a6b1b6c944be2706f51d4b3382de14b79c05d44d7679988b74653f702e37e",
+    "ko": "배에 함께 탔던 동료들이 여러 섬에 흩어져 있을 수 있습니다. 각 섬을 탐험해 잃어버린 친구들을 찾으세요."
+  },
+  {
+    "id": "TXT_urbzui_01427",
+    "source_sha256": "0bfae9c8d135ce6798505a83fc087284c8b67abeba58562a0ee7cd01fd445169",
+    "ko": "침팬지는 자원을 잘 모읍니다. 도움받는 법을 배우면 일을 더 빨리 진행할 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01428",
+    "source_sha256": "6355d1e109912827a290d499b6ecaeb61e5e00c660e1fa125223fd73e7fbb55c",
+    "ko": "질문: 닭은 왜 섬을 가로질러 갔을까요? \r\n정답: 아마 당신이 쫓아갔겠죠."
+  },
+  {
+    "id": "TXT_urbzui_01429",
+    "source_sha256": "fd55a7eb07d2022d8c86dec4cda1f5172ae41cf1d287277e98f8006222dc2891",
+    "ko": "심은 생선만 얼마나 먹을 수 있을까요? 닭이나 돼지를 보면 쫓아가 든든한 한 끼를 마련하세요."
+  },
+  {
+    "id": "TXT_urbzui_01430",
+    "source_sha256": "8d3524682b9b0d95b372a5256e59a38536ca95f3ff3d392a4d98274f465dcc5b",
+    "ko": "수영하는 동안 조개를 캐러 잠수할 기회를 찾아보세요. 신선한 조개만큼 배를 든든하게 해 주는 것도 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_01431",
+    "source_sha256": "cd93fff02cdb57fc7279dfb386c083825dfc5898efb014feb45ef6eaa59f63ec",
+    "ko": "죽음의 데이지는 무서운 식물 같지만, 쓰러진 심을 되살릴 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01432",
+    "source_sha256": "88de512952723363c18ee635300f97ff906801e795061cbf80126d6c94c7dba6",
+    "ko": "잘못된 음식을 맛보면 먹은 것을 토하고 한동안 기운을 잃을 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01433",
+    "source_sha256": "b05c7e05592a64664d5ca2f5ae9666fe570e1003f131a5f5f2d4ab719b2aa9f2",
+    "ko": "무인도에는 편의 시설이 거의 없습니다. 심이 용변을 볼 장소를 마련해 주세요."
+  },
+  {
+    "id": "TXT_urbzui_01434",
+    "source_sha256": "ca14517933e8b65e2a10b9f5b8bed3b0f98292fc07680c45696e115793f266ca",
+    "ko": "바다 수영은 즐겁지만, 바다에서 가장 큰 생물이 당신은 아니라는 점을 기억하세요."
+  },
+  {
+    "id": "TXT_urbzui_01435",
+    "source_sha256": "a36ea30fba398ee50282d6537931acf2e7babbdd027585a5ba3443ddc1652db4",
+    "ko": "심마다 할 일을 맡겨 부족의 활동을 조율할 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01436",
+    "source_sha256": "cce3288601a5446cc1c079c9e807f2982a71b1904d6ee354cec91203c6618df4",
+    "ko": "허리케인이 지나간 뒤에는 오두막을 수리해야 할 수도 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01437",
+    "source_sha256": "69df216ffe1671275771fb7664bf7400d6b69fa29d3c8bc521f43e9b6453a4df",
+    "ko": "대부분의 건축 도구는 설계도 모드를 지원합니다. 집을 위에서 내려다보며 <BUTTON_03> 버튼으로 이동할 수 있습니다. <BUTTON_07> 버튼으로 설계도 모드를 전환하세요. <BUTTON_04> 버튼으로 카메라를 조작합니다."
+  },
+  {
+    "id": "TXT_urbzui_01438",
+    "source_sha256": "18907f154e0262f552126fc50f7ec0a25215381af4b132955f70a0d4b77ba706",
+    "ko": "창문에 덧문을 달면 성가신 침팬지가 오두막을 어지르는 일을 막을 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01439",
+    "source_sha256": "4d29f620054c43ee01ebfe88aa16f72ef8bb4fad4780466ad8d73d72ff6c85c1",
+    "ko": "최근 모래 친구와 긴 대화를 나눠 보셨나요?"
+  },
+  {
+    "id": "TXT_urbzui_01440",
+    "source_sha256": "afc12d07422b2155799baa1062ef03d3783004b2a2a2fdfa23b2fed558d2b07a",
+    "ko": "야외 문과 울타리로 뒷마당에 반려동물 우리를 만드세요."
+  },
+  {
+    "id": "TXT_urbzui_01441",
+    "source_sha256": "7b40b4da0b2aeca7f9d822aa27593d05e8a9886b1b5d09ee49dc4206a7013c5d",
+    "ko": "직접 기르는 작물의 생산량은 달라질 수 있습니다. 재배할 땅에 알맞은 작물을 선택하세요."
+  },
+  {
+    "id": "TXT_urbzui_01442",
+    "source_sha256": "fab9d924bbf1fac26cbb5601bd6304a3ab331fe27bb4e423c0fbc00577fa68e6",
+    "ko": "조심하세요. 섬의 동물들이 언제나 먹이를 나눠 주고 싶어 하는 것은 아닙니다."
+  },
+  {
+    "id": "TXT_urbzui_01443",
+    "source_sha256": "3138c37a04504b22f235645672f30beb3e84ecc422468c007be35dfb49cd4f77",
+    "ko": "작업대는 가장 중요한 물건 중 하나입니다. 물건과 도구를 만드는 능력이 섬 생활의 질을 높여 줍니다."
+  },
+  {
+    "id": "TXT_urbzui_01444",
+    "source_sha256": "0fde7494046d74e5597dbc2d52bc6a6c1364b2a3af88ad63a7857b8407b9aba8",
+    "ko": "티키 얼굴은 심의 기분을 알려 줍니다. 화난 얼굴이 보이면 좋은 징조가 아닙니다."
+  },
+  {
+    "id": "TXT_urbzui_01445",
+    "source_sha256": "23093eff3e98b37d24141729162abb2c9cd3c5de7f5ba20553442b0c8d486bbb",
+    "ko": "재치와 기술이 심을 살아남게 합니다. 생존 기술을 배우면 섬 생활이 즐거워집니다."
+  },
+  {
+    "id": "TXT_urbzui_01446",
+    "source_sha256": "929f9e4d91db8b27ae4d4433cb7df965579e6f58a638d70cbe5b59398d4e0397",
+    "ko": "섬에서 한동안 살다 보면 코코넛이 왜 생명의 열매라고 불리는지 알게 됩니다."
+  },
+  {
+    "id": "TXT_urbzui_01447",
+    "source_sha256": "b8bd80654ce743c7729cf610cc4284e388830d4154f1f9fc927fcb926a3e8348",
+    "ko": "불행한 심은 새로운 것을 배우려 하지 않습니다. 기본적인 욕구부터 채워 주세요."
+  },
+  {
+    "id": "TXT_urbzui_01448",
+    "source_sha256": "ca4b606ed7309a814ff214e2eccdf7528c8a744070da5a0bf360481c3b7dcafa",
+    "ko": "욕구를 살펴보세요. 필요를 잘 관리해 주면 심이 최선을 다합니다."
+  },
+  {
+    "id": "TXT_urbzui_01449",
+    "source_sha256": "d8a956a400adfacb96877bcca0d9a3615b447ed7714bd9972715a853a0e4ad23",
+    "ko": "지저분하게 사는 데도 장점은 있지만, 냄새가 날 때는 인간관계를 개선하려 하지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_01450",
+    "source_sha256": "fc508ea005b806b87c83f5c30380a00d379829d38fbb15d83dd76ab7ee466ea9",
+    "ko": "심의 기술이 좋을수록 먹을 것을 모으고 도구를 만들기 쉬워집니다."
+  },
+  {
+    "id": "TXT_urbzui_01451",
+    "source_sha256": "02e2703c9411aba04b5e5ecd8c824cde0651ddb00d8824df2cf8011172142e65",
+    "ko": "기본적인 욕구부터 채우면 섬 생활도 아주 여유로울 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01452",
+    "source_sha256": "27a6e4348bf14bb212f33b37b241e45a236aa8df36faee4bab8cbf290721c75b",
+    "ko": "쓰레기는 화덕에 버리세요. 그냥 두면 쌓여서 주변을 더럽힙니다."
+  },
+  {
+    "id": "TXT_urbzui_01453",
+    "source_sha256": "a3d4cf9ac492459d31b0c2c56f8f9d8d7e59eb5b705e1c70b1ac8447b67d8058",
+    "ko": "심이 새 도구를 만들면 새로운 기회가 열립니다."
+  },
+  {
+    "id": "TXT_urbzui_01454",
+    "source_sha256": "f132886844b14dbff56ad9225d309d2c297238a5874a03f683d5bfad51a16980",
+    "ko": "과일과 베리류는 어떤 요리에든 특별함을 더합니다."
+  },
+  {
+    "id": "TXT_urbzui_01455",
+    "source_sha256": "86eda0e2f43873d232d4de10153d87624fa79baf3601ab3e7714807c0714bdaa",
+    "ko": "해변에서 자는 일이 즐거워 보여도, 한밤중에 뜻밖의 일을 겪을 수 있습니다."
+  }
+]

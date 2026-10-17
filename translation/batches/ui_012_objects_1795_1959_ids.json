@@ -1,0 +1,732 @@
+[
+  {
+    "id": "TXT_SimsObjects_01795",
+    "source_sha256": "121fc36128587f4cf7254c53d8841cc750c320b8d84e5407885e34929f637db2",
+    "ko": "멋진 차림새와 익살스러운 유머 덕분에 물고기 세계에서 이름난 고상한 참치입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01796",
+    "source_sha256": "a0d18e1a4ddafa68b347b6ea90f7c0ac40f221c3d6a2c484de3618be623e6a16",
+    "ko": "외계 음식"
+  },
+  {
+    "id": "TXT_SimsObjects_01797",
+    "source_sha256": "97831539fa9fda51c111511cbf6af40bd8699b243c6e4c96ba41f49cd5bd8625",
+    "ko": "이일라그 대령의 고급 우주 죽. 이제 블라그 먀르크가 20% 더 들어 있습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_01799",
+    "source_sha256": "2b0b74d4886c8c727ed6eb518407f2c326d82d88d7802a9b0621f9476c6d1d1b",
+    "ko": "이 바삭한 견과류를 한입 깨물면 아몬드가 왜 세상 모두의 친구인지 쉽게 알 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01800",
+    "source_sha256": "9341ef1771801678b2a6bfce174f1a36f0687c230758d52396fa62bf438cfadc",
+    "ko": "테라 티키"
+  },
+  {
+    "id": "TXT_SimsObjects_01801",
+    "source_sha256": "3116f2e22c85b969c45a787d0de07bb9e78d2c4328140fa44b88f2d6b2ee06b0",
+    "ko": "무슨 생각을 하든, 나만의 미니 거석을 조각하는 일은 결코 진부하지 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01802",
+    "source_sha256": "9debcd74095c8e5e693a87741fb98e4b4816ef5e9c97178a157fe216e2ef1fe2",
+    "ko": "플라밍고 조각상"
+  },
+  {
+    "id": "TXT_SimsObjects_01803",
+    "source_sha256": "61177c11e9d6fa788473a01b3c2d16732d5d8b5664c25afb445933984cfb4537",
+    "ko": "플라밍고 조각상이 다시 유행입니다! 물론 여러분이 원한다면요. 이 섬의 유행은 여러분이 정하니까요."
+  },
+  {
+    "id": "TXT_SimsObjects_01804",
+    "source_sha256": "092b70692adc3a40ce67fdde9287f3064fbc6b1ba4cf5252f2ff602a0911a31d",
+    "ko": "정원사"
+  },
+  {
+    "id": "TXT_SimsObjects_01805",
+    "source_sha256": "64250657fd7ab6b2038618b081fcf449af8ac4de03c6a9c58cb635379a44efd7",
+    "ko": "식물을 키우는 재주가 시들해졌을 때 정원사 조각상은 훌륭한 탓할 거리가 되어 줍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01806",
+    "source_sha256": "dd9724bcd6d34cb15f183c3c084f56072d443bf2e2e5c43d955ef6ab5dfeb4d0",
+    "ko": "빚어낸 가정부"
+  },
+  {
+    "id": "TXT_SimsObjects_01807",
+    "source_sha256": "a83078f0185c8f8c5253de07b2f6ce18ea0e4b40f6ed1649806d1f9e9888b965",
+    "ko": "진짜 가정부 다음으로 좋은 것은 조각한 가정부입니다. 반면에 청소할 물건이 하나 더 늘어난 셈이기도 하죠."
+  },
+  {
+    "id": "TXT_SimsObjects_01808",
+    "source_sha256": "fc3c4c1af023bb26eb9fda44e7c20e0970b49289aac09410f02ea100462c920f",
+    "ko": "휴식 중인 우편함"
+  },
+  {
+    "id": "TXT_SimsObjects_01809",
+    "source_sha256": "dcde12c1ee8aa036d414bfefe671231a9f0d9a596b352946390f790f1440ef55",
+    "ko": "우편함을 조각하지 않는 표류자도 있습니다. 영영 도착하지 않을 편지를 떠올리는 씁쓸함은 너무 실망스럽거든요."
+  },
+  {
+    "id": "TXT_SimsObjects_01810",
+    "source_sha256": "30ff1f338ecc5df695569503918b803de2295378d493786e1be95c07faf93015",
+    "ko": "예언의 침팬지"
+  },
+  {
+    "id": "TXT_SimsObjects_01811",
+    "source_sha256": "5f8804163df53fb225a3b6cb002313ed7d4e41e77acd6a025b5c647a9a0c247a",
+    "ko": "여러 외딴섬에서 부족의 예언자는 침팬지 가면으로 앞으로의 수확을 점칩니다. 하지만 여러분에게는 그저 벽 장식일 뿐입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01812",
+    "source_sha256": "64726daa94acf4c24429da76958e4b44df3d8ef16554b88b901640c909e8efba",
+    "ko": "고대 비석"
+  },
+  {
+    "id": "TXT_SimsObjects_01813",
+    "source_sha256": "4236c026a88b40e73be6d08a29034d028011c8502c5f2fe60dd45da680f5e961",
+    "ko": "이 비석의 상형 문자는 해석의 여지가 아주 많습니다. 매일 같은 문자를 읽어도 매번 다른 이야기를 만날 수 있죠."
+  },
+  {
+    "id": "TXT_SimsObjects_01814",
+    "source_sha256": "38b1a5cdb66395fc6dd47722043e231b6c8864b5aaae8f8ffb10be64b44f6692",
+    "ko": "웃픈 씨 "
+  },
+  {
+    "id": "TXT_SimsObjects_01815",
+    "source_sha256": "ff1a4d15840d2f2609317d3feb45f87082b114ced6c74e6ad947061746be88e5",
+    "ko": "표류자라면 누구나 슬픈 광대 그림을 그리는 시기를 거칩니다. 난파의 우울함을 그림으로 풀어내는 후련한 방법이죠."
+  },
+  {
+    "id": "TXT_SimsObjects_01816",
+    "source_sha256": "e7907957a4a1c7deceb16a3b3aed744d778d2908519cc2942725a9168c1956b5",
+    "ko": "심술쟁이 청새치"
+  },
+  {
+    "id": "TXT_SimsObjects_01817",
+    "source_sha256": "6507bea1e667b4651b663aa0c75a1f6fc2357b60a6206dd1f5143f79fcae5acc",
+    "ko": "이 청새치는 당할 만했습니다. 바다의 불량배였으니 박제가 된 것도 지나치게 너그러운 처분이었죠."
+  },
+  {
+    "id": "TXT_SimsObjects_01818",
+    "source_sha256": "cf3456c7f6fab1abba381ac690106d6109a9f942d31020fbfd51f219df0bc58d",
+    "ko": "끝없는 일몰"
+  },
+  {
+    "id": "TXT_SimsObjects_01819",
+    "source_sha256": "d17b44e2585a221f69573424d82cb6348e9b95bc87a47df70fa6af12fbecea6b",
+    "ko": "하루 24시간 일몰을 보고 싶다면 직접 그리는 수밖에 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01820",
+    "source_sha256": "c1390196eeb7c25b71f769554dfdea5258b7655b49b5004a4f625972955da69a",
+    "ko": "수염수염의 보물 지도"
+  },
+  {
+    "id": "TXT_SimsObjects_01821",
+    "source_sha256": "a4e6cbf03f85be70f9bc9c2baa673d2967d2a1a36285d7cb26e4e50fcf593aef",
+    "ko": "지도 조각들을 모두 모으니 제법 멋진 복고풍 해적 민속 미술품이 완성되었습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_01822",
+    "source_sha256": "bda94d3dce78637e7e47c7ea19824b93a643d023947dbf12ab3afc7032bb2597",
+    "ko": "재"
+  },
+  {
+    "id": "TXT_SimsObjects_01823",
+    "source_sha256": "a2d8fe6bf72cd0d3b8cf982d81511178bbf21958c93a945a55e405cefbf34fea",
+    "ko": "재는 불이 타고 남긴 타지 않는 물질입니다. 귀중한 무기 영양분이 풍부하게 섞여 있는 경우가 많습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01824",
+    "source_sha256": "d22c09bca7df43a858411fc124b130acd244d786682d9540577ef4d4259a524a",
+    "ko": "아보카도"
+  },
+  {
+    "id": "TXT_SimsObjects_01825",
+    "source_sha256": "248e78838c60526933479718be3b8184fab16719dba30d7ee0844c3cf6fc87bc",
+    "ko": "수류탄처럼 생긴 이 채소에는 진하고 부드러운 풍미가 폭발하듯 가득합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01836",
+    "source_sha256": "375d1adaba7f0c4d25f6c49b69eedb0b2a3e85c60f4bad32012ed46fe7cfd2a7",
+    "ko": "꼬치고기"
+  },
+  {
+    "id": "TXT_SimsObjects_01837",
+    "source_sha256": "f8f9b0ccfa2add83ef3be2e03bf31a479c386694ffb63c5f8c73dce48e860016",
+    "ko": "꼬치고기는 평생 한 짝과 함께합니다. 적어도 더 멋진 상대가 헤엄쳐 오기 전까지는요."
+  },
+  {
+    "id": "TXT_SimsObjects_01838",
+    "source_sha256": "1ebc6d4db29dd573c03da1ab06561d06cf0fb200409721e398c60ab02a8391ef",
+    "ko": "수염수염의 검"
+  },
+  {
+    "id": "TXT_SimsObjects_01839",
+    "source_sha256": "22f0a2de0d57b708a1e6ada4726821495bdc9f5df9f27577513b39aea484167a",
+    "ko": "전설에 따르면 수염수염은 매일 밤 이 검을 끌어안고 잤으며, 비스킷에 버터를 바를 때조차 썼다고 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01848",
+    "source_sha256": "1ba231b001ebf3a2fe7dab95100e27c9a172eafc8b91a44f49bfd2cfd0248be1",
+    "ko": "튼튼한 간이침대"
+  },
+  {
+    "id": "TXT_SimsObjects_01849",
+    "source_sha256": "e9de65b8e8a37107e2b959089865f356275b981bf4e3dcf874fe78b0490e4d1e",
+    "ko": "오래 표류한 생존자 열 명 중 아홉 명은 믿음직한 침구 덕분에 살아남았다고 합니다. 그들을 본받는 편이 현명하겠죠."
+  },
+  {
+    "id": "TXT_SimsObjects_01850",
+    "source_sha256": "df36e1778abcc24d11f90e76f197d8df6f6851be84ed49fe197561ed8b576551",
+    "ko": "급조한 간이침대"
+  },
+  {
+    "id": "TXT_SimsObjects_01851",
+    "source_sha256": "5dae6aca8f5d5a7eb97c96a7a9dfb5881c1c34bd9d4200093b2342e7ff5bf431",
+    "ko": "유목과 덩굴을 대충 엮은 이 보금자리조차 차디찬 모래 위에서 뒤척이는 밤보다는 낫습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01852",
+    "source_sha256": "947cdefc8d3cc13ba06143332efabb793f18b54d8d1482daa6724dfa26633da1",
+    "ko": "편안한 간이침대"
+  },
+  {
+    "id": "TXT_SimsObjects_01853",
+    "source_sha256": "0338f1d4cbbfb8302d379c7c3719c6ea7a449f2bffd4eac7170d4ea559bffeb0",
+    "ko": "집에서 누리던 편안함을 아담한 간이침대에 담았습니다. 너무나 푹신하고 포근해 아침에 일어나기 힘들 정도입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01854",
+    "source_sha256": "aa381845af1c3da8e9bac27f0f0a69e4bec9c0e4e807f9ba88144aef93a6b525",
+    "ko": "임시 간이침대"
+  },
+  {
+    "id": "TXT_SimsObjects_01855",
+    "source_sha256": "9b60fc5f61b0f94e6ba9a92a53e15a3cd66e436a3a398baa59fa522cc02f731e",
+    "ko": "보통 사람은 평생의 3분의 1을 자며 보냅니다. 이 침대가 여러분도 그 목표에 가까워지도록 도와줄지 모릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01856",
+    "source_sha256": "6728ee5a8b8ce7662623d82792af935e46aabeda8d8fafa08ddd7ad5391b5701",
+    "ko": "피망"
+  },
+  {
+    "id": "TXT_SimsObjects_01857",
+    "source_sha256": "727fee9283bd17c44cd895dde03ce038342abb3f9d2b4898f1bbb87e83def96b",
+    "ko": "평범한 텃밭에서 나는 피망과는 다릅니다. 아, 잠깐. 그냥 그 피망이 맞네요."
+  },
+  {
+    "id": "TXT_SimsObjects_01858",
+    "source_sha256": "cc903e99b04dc395ec8ae57dcff11f1186f54c378f36cab4e633ee986d5ba4fa",
+    "ko": "바나나 잎 허리끈 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01859",
+    "source_sha256": "2d88ac5c78519b9115bc94652183f8653bd994d57a28b0d3dd29863724fc60cd",
+    "ko": "이런 물건을 만들다니 옷차림에 얼마나 관심이 없는지 알 만합니다. 이 허리띠를 굳이 만드는 이유는 수수께끼입니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_01860",
+    "source_sha256": "7d56c889d26f5df9cf002b90b4cf3b84ecc923174958e9218bf20518c232e79f",
+    "ko": "땋은 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01861",
+    "source_sha256": "2718153bf0e9ab38f1836453ff2f32ab27e034982ecbc8445b773f47cbefced3",
+    "ko": "이제 옷감을 땋을 줄 알게 되었으니, 머리도 좀 더 멋지게 땋아 보면 좋겠군요."
+  },
+  {
+    "id": "TXT_SimsObjects_01862",
+    "source_sha256": "8710b74ace20a50c11cf353e49a35ea2c254080e898a00acd0118a17731016ff",
+    "ko": "조개껍데기 조임띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01863",
+    "source_sha256": "a801163c44b86c7c1d2a1e71bc16b89f17c382764ae31ffef2192abe7e82eba7",
+    "ko": "제법 큰 조개껍데기와 밧줄입니다...."
+  },
+  {
+    "id": "TXT_SimsObjects_01864",
+    "source_sha256": "1bb54d5630a2fdddbd947ec71fb41b4e2e087d1faddc632a506ad47f1503aa07",
+    "ko": "정찰대 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01865",
+    "source_sha256": "cd39900711415049fb5db51aae33260ea6c252e54e149353e61c4548e0634652",
+    "ko": "덩굴 허리띠를 이렇게 묶으면 어느 정찰대원이라도 자랑스러워할 만한 매듭이 됩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01866",
+    "source_sha256": "e55624a2604fdfb2b8f8da73bc05763e74d21a8bcab75067de222b8be0276383",
+    "ko": "도마뱀 자수 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01867",
+    "source_sha256": "2f256d58dafe76b34b6a706b650d01122da8f8251c3ec2d0adf22ab396533067",
+    "ko": "도마뱀 허리띠에 관한 흔한 오해 중 하나는 미끈거릴 것이라는 생각입니다.  "
+  },
+  {
+    "id": "TXT_SimsObjects_01868",
+    "source_sha256": "84383e2ddc0737063ee235fd53d1fbd908b642a780e81c3b10e584992ef2dade",
+    "ko": "열대 기모노 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01869",
+    "source_sha256": "e438385852eedb3ff1ec70d11b5fbd3b1d3d2ca2c6e676b7e7a094be1427484e",
+    "ko": "가장 부드럽게 짠 면직물 세 겹이 허리를 감쌉니다. 과식으로 단추가 비명을 지르는 흔적은 숨기면서 허리는 날씬해 보이게 하죠."
+  },
+  {
+    "id": "TXT_SimsObjects_01870",
+    "source_sha256": "3c3ef3e2747384e8a4e998c938b8462b2292eb82ad49c1d33707bd525fd8c168",
+    "ko": "깃털 잔치 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01871",
+    "source_sha256": "6c0944d35886fa3f70b212eefceb6db063eaed498a581f9c334c31303beedd49",
+    "ko": "깃털에 파묻혀 있다 보면 시원한 그늘에서 깃털을 고르는 자신을 발견할지도 모릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01872",
+    "source_sha256": "23ef0a941d6485bb6a4b8ab7f50d9ed8f4fe3e6ebb4accc7247a308d177fa8df",
+    "ko": "나무 버클 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01873",
+    "source_sha256": "edd7e6243f4b6e04ad50418ad1670fdc737090ada30ac2cf03c7393f2fcf767a",
+    "ko": "질긴 가죽에 튼튼한 나무 버클을 더했으니 바지가 흘러내릴 걱정은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01874",
+    "source_sha256": "fd76708d31db08b0eb3022ec19a6626ca9d0c0f51aa7f9a961899203f896f522",
+    "ko": "무늬 한가득 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01875",
+    "source_sha256": "0dfcb81a482b8352ebcf7bffa0a46d06ee2a6a0d5034e18c76715f199475cf52",
+    "ko": "자연에서는 볼 수 없는 기하학 무늬로 옷장을 꾸며 보세요. 무늬 한가득 스타일은 그저 집에 돌아가고 싶은 도시 심을 위한 패션입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01876",
+    "source_sha256": "7e9e68bb3b92ead4d09df37829f5e081b4a30d9b95eafaa7f843cef5686bdeef",
+    "ko": "밧줄과 꽃 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01877",
+    "source_sha256": "59bcf4e311531ee92a93bf421c0dc61f07f468e685142930546275e9cb3fa054",
+    "ko": "밧줄을 만들 줄 알게 되었으니, 이제 꽃 버클을 달면서 허리에 묶는 법도 배울 차례입니다. 다음 목적지는 파리입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01878",
+    "source_sha256": "e5b8de5c5d720c0e2a24836ac4fbe1b007811e909ae9fd198a199902d3add10a",
+    "ko": "이국적인 무늬 장식띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01879",
+    "source_sha256": "6f7613358843ac326ec0e34f7afef753a269079e3cdb90b61f5391edea115109",
+    "ko": "다채로운 색과 고급스러움, 우아함을 좋아하는 심에게 꼭 맞는 허리띠입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01880",
+    "source_sha256": "fe3f5e40257063111e15e3557c84a7385e0c8a122dedcb5fcbe1993cafeedbe8",
+    "ko": "장식띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01881",
+    "source_sha256": "f04c82dd9c709ca76383fc9a7f8a58b64954a7cb95392d1216287044d30c64b2",
+    "ko": "멋쟁이 해적에게 영감을 받은 이 장식띠는 호쾌한 해적 스타일과 패션쇼 디자인의 장점을 한데 담았습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01882",
+    "source_sha256": "00851b3c6e1c66f8566ad3bf66e8e8943dd24dfc18e5d2469ff2d880e841383f",
+    "ko": "앵무조개풍 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01883",
+    "source_sha256": "e26ddf63c9f383f5509758d8e9afbfbdb46f225c67858b0df59c9752f56c8e5b",
+    "ko": "아이러니하게도 이 허리띠는 아주 작은 다른 조개들을 앵무조개 껍데기의 나선 모양으로 정성껏 감아 만든 것입니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_01884",
+    "source_sha256": "087d2f3af3faa624f1a6104491b6c5a81ea4df1bc497e26a701feb61e5593687",
+    "ko": "조개껍데기 장식띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01885",
+    "source_sha256": "be2839704c9f8bf1c5ebe2c7ee0aa625ba4990e890ba0b0c7302d4de3c9766e0",
+    "ko": "바닷가에서 바지런히 빚어낸 바다 조개 장식띠입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01886",
+    "source_sha256": "6ac569df3bfeef141d4ae7034615aa48570f16ff31572401709e3f8e0eca12c0",
+    "ko": "노끈 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01887",
+    "source_sha256": "53e6b490bf4ba7a616c6c4420869f098ee4724022b46324a5f4e0335ff47efcd",
+    "ko": "이 아름다운 물건을 뽐낼 때는 꼭 자신에게 물어보세요. \"노끈 허리띠보다 멋진 게 또 있을까?\""
+  },
+  {
+    "id": "TXT_SimsObjects_01888",
+    "source_sha256": "77c11346c2100c3fc965f6402b57dbd4fed2045fc184a2884f92dca5ff6e98f5",
+    "ko": "간단한 덩굴 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01889",
+    "source_sha256": "18c889f8254fdf05f7f7d86b8a9dcce86ad16969bc273579c92cc76dba2e0e52",
+    "ko": "허리에 덩굴을 두르는 데 필요한 기술에는 한계가 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01890",
+    "source_sha256": "a42bdcfec059a399168be6a06217527ff6f698258310308ca083e017e44db286",
+    "ko": "열대 꽃 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01891",
+    "source_sha256": "f3f47d2f2e089b80ceb4d26e12f431ac229e0f795b87c41fe42fc9891bad6f0b",
+    "ko": "옷장에 다양한 색이 별로 없다면 멋진 장신구로 옷차림을 꾸미는 것도 좋습니다. 이 허리띠가 바로 그런 장신구입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01892",
+    "source_sha256": "f9f2c1057ef3c7fe6e79f3c98b15b46e9981c92657c751d55a7848c1a18e3180",
+    "ko": "풀과 덩굴 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01893",
+    "source_sha256": "fedc447bbf60fffa20683da2f23761929ccc11dadbc1cfeee8533b362b89b770",
+    "ko": "싱싱하게 채집한 풀에 채집한 덩굴을 둘러 보세요. 사랑스러운 채집 허리띠가 됩니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01894",
+    "source_sha256": "0e17f9e952cf451e8152496e7bb161e3a1419ada168e25a4ba85f8c2046478c0",
+    "ko": "간단히 엮은 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01895",
+    "source_sha256": "7c40757e45c53a1571b2c92f47c074c9a76abcc6b45ffbf4297674b890f828ec",
+    "ko": "단순하고도 단순한 이 허리띠는 어떤 옷차림이든 단순하게 마무리해 줍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01896",
+    "source_sha256": "71c997a92e87c77ac0bc092f4348abe73d1179f4d55de32af220bc21a72fa25b",
+    "ko": "옥수수풍 허리띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01897",
+    "source_sha256": "460769369082daaba6537841efb6ba1c54c4b48bfa63cfe06a4ea787d40d447c",
+    "ko": "이 짜임은 통옥수수라는 패션의 대폭발에서 영감을 받았습니다. 허리띠를 먹지 않도록 주의하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_01898",
+    "source_sha256": "fd11f52eeb6854caf99c909a739bb9778d0a61d99d564b70e382e86360d6c9f9",
+    "ko": "두빛깔 앵무고기"
+  },
+  {
+    "id": "TXT_SimsObjects_01899",
+    "source_sha256": "07de7f40da8f0b992aa60da512971631a252aadb30750c9338b5c4d5122d69ba",
+    "ko": "이름과 달리 앵무고기는 어깨 위에 올려놓을 친구로 적당하지 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01900",
+    "source_sha256": "52751647d228d2414e899c776b7d49970ba10ee290e5c6fe6a422dea8c5da871",
+    "ko": "검은 잉어"
+  },
+  {
+    "id": "TXT_SimsObjects_01901",
+    "source_sha256": "b9d99a7072f2ce3a21e1cd7fa9d26c23054fe15d19eaccb94cb2a4b25c9392a3",
+    "ko": "잉어의 관점에서 세상을 제대로 이해하려면 이 물고기의 마음속으로 들어가 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_01902",
+    "source_sha256": "4b86fa51472f5854b9f53329b967369d99c07449ed029716161613a0241466f9",
+    "ko": "검은 볼락"
+  },
+  {
+    "id": "TXT_SimsObjects_01903",
+    "source_sha256": "a5b71ae211a2272e3c5cd4669af3257e889d6b8f04f5f1d690f0fc45233fafeb",
+    "ko": "검은 볼락은 새끼를 먹거나 그러려다 죽는 경우가 많습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01904",
+    "source_sha256": "0187cf006f58f6f8aa69b24023ca18894ba5384582b76eb54a69ad1e46402544",
+    "ko": "블랙베리"
+  },
+  {
+    "id": "TXT_SimsObjects_01905",
+    "source_sha256": "beac03f75ec041dbff691e23d36b4f9e7d2d812e4605b72c412379d4fb38d517",
+    "ko": "으깨서 잼으로 만들든 전투용 분장에 섞든, 블랙베리는 쓰임새가 많은 작은 과일입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01906",
+    "source_sha256": "cc286478c0f14270bf8eb80f0d16dcca22d55f1efd537e4fb71f497ade8ea445",
+    "ko": "블러드오렌지"
+  },
+  {
+    "id": "TXT_SimsObjects_01907",
+    "source_sha256": "3de36831f7bcb3ebff6d3e23b86e023768c6f414eb677a0945cae268d0b2b6c0",
+    "ko": "주의: 블러드오렌지를 마구 먹다 보면 피처럼 붉은 과즙이 흘러넘쳐 범죄 현장 같은 광경이 될 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01908",
+    "source_sha256": "ca70e16d73aaa96045ad944225946e6800d6a56bd4560db627cb4b022fc904ea",
+    "ko": "멧돼지 엄니"
+  },
+  {
+    "id": "TXT_SimsObjects_01909",
+    "source_sha256": "37a7b686b26477979a08f4741ef69e8c8e69672894addf8459e95f160ee5a732",
+    "ko": "일에는 알맞은 도구가 중요합니다. 이 경우에는 일에 맞는 엄니라고 해야겠군요."
+  },
+  {
+    "id": "TXT_SimsObjects_01910",
+    "source_sha256": "825d8818244c993d620da9d835b72c66004ef9f860e84bee418d3afba48703aa",
+    "ko": "보카치오"
+  },
+  {
+    "id": "TXT_SimsObjects_01911",
+    "source_sha256": "b600ecea5ee2a630ddab306c4c19c0dab282e06ccdbd4fd2f25171a43c10a79e",
+    "ko": "보카치오는 바늘과 낚싯줄, 봉돌까지 통째로 믿고 삼킬 만큼 잘 속는 물고기입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01912",
+    "source_sha256": "cf0165f3f1a874b69ba8d2d528709db3e22a510ff3ad1907ddb45b4c63a652b2",
+    "ko": "대나무 토막 팔찌 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01913",
+    "source_sha256": "11432b39da3a4a8aa49b0eaf31fdb027a9ad662fcf340693b20c8928e0f7691a",
+    "ko": "대나무는 압축 합판을 대신하기에 아주 좋습니다. 매끈하고 튼튼한 나무로 만든 이 팔찌는 가시가 박힐 걱정도 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01914",
+    "source_sha256": "b67b08809117782c66e19fe6582a6cd6f1b6af41429380ea5c9d1907843fbe54",
+    "ko": "바나나 잎 팔찌 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01915",
+    "source_sha256": "51e62f5e87b8a60ffb88c297f6a5f62160659687192eff8d773c8670b7974d2f",
+    "ko": "만드는 데 별다른 기술이 필요하지 않아 초보 표류자에게 아주 알맞은 팔찌입니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_01916",
+    "source_sha256": "b2eec5f84397e663123a38d22c5574906dbcd6d0668d8ecf9166bfc09ef99857",
+    "ko": "조개 중심 팔찌 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01917",
+    "source_sha256": "1f3b0c48dddac5642f271a196f11ab124e29f16d9798e4ad1c8864667c2afada",
+    "ko": "아름다운 이 팔찌를 차고 패션의 껍데기를 깨고 나오세요. 인정하고 싶지 않겠지만, 모래 친구의 칭찬만으로도 자신감이 솟을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01918",
+    "source_sha256": "22e4e8718d304cd26f047773fdb4202f858fc50978fd8806fbe801cd46c38a74",
+    "ko": "깃털 뱅글 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01919",
+    "source_sha256": "dde97a6e24fb1e541dbe645b5d164e1cb991b17b43b038016df51b253cadccf4",
+    "ko": "날아서 집으로 돌아가고 싶겠지만, 이 깃털 뱅글은 별 도움이 되지 않을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01920",
+    "source_sha256": "fcd6d7454161be1aa6b2ce26df4bed18ba4fdad14d0b45f050d402cf27d2a348",
+    "ko": "꽃 팔찌 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01921",
+    "source_sha256": "2dd21b0b235b3c27830b6423694852067c04dd0946a13b9c02d41ecc9f59066f",
+    "ko": "이제 팔에서도 손목을 장식한 꽃처럼 향긋한 냄새가 납니다. 커다란 꽃 하나를 통째로 입을 수 있다면 더 좋겠지만요."
+  },
+  {
+    "id": "TXT_SimsObjects_01922",
+    "source_sha256": "fdfdf4de6e3d11b902cc8eec89dd50cab792bef0d4dd6c3ba467a210465e2334",
+    "ko": "코아나무 팔찌 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01923",
+    "source_sha256": "6dac51c1667aeb94210617ed859dc60e3e657cc70b79bd278d4cab0df8a48e4a",
+    "ko": "둥글둥글한 나무 토막들이 장신구 모음에 둥글둥글한 원의 기운을 더해 줍니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_01924",
+    "source_sha256": "212123d66b110f74b86cb006f5ed1940272397840b88956c8c1ebd067d7bea77",
+    "ko": "기하학 손목띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01925",
+    "source_sha256": "67e4411902806f172c2b0d628e532252e30601878bf78bf1c6cec6dd99aebe36",
+    "ko": "대담한 색으로 단순하면서도 눈에 띄는 기하학 무늬를 만들어 기본으로 돌아가 보세요. 앞으로 몇 번이나 달이 차고 기울어도 고전으로 남을 디자인입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01926",
+    "source_sha256": "341701fe509cd1f6c25bfa58a118643927aeb9338ab580e6abe978a240e352b2",
+    "ko": "티나무 잎 손목띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01927",
+    "source_sha256": "88c6b4abb20cd53f0527a53a57061af40937db4e8b66ec5970d0b27074acf331",
+    "ko": "옛 선원들은 선원 얼굴이 초록빛이 되는 것보다는 옷이 초록색인 편이 낫다고 했습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01928",
+    "source_sha256": "7a6a4767071de891bd729d65dca9e9a85077cd5b993137abeb875c86a063e718",
+    "ko": "덩굴 팔찌 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01929",
+    "source_sha256": "103dbfca154ef37529aca6f15ab2867675904d6ce31e759a5cb62abe63c15be7",
+    "ko": "잎 두 장으로 장식한 이 팔찌는 섬의 세련된 저녁 모임에서 살아남으려는 심에게 꼭 필요한 물건입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01930",
+    "source_sha256": "e9e9b50a00c21ebde5e588c12122e7746961d4f3a5590fdfb52e227073e6e62b",
+    "ko": "야자 잎 손목띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01931",
+    "source_sha256": "f8fe6eda514093b58e62b4aa3198633f1a48ca35bce552d30f12b986a450d3ff",
+    "ko": "이 가느다란 팔찌를 만들려고 야자나무에 오를 위험을 감수하다니, 정말 패션을 사랑하는군요."
+  },
+  {
+    "id": "TXT_SimsObjects_01932",
+    "source_sha256": "252c6afa2f02fde7b0708041fd7a1404d7cf840d47ce3105b9c04537e4929226",
+    "ko": "라탄 손목띠 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_01933",
+    "source_sha256": "46ef26b6d6b3e89faea6e93c3fb05603163e207d8cc8199cbadae198a27c63f9",
+    "ko": "섬 패션의 최신 유행인 바구니풍 장신구가 여러분의 옷장까지 엮어 들어올 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01934",
+    "source_sha256": "502ac3c43f8714ea1327df43c60cadf5e0c4322cc3707934aeeddc0168eb6400",
+    "ko": "브라질너트"
+  },
+  {
+    "id": "TXT_SimsObjects_01935",
+    "source_sha256": "b1f4a03c3ae7106978f8d11dd40539fcb166f40465e93e3f1061bd1673e8359f",
+    "ko": "놀라운 사실: 브라질너트는 사실 남아메리카 전역에서 자랍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01936",
+    "source_sha256": "92f0e199a2939ffeeeacf6cbbb731c8cd895f2ede651957deba36464e4b7607f",
+    "ko": "빵나무 열매"
+  },
+  {
+    "id": "TXT_SimsObjects_01937",
+    "source_sha256": "77f0ba5fdf99e4eb463aec5f4864973482447ec6d1a03f3c2bf56b916d563767",
+    "ko": "빵나무 열매의 껍질도 빵처럼 크러스트라고 부릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01938",
+    "source_sha256": "fa6c2d9a0ace18c609d4ba927926b751ab5e4ac476ffa70ae3630db6bdbc6956",
+    "ko": "도미"
+  },
+  {
+    "id": "TXT_SimsObjects_01939",
+    "source_sha256": "cd4e85738bbb054efe708f6c40be3041f811e096f2b2bbe9219eefe3c8cab0eb",
+    "ko": "이 작은 물고기에게 인생은 도미처럼 꿈결 같습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01940",
+    "source_sha256": "8660d779c7fee7abf03f1b67e576fa5cbb1f10ce93ca870c312f07f69078bfae",
+    "ko": "카나리아 볼락"
+  },
+  {
+    "id": "TXT_SimsObjects_01941",
+    "source_sha256": "1232884a2fcc0f570906c95536e4795ec06257267bc05795079e4c3532aa6bbb",
+    "ko": "수중 탄광에서 닥쳐오는 위험을 알리는 데 흔히 쓰이는 물고기입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01942",
+    "source_sha256": "0cc260f2a78c678de155b42b49c14d820064b48e9e470b83d98eca871462783f",
+    "ko": "대포알 열매"
+  },
+  {
+    "id": "TXT_SimsObjects_01943",
+    "source_sha256": "a5a420d09ad6d57c9b8fd03cd5a5e6c475ec5fa561065b8278db2af0311899a5",
+    "ko": "이 나무 꽃의 향긋한 냄새만으로는 열매에 독이 있다는 사실을 짐작하기 어렵습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01944",
+    "source_sha256": "447601ff07f0cac42f2f83f7abb85660e17c938dba3a63433076d4323a5c7d1f",
+    "ko": "칸탈루프 멜론"
+  },
+  {
+    "id": "TXT_SimsObjects_01945",
+    "source_sha256": "27da0bba581f9c26bb26c8157630ad0a4111d36d925248e4d9e85cee047b9011",
+    "ko": "월간 멜론 잡지에 따르면 칸탈루프 멜론은 \"먹기 좋다\"고 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01946",
+    "source_sha256": "9e87ba4dd07da92b8ecae2ed4d36e503c875d3e19548db7957402f570cefb39e",
+    "ko": "당근"
+  },
+  {
+    "id": "TXT_SimsObjects_01947",
+    "source_sha256": "f0836314aa98ee07b5ee02596e848fe7bfcdf39a5aab6961f1acf30b89b625da",
+    "ko": "당근의 베타카로틴은 눈에 좋습니다. 단, 눈에 넣지 말고 입으로 먹어야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01948",
+    "source_sha256": "2bf0e4f6d0309e979f289aaca72661e7310a00c45c2c3f4f1347883d26a9ae8a",
+    "ko": "캐슈너트"
+  },
+  {
+    "id": "TXT_SimsObjects_01949",
+    "source_sha256": "97e46781965c28d338f9fbc1be5bc1e75696a3b33fc0b4fe81eeb871dd94114b",
+    "ko": "고향의 맛이 그립다면 캐슈 버터와 잼을 바른 샌드위치를 만들어 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_01950",
+    "source_sha256": "f264bd0d749f1b53aa180d942a796a0fc7143f3f6177600225a3c782655dbb04",
+    "ko": "채널메기"
+  },
+  {
+    "id": "TXT_SimsObjects_01951",
+    "source_sha256": "e0c21eb440c9daffe5e90e3ef1dcaa6be58bd295d6effef4840d772e59c2f26b",
+    "ko": "메기는 무시무시한 최면 골골송으로 방심한 먹잇감을 졸음에 빠뜨려 제압합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01952",
+    "source_sha256": "f81135479e576a4ef7cb6e70c829dbc435cdf3a741102b34c79230a2804668d1",
+    "ko": "통나무 식탁 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_01953",
+    "source_sha256": "ce5291d777a8469a037ee4bb517bd141b72e9751df16ede8c6e933ebfc8f875d",
+    "ko": "섬 생활에 지쳐 구부정해졌다면 바른 자세를 잡아주는 이 식탁 의자로 허리를 다시 곧게 펴 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_01954",
+    "source_sha256": "ebe7b9ca979efb4eca5f89910df2381921c3c28b790235aa042a5d63f466b6d2",
+    "ko": "판잣집 식탁 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_01955",
+    "source_sha256": "9483c127ad86a85ad46e54355c220fa3cdd557b69e05434b33a4a13151d45b76",
+    "ko": "대부분의 영양사는 서서 식사하지 말라고 합니다. 소화를 돕기 위해 오늘 당장 식탁 의자를 만들어 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_01956",
+    "source_sha256": "ae99efc4242d8ad645382aa897fa946727cba9bf9e4f6d5cbd7652640bacd5c7",
+    "ko": "방갈로 식탁 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_01957",
+    "source_sha256": "621cedf518e6263cdf01342e9232cd30e5d11abb795b6d03bd1cb8a0c7188716",
+    "ko": "멋진 식탁 의자에 편안히 앉아 즐기면 음식 맛도 더 좋아집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_01958",
+    "source_sha256": "e047bfdf360231076bdffa23ea3f8692a1c7f468fb6a5993b331ba1ffcba534e",
+    "ko": "오두막 식탁 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_01959",
+    "source_sha256": "222e2b4075df5ec404d706e427fdb29a7301357c1c430d787ddf9a3a2b680069",
+    "ko": "더 튼튼한 이 모델로 바꾸어 식탁 의자 붕괴 증후군을 끝내는 데 힘을 보태세요."
+  }
+]

@@ -1,0 +1,472 @@
+[
+  {
+    "id": "TXT_SimsObjects_08814",
+    "source_sha256": "6a9fac33b7c1e18c95bd33f3daeeb5dc4e9589257ad2ea8e1a6ee2bf2a9bb181",
+    "ko": "축하합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_08816",
+    "source_sha256": "e68a99b199cc23c300f4e5806f41c52e17fc94c314ec64d03e72561fcc446675",
+    "ko": "일 맡기.../자원 모으기"
+  },
+  {
+    "id": "TXT_SimsObjects_08817",
+    "source_sha256": "df5bc7f6937dbec7e64e5e596766fbe7d8fd607b19ac0bfd5a7d829471705bc2",
+    "ko": "일 맡기.../요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08818",
+    "source_sha256": "4eb3399b5be40886b678912a319e75f895968dcdb7213ddd757d0df9da15a692",
+    "ko": "일 맡기.../낚시하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08819",
+    "source_sha256": "c7f73cb54dab0f48187c4d84ba1f9c156e295984ec755b5bed7d8a47ef10204d",
+    "ko": "일 맡기.../먹을 것 모으기"
+  },
+  {
+    "id": "TXT_SimsObjects_08830",
+    "source_sha256": "124b94dbb7370677244658478ee7db89be66832e299db0be0cd47310e1b4aab8",
+    "ko": "함께 연주하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08834",
+    "source_sha256": "124b94dbb7370677244658478ee7db89be66832e299db0be0cd47310e1b4aab8",
+    "ko": "함께 연주하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08837",
+    "source_sha256": "124b94dbb7370677244658478ee7db89be66832e299db0be0cd47310e1b4aab8",
+    "ko": "함께 연주하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08840",
+    "source_sha256": "124b94dbb7370677244658478ee7db89be66832e299db0be0cd47310e1b4aab8",
+    "ko": "함께 연주하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08843",
+    "source_sha256": "124b94dbb7370677244658478ee7db89be66832e299db0be0cd47310e1b4aab8",
+    "ko": "함께 연주하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08870",
+    "source_sha256": "703c89adc119d8b4afc3b25bca45572503312fbc481f3b051f39eceb7c5800c3",
+    "ko": "도와주세요! -$Neighbor"
+  },
+  {
+    "id": "TXT_SimsObjects_08871",
+    "source_sha256": "7268b455306349622b34e93f3635c4e8704dd03ce5a71e9660f9c09f6658d7e8",
+    "ko": "도와주세요! 해안 근처에서 배가 난파되어 무인도에 갇혔습니다! 배고프고 무섭습니다. 제발 도와주세요! -$Neighbor"
+  },
+  {
+    "id": "TXT_SimsObjects_08872",
+    "source_sha256": "35000c287d76e0f3b74e315359c715a079d0520ebd111d64fefde226d28495bf",
+    "ko": "고객님께: 머니웰 컴퓨터 환급을 신청해 주셔서 감사합니다. 안타깝게도 구매 증빙을 보내실 때 서로 다른 색종이 15장에 영수증을 두 부씩 복사하지 않으셔서 지금은 환급을 처리할 수 없습니다. 다시 제출하시고 처리까지 4~6개월을 기다려 주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_08873",
+    "source_sha256": "3679f240a1d93812aa2bbdcaf3456373f2df34ae65994432801a190bb3a471fb",
+    "ko": "고객님께: 머니웰 컴퓨터 환급을 신청해 주셔서 감사합니다. 안타깝게도 구매 증빙을 보내실 때 약관 14(b)항에 명시된 적절한 필압을 적용하셨습니다. 다시 제출하시고 처리까지 4~6개월을 기다려 주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_08874",
+    "source_sha256": "e3e78ab0531bddafce49ab74c9b45a4101c8c4532a2a7efe64f6e74f9396035c",
+    "ko": "고객님께: 머니웰 컴퓨터 환급을 신청해 주셔서 감사합니다. 안타깝게도 신청서를 검은 잉크로 서명하지 않으셨습니다. 화학 분석 결과, 사용하신 검은 잉크에서 미량의 녹색이 검출됐습니다. 검은 잉크로 다시 제출하시고 처리까지 4~6개월을 기다려 주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_08875",
+    "source_sha256": "772c8190231e0e7fccbe519ac36df374742208c13d97e05da1fe19e8a866b243",
+    "ko": "고객님께: 머니웰 컴퓨터 환급을 신청해 주셔서 감사합니다. 안타깝게도 저희가 돈을 드리고 싶지 않아서 지금은 신청을 처리할 수 없습니다. 다시 제출하시고 처리까지 4~6개월을 기다려 주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_08876",
+    "source_sha256": "aec420f06692af8a1b4387ee17b359036f0f30fe23c0f7f725f8ddb4da60c292",
+    "ko": "오늘의 별자리 운세: 태양과 달이 모두 당신 별자리의 집에 머물고 있습니다. 칵테일 소시지를 더 내놓으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_08877",
+    "source_sha256": "1223f9537c40b742af3dbd4fd20609105971aa0bdf51f5ee1862a7a4be7d4711",
+    "ko": "축하합니다! 보물 지도 조각을 찾았습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08878",
+    "source_sha256": "973f1fc0262ed5a09be6328d0575482c9fb24554f96ac098c0bb62c031436742",
+    "ko": " 저기, 음악 소리 좀 줄여 줄래요?\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_08879",
+    "source_sha256": "ee76a5fb1508f4cd5c177b248515eac13e2193fba469f638c4c3500f8e3aa5d2",
+    "ko": "이웃이 되신 것을 환영합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_08880",
+    "source_sha256": "63736c158e8abaadf08a31238b78475e9236f990901355cbb5f878db4cf20169",
+    "ko": "도와주세요! 무인도에 갇혔는데 무엇을 해야 할지 모르겠습니다! -$Neighbor"
+  },
+  {
+    "id": "TXT_SimsObjects_08881",
+    "source_sha256": "94a8c4c22aa0fb05e176da4f937479d938c17a6200366e0923661bfe5616894d",
+    "ko": "S.O.S. 동료 중 누구든 이 편지를 본다면, 나는 아직 살아 있고 도움이 필요해! -$Neighbor"
+  },
+  {
+    "id": "TXT_SimsObjects_08882",
+    "source_sha256": "47fddbaa14cec5961abdd29dea88221678a0c468a398de169d7a15ee2c654116",
+    "ko": "오늘은 고양이의 날"
+  },
+  {
+    "id": "TXT_SimsObjects_08883",
+    "source_sha256": "fde9dd5677ac5273312644b4310276a023b7c7e4b93653efee03a8bd2b74df4f",
+    "ko": "거주자님께: 빚에 지치셨나요? 신용카드가 어깨를 짓누르나요? 이국적인 곳으로 휴가를 떠나고 싶지만 돈이 없나요? 오늘 머니웰 저축대출에서 대출받아 빚을 영원히 갚아 버리세요! 당신은 멋진 사람이고 모두가 당신을 사랑하니 그럴 자격이 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08884",
+    "source_sha256": "917e95be3a19c35f4ace54335b5382aa4d42e24fcd4a9e54ddfafa879921c4da",
+    "ko": "거주자님께: 알루미늄 외벽을 설치하고 싶지만 으리으리한 저택에 살며 고급 차를 모는 외벽 업계의 배불뚝이 부자들에게 돈을 주기 싫으신가요? 슈퍼 맥스피디 외벽 회사는 고객님의 마음을 압니다. 배불뚝이 부자 없이 꿈의 알루미늄 집을 지어 드리겠습니다. 슈퍼 맥스피디는 외벽을 제대로 만듭니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08885",
+    "source_sha256": "ba7bcf474a3b34038c9f980310aa0dc726afdefa7415f2064f7f5572c81b3686",
+    "ko": "페기에게서 병 편지 받음. 이상.\r\n\r\n어머니가 정원 요정 던지기 수업을 시작했다고 함. 이상.\r\n\r\n아이들이 사랑을 전함. 이상."
+  },
+  {
+    "id": "TXT_SimsObjects_08886",
+    "source_sha256": "6440ff7f346780e90b5400e14f680bd40d4f8d1f63881aad78927d4fddc9592c",
+    "ko": "의심이 들면 라마를 보라."
+  },
+  {
+    "id": "TXT_SimsObjects_08887",
+    "source_sha256": "1723e3c64d79523f0d7cf21041fc6dd5814422e2c9ee1df621641a1203789cf4",
+    "ko": "귀향길에 해적에게 붙잡혔습니다. 머스태시 선장이 우리를 포로로 잡았습니다. 그는 최근 지난번 만에 자기 형제를 버리고 온 무자비한 해적입니다. 조심하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_08888",
+    "source_sha256": "882a34fbefc7717543b50b4856a919a85f2c58d08b10df76670a86ceddb7a6fa",
+    "ko": "침팬지는 당신을 좋아하면 훌륭한 조수가 됩니다. 내 코코넛이 그러더군요."
+  },
+  {
+    "id": "TXT_SimsObjects_08889",
+    "source_sha256": "ee3143154f34f6427ba350ff048f98ace32802d49f9acdda322ec70763cc6bee",
+    "ko": "사실입니다. 그들은 존재합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08890",
+    "source_sha256": "46f65de02c1dde4a4a2e5566a7c8d3f23973d5a83bc4a9d5dcd80ecb366a4bcc",
+    "ko": "페기에게서 병 편지 받음. 이상.\r\n\r\n엄마가 스카이다이빙을 시작했다고 함. 이상.\r\n\r\n아이들이 안부를 전함. 이상."
+  },
+  {
+    "id": "TXT_SimsObjects_08891",
+    "source_sha256": "0d44d29287b1037ec467eb74794e4cea43e6e4b6fc2f0235f0155c0c54f4769e",
+    "ko": "내 신발과 코코넛을 교배했다. 사람들은 내가 미쳤다고 하지만, 두고 봐라. 모두에게 본때를 보여 주겠다."
+  },
+  {
+    "id": "TXT_SimsObjects_08892",
+    "source_sha256": "244ac2a6d8e1cf32eb263597e5b1e87a63ea838348016a39880ba1ed5a256b4d",
+    "ko": "소식을 듣고 병 편지를 보내지 않을 수 없었어. 아마존 존슨이 라마를 사칭해서 징역 5년을 받았다는 거 알아? 말도 안 돼!"
+  },
+  {
+    "id": "TXT_SimsObjects_08893",
+    "source_sha256": "018d47b5a25808bb81cbfe3b1b66e97306f86540df434d624aa78bd76cd2ee90",
+    "ko": "엔리코 거기 있어요? 엔리코? 엔리코, 최대한 빨리 어머니께 병 편지를 보내세요. 또 식물과 대화하고 계세요."
+  },
+  {
+    "id": "TXT_SimsObjects_08894",
+    "source_sha256": "845b8561aebdf09c8541b2f50180574d254cab1b5aa759275d147363c6cc8c59",
+    "ko": "무인도 체스 클럽."
+  },
+  {
+    "id": "TXT_SimsObjects_08933",
+    "source_sha256": "53cfbb53ecbc1afd1e6586362f1e0edac6c5014c2a8ffa1341aa54741f42449e",
+    "ko": "침팬지와 친구 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_08934",
+    "source_sha256": "8c61c0f5d4d9b94706af0be1fb5343802855571ed6b2984ada797ce6d8daa128",
+    "ko": "채집 부탁하기.../과일"
+  },
+  {
+    "id": "TXT_SimsObjects_08935",
+    "source_sha256": "18b3dcb53605b4d7877e93e2bd8c1f17f06a6228860eb51b67190288140d7d9e",
+    "ko": "채집 부탁하기.../베리"
+  },
+  {
+    "id": "TXT_SimsObjects_08936",
+    "source_sha256": "7af339b58f85015b699a5b4e987d781be780a78587c2ddd4f733137aa47bf9c1",
+    "ko": "채집 부탁하기.../채소"
+  },
+  {
+    "id": "TXT_SimsObjects_08937",
+    "source_sha256": "533f1fe9bfe6eeafdbf914f78f1a8c01bcf024bebe304848768310a0b9f508ce",
+    "ko": "채집 부탁하기.../목재"
+  },
+  {
+    "id": "TXT_SimsObjects_08938",
+    "source_sha256": "070732c9da160345fe11bc90bfc7080a9d10e0ac45ff5e8af453755aff02d0fb",
+    "ko": "채집 부탁하기.../잎"
+  },
+  {
+    "id": "TXT_SimsObjects_08939",
+    "source_sha256": "16d646da4454090dfc48e937761b0fe3cace5dcae1a7998d6db9dc91fc8587c3",
+    "ko": "채집 부탁하기.../덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_08941",
+    "source_sha256": "53cfbb53ecbc1afd1e6586362f1e0edac6c5014c2a8ffa1341aa54741f42449e",
+    "ko": "침팬지와 친구 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_08942",
+    "source_sha256": "8c61c0f5d4d9b94706af0be1fb5343802855571ed6b2984ada797ce6d8daa128",
+    "ko": "채집 부탁하기.../과일"
+  },
+  {
+    "id": "TXT_SimsObjects_08943",
+    "source_sha256": "18b3dcb53605b4d7877e93e2bd8c1f17f06a6228860eb51b67190288140d7d9e",
+    "ko": "채집 부탁하기.../베리"
+  },
+  {
+    "id": "TXT_SimsObjects_08944",
+    "source_sha256": "7af339b58f85015b699a5b4e987d781be780a78587c2ddd4f733137aa47bf9c1",
+    "ko": "채집 부탁하기.../채소"
+  },
+  {
+    "id": "TXT_SimsObjects_08945",
+    "source_sha256": "533f1fe9bfe6eeafdbf914f78f1a8c01bcf024bebe304848768310a0b9f508ce",
+    "ko": "채집 부탁하기.../목재"
+  },
+  {
+    "id": "TXT_SimsObjects_08946",
+    "source_sha256": "070732c9da160345fe11bc90bfc7080a9d10e0ac45ff5e8af453755aff02d0fb",
+    "ko": "채집 부탁하기.../잎"
+  },
+  {
+    "id": "TXT_SimsObjects_08947",
+    "source_sha256": "16d646da4454090dfc48e937761b0fe3cace5dcae1a7998d6db9dc91fc8587c3",
+    "ko": "채집 부탁하기.../덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_08957",
+    "source_sha256": "53cfbb53ecbc1afd1e6586362f1e0edac6c5014c2a8ffa1341aa54741f42449e",
+    "ko": "침팬지와 친구 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_08958",
+    "source_sha256": "8c61c0f5d4d9b94706af0be1fb5343802855571ed6b2984ada797ce6d8daa128",
+    "ko": "채집 부탁하기.../과일"
+  },
+  {
+    "id": "TXT_SimsObjects_08959",
+    "source_sha256": "18b3dcb53605b4d7877e93e2bd8c1f17f06a6228860eb51b67190288140d7d9e",
+    "ko": "채집 부탁하기.../베리"
+  },
+  {
+    "id": "TXT_SimsObjects_08960",
+    "source_sha256": "7af339b58f85015b699a5b4e987d781be780a78587c2ddd4f733137aa47bf9c1",
+    "ko": "채집 부탁하기.../채소"
+  },
+  {
+    "id": "TXT_SimsObjects_08961",
+    "source_sha256": "533f1fe9bfe6eeafdbf914f78f1a8c01bcf024bebe304848768310a0b9f508ce",
+    "ko": "채집 부탁하기.../목재"
+  },
+  {
+    "id": "TXT_SimsObjects_08962",
+    "source_sha256": "070732c9da160345fe11bc90bfc7080a9d10e0ac45ff5e8af453755aff02d0fb",
+    "ko": "채집 부탁하기.../잎"
+  },
+  {
+    "id": "TXT_SimsObjects_08963",
+    "source_sha256": "16d646da4454090dfc48e937761b0fe3cace5dcae1a7998d6db9dc91fc8587c3",
+    "ko": "채집 부탁하기.../덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_08965",
+    "source_sha256": "53cfbb53ecbc1afd1e6586362f1e0edac6c5014c2a8ffa1341aa54741f42449e",
+    "ko": "침팬지와 친구 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_08966",
+    "source_sha256": "8c61c0f5d4d9b94706af0be1fb5343802855571ed6b2984ada797ce6d8daa128",
+    "ko": "채집 부탁하기.../과일"
+  },
+  {
+    "id": "TXT_SimsObjects_08967",
+    "source_sha256": "18b3dcb53605b4d7877e93e2bd8c1f17f06a6228860eb51b67190288140d7d9e",
+    "ko": "채집 부탁하기.../베리"
+  },
+  {
+    "id": "TXT_SimsObjects_08968",
+    "source_sha256": "7af339b58f85015b699a5b4e987d781be780a78587c2ddd4f733137aa47bf9c1",
+    "ko": "채집 부탁하기.../채소"
+  },
+  {
+    "id": "TXT_SimsObjects_08969",
+    "source_sha256": "533f1fe9bfe6eeafdbf914f78f1a8c01bcf024bebe304848768310a0b9f508ce",
+    "ko": "채집 부탁하기.../목재"
+  },
+  {
+    "id": "TXT_SimsObjects_08970",
+    "source_sha256": "070732c9da160345fe11bc90bfc7080a9d10e0ac45ff5e8af453755aff02d0fb",
+    "ko": "채집 부탁하기.../잎"
+  },
+  {
+    "id": "TXT_SimsObjects_08971",
+    "source_sha256": "16d646da4454090dfc48e937761b0fe3cace5dcae1a7998d6db9dc91fc8587c3",
+    "ko": "채집 부탁하기.../덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_08973",
+    "source_sha256": "53cfbb53ecbc1afd1e6586362f1e0edac6c5014c2a8ffa1341aa54741f42449e",
+    "ko": "침팬지와 친구 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_08974",
+    "source_sha256": "8c61c0f5d4d9b94706af0be1fb5343802855571ed6b2984ada797ce6d8daa128",
+    "ko": "채집 부탁하기.../과일"
+  },
+  {
+    "id": "TXT_SimsObjects_08975",
+    "source_sha256": "18b3dcb53605b4d7877e93e2bd8c1f17f06a6228860eb51b67190288140d7d9e",
+    "ko": "채집 부탁하기.../베리"
+  },
+  {
+    "id": "TXT_SimsObjects_08976",
+    "source_sha256": "7af339b58f85015b699a5b4e987d781be780a78587c2ddd4f733137aa47bf9c1",
+    "ko": "채집 부탁하기.../채소"
+  },
+  {
+    "id": "TXT_SimsObjects_08977",
+    "source_sha256": "533f1fe9bfe6eeafdbf914f78f1a8c01bcf024bebe304848768310a0b9f508ce",
+    "ko": "채집 부탁하기.../목재"
+  },
+  {
+    "id": "TXT_SimsObjects_08978",
+    "source_sha256": "070732c9da160345fe11bc90bfc7080a9d10e0ac45ff5e8af453755aff02d0fb",
+    "ko": "채집 부탁하기.../잎"
+  },
+  {
+    "id": "TXT_SimsObjects_08979",
+    "source_sha256": "16d646da4454090dfc48e937761b0fe3cace5dcae1a7998d6db9dc91fc8587c3",
+    "ko": "채집 부탁하기.../덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_08985",
+    "source_sha256": "53cfbb53ecbc1afd1e6586362f1e0edac6c5014c2a8ffa1341aa54741f42449e",
+    "ko": "침팬지와 친구 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_08986",
+    "source_sha256": "8c61c0f5d4d9b94706af0be1fb5343802855571ed6b2984ada797ce6d8daa128",
+    "ko": "채집 부탁하기.../과일"
+  },
+  {
+    "id": "TXT_SimsObjects_08987",
+    "source_sha256": "18b3dcb53605b4d7877e93e2bd8c1f17f06a6228860eb51b67190288140d7d9e",
+    "ko": "채집 부탁하기.../베리"
+  },
+  {
+    "id": "TXT_SimsObjects_08988",
+    "source_sha256": "7af339b58f85015b699a5b4e987d781be780a78587c2ddd4f733137aa47bf9c1",
+    "ko": "채집 부탁하기.../채소"
+  },
+  {
+    "id": "TXT_SimsObjects_08989",
+    "source_sha256": "533f1fe9bfe6eeafdbf914f78f1a8c01bcf024bebe304848768310a0b9f508ce",
+    "ko": "채집 부탁하기.../목재"
+  },
+  {
+    "id": "TXT_SimsObjects_08990",
+    "source_sha256": "070732c9da160345fe11bc90bfc7080a9d10e0ac45ff5e8af453755aff02d0fb",
+    "ko": "채집 부탁하기.../잎"
+  },
+  {
+    "id": "TXT_SimsObjects_08991",
+    "source_sha256": "16d646da4454090dfc48e937761b0fe3cace5dcae1a7998d6db9dc91fc8587c3",
+    "ko": "채집 부탁하기.../덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_08993",
+    "source_sha256": "53cfbb53ecbc1afd1e6586362f1e0edac6c5014c2a8ffa1341aa54741f42449e",
+    "ko": "침팬지와 친구 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_08994",
+    "source_sha256": "8c61c0f5d4d9b94706af0be1fb5343802855571ed6b2984ada797ce6d8daa128",
+    "ko": "채집 부탁하기.../과일"
+  },
+  {
+    "id": "TXT_SimsObjects_08995",
+    "source_sha256": "18b3dcb53605b4d7877e93e2bd8c1f17f06a6228860eb51b67190288140d7d9e",
+    "ko": "채집 부탁하기.../베리"
+  },
+  {
+    "id": "TXT_SimsObjects_08996",
+    "source_sha256": "7af339b58f85015b699a5b4e987d781be780a78587c2ddd4f733137aa47bf9c1",
+    "ko": "채집 부탁하기.../채소"
+  },
+  {
+    "id": "TXT_SimsObjects_08997",
+    "source_sha256": "533f1fe9bfe6eeafdbf914f78f1a8c01bcf024bebe304848768310a0b9f508ce",
+    "ko": "채집 부탁하기.../목재"
+  },
+  {
+    "id": "TXT_SimsObjects_08998",
+    "source_sha256": "070732c9da160345fe11bc90bfc7080a9d10e0ac45ff5e8af453755aff02d0fb",
+    "ko": "채집 부탁하기.../잎"
+  },
+  {
+    "id": "TXT_SimsObjects_08999",
+    "source_sha256": "16d646da4454090dfc48e937761b0fe3cace5dcae1a7998d6db9dc91fc8587c3",
+    "ko": "채집 부탁하기.../덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_09010",
+    "source_sha256": "53cfbb53ecbc1afd1e6586362f1e0edac6c5014c2a8ffa1341aa54741f42449e",
+    "ko": "침팬지와 친구 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_09011",
+    "source_sha256": "b7aaa746141f286d6162fc2242a131ff4e30acde57dbfe5b51188a9bfdd9256c",
+    "ko": "채집 부탁하기.../코코넛"
+  },
+  {
+    "id": "TXT_SimsObjects_09137",
+    "source_sha256": "0d22304234cfb1ccfad699a45ab12a1f2011b6aacbfac04f1f2b149627e89eaa",
+    "ko": "섬을 떠나시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_09168",
+    "source_sha256": "ff1df961f4f4f2812209d6d2fab747d9a7255d9a31818e5758e3dbafcb613457",
+    "ko": "신체 기술이 부족해. 자원을 채집하거나 나무를 타거나 작살로 낚시하면 신체 기술을 기를 수 있어."
+  },
+  {
+    "id": "TXT_SimsObjects_09404",
+    "source_sha256": "97e9a34518a02d3d8ad397e002beee64714f472f4e726d24b7aaab1f604c7af4",
+    "ko": "침팬지 배달"
+  },
+  {
+    "id": "TXT_SimsObjects_09847",
+    "source_sha256": "a0e6d0dd6a1da4b0f1fa9a128d051f5e4d3682a85eccc4b508ea17880c95a201",
+    "ko": "축하합니다! $Neighbor의 부족 합류가 성사됐습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09853",
+    "source_sha256": "34ca04f1b627a4f27c70b4b57682d3f1dcfec0111744810802021000a573430e",
+    "ko": "$Neighbor의 부족 탈퇴가 이뤄졌습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10054",
+    "source_sha256": "2d0396d93b33de5a9951b3e75d2bcffc4e8fa9ffd771faa6e15043843677012b",
+    "ko": "안타깝게도 물고기 덫에서 자원을 회수하지 못했습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10056",
+    "source_sha256": "1678989dcbfed3a722b9def247bcce6e5e5a4df44403ee952701daee31c7ed26",
+    "ko": "이 지역에는 낚시할 곳이 없습니다. 다른 곳을 탐험해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10414",
+    "source_sha256": "a9177abb76fbd743c28cb105a9ad72be33797427abf695a5f81e6b35ecf74d59",
+    "ko": "부족 소집"
+  }
+]

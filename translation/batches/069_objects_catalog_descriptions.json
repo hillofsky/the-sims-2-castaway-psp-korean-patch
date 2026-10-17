@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "TXT_SimsObjects_03090",
+    "source_sha256": "48f7a880d1a5d82ce6c883527c3afcfbbe6584f16b51b11722b4dacda5559bcc",
+    "ko": "임시 대나무 소품 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03108",
+    "source_sha256": "48f7a880d1a5d82ce6c883527c3afcfbbe6584f16b51b11722b4dacda5559bcc",
+    "ko": "임시 대나무 소품 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03222",
+    "source_sha256": "fe3fb4ab4938a147f4e37bc89c3a795ac78ffbe21a99f667328aeded8a7cb609",
+    "ko": "진짜 가정부 다음으로 좋은 것은 가정부 조각상입니다. 하지만 생각해 보면 청소할 물건이 하나 더 늘어나는 셈이군요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03232",
+    "source_sha256": "9a476415b11334db1818a92062d901506b75114a9c7fbe9e15ca6b97fcf31a2a",
+    "ko": "석비"
+  },
+  {
+    "id": "TXT_SimsObjects_03249",
+    "source_sha256": "189ced4a86fae0716cc838a53e091d3f0778666a6e7880ed6b2c62b6a0ebde64",
+    "ko": "튼튼한 대나무 틀과 갈매기 솜털을 채운 푹신한 윗부분 덕에 집에서 쓰던 침대보다 편할지도 모릅니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_03258",
+    "source_sha256": "e44df125c8c8d25127c0cfd95c10d11432069c2b1776a21ac0902ca183cd1deb",
+    "ko": "장기 표류자 열 명 중 아홉 명은 믿을 만한 잠자리가 생존의 비결이라고 말합니다. 당신도 그들을 따르는 편이 현명합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03261",
+    "source_sha256": "18db70b1bf09c3734e97184a5e3f38bffaca2771e3c54f8202fc3f758e2fedb0",
+    "ko": "대나무와 야자 잎을 얼기설기 엮은 이 둥지조차 차디찬 모래 위에서 뒤척이며 밤을 보내는 것보다는 낫습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_03267",
+    "source_sha256": "b134f898e9533ec4f0605e5f529f6d647c6f14c8c2ae3e52ef74976aa1c4b155",
+    "ko": "사람은 평생의 3분의 1을 잠으로 보낸다지요. 이 침대가 그 목표에 가까워지도록 도와줄지도 모릅니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03272",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03273",
+    "source_sha256": "05df57ce6d764b95976c8290b9e22ff8703b19a739b00c0e094f4598983feac9",
+    "ko": "임시 - 책 - 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03274",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03275",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03276",
+    "source_sha256": "05df57ce6d764b95976c8290b9e22ff8703b19a739b00c0e094f4598983feac9",
+    "ko": "임시 - 책 - 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03277",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03278",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03279",
+    "source_sha256": "05df57ce6d764b95976c8290b9e22ff8703b19a739b00c0e094f4598983feac9",
+    "ko": "임시 - 책 - 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03280",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03281",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03282",
+    "source_sha256": "05df57ce6d764b95976c8290b9e22ff8703b19a739b00c0e094f4598983feac9",
+    "ko": "임시 - 책 - 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03283",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03284",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03285",
+    "source_sha256": "05df57ce6d764b95976c8290b9e22ff8703b19a739b00c0e094f4598983feac9",
+    "ko": "임시 - 책 - 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03286",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03287",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03288",
+    "source_sha256": "05df57ce6d764b95976c8290b9e22ff8703b19a739b00c0e094f4598983feac9",
+    "ko": "임시 - 책 - 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03289",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03290",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03291",
+    "source_sha256": "05df57ce6d764b95976c8290b9e22ff8703b19a739b00c0e094f4598983feac9",
+    "ko": "임시 - 책 - 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03292",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03293",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03294",
+    "source_sha256": "05df57ce6d764b95976c8290b9e22ff8703b19a739b00c0e094f4598983feac9",
+    "ko": "임시 - 책 - 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03295",
+    "source_sha256": "909cb81127c5e1944b16dc5944ade59facb822c7a3f250d1f0256293bfd3c055",
+    "ko": "책"
+  },
+  {
+    "id": "TXT_SimsObjects_03301",
+    "source_sha256": "657e80b5a1eaaa69bfee9cbab263f7f72bc4047f6f67f44b7f216bc3daf8475b",
+    "ko": "식탁 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03304",
+    "source_sha256": "657e80b5a1eaaa69bfee9cbab263f7f72bc4047f6f67f44b7f216bc3daf8475b",
+    "ko": "식탁 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03306",
+    "source_sha256": "98720fee5a8ea2e0a274c99192fc50c5e6bbd8c333f36d7041373a863234cf86",
+    "ko": "이 의자의 디자인은 식탁 의자 양식의 제N시대를 비스듬히 기리는 작품입니다. 자세한 내용은 상상의 그림 6a를 참조하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_03307",
+    "source_sha256": "657e80b5a1eaaa69bfee9cbab263f7f72bc4047f6f67f44b7f216bc3daf8475b",
+    "ko": "식탁 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03310",
+    "source_sha256": "657e80b5a1eaaa69bfee9cbab263f7f72bc4047f6f67f44b7f216bc3daf8475b",
+    "ko": "식탁 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03313",
+    "source_sha256": "5098686b85ba279fcec722c98606a2b87df30abf81f1441d9abe19e239a5dea1",
+    "ko": "편안한 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03315",
+    "source_sha256": "737011b69f21e7f9692ff7febb92628f0c03800f27b26cd63c4a1a684f0cb9d8",
+    "ko": "사용법: 1단계 - 사용자의 엉덩이를 의자에 놓습니다. 2단계 - 의자를 즐깁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03316",
+    "source_sha256": "5098686b85ba279fcec722c98606a2b87df30abf81f1441d9abe19e239a5dea1",
+    "ko": "편안한 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03319",
+    "source_sha256": "5098686b85ba279fcec722c98606a2b87df30abf81f1441d9abe19e239a5dea1",
+    "ko": "편안한 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03322",
+    "source_sha256": "5098686b85ba279fcec722c98606a2b87df30abf81f1441d9abe19e239a5dea1",
+    "ko": "편안한 의자"
+  },
+  {
+    "id": "TXT_SimsObjects_03323",
+    "source_sha256": "bd562817b4ee1bf996bf51ba2242bff2368bc671025cbe74ca6223ac1f678826",
+    "ko": "라마 왕의 왕좌"
+  },
+  {
+    "id": "TXT_SimsObjects_03324",
+    "source_sha256": "ce88226895f31bfb5dd992ad0707589da59f4c9991501cc3ee3560cd0e9f94b5",
+    "ko": "라마 왕의 왕좌는 놀랍도록 상태가 좋지만 허리를 받쳐 주는 기능은 부족합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03325",
+    "source_sha256": "6dbab06de374a81931530a01ed23d73b3474a5deca5c4828ca7f6511724400bc",
+    "ko": "왕좌"
+  },
+  {
+    "id": "TXT_SimsObjects_03326",
+    "source_sha256": "d91f6b0714ceed4b49fe70c222e288979ab3d2f5bf1c1855adc037a0605deb78",
+    "ko": "임시 걸상"
+  },
+  {
+    "id": "TXT_SimsObjects_03328",
+    "source_sha256": "1dbc3ddb7320b7fe39dde6d2bf4a9b3c631691dfb350d23aa7b590524b09d6d6",
+    "ko": "걸상"
+  },
+  {
+    "id": "TXT_SimsObjects_03329",
+    "source_sha256": "783755a1a607244454c0099f631b8b59e42ce08034ec3a321b25d745d1c7caae",
+    "ko": "임시 해적 수염수염의 보물 상자"
+  },
+  {
+    "id": "TXT_SimsObjects_03330",
+    "source_sha256": "783755a1a607244454c0099f631b8b59e42ce08034ec3a321b25d745d1c7caae",
+    "ko": "임시 해적 수염수염의 보물 상자"
+  },
+  {
+    "id": "TXT_SimsObjects_03331",
+    "source_sha256": "7c1742278e3d3ed50f89517b9d2f08c10e847ae7f1428e425abe77513e616f7f",
+    "ko": "해적 수염수염의 보물 상자"
+  },
+  {
+    "id": "TXT_SimsObjects_03338",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03339",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03340",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03341",
+    "source_sha256": "a2ab003f4635c43b4415bdfc85869d11890829730e4a9af5273dcaa9b5f85b09",
+    "ko": "방문자 제어기"
+  },
+  {
+    "id": "TXT_SimsObjects_03343",
+    "source_sha256": "4b1a7165ec41f46a0665213cd15c680ff4914c52b3c3c4e89ae7343148357855",
+    "ko": "방문 규칙"
+  },
+  {
+    "id": "TXT_SimsObjects_03353",
+    "source_sha256": "a2ab003f4635c43b4415bdfc85869d11890829730e4a9af5273dcaa9b5f85b09",
+    "ko": "방문자 제어기"
+  },
+  {
+    "id": "TXT_SimsObjects_03355",
+    "source_sha256": "4b1a7165ec41f46a0665213cd15c680ff4914c52b3c3c4e89ae7343148357855",
+    "ko": "방문 규칙"
+  },
+  {
+    "id": "TXT_SimsObjects_03356",
+    "source_sha256": "0478832eaf50ec9ccf39b0b1b846391d9e667e10a365ebfbe29319f7ef3d2ae3",
+    "ko": "날씨의 신"
+  },
+  {
+    "id": "TXT_SimsObjects_03357",
+    "source_sha256": "0478832eaf50ec9ccf39b0b1b846391d9e667e10a365ebfbe29319f7ef3d2ae3",
+    "ko": "날씨의 신"
+  },
+  {
+    "id": "TXT_SimsObjects_03358",
+    "source_sha256": "0478832eaf50ec9ccf39b0b1b846391d9e667e10a365ebfbe29319f7ef3d2ae3",
+    "ko": "날씨의 신"
+  },
+  {
+    "id": "TXT_SimsObjects_03359",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03360",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03361",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03374",
+    "source_sha256": "39a3db8330d61a4f226ed2308655bc994480702a7d71fa9835fed85c3420c447",
+    "ko": "망가진 대장간"
+  },
+  {
+    "id": "TXT_SimsObjects_03375",
+    "source_sha256": "d9a05493c53f085da1614e13a55be452033d23c833922f1367205e006cb21933",
+    "ko": "임시 망가진 대장간 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03376",
+    "source_sha256": "39a3db8330d61a4f226ed2308655bc994480702a7d71fa9835fed85c3420c447",
+    "ko": "망가진 대장간"
+  },
+  {
+    "id": "TXT_SimsObjects_03377",
+    "source_sha256": "8899ecd1626db63dd12b9c57879efda72a1a78a21b498e943c07229dedc09ea7",
+    "ko": "대장간"
+  },
+  {
+    "id": "TXT_SimsObjects_03378",
+    "source_sha256": "9430dbeb126bac37f63263f449d9d8ab653078678af8e073aabef56908470228",
+    "ko": "임시 대장간 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03379",
+    "source_sha256": "8899ecd1626db63dd12b9c57879efda72a1a78a21b498e943c07229dedc09ea7",
+    "ko": "대장간"
+  },
+  {
+    "id": "TXT_SimsObjects_03380",
+    "source_sha256": "03f9221857dc1024a6edf049746ad43c5ff6c86583e219ef38098b6383d8e664",
+    "ko": "돌 두 개"
+  },
+  {
+    "id": "TXT_SimsObjects_03381",
+    "source_sha256": "b2cfa08972b88f0505eafa542a70b04c742c1afd0398ea924b3adb9366c35c0b",
+    "ko": "임시 돌 하나보다 좋은 건 무엇일까요? 돌 스무 개입니다! 하지만 스무 개를 구할 수 없다면 두 개로 만족해야겠지요. 이 돌들을 서로 부딪치거나 발가락을 찧는 데 쓰는 것 말고도 다른 용도가 있으리라는 원초적 충동이 느껴집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03382",
+    "source_sha256": "03f9221857dc1024a6edf049746ad43c5ff6c86583e219ef38098b6383d8e664",
+    "ko": "돌 두 개"
+  },
+  {
+    "id": "TXT_SimsObjects_03384",
+    "source_sha256": "d2af5c8c0bc6ba446e3b691847c5ee94a7e1a8e8ecd8435726d8936b9ee0edce",
+    "ko": "임시 스웨덴 디자인 회사 이슬란드크라프텐의 우아한 작업대입니다. 이 섬 저 섬 누비는 당신의 생활에 필요한 원시 도구라면 무엇이든 만들 수 있을 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03389",
+    "source_sha256": "ce448349ada9289b7427bb128b2ef03e101b6551a805032db0402979c26556a4",
+    "ko": "떠밀려 온 상자"
+  },
+  {
+    "id": "TXT_SimsObjects_03390",
+    "source_sha256": "2e244136f58e84fe95f1497223eb27fcb35b415b564caee07b38492c3672dfb1",
+    "ko": "유난히 엉뚱했던 1960년대 시트콤에 따르면 떠밀려 온 상자에는 무대 의상부터 방사성 씨앗까지 무엇이든 들어 있을 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03391",
+    "source_sha256": "ef90fcddc4f05f0101c43667f9a898edb9da4511f88883b553c5a140137456f0",
+    "ko": "상자"
+  },
+  {
+    "id": "TXT_SimsObjects_03392",
+    "source_sha256": "c02c9e8ac530f007dcb05915fc0e114aa9d3f3d11be08049e9c48c3be312512e",
+    "ko": "흙밭"
+  },
+  {
+    "id": "TXT_SimsObjects_03393",
+    "source_sha256": "d808716364939aebd3053d32968b4bff2e23dd0bdc7bca63a02b90adfee1c6c8",
+    "ko": "경작할 수 있는 흙에는 식물에게 소중한 영양분이 풍부하게 들어 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03394",
+    "source_sha256": "032b5a60d38e3fc05748e9c836789fbe3dbad338ecd16e7330d8b62b048febb1",
+    "ko": "흙"
+  },
+  {
+    "id": "TXT_SimsObjects_03395",
+    "source_sha256": "0c3b7112d31c4adacbba2717606ff74ad986ad38b58197c47f7cf77fe69fe1c8",
+    "ko": "임시 목적지"
+  },
+  {
+    "id": "TXT_SimsObjects_03396",
+    "source_sha256": "615092451de2bf9776b7e71b02f5eabd96bd175a3367f7e33a9183561a8f3a0c",
+    "ko": "임시 여기로 가기."
+  },
+  {
+    "id": "TXT_SimsObjects_03440",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03441",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03442",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03443",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03444",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03445",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03539",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03540",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03541",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03551",
+    "source_sha256": "2d6b2a39a5a97ae09a9a512b9396a2697c1d75917ed6b69cf89e07ca5cf4eb74",
+    "ko": "임시 오두막 견본 01"
+  },
+  {
+    "id": "TXT_SimsObjects_03552",
+    "source_sha256": "dd00b6449036fccf2ff15e5cf95043674575869d0cd0b848ed07531825f91bc7",
+    "ko": "임시 오두막 견본 01 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03553",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03554",
+    "source_sha256": "29b2564b31c6ed809cdbf1f3350eff0204a054a57eb24de2066d98354cb6bcc6",
+    "ko": "임시 오두막 견본 02"
+  },
+  {
+    "id": "TXT_SimsObjects_03555",
+    "source_sha256": "4ed1b7a57b72ea378e1bbfbf0a9df0bca878323553d176cbd2bf5bd421395624",
+    "ko": "임시 오두막 견본 02 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03556",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03557",
+    "source_sha256": "9c3b94f24f59dd47e2651bcc28288fff65a759a492e99dca25a8e1a17263d344",
+    "ko": "임시 오두막 견본 03"
+  },
+  {
+    "id": "TXT_SimsObjects_03558",
+    "source_sha256": "0dd5627464fd94fb2f5c888411118526822e28ca692daab28dad397f9742f69b",
+    "ko": "임시 오두막 견본 03 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03559",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03560",
+    "source_sha256": "d0ddc859e5f84dc88f5b2b59626647a200a4228e482e3cb0c03ae07cb35e15a7",
+    "ko": "임시 오두막 견본 04"
+  },
+  {
+    "id": "TXT_SimsObjects_03561",
+    "source_sha256": "fefa47bd89d6db6792daab5d42402257c8551177c543869e8cd2f4efa4f9cff7",
+    "ko": "임시 오두막 견본 04 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03562",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03563",
+    "source_sha256": "05d7fcaacd3211a06b3b455cc453ba27ed7e0a7a7f53adfdb3bb8905f4b63ebb",
+    "ko": "임시 오두막 견본 05"
+  },
+  {
+    "id": "TXT_SimsObjects_03564",
+    "source_sha256": "d696307ece3b3402e9c8bf6bf73e1fa3baee14961df4f10e911d56cbc0e2ad7c",
+    "ko": "임시 오두막 견본 05 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03565",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03566",
+    "source_sha256": "05d7fcaacd3211a06b3b455cc453ba27ed7e0a7a7f53adfdb3bb8905f4b63ebb",
+    "ko": "임시 오두막 견본 05"
+  },
+  {
+    "id": "TXT_SimsObjects_03567",
+    "source_sha256": "d696307ece3b3402e9c8bf6bf73e1fa3baee14961df4f10e911d56cbc0e2ad7c",
+    "ko": "임시 오두막 견본 05 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03568",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03569",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03570",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03571",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03572",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03573",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03574",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03575",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03576",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03577",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03578",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03579",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03580",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03581",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03582",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03583",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03584",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03585",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03586",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03587",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03588",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03589",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03590",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03591",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03592",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03593",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03594",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03595",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03596",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03597",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03598",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03599",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03600",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03601",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03602",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03603",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03604",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03605",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03606",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03607",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03608",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03609",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03610",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03611",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03612",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03613",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03614",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03615",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03616",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03617",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03618",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03619",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03620",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03621",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03622",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_03680",
+    "source_sha256": "f963436a15935b4685f617c366ef892b92672616222f360e8721c041fd9e9050",
+    "ko": "임시 돌 벽등"
+  },
+  {
+    "id": "TXT_SimsObjects_03681",
+    "source_sha256": "c2f6d9aa169289b21da9344b6c646999cd59e6fdd5207b1a2df527cd560ca1ed",
+    "ko": "임시 돌 벽등 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03684",
+    "source_sha256": "d5c314ea6acd2ece35a60842ffab51d52a12217c1a3927a1a3a1b744b3ba6581",
+    "ko": "라마 왕관 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03692",
+    "source_sha256": "b69254643c03e8deeff8bb357368b79454114513070c84da11f1183a0581145f",
+    "ko": "임시 보물 지도"
+  },
+  {
+    "id": "TXT_SimsObjects_03701",
+    "source_sha256": "48be99658edf2b2b874c5ad818dc51c60cd7123f9affa149db756d16c15f8d75",
+    "ko": "NPC 제어기"
+  },
+  {
+    "id": "TXT_SimsObjects_03702",
+    "source_sha256": "48be99658edf2b2b874c5ad818dc51c60cd7123f9affa149db756d16c15f8d75",
+    "ko": "NPC 제어기"
+  },
+  {
+    "id": "TXT_SimsObjects_03728",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03729",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03730",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03731",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03732",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03733",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_03755",
+    "source_sha256": "9a8ceab9683bac4a4ac3ba09ae5f3c4d10c145742ccd6c741463576bb916a932",
+    "ko": "코니 아일랜드 재활용 핫도그"
+  },
+  {
+    "id": "TXT_SimsObjects_03756",
+    "source_sha256": "4f34fc995833005aeac22aaf3d074d1da8aefa1046c8289a1a98e4eb4899f441",
+    "ko": "코니 아일랜드 제약은 핫도그 수요를 잘못 예측해 남은 제품을 애리조나 사막에 묻어야 했습니다. 수년 뒤 고고학자들이 핫도그를 발굴했을 때 음식은 완벽하게 멀쩡했습니다. 그들은 이 대부분 먹을 만한 핫도그를 애완동물 가게와 마이너리그 야구장에 팔았습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03758",
+    "source_sha256": "169c5fbcd3b52a9f6010686ca6721e54cfd28f68339a9682199bbba2d9c20b21",
+    "ko": "드룰즈사의 뉴지 우지"
+  },
+  {
+    "id": "TXT_SimsObjects_03759",
+    "source_sha256": "d6f526b5bab30e7656b7d59cce77916e447f34f5490299beeb7f41c6c32a7c7f",
+    "ko": "특허받은 삼중 음색 삑삑이 기술의 원조, 뉴지 우지. 뉴스에서 삑삑 소리가 나길 바라는 이들이 선택하는 장난감입니다. \"여왕 또는 대통령이 역대 최고의 장난감이라고 극찬!\", \"드룰즈사 장난감을 더 사세요!\" 같은 표제를 즐겨 보세요. 세련되고 시의적절한 뉴지 우지입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03767",
+    "source_sha256": "4303b9701f3bbd26585e939fec0a3284716e6886581a2052f0f0e9b0bce83005",
+    "ko": "드룰즈사의 츄이 슈이\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03768",
+    "source_sha256": "fe734ec23aeac0cea8243ff2c9dc5fcce85d1073e293347b05554dd88258414f",
+    "ko": "원래 군에서 개발한 츄이 슈이는 전장에서 쓸모가 없었습니다. 하지만 군견들은 이 신발을 몹시 좋아하며 신나게 씹었고, 군용급 씹기 장난감 시장이 탄생했습니다. 군이 열가소성 수지 사용을 완전히 포기하자 이 장난감들은 시장으로 흘러나와 수십 년 동안 반려동물들에게 기쁨을 선사했습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03785",
+    "source_sha256": "9de7fe12f767f9a793bc5bffe4266376480ca1c7b6b9a4142c5e8da425da3350",
+    "ko": "임시 아우디투스 글라디올라스"
+  },
+  {
+    "id": "TXT_SimsObjects_03786",
+    "source_sha256": "43f60f74d7062956dbb016cceeaf390f0e68a106bddd4f7b0b301b34298f2eed",
+    "ko": "임시 듣는 꽃이라고도 하는 아우디투스 글라디올라스는 사람 목소리로 자라며 살아남으려면 큰 소리의 대화가 많이 필요합니다. 돈, 가족, 집안일 같은 사소한 문제로 대놓고 다투는 부부에게 제격입니다. 참고: 꽃이 피면 탄 루트비어와 비슷한 냄새가 납니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03812",
+    "source_sha256": "63df584ade771b5221ca8cc083d373ee0903ebd45ad50a29a091c0dae7898e60",
+    "ko": "임시 - 온천"
+  },
+  {
+    "id": "TXT_SimsObjects_03813",
+    "source_sha256": "d7ff8e6c2866d017ddcbd268a435ed5c81b171db074cd45010f8f89fadd2485e",
+    "ko": "임시 먼 나라의 천연 온천에서 쉬는 꿈을 꾸면서도 뒷마당 밖으로 나가기가 너무 무섭다면 '피츠로이 드리머스' 바위 수영장이 제격입니다. 재현된 이 야외 수영장에서 네 명이 편히 쉬며 돌, 나뭇가지, 부식토에 관해 신나는 대화를 나눌 수 있습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03833",
+    "source_sha256": "865979205febdb6cdbb0b95a878f64babc00a6890d103cfd0ba7da7dc4644537",
+    "ko": "강력한 샤워"
+  },
+  {
+    "id": "TXT_SimsObjects_03834",
+    "source_sha256": "d2b340f0ea17b1aabb76f342a016558b37d9ef34a2cc5e66346a1a81de7c85d7",
+    "ko": "세 방향 샤워 헤드. 탈취 비누 받침. 머리카락 뭉치 처리 장치. 개인별 수온 기억 기능. 당신에게는 평범하고 낡은 샤워기 이상의 것이 어울립니다. 온몸의 위생을 폭발적으로 끌어올리는 격렬한 체험을 누리세요. 강력한 샤워. 이것은 샤워를 넘어선 운명입니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03836",
+    "source_sha256": "a8b7b8d2f8248c0e90af75b033b8cb88016ff8733886d8deeff18dcdab9f7885",
+    "ko": "쇼휴리스틱 위생 시스템"
+  },
+  {
+    "id": "TXT_SimsObjects_03837",
+    "source_sha256": "c018117305c691d722627d03f868deb59f74371d56b213098bbdcefaac609cac",
+    "ko": "시행착오를 통해 차원이 다른 청결함을 발견하세요. 마이크로프로세서가 들어오는 몸의 때를 추정하고 최대의 위생 효과를 위해 수량과 수압을 조절합니다. 가끔 고장 날 수 있으며, 오히려 권장합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03842",
+    "source_sha256": "02c9b79413f0c8a931c7db679a2a680a1ef0926562b61bf7428144530effcf73",
+    "ko": "주방 싱크대"
+  },
+  {
+    "id": "TXT_SimsObjects_03843",
+    "source_sha256": "597694f2bbad21b517fd2ce16d729a441a0958eca3dd074fd1a75515cb8937e5",
+    "ko": "\"주방 싱크대만 빼고 전부\"라는 말을 아시나요? 이런 물건이 얼마나 중요한지 보여 주는 표현입니다. 주방 싱크대만 남기고 모든 것을 잃더라도, 세상에, 적어도 설거지는 할 수 있잖아요!"
+  },
+  {
+    "id": "TXT_SimsObjects_03845",
+    "source_sha256": "30b1085f1de4b0846f6dc238bba21deede36a676c82fe910a6a419dc9353f9bd",
+    "ko": "하이드로노믹 주방 싱크대"
+  },
+  {
+    "id": "TXT_SimsObjects_03846",
+    "source_sha256": "476133fa3f03d1fdeccaec7cf321f2d735a57f480d748046f6fb1c9a50278507",
+    "ko": "싱크대는 거의 필수품이며 짐승 같은 본능이 남기는 오염으로부터 우리를 지켜 줍니다. 심은 이 경제적인 금속 제품으로 손과 그릇을 씻을 수 있습니다. 특수 폴리 래칫 구조 덕에 하이드로노믹은 어떤 주방 조리대에도 끼워 넣을 수 있습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03848",
+    "source_sha256": "7d09bb191e0b98487c462b0380abef5a7a75a8e0816ed4820ad1e38378264f46",
+    "ko": "클레이모어 도자기 세면대"
+  },
+  {
+    "id": "TXT_SimsObjects_03849",
+    "source_sha256": "72dc719f27f6931fbe01d509c6beb74bc123f46fa6a676a6f884bcd170eec86d",
+    "ko": "일부 욕실 설비 제조사는 화려한 항진균 액체와 비싼 합금으로 서로 경쟁합니다. 하지만 우리는 좋은 디자인은 단순하고 영원하다고 믿습니다. 법랑을 입힌 내화 점토 도자기 세면대는 매우 튼튼하며 대부분의 의료용 용제와 산에 강합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03861",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03864",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03870",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03873",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03885",
+    "source_sha256": "89298997e830299892fcc653587c72ac8016722f819344ad19c012d4913c242f",
+    "ko": "임시 가시덤불 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03887",
+    "source_sha256": "db2c33c5b8b13f304a28051cd8af789a384880e389d7b9e988cbf56242576256",
+    "ko": "임시 부서진 계단 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03888",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03890",
+    "source_sha256": "db2c33c5b8b13f304a28051cd8af789a384880e389d7b9e988cbf56242576256",
+    "ko": "임시 부서진 계단 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03891",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03893",
+    "source_sha256": "41d45b7c3f46dd9a3000ac21caf6a9be222217ed4c96ec6a261875a65ca4e930",
+    "ko": "임시 협곡 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03894",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03896",
+    "source_sha256": "e8af1d63817bf616bf44f6d553e1d81f3fb2ffcb4a7950a2b515f7b2593b24d1",
+    "ko": "임시 동굴 통로 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03897",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03899",
+    "source_sha256": "e8af1d63817bf616bf44f6d553e1d81f3fb2ffcb4a7950a2b515f7b2593b24d1",
+    "ko": "임시 동굴 통로 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03900",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03902",
+    "source_sha256": "ad1201416de9240a999725084e1aa7c494f7b1569bd2d6f0bc31b4d2dcbe8431",
+    "ko": "임시 절벽 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03903",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03905",
+    "source_sha256": "82ecc45898c66ba8feac598aa08154198ea578d0effb16ca8f115c2be6ed935d",
+    "ko": "임시 다이빙대 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03906",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03911",
+    "source_sha256": "889280c9cb939fb35371c698d419487ba613bf3ef5fc56fad601a7a85d468355",
+    "ko": "임시 밧줄 매는 기둥 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03912",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03914",
+    "source_sha256": "889280c9cb939fb35371c698d419487ba613bf3ef5fc56fad601a7a85d468355",
+    "ko": "임시 밧줄 매는 기둥 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03915",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03917",
+    "source_sha256": "889280c9cb939fb35371c698d419487ba613bf3ef5fc56fad601a7a85d468355",
+    "ko": "임시 밧줄 매는 기둥 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03918",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03920",
+    "source_sha256": "889280c9cb939fb35371c698d419487ba613bf3ef5fc56fad601a7a85d468355",
+    "ko": "임시 밧줄 매는 기둥 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03921",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03923",
+    "source_sha256": "889280c9cb939fb35371c698d419487ba613bf3ef5fc56fad601a7a85d468355",
+    "ko": "임시 밧줄 매는 기둥 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03924",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03927",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03930",
+    "source_sha256": "26354641f6930f0cd344e01caf9cc271b6f491e2330a08953acf0bacfdbb5f0f",
+    "ko": "임시 밧줄 다리 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03932",
+    "source_sha256": "81fbe8452f7ae569cfb3070726f797785eb58df8da4db6f1bc92afce864b1312",
+    "ko": "임시 비밀 문 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03933",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03935",
+    "source_sha256": "ae81da867cc10801d7f36a79aa384aaf373b6ec6a53ab88d2abdd834a8f8efce",
+    "ko": "임시 라마 사원 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03936",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03938",
+    "source_sha256": "8d76a144fcf974389d1d02c6d4defe3310bc2324d342eb4abe278f409e01652a",
+    "ko": "임시 비밀 통로 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03939",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03941",
+    "source_sha256": "b1a3adf4f33d1d3030b1dd30887f3893a2c5d958d107d515a351522d59fda2e6",
+    "ko": "임시 비밀 통로 출구 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03942",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03947",
+    "source_sha256": "6da53b44641b95de1a55106c63eaf7a587e38ebc726ec1a5aada8225ad17d629",
+    "ko": "임시 해골 바위 만 쪽 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03948",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03950",
+    "source_sha256": "947a9d041eebac4bd449f87e717897c3cea24e4cfc9ab8ffdf140db8ba85f900",
+    "ko": "임시 해골 바위 정글 쪽 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03951",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03953",
+    "source_sha256": "30d8575ffe42ff6e3e5b54bbde4b004e4ef5f69711df706e6b434fc74528819e",
+    "ko": "임시 증기 분출구 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03954",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03957",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03959",
+    "source_sha256": "99f8bce7708effb6a49d28635a501b6dd9a7c24c76f96f547cfcc103fabfe0e4",
+    "ko": "임시 정상 등반 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03960",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03962",
+    "source_sha256": "99f8bce7708effb6a49d28635a501b6dd9a7c24c76f96f547cfcc103fabfe0e4",
+    "ko": "임시 정상 등반 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03963",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_03990",
+    "source_sha256": "575c3a158148c5fdc14db06c86051f3871b5df44925d68c1333e3a48adaf02fa",
+    "ko": "임시 ???"
+  },
+  {
+    "id": "TXT_SimsObjects_03993",
+    "source_sha256": "83584fd52262164f9087c3e679789d337306e014f94629d613577e3d9dcff7b2",
+    "ko": "임시 아보카도 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03996",
+    "source_sha256": "575c3a158148c5fdc14db06c86051f3871b5df44925d68c1333e3a48adaf02fa",
+    "ko": "임시 ???"
+  },
+  {
+    "id": "TXT_SimsObjects_04014",
+    "source_sha256": "575c3a158148c5fdc14db06c86051f3871b5df44925d68c1333e3a48adaf02fa",
+    "ko": "임시 ???"
+  },
+  {
+    "id": "TXT_SimsObjects_04056",
+    "source_sha256": "575c3a158148c5fdc14db06c86051f3871b5df44925d68c1333e3a48adaf02fa",
+    "ko": "임시 ???"
+  },
+  {
+    "id": "TXT_SimsObjects_04092",
+    "source_sha256": "575c3a158148c5fdc14db06c86051f3871b5df44925d68c1333e3a48adaf02fa",
+    "ko": "임시 ???"
+  },
+  {
+    "id": "TXT_SimsObjects_04176",
+    "source_sha256": "a87ca7b5eae45acb3bb9530abfd08cd9a67cd73341f980d8754d46ed448282d7",
+    "ko": "임시  "
+  },
+  {
+    "id": "TXT_SimsObjects_04182",
+    "source_sha256": "dae9be149cc827d22a355ed9182051a1f35960cd4f11eec721a76838f1c99d1d",
+    "ko": "임시 "
+  },
+  {
+    "id": "TXT_SimsObjects_04190",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04191",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04192",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04193",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04194",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04196",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04197",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04199",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04200",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04202",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04203",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04208",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04209",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04333",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04334",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04335",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04339",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04340",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04341",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04342",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04343",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04344",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_04442",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_04445",
+    "source_sha256": "77d7db776c4f23d459633eb73548c23657289e808a7bb51a814afc5e6595b061",
+    "ko": "임시 설명 (임시)"
+  },
+  {
+    "id": "TXT_SimsObjects_05168",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_05169",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_05170",
+    "source_sha256": "b969079f888367325aef6037380aa9c3e27e34fc8e90eaaab1e0b4a0218f7928",
+    "ko": "임시"
+  },
+  {
+    "id": "TXT_SimsObjects_05357",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05358",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05359",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05360",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05361",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05362",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05363",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05364",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05365",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05366",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05367",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05368",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05369",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05370",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05371",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05372",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05373",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05374",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05375",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05376",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05377",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05378",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05379",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05380",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05381",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05382",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05383",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05384",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05385",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05386",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05387",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05388",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05389",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05390",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05391",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05392",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05393",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05394",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05395",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05396",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05397",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05398",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05399",
+    "source_sha256": "be8c944c747179607477418e8de60739246ec3cf260641062943cb4707c84eb1",
+    "ko": "임시 - 오두막 견본"
+  },
+  {
+    "id": "TXT_SimsObjects_05400",
+    "source_sha256": "28084e9d634f2abeea604863d0a6cfb511f4c3e5ac9046826776d2059eb45707",
+    "ko": "임시 - 오두막 견본 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05401",
+    "source_sha256": "d83d1a94de86616e91c17a1e584c12744b84833139b39e67934a65d12c97e516",
+    "ko": "임시 오두막 견본"
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "updated": "2026-10-17T15:13:42.589142+09:00",
+  "rows": 16550,
+  "counts": {
+    "translated_draft": 13430,
+    "blank_preserved": 2912,
+    "technical_literal_preserved": 15,
+    "symbol_or_markup_preserved": 48,
+    "character_data_preserved": 145
+  },
+  "resources": {
+    "SimsObjects": {
+      "translated_draft": 10179,
+      "blank_preserved": 2667,
+      "technical_literal_preserved": 15,
+      "symbol_or_markup_preserved": 2
+    },
+    "SimsTiles": {
+      "translated_draft": 104
+    },
+    "CreateASim": {
+      "translated_draft": 26,
+      "blank_preserved": 4
+    },
+    "urbzui": {
+      "translated_draft": 2565,
+      "blank_preserved": 173,
+      "symbol_or_markup_preserved": 46,
+      "character_data_preserved": 145
+    },
+    "SimsCareers": {
+      "translated_draft": 556,
+      "blank_preserved": 68
+    }
+  },
+  "required_non_ascii_characters": 1224,
+  "supplemental_drafts": 52,
+  "movie_caption_drafts": 1,
+  "identified_text_first_draft_complete": true,
+  "image_decisions": {
+    "OFFICIAL_BUTTON_LABEL_PRESERVED": 59,
+    "CONTACT_SURVEY_NO_TRANSLATABLE_TEXT": 3278,
+    "BRAND_LOCKUP_PRESERVED": 24,
+    "OTHER_LOCALE_PRESERVED": 6,
+    "DRAFT": 8,
+    "TECHNICAL_CODE_PRESERVED": 1,
+    "DECORATIVE_MICROPRINT_PRESERVED": 2,
+    "CLOSEUP_NO_TRANSLATABLE_TEXT": 1
+  },
+  "all_assets_translated": false,
+  "runtime": "NOT_TESTED_USER_OWNS_QA",
+  "note": "All identified linguistic rows have drafts; blank/character/symbol/technical literals are preserved. This is not active-screen coverage or runtime verification. Scope and limitations: ASSET_SCOPE_083.md."
+}

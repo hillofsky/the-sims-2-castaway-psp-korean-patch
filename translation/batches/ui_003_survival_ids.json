@@ -1,0 +1,667 @@
+[
+  {
+    "id": "TXT_urbzui_01617",
+    "source_sha256": "4b0a8cd194afd40a5dd5b3f22bd216838875f0b4c14ce3fb88d980c9e9c1bb3d",
+    "ko": "START 버튼을 누르세요"
+  },
+  {
+    "id": "TXT_urbzui_01198",
+    "source_sha256": "c26982b1425da26a9637dd69da684a036c8b67a1ddf2c3d09b915a96e4b58037",
+    "ko": "튜토리얼"
+  },
+  {
+    "id": "TXT_urbzui_01525",
+    "source_sha256": "e159b06187d369a0615f66ce577582b5c983d4ea59b3a62b702049f61753f0bf",
+    "ko": "일시 정지"
+  },
+  {
+    "id": "TXT_urbzui_02254",
+    "source_sha256": "cbb78446d62133b9a23a004bf491ddd1d15c15d75336366d177d46984ab1e99e",
+    "ko": "게임 설정"
+  },
+  {
+    "id": "TXT_urbzui_02255",
+    "source_sha256": "7d55fb1f246ed4f742bfb9ed35bcadb79f447eebf5b63020e244a3bba85a5a18",
+    "ko": "섬 지도"
+  },
+  {
+    "id": "TXT_urbzui_02256",
+    "source_sha256": "b4a7365740ef880b7e19c7ddba99950365af73b2346a235ba7cd6f1bf5f2c281",
+    "ko": "통계"
+  },
+  {
+    "id": "TXT_urbzui_02258",
+    "source_sha256": "47aafd13588c31609b0a3130305910ae4afa25e894605514d0aa3315575c1b1a",
+    "ko": "저장 / 종료"
+  },
+  {
+    "id": "TXT_urbzui_02101",
+    "source_sha256": "7b23d5debaffc28fa6f65594ff7d7c48d80e9ff1dc1726c88381cb45ea160e57",
+    "ko": "화덕과 조리대 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02102",
+    "source_sha256": "e4eb18069d65aaa901cecb66371155f389643796428e9d54c5f5127c91ab3fdc",
+    "ko": "음식"
+  },
+  {
+    "id": "TXT_urbzui_02103",
+    "source_sha256": "8bb182b41d689427e7ff76a872146d36ea275e6d0a83e5d0e9383097dbd6cad8",
+    "ko": "음식 조리법"
+  },
+  {
+    "id": "TXT_urbzui_02104",
+    "source_sha256": "779089b3f75751620b9e35210fb5add8d685a5921c2971efbb61b356ef2a90b1",
+    "ko": "과일"
+  },
+  {
+    "id": "TXT_urbzui_02105",
+    "source_sha256": "eb25ede23e75985188ce10af333aea4b0682561ae6ab4980555f6650e6da2f8d",
+    "ko": "안경"
+  },
+  {
+    "id": "TXT_urbzui_02106",
+    "source_sha256": "bb1185c8c38f3b98e201d58638157bb69df6b3430bd2a1e452d0f946d87de764",
+    "ko": "손에 드는 물건 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02107",
+    "source_sha256": "533108fe7a8cff60e2b97d376e1ce4ee1ea151ade50db96174aac48fd23121bc",
+    "ko": "손에 드는 물건"
+  },
+  {
+    "id": "TXT_urbzui_02108",
+    "source_sha256": "6ab3de7fbd8f3e1ce1806aca384e10d63dec1a45f174d43350d6e9e86825d850",
+    "ko": "채집한 재료"
+  },
+  {
+    "id": "TXT_urbzui_02109",
+    "source_sha256": "a6bd62385865e8946baa9a05e08f4edd52b91e756da551dcec61f42b5857bf2a",
+    "ko": "모자 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02110",
+    "source_sha256": "25921498b96c46e7cb328286e40fa02db213375b67a88655e8f088d2af985621",
+    "ko": "상형 문자"
+  },
+  {
+    "id": "TXT_urbzui_02112",
+    "source_sha256": "54e26dd8c890f3d89eb518d409d3fa99da8eb22c87381cc685bef0dacc6a4e23",
+    "ko": "오두막 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02113",
+    "source_sha256": "485f3569a53ca81efacddda0e0b282d197e8807a181847ba6d888c506971a5d3",
+    "ko": "장신구 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02115",
+    "source_sha256": "82d8c14647e46f2ca59c79a48ec5aa08534806aeba4272c2f1f57cd8fa2dd31a",
+    "ko": "여가용품 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02116",
+    "source_sha256": "a94cd52fa92624d84eef8082159a8e6d9c38fc44d0aa3a359eb78975fc721e0b",
+    "ko": "큰 물고기"
+  },
+  {
+    "id": "TXT_urbzui_02117",
+    "source_sha256": "f16f838f5b08bf082cb8cb43dfd53e9b5c6e4257ddc0a85259aeb4ce64cc2b8c",
+    "ko": "조명 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02118",
+    "source_sha256": "ba4c9e950f0978e0eed5a90acfee89e2afece3333e512d44418766dd1c7fee4f",
+    "ko": "고기"
+  },
+  {
+    "id": "TXT_urbzui_02119",
+    "source_sha256": "e2105d37b8bc7e99cb4cd8b8b0b383730077717cc4ce105412a6d9e05e9e5e1e",
+    "ko": "중간 물고기"
+  },
+  {
+    "id": "TXT_urbzui_02120",
+    "source_sha256": "7d55fb1f246ed4f742bfb9ed35bcadb79f447eebf5b63020e244a3bba85a5a18",
+    "ko": "섬 지도"
+  },
+  {
+    "id": "TXT_urbzui_02121",
+    "source_sha256": "ba40c33aa90c1028d41af35f487b97ec92de9e68f089ef05e8373ca0bef642f1",
+    "ko": "물건 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02122",
+    "source_sha256": "0468fcf4385b8d0c54bceeef77e57ae9467e6cbcd0ee5e69910de6b7e8eda2e9",
+    "ko": "음량 설정"
+  },
+  {
+    "id": "TXT_urbzui_02123",
+    "source_sha256": "88f49a4d6ec8fd878424eeab2b39831676a2f575e4ce9ab4d2070a933f8f6a40",
+    "ko": "음악 선택"
+  },
+  {
+    "id": "TXT_urbzui_02124",
+    "source_sha256": "f863faccb0ac2d9b4a71c3df2c8415569a295a1eddaaac445764233f90a654ca",
+    "ko": "기타 설정"
+  },
+  {
+    "id": "TXT_urbzui_02125",
+    "source_sha256": "cc0c5233fd4c0890554ea6fba6d4c287ee343623541890f209138c856906cd95",
+    "ko": "저장 / 종료"
+  },
+  {
+    "id": "TXT_urbzui_02126",
+    "source_sha256": "de5236ee1561d9d4123d1a8dad5442710ac2acdc26111be2076d9b8ddf453650",
+    "ko": "물건"
+  },
+  {
+    "id": "TXT_urbzui_02127",
+    "source_sha256": "e57e4f7485162137a7120448950cb2ce55df9a9fc2a98a7199fafa6fc7cc3933",
+    "ko": "특수 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02128",
+    "source_sha256": "bc997ff31fa60573cee05766023b0aa0eba96cfa807dcb9f7eaca80f97e190b1",
+    "ko": "하의 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02129",
+    "source_sha256": "c9eaa3c43cb4f23b5ea10053d9611d00862decb879783b6b2854b67ae73b52a4",
+    "ko": "개인 정보"
+  },
+  {
+    "id": "TXT_urbzui_02135",
+    "source_sha256": "dfe8b2f0de26bb87c6d6066acf6668807a27d8270cc08ade10018769ee380101",
+    "ko": "설계도"
+  },
+  {
+    "id": "TXT_urbzui_02136",
+    "source_sha256": "ffeab0d25d5528d6e6b4e1df630f43c986b6bcb710e6980c96338e112ac49cf8",
+    "ko": "설계도와 아이디어"
+  },
+  {
+    "id": "TXT_urbzui_02137",
+    "source_sha256": "b5c9f1d81375234a11b371d9a8050aa06ad6cb57e98374db1e6a2a843eb06088",
+    "ko": "화장실과 샤워 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02138",
+    "source_sha256": "b4a7365740ef880b7e19c7ddba99950365af73b2346a235ba7cd6f1bf5f2c281",
+    "ko": "통계"
+  },
+  {
+    "id": "TXT_urbzui_02142",
+    "source_sha256": "a4dc4d0602e8db5aba748afb9c037de37bcd42c9292a6c4d060974a38a464870",
+    "ko": "자원 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02143",
+    "source_sha256": "e89b30aa1dc30a6ad8c34610689bede83b3ef645a24c3a84a0990826687fb735",
+    "ko": "자원"
+  },
+  {
+    "id": "TXT_urbzui_02144",
+    "source_sha256": "685efb57525e1aaaf7f8ba6516bbff695256adff0e72af8fbff374c572b0b1b9",
+    "ko": "지붕 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02145",
+    "source_sha256": "81efe286ea3750504d065c08eb58f7e2e2585d3e63a827e5faa75650bb3aa0df",
+    "ko": "의자 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02146",
+    "source_sha256": "0fd24c4f98a9f80c39203b203351f203ff77d97d05a6d250a0e2da5ae03d40cf",
+    "ko": "씨앗 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02147",
+    "source_sha256": "45a195454fe20751e264b4423a6e45d6f61dbb3ec87f0907b5b38acf867fa463",
+    "ko": "씨앗"
+  },
+  {
+    "id": "TXT_urbzui_02148",
+    "source_sha256": "7ab1b3a296dc5a579ca7bbdf0f19807db7bb83396a7a5a97914cb684834440be",
+    "ko": "거처 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02149",
+    "source_sha256": "5ac364b692d0da7e2347adcc51098b7e8820088d4dfbad87d704ed6bc1f556d3",
+    "ko": "상의 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02150",
+    "source_sha256": "024fae413924644c36606ac2a3a1b13e8b538e91eb5f497bae06e736852ba71a",
+    "ko": "신발 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02152",
+    "source_sha256": "7c110bee6ab8f25cb47f80aad21ba46e2df8d1d692830f9b4b2f16aa3c5fbb75",
+    "ko": "작은 물고기"
+  },
+  {
+    "id": "TXT_urbzui_02153",
+    "source_sha256": "cec38a3cf93b81cb25b79905aa4faff8d1a08fc368cd5a86e6fda3016050ca59",
+    "ko": "향신료"
+  },
+  {
+    "id": "TXT_urbzui_02154",
+    "source_sha256": "bd11d6fbd0d7db2664269f7048296862bc4aa4ef59e9561c79b7ee098510430a",
+    "ko": "탁자 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02155",
+    "source_sha256": "e67102c7c7b396374adf20b8c6f03660ae2226dc611874f4f5354729ce6401a5",
+    "ko": "도구 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02156",
+    "source_sha256": "ea93d6a262ecb87a9fa4d09edbd7654c046597936a8e235fc3949eb01775ff99",
+    "ko": "도구"
+  },
+  {
+    "id": "TXT_urbzui_02157",
+    "source_sha256": "e5d55bbd74efbd84e45bd6814dc32a522161e362bfdb6fc2bec3a2a08905cd6c",
+    "ko": "보물 지도"
+  },
+  {
+    "id": "TXT_urbzui_02158",
+    "source_sha256": "5d9d1a6c54bddf1d23d87d8de1da99d21fff6593496988b9dbda96a89d1b4eb4",
+    "ko": "채소, 견과류와 곡물"
+  },
+  {
+    "id": "TXT_urbzui_02159",
+    "source_sha256": "3cd004877a46ed471776ad996ecc2b1d7c427f4af711756ff9bfaf3318dbe483",
+    "ko": "허리띠 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02160",
+    "source_sha256": "bf747f30385e6dcc1d304b356da120804b6035efa908c2acf7c25ccbd3985427",
+    "ko": "벽 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02167",
+    "source_sha256": "75bfc25400f00cb8d2b0a4fa1871832e2b6810c9d7d9b5ca4fd3b9fccde45cd1",
+    "ko": "창문 설계도"
+  },
+  {
+    "id": "TXT_urbzui_02212",
+    "source_sha256": "9d0081a4f3d631b3cff603f69b3619ae1103b522cd908f64a07e5b702f68b1e0",
+    "ko": "자원 수집가"
+  },
+  {
+    "id": "TXT_urbzui_02213",
+    "source_sha256": "9d0081a4f3d631b3cff603f69b3619ae1103b522cd908f64a07e5b702f68b1e0",
+    "ko": "자원 수집가"
+  },
+  {
+    "id": "TXT_urbzui_02214",
+    "source_sha256": "7f4a1e5bff2d56e523ee2a34e1c389956986008e506ca77fadf7047d71c6a63f",
+    "ko": "요리사"
+  },
+  {
+    "id": "TXT_urbzui_02215",
+    "source_sha256": "7f4a1e5bff2d56e523ee2a34e1c389956986008e506ca77fadf7047d71c6a63f",
+    "ko": "요리사"
+  },
+  {
+    "id": "TXT_urbzui_02216",
+    "source_sha256": "6ecc0703dae7d09700204ead2ac10299539cdd90c5e844b9d7f859c7f56a423d",
+    "ko": "자원 수집가는 나무와 덩굴처럼 음식이 아닌 자원을 모아 비축합니다."
+  },
+  {
+    "id": "TXT_urbzui_02217",
+    "source_sha256": "f88ab4e1bf7d7c562ecafaf444ee82b6169d0a0349714b359b33c6b125f15bad",
+    "ko": "요리사는 부족을 위해 음식을 만듭니다."
+  },
+  {
+    "id": "TXT_urbzui_02218",
+    "source_sha256": "97d45342253819f4678fab3c3b507ed0b109cd5acc2921c6c87fce10e8e109a3",
+    "ko": "어부는 부족을 위해 물고기를 잡습니다."
+  },
+  {
+    "id": "TXT_urbzui_02219",
+    "source_sha256": "246f8cb768f64f8c6089bb53f301112103706b1a27b5257002c91c7dfbb26d6d",
+    "ko": "식량 채집가는 부족을 위해 먹을거리를 모읍니다."
+  },
+  {
+    "id": "TXT_urbzui_02220",
+    "source_sha256": "770e25905625c925152cffb21f7e6baf881af49b3ddb3265d62a62503a4427cf",
+    "ko": "어부"
+  },
+  {
+    "id": "TXT_urbzui_02221",
+    "source_sha256": "2cddd455af60b007ad6e858edd56134a8954d7376f57ab0161b759a65e9ef0df",
+    "ko": "어부"
+  },
+  {
+    "id": "TXT_urbzui_02222",
+    "source_sha256": "8945c2a3fca746a8968a1da7a7247ee492b639983d09a289d27d157ad9c563cb",
+    "ko": "식량 채집가"
+  },
+  {
+    "id": "TXT_urbzui_02223",
+    "source_sha256": "8945c2a3fca746a8968a1da7a7247ee492b639983d09a289d27d157ad9c563cb",
+    "ko": "식량 채집가"
+  },
+  {
+    "id": "TXT_urbzui_02224",
+    "source_sha256": "85031d482f4c87f82f23012f8e34ffb19de736ac9cd09fe4eff593e5acf95677",
+    "ko": "맡은 일이 없습니다"
+  },
+  {
+    "id": "TXT_urbzui_02225",
+    "source_sha256": "6c126a03ea7fc00986d2dc03a34c8fb4430e91fd173275f62fd3a3847fcc0df4",
+    "ko": "하루에 한 번"
+  },
+  {
+    "id": "TXT_urbzui_02226",
+    "source_sha256": "f4605d2c9913e7593415380390263e58531f7abc22cb0fe57617212257714e01",
+    "ko": "아침과 저녁"
+  },
+  {
+    "id": "TXT_urbzui_02227",
+    "source_sha256": "bd104d1b98d032274986497eeb7997c44a1d674b29140e43cd525d33468ecb6e",
+    "ko": "친구"
+  },
+  {
+    "id": "TXT_urbzui_02229",
+    "source_sha256": "f16bd6f88365d5042e58da21c4850b2ca8559d6ffe2dc5e6acf7d090dcea5411",
+    "ko": "사용 중인 거주지"
+  },
+  {
+    "id": "TXT_urbzui_02230",
+    "source_sha256": "cf8c8078d8db95505b5fb5c7ffc5d06ca57e590803572283eb30578bcdf8d1ea",
+    "ko": "현재 위치"
+  },
+  {
+    "id": "TXT_urbzui_02231",
+    "source_sha256": "c26b0bb6f5b753301b2282e3b50b716391b6665447e32239c9a5372184fa2e2c",
+    "ko": "사용하지 않는 거주지"
+  },
+  {
+    "id": "TXT_urbzui_02209",
+    "source_sha256": "94f954c6c9a84916dc4e3cc1fe6ec8b85cb8e812afea2c79f0548b2b4490197a",
+    "ko": "난파선 섬"
+  },
+  {
+    "id": "TXT_urbzui_02210",
+    "source_sha256": "c29dd1356090873ca918594775875c5dab193eac3a31188d1b043c6614e55c08",
+    "ko": "비행기 섬"
+  },
+  {
+    "id": "TXT_urbzui_02211",
+    "source_sha256": "e17db82d82ba7a811c32b055d1a74c434f6c75c6fa1abefb9b3845fc52630ef4",
+    "ko": "화산 섬"
+  },
+  {
+    "id": "TXT_urbzui_02260",
+    "source_sha256": "69e8e7e78568ccebdf83c9da176a5d32ad10490a9af2bea879c8ed0efc700a42",
+    "ko": "지도 범례 <BUTTON_06>"
+  },
+  {
+    "id": "TXT_urbzui_02177",
+    "source_sha256": "f4eec4431d624e0799b049e048b0907fc9d1ced22577f38e8ed0093b3520e309",
+    "ko": "<BUTTON_01> 뒤로"
+  },
+  {
+    "id": "TXT_urbzui_02178",
+    "source_sha256": "0d482c35571dfdc829071e26cdb7f85386aabd634f58a7373bb924e8cb3750ff",
+    "ko": "<BUTTON_03> 이동"
+  },
+  {
+    "id": "TXT_urbzui_02179",
+    "source_sha256": "41b3860261a7fbbd316795f587068e03e22e0f31201e3c1a722f57577c2701d7",
+    "ko": "집기 모드 <BUTTON_06>"
+  },
+  {
+    "id": "TXT_urbzui_02180",
+    "source_sha256": "d867bc7c01ec7f86ed619afc2fbbe7e0b475ef713aa4b51f5f6d32bca80639b8",
+    "ko": "<BUTTON_0C> 다음"
+  },
+  {
+    "id": "TXT_urbzui_02182",
+    "source_sha256": "9567966d23bf61714ea920679f4fd5e1e6d1402eb82152ec583084bbc6d17e88",
+    "ko": "<BUTTON_0B> 이전"
+  },
+  {
+    "id": "TXT_urbzui_02183",
+    "source_sha256": "4e18defff14cc2fab7fe77f365acd3c6dab3d18b74b757463ca3b878caea7704",
+    "ko": "<BUTTON_00> 선택"
+  },
+  {
+    "id": "TXT_urbzui_02184",
+    "source_sha256": "27b62403fdfffdac96a1208188bebaf7fa45a38f37e332e159921c105a3989e1",
+    "ko": "판매/삭제 <BUTTON_00>"
+  },
+  {
+    "id": "TXT_urbzui_02185",
+    "source_sha256": "d36e18da46e048c1cf6b4c27fd5ed285f66ce6624234aae6b00483c22d9e852c",
+    "ko": "철거 모드 <BUTTON_06>"
+  },
+  {
+    "id": "TXT_urbzui_02188",
+    "source_sha256": "bdd254b65baac169f6ac50e8175ce6d930c1fcb086dec59808d3e0170ae2291d",
+    "ko": "건설"
+  },
+  {
+    "id": "TXT_urbzui_02189",
+    "source_sha256": "c910d474dcd724bff83ddedeb06bf1eceaf9fb3af7c76bb282be057f36e6dffa",
+    "ko": "일반"
+  },
+  {
+    "id": "TXT_urbzui_02191",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_urbzui_02192",
+    "source_sha256": "37079403436df43bd65e552a2aba042d7cfa4a2d420d543b040a72c61b62481b",
+    "ko": "바닥 타일"
+  },
+  {
+    "id": "TXT_urbzui_02201",
+    "source_sha256": "a58f4da85893c26bdcddca9a366a454e37f45eed7aa7e28832d678b91b570ad7",
+    "ko": "모두 판매"
+  },
+  {
+    "id": "TXT_urbzui_02202",
+    "source_sha256": "b0a99b0c59032c6a5a72320161240e76e48866b15c4f6bcab5dc617b035fe4d5",
+    "ko": "몇 개를 삭제할까요?"
+  },
+  {
+    "id": "TXT_urbzui_02204",
+    "source_sha256": "f9679031b89534139c21069106ee537bc77792d5b48d323ed74ad0edbdd1a489",
+    "ko": "하나 판매"
+  },
+  {
+    "id": "TXT_urbzui_02205",
+    "source_sha256": "8d0b7c9e11e60536c5368d4ef45f4718384bf932effd8184c581dcb9de48f921",
+    "ko": "이 물건을 판매할까요?"
+  },
+  {
+    "id": "TXT_urbzui_02207",
+    "source_sha256": "19734a1b58cabc22cae1f88493289ee94f40ff2b350f7f1b9f7011ea84096916",
+    "ko": "창문"
+  },
+  {
+    "id": "TXT_urbzui_01496",
+    "source_sha256": "ed772d759d28b5b737f7f987077ac7854eb6833fc912374c64660c291cc03eaf",
+    "ko": "지금은 게임을 저장할 수 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_01509",
+    "source_sha256": "900b1b135176e3d4a6e560b0114a3fa9a832c7c4bc19bffa5541cb4a2e6e1800",
+    "ko": "변경 사항을 유지할까요?"
+  },
+  {
+    "id": "TXT_urbzui_01512",
+    "source_sha256": "abf664a0247264c0b2b9752b70364417f7e277971cf6f90014db19e61d0df788",
+    "ko": "사교 모드에서는 게임을 저장할 수 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09486",
+    "source_sha256": "5dcbe9f280990277f00a2b5b987dbde412c08290326236499db358716745efdf",
+    "ko": "심들이 난파를 당했습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09487",
+    "source_sha256": "f89dc27f7a5e8d8d1b3d8dc463f227a6399eb3ccd1c70350f9caa038dc3a0a16",
+    "ko": "흩어진 동료들을 찾아 힘을 모으세요.\r\n모두 집으로 돌아갈 수 있도록 도와주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09489",
+    "source_sha256": "e0265b50cb9766d3e60921cc3d618ce3527080a23fbded8128895fc80b50aeb7",
+    "ko": "심이 난파를 당했습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09490",
+    "source_sha256": "fdabbec909e508f1838fb7e0b523f45a6d2707644911ae0e3f208bd652d9b887",
+    "ko": "살아남는 방법을 익히세요.\r\n집으로 돌아갈 길을 찾으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10527",
+    "source_sha256": "47252eb6dc099099b1a250f60adea1dcc5973d6397a7859268192242e08b1ddb",
+    "ko": "책을 비롯한 몇 가지 물건이 심과 함께 해변으로 떠밀려 왔습니다. 살펴보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10528",
+    "source_sha256": "a363fb42ffc12f43dbd7b00ba2390c496f3baf01e87d90c9af4951978c5d77c7",
+    "ko": "<COLOR_FF0B0077> 머니웰의<COLOR_FF0B0077> 생존_대백과입니다! 심의 생존에 도움이 될 것입니다. \r\n\r\n책을 읽고 튜토리얼을 진행할까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_10529",
+    "source_sha256": "f4a6c39d679686674983ce4f7076efff407d3a72f6c6907d8dcc258f3f520a8c",
+    "ko": "생존 요령 1: 주변을 살펴보세요\r\n\r\n<BUTTON_0A> 버튼을 누른 채 <BUTTON_02>을 조작해 보세요. 카메라를 움직일 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10531",
+    "source_sha256": "869660337d5ad1022196e0a427875ed255e7a9a4b6e35e8007455c00081bb6de",
+    "ko": "생존 요령 2: 물자를 모으세요. 자연은 풍요롭습니다. 해변이나 가까운 나무에서 채집할 수 있는 것을 찾아 모아 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10533",
+    "source_sha256": "9ca814a69debaad4d86b49557493170bea4f65a4cd533a41b79b83931fb3c5cd",
+    "ko": "물건 가까이에서 <BUTTON_00> 버튼을 누르세요. 여러 행동 중 선택할 때는 <BUTTON_03> 버튼을 쓰세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10534",
+    "source_sha256": "3dc55ef4c21853f5f847b0bac11483cc5087490066efaa6668c869c812999835",
+    "ko": "심이 모은 물건을 확인하세요. <BUTTON_05> 버튼을 누르고 \"소지품\"을 선택하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10536",
+    "source_sha256": "3f603bdefa68d8698e793c6c10b063369be5fbaa48829d1a7dae1dbf3447bf38",
+    "ko": "생존 요령 4: 잠을 자세요! 잠을 자면 에너지 욕구가 채워집니다.\r\n\r\n<BUTTON_06> 버튼을 눌러 에너지를 확인한 다음, 잠자리 매트에서 쉬세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10537",
+    "source_sha256": "be3c32fe1a6d39e1959c56bbe66b362ddcdb38c6c107b3a4023ffa8b92dc4431",
+    "ko": "잠을 자세요. <BUTTON_07> 버튼을 눌러 도구를 확인하고, 잠자리 매트를 선택해 손에 드세요. 그런 다음 잠자기를 선택하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10538",
+    "source_sha256": "20d4812d8a3c35b7cc9097959adf1aec875f8b8b88c7584549a45397117dcc6f",
+    "ko": "좋아요! 이제 잠을 자세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10540",
+    "source_sha256": "79e8a1822aef2293faeb1d73076c90747beea5bc052aaff2de5e701984df9baf",
+    "ko": "생존 요령 5: 불은 생명을 구합니다. 따뜻한 불이 있으면 요리를 할 수 있고 낯선 곳도 집처럼 느껴집니다.\r\n\r\n<BUTTON_05> 버튼을 눌러 \"설계도\"로 이동한 다음, 비상 화덕을 만드세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10542",
+    "source_sha256": "b5f0a025c62da7cfc314e3d59b5e632400c19c196a74e06f40c56c8569a716e8",
+    "ko": "이제 화덕을 직접 만들어야 합니다. 쌓인 자원으로 걸어가서 만들기를 선택하세요. "
+  },
+  {
+    "id": "TXT_SimsObjects_10543",
+    "source_sha256": "a853de3208f1fafc213a182d3b2d698a4e866ca49e831fc7cea70cb7b7b50aec",
+    "ko": "축하합니다. 화덕을 만들었습니다. 이제 불을 피우세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10544",
+    "source_sha256": "886cf6e5a3d525dd689c8eab7a6eecf6509233c9575f9fa25971b5d4e6e40381",
+    "ko": "기본 생존 과정 완료! \r\n\r\n기분 표시를 보고 심의 상태를 확인하세요. 기분이 좋을수록 행동에 성공할 가능성이 높아집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10545",
+    "source_sha256": "e0cbb944cc819581d13a57ba0d071ac480b11acd3285035e8a59fe88a6835fb3",
+    "ko": "계속 탐험하다 보면 몇 가지 조언을 더 드리겠습니다. 지금은 여기까지입니다. 이 섬에는 이 해변처럼 여러 지역이 있으며, 각 지역에서 새로운 것을 발견하고 만들 수 있습니다. 언젠가는 구조될 방법을 찾거나 스스로 탈출할 수도 있겠죠. 행운을 빕니다! 심의 욕구를 잘 살펴주세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_10546",
+    "source_sha256": "206b28db4e963801c61660d2291e5aa223e582336e04f69b883280c0cad0b141",
+    "ko": "오른쪽 메뉴에서 음식을 먹을 수 있습니다. <BUTTON_00> 버튼을 눌러 먹으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10547",
+    "source_sha256": "81b8c2411f204623914f61a1d0775675a720eda368187487626310cde0ad5ae1",
+    "ko": "<BUTTON_05> 버튼을 누르고 설계도에서 비상 화덕을 선택해 불을 피우세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10548",
+    "source_sha256": "fa46e456dc2bcc1c9afe8afe48c46a7b295d7f56ecfe5a8854297d2306408af0",
+    "ko": "생존 요령 3: 음식을 드세요! 이것은 허기 욕구입니다. \r\n\r\n음식을 먹으면 채워집니다. 완전히 바닥나면 심이 굶주립니다. <BUTTON_06> 버튼을 눌러 허기를 확인한 뒤 먹을 것을 찾으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10549",
+    "source_sha256": "4dbaf13ad59c16068bfedee0507f3739867adb635c3795d17f5bc69c47a2e386",
+    "ko": "무언가 먹으세요. 코코넛으로 걸어가 먹기를 선택하거나, 소지품에 어떤 음식이 있는지 확인하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10561",
+    "source_sha256": "fb8e0039ac9cf9c370bfd3aca437450d5244e14433d24c7f868f534eda6e45fb",
+    "ko": "기술이 향상되었습니다! 연습하면 실력이 늘어납니다. 개인 정보에서 기술을 확인할 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10562",
+    "source_sha256": "8ead01291104dc24f71d52aaedd2f272479225ab108e6be4edd17c2b14dfaf8a",
+    "ko": "재료에 따라 음식의 효과가 달라질 수 있습니다. 자유롭게 조합해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10563",
+    "source_sha256": "8b88447fdb9782fcb86fddb101f493c82663767935493f9938dccd70f1236bdd",
+    "ko": "멧돼지는 사납지만 울타리가 있으면 도움이 됩니다. 고기 맛도 좋답니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10564",
+    "source_sha256": "40051822fc17f7b1c4710f734f971ce53132f78b4d07371d1c3f337b5534353c",
+    "ko": "닭을 쫓아다니지 말고 덫을 놓으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10565",
+    "source_sha256": "169b1a69ccef02bd843433b010527dde164369d5df4882e4446c458323f29496",
+    "ko": "심의 옷은 영원히 입을 수 없습니다. 편안하고 멋지게 지낼 수 있도록 새 옷을 만드세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10566",
+    "source_sha256": "04eba74b5f1c1a01a794f18f2d22802e3e32996046076476ae6d8964930f096b",
+    "ko": "심이 죽었습니다. 하지만 남겨진 꽃은 특별한 물약에 쓸 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10567",
+    "source_sha256": "ea395905ce6a7c98a11ba03510369c60e641917912fdbd9bf396ea273248d2b8",
+    "ko": "궂은 날씨는 심과 물건에 해롭습니다. 물건은 오두막 안에 두는 것이 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10568",
+    "source_sha256": "02e06c845dad5648fd5fe0645af50f8e5d331edc711f5189b0ee82957ec51626",
+    "ko": "부족의 심들에게 특정한 일을 맡길 수 있습니다. 도움이 필요하면 직업이나 할 일을 지정하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_10569",
+    "source_sha256": "42e030a4ee73b9fa1ea84cfca1eee8487830558976027487fdccee0a8e071669",
+    "ko": "충분히 쉬었습니다. 멈추려면 <BUTTON_01> 버튼을 누르세요. 어떤 행동이든 취소할 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10570",
+    "source_sha256": "5475fb2fa35e8a1934426b32a8366e57f6350a19c59cf64ede2a0b5c730d8d72",
+    "ko": "빠르게 진행하면 더 일찍 끝낼 수 있습니다. <BUTTON_0B> 버튼을 누른 채 <BUTTON_04>을 조작하면 시간이 빨리 흐릅니다. <BUTTON_0B> 버튼을 누른 채 <BUTTON_09>을 조작하면 정상 속도로 돌아갑니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10571",
+    "source_sha256": "5475fb2fa35e8a1934426b32a8366e57f6350a19c59cf64ede2a0b5c730d8d72",
+    "ko": "빠르게 진행하면 더 일찍 끝낼 수 있습니다. <BUTTON_0B> 버튼을 누른 채 <BUTTON_04>을 조작하면 시간이 빨리 흐릅니다. <BUTTON_0B> 버튼을 누른 채 <BUTTON_09>을 조작하면 정상 속도로 돌아갑니다."
+  }
+]

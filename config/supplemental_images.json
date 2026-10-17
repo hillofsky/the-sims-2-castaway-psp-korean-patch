@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/PSP_GAME/ICON0.PNG",
+    "asset": "translation/images/psp_icon_ko_v1.png",
+    "format": "png"
+  },
+  {
+    "path": "/PSP_GAME/USRDIR/trc/save_icon_english.png",
+    "asset": "translation/images/psp_icon_ko_v1.png",
+    "format": "png"
+  },
+  {
+    "path": "/PSP_GAME/USRDIR/boot_scrn_english.msh",
+    "asset": "translation/images/boot_screen_ko_v1.png",
+    "format": "bgr565"
+  }
+]

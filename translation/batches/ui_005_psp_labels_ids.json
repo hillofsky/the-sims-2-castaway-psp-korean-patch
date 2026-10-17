@@ -1,0 +1,327 @@
+[
+  {
+    "id": "TXT_urbzui_01714",
+    "source_sha256": "7e05284784b42c03bc80daf8acaf2e8fdcae15c5af58def20311355eac608473",
+    "ko": "파일 관리"
+  },
+  {
+    "id": "TXT_urbzui_01715",
+    "source_sha256": "4b78665bec78390a0feb7a1ec09c92f21b0322772778cc5ad025be97d9554ce8",
+    "ko": "분"
+  },
+  {
+    "id": "TXT_urbzui_01716",
+    "source_sha256": "4f846a84e7fc9ef6e68468c270c9153c20204641bd7b839ad4b8e5233e1c86d0",
+    "ko": "분"
+  },
+  {
+    "id": "TXT_urbzui_01717",
+    "source_sha256": "6300ef800bb884295b0b4b35682b75cecd7cc550d202db56d04a0643b8fb873f",
+    "ko": "사용 안 함"
+  },
+  {
+    "id": "TXT_urbzui_01718",
+    "source_sha256": "2a4cf462d028e0d1d8e7d9dc45fcef5ea9c54f26b5170dbd02d8d64452279404",
+    "ko": "에너지가 부족합니다!"
+  },
+  {
+    "id": "TXT_urbzui_01719",
+    "source_sha256": "83495471b751a4ca036498691230d63cf8ed6cc6e31d382a459cadd0175507f8",
+    "ko": "남은 포인트"
+  },
+  {
+    "id": "TXT_urbzui_01720",
+    "source_sha256": "35b5cf54cb3fdcaedb4668e7a49b3fe529e2d1a87a9e21e3d1203286c60108ca",
+    "ko": "게임 종료"
+  },
+  {
+    "id": "TXT_urbzui_01721",
+    "source_sha256": "1f7483c8a10473d3d369e45e15775a286449f3934eec0c370dbf46e0af413366",
+    "ko": "무작위 생성"
+  },
+  {
+    "id": "TXT_urbzui_01723",
+    "source_sha256": "192d78959bbea6e88d3dfc8ff4283b2689725895532200f2c78fcb267ce7bc28",
+    "ko": "물병자리"
+  },
+  {
+    "id": "TXT_urbzui_01724",
+    "source_sha256": "611aa421f617bdf032ec56eaf2fa7d083aa9feff90e52d592b6a1bf8271bcac7",
+    "ko": "양자리"
+  },
+  {
+    "id": "TXT_urbzui_01725",
+    "source_sha256": "f2c28b5295d9ad14e2e24f8467e0dab646338858d7f11d5267b094e875e36edb",
+    "ko": "게자리"
+  },
+  {
+    "id": "TXT_urbzui_01726",
+    "source_sha256": "d15a3290f5f106ca68ed8fabf39448526ba64801ad6d84e56d20cc0969a34b09",
+    "ko": "염소자리"
+  },
+  {
+    "id": "TXT_urbzui_01727",
+    "source_sha256": "f6ece80b88d6dfbd2f65dad5ccde8e5ec2a0d4dbfadc2fe87bdf58642f17e446",
+    "ko": "쌍둥이자리"
+  },
+  {
+    "id": "TXT_urbzui_01728",
+    "source_sha256": "5bc426e8d81e2f4136a562fac893c2229e3faa99d97df09ab604a2f8a0c0a60c",
+    "ko": "사자자리"
+  },
+  {
+    "id": "TXT_urbzui_01729",
+    "source_sha256": "28fb1f3f9675e8f3311ad6cd7f9f62c86bff8c42239cad3060285e076ef98f2c",
+    "ko": "천칭자리"
+  },
+  {
+    "id": "TXT_urbzui_01730",
+    "source_sha256": "30961ce222dbd2ef50c2b1df95464603d41511d58444a30c71f480af1b46df40",
+    "ko": "물고기자리"
+  },
+  {
+    "id": "TXT_urbzui_01731",
+    "source_sha256": "96c3ee48c543220faa5b967432e5d4bc77bb102378fe797160e9a8842d73bd96",
+    "ko": "사수자리"
+  },
+  {
+    "id": "TXT_urbzui_01732",
+    "source_sha256": "1dc262fefd7b6f85b2a6bced38821e7ac406dc082a0e0d5d45dc3f7548674e6c",
+    "ko": "전갈자리"
+  },
+  {
+    "id": "TXT_urbzui_01733",
+    "source_sha256": "9ccc525b843a15c12c13e771e11193a9f24a36aa10400f3c9dcf4d3a4e7f6cf4",
+    "ko": "황소자리"
+  },
+  {
+    "id": "TXT_urbzui_01734",
+    "source_sha256": "a17905941e7921762bedfe68b4d4af57a8c2a51750f7bd3c15f8c63861edf0eb",
+    "ko": "처녀자리"
+  },
+  {
+    "id": "TXT_urbzui_01735",
+    "source_sha256": "bf0d4616cea3b35f678a79ccdf3a580f250192e9c748271a7414727cae099ed2",
+    "ko": "재료 추가"
+  },
+  {
+    "id": "TXT_urbzui_01736",
+    "source_sha256": "f7d72d53cb473bea4f464c062bba209bbdb57c3e188b0aa7e96bf90a3a8a8f26",
+    "ko": "책 바꾸기"
+  },
+  {
+    "id": "TXT_urbzui_01737",
+    "source_sha256": "a681c85b2752e9fc0ae63c4a841b5f20faa530cece1512638c8379a5498eff9a",
+    "ko": "분류 바꾸기"
+  },
+  {
+    "id": "TXT_urbzui_01738",
+    "source_sha256": "e8eb9144ce167ae900ef395186571b993cf85ef9495da0e486b8aa1a8acee784",
+    "ko": "페이지 넘기기"
+  },
+  {
+    "id": "TXT_urbzui_01739",
+    "source_sha256": "6c8429b40af02bbb44c92e3927e2d26f6a3f3df7d1bc789b9dc0249195c01aa9",
+    "ko": "이야기 닫기"
+  },
+  {
+    "id": "TXT_urbzui_01740",
+    "source_sha256": "57f64bf9715866ab48f46478ad5c82c1180031954ae27aadfbbbfc7be96e0427",
+    "ko": "제작"
+  },
+  {
+    "id": "TXT_urbzui_01741",
+    "source_sha256": "8f2364e11b8be3ff008f32b3dedb54e659362429bcc9e3eb6acb6070de4ffbff",
+    "ko": "일"
+  },
+  {
+    "id": "TXT_urbzui_01742",
+    "source_sha256": "e08c0aa8f558f39fa99077e92036cf7d2210fe88ffae4d3b30fd489d9ac99e02",
+    "ko": "일"
+  },
+  {
+    "id": "TXT_urbzui_01743",
+    "source_sha256": "526e0087cc3f254d9f86f6c7d8e23d954c4dfda2b312efc29194ae8a860106ba",
+    "ko": "설명"
+  },
+  {
+    "id": "TXT_urbzui_01744",
+    "source_sha256": "ebecb9cef8f2103c8885e5732df330174d137867b033b179cefc94b1ea23bb6d",
+    "ko": "먹기"
+  },
+  {
+    "id": "TXT_urbzui_01745",
+    "source_sha256": "5b7a579be82ebe3cb5e0e652ee8f2c09039e293f93a599d1871c41fc654c0127",
+    "ko": "이동 및 조절\r\n"
+  },
+  {
+    "id": "TXT_urbzui_01746",
+    "source_sha256": "a3eb766e1e599a98e84045cab18372c202d40dea710fdb420d950e753249e048",
+    "ko": "씨앗 심기"
+  },
+  {
+    "id": "TXT_urbzui_01747",
+    "source_sha256": "42bcbb4048bd0080f9823860740f6fcf13c00201fb8688904fd7691fd80a6ae3",
+    "ko": "손에 들기"
+  },
+  {
+    "id": "TXT_urbzui_01748",
+    "source_sha256": "dae4ad212613c279976f0d465c6e25a7c5af048cb8ac790cb028d26cf48068e8",
+    "ko": "재료 빼기\r\n"
+  },
+  {
+    "id": "TXT_urbzui_01749",
+    "source_sha256": "e9ed74bef52e47ec342f70d79eb12f0a675298446fcdc5869a4e866edd917bde",
+    "ko": "심 회전"
+  },
+  {
+    "id": "TXT_urbzui_01750",
+    "source_sha256": "d4323781f796a6852d9b497089a42061ff74beed9bed42a4674f64a3461ec8d8",
+    "ko": "필요 조건 보기\r\n"
+  },
+  {
+    "id": "TXT_urbzui_01751",
+    "source_sha256": "ec802666b8757d1810f6f1b3c25b036066f1d7b5d7ef6feab85c10aa1134f713",
+    "ko": "글 스크롤"
+  },
+  {
+    "id": "TXT_urbzui_01752",
+    "source_sha256": "bbaed2fe9044615c8badeeb912bc1e0e5da866c2290d7d5414482372df4c9456",
+    "ko": "이곳으로 이동"
+  },
+  {
+    "id": "TXT_urbzui_01753",
+    "source_sha256": "314ae71b8c8dc9c952f0ffc58e35e6d9a41b5cf4756471c7cab0c9476cd5d20b",
+    "ko": "유물"
+  },
+  {
+    "id": "TXT_urbzui_01754",
+    "source_sha256": "25921498b96c46e7cb328286e40fa02db213375b67a88655e8f088d2af985621",
+    "ko": "상형 문자"
+  },
+  {
+    "id": "TXT_urbzui_01760",
+    "source_sha256": "18f2a0947f9d6523991b29b450307f22773f57d65f7efb98d48a167df04d6b1d",
+    "ko": "이동 불가"
+  },
+  {
+    "id": "TXT_urbzui_01761",
+    "source_sha256": "925589f9e87f27b2d08d03f7da60d80b0df900fa137e293c4e08ac047d0700c8",
+    "ko": "현재 거주지"
+  },
+  {
+    "id": "TXT_urbzui_01762",
+    "source_sha256": "09cc9d1cf6d80e7c9c4d8fc10d1822c89c88f867545298854e3073709612489a",
+    "ko": "거주지"
+  },
+  {
+    "id": "TXT_urbzui_01763",
+    "source_sha256": "0483637021ccec95a389a58b2794eb28a4f67a5a28ea9c2c51b4816152a29e16",
+    "ko": "현재 위치"
+  },
+  {
+    "id": "TXT_urbzui_01764",
+    "source_sha256": "514f2e230a4836b8d915276a461262dd6a5cd772978dd24d98dc250b458e7094",
+    "ko": "이동할 곳"
+  },
+  {
+    "id": "TXT_urbzui_01780",
+    "source_sha256": "23b13e25bf395de3032449fc26470e85be0fed5cdf48a689aa45f75f0f371d54",
+    "ko": "이야기 읽기"
+  },
+  {
+    "id": "TXT_urbzui_01781",
+    "source_sha256": "aa075cebe160a67d113f94cafe24ba41249d01ef6183cae8057e019ece1f4eb9",
+    "ko": "제작\r\n"
+  },
+  {
+    "id": "TXT_urbzui_01782",
+    "source_sha256": "124bce5a8a872f57a44b4815678e13ca255068065214d27bd614a0a88577fff0",
+    "ko": "얼굴 형태"
+  },
+  {
+    "id": "TXT_urbzui_01784",
+    "source_sha256": "7f5c56de42235d6e6efd6f3e07ae446063b3fb876edcd9af8bfc232ab4d4ef69",
+    "ko": "음식 \r\n"
+  },
+  {
+    "id": "TXT_urbzui_01786",
+    "source_sha256": "1367986aa8ccd6eb227709ce43e49673f87715a3b15e393ce6064b8ed47f586d",
+    "ko": "머리 색"
+  },
+  {
+    "id": "TXT_urbzui_01787",
+    "source_sha256": "87675db83a32caa1966ce6c94b089aea788ac3635683d9e5827390d4526ef41d",
+    "ko": "재료"
+  },
+  {
+    "id": "TXT_urbzui_01789",
+    "source_sha256": "e159b06187d369a0615f66ce577582b5c983d4ea59b3a62b702049f61753f0bf",
+    "ko": "일시 정지"
+  },
+  {
+    "id": "TXT_urbzui_01791",
+    "source_sha256": "067263ad167203fcad6d76363259a2c9070f977d35d2bb0950ee87d58cbb86d2",
+    "ko": "<BUTTON_05> 버튼을 눌러 계속하세요."
+  },
+  {
+    "id": "TXT_CreateASim_00009",
+    "source_sha256": "813822493c2a9c88665e79f1768cd46c890e3268e9d7671c9178fd0a57c86bbc",
+    "ko": "침팬지"
+  },
+  {
+    "id": "TXT_CreateASim_00010",
+    "source_sha256": "813822493c2a9c88665e79f1768cd46c890e3268e9d7671c9178fd0a57c86bbc",
+    "ko": "침팬지"
+  },
+  {
+    "id": "TXT_CreateASim_00011",
+    "source_sha256": "813822493c2a9c88665e79f1768cd46c890e3268e9d7671c9178fd0a57c86bbc",
+    "ko": "침팬지"
+  },
+  {
+    "id": "TXT_CreateASim_00012",
+    "source_sha256": "bf10a5ee1fab92a8db98dc937e5368b046eea1e95ff4d9fdcbdf61534a3f8406",
+    "ko": "멧돼지"
+  },
+  {
+    "id": "TXT_CreateASim_00013",
+    "source_sha256": "813822493c2a9c88665e79f1768cd46c890e3268e9d7671c9178fd0a57c86bbc",
+    "ko": "침팬지"
+  },
+  {
+    "id": "TXT_CreateASim_00014",
+    "source_sha256": "813822493c2a9c88665e79f1768cd46c890e3268e9d7671c9178fd0a57c86bbc",
+    "ko": "침팬지"
+  },
+  {
+    "id": "TXT_CreateASim_00015",
+    "source_sha256": "813822493c2a9c88665e79f1768cd46c890e3268e9d7671c9178fd0a57c86bbc",
+    "ko": "침팬지"
+  },
+  {
+    "id": "TXT_CreateASim_00016",
+    "source_sha256": "bf10a5ee1fab92a8db98dc937e5368b046eea1e95ff4d9fdcbdf61534a3f8406",
+    "ko": "멧돼지"
+  },
+  {
+    "id": "TXT_CreateASim_00017",
+    "source_sha256": "813822493c2a9c88665e79f1768cd46c890e3268e9d7671c9178fd0a57c86bbc",
+    "ko": "침팬지"
+  },
+  {
+    "id": "TXT_CreateASim_00018",
+    "source_sha256": "bf10a5ee1fab92a8db98dc937e5368b046eea1e95ff4d9fdcbdf61534a3f8406",
+    "ko": "멧돼지"
+  },
+  {
+    "id": "TXT_CreateASim_00023",
+    "source_sha256": "bfbd4b7b5252bb61678c58140964b3b101f2cf5ef9aa98be09e70029e6403b26",
+    "ko": "원숭이"
+  },
+  {
+    "id": "TXT_CreateASim_00025",
+    "source_sha256": "813822493c2a9c88665e79f1768cd46c890e3268e9d7671c9178fd0a57c86bbc",
+    "ko": "침팬지"
+  }
+]

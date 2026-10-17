@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "TXT_urbzui_00000",
+    "source_sha256": "c94b4d379ed0ac959c26ed66919f74fc360f6ed3196de22527011612cff7edc6",
+    "ko": "남자아이 0"
+  },
+  {
+    "id": "TXT_urbzui_00001",
+    "source_sha256": "b0b8604d9652cfe902eff06ea8d274a854bbf0730ffde6f7e511f824fd6374ff",
+    "ko": "여자아이 0"
+  },
+  {
+    "id": "TXT_urbzui_00002",
+    "source_sha256": "2dca1afb4e0880464016d00be9c4ccd0fcf01753acf755936c8b218bd4f6bc67",
+    "ko": "남자아이 1"
+  },
+  {
+    "id": "TXT_urbzui_00003",
+    "source_sha256": "1501943642b3748e607d9903cf6b479c2a16f81ae702e1d759df42df4e40f8e6",
+    "ko": "여자아이 1"
+  },
+  {
+    "id": "TXT_urbzui_00004",
+    "source_sha256": "b89d4eef3438535848569804321e378599119e85270875514b4b7f4a3c41a577",
+    "ko": "남자아이 2"
+  },
+  {
+    "id": "TXT_urbzui_00005",
+    "source_sha256": "eb912794e5f964819e47776ee3064a9d596a8d9a7afe5e293bf73df9a9115646",
+    "ko": "여자아이 2"
+  },
+  {
+    "id": "TXT_urbzui_00006",
+    "source_sha256": "6b8cee4b6850e6221b8481cc1d0c75e33a4bf520ff5e5d7d521b39f4a6fb0d84",
+    "ko": "남자아이 03"
+  },
+  {
+    "id": "TXT_urbzui_00007",
+    "source_sha256": "fb4da0c07d4422c63c0143052656b18a7f958cd249333e27f252eb3c20aac01c",
+    "ko": "여자아이 03"
+  },
+  {
+    "id": "TXT_urbzui_00008",
+    "source_sha256": "9264f1e97df926777914208d81d92dc27177e01b61c156941ba5f239e87f8c46",
+    "ko": "남자아이 4"
+  },
+  {
+    "id": "TXT_urbzui_00009",
+    "source_sha256": "8c5f88d318257f35be2c7a145017b5b6d4106b3de9ce85adc8ee6316c9dd115d",
+    "ko": "여자아이 4"
+  },
+  {
+    "id": "TXT_urbzui_00010",
+    "source_sha256": "8db3ac903845245aff45e2c629b8f3e12c8031552b50957122d8aaaed50e4717",
+    "ko": "남자아이 5"
+  },
+  {
+    "id": "TXT_urbzui_00011",
+    "source_sha256": "38faaaf6a1345c985e6a040d3415a566a72487f6e7419db1320821731a87ddc2",
+    "ko": "여자아이 5"
+  },
+  {
+    "id": "TXT_urbzui_00012",
+    "source_sha256": "235bd5f505eb22bbb1da0372491f4eee84d6dfef6dba3f202a6987b912e56f21",
+    "ko": "남자아이 6"
+  },
+  {
+    "id": "TXT_urbzui_00013",
+    "source_sha256": "0ab1c8edaf4a25624265787e194a2090c66889c222d8eb9a777a40cda2db2fb6",
+    "ko": "여자아이 6"
+  },
+  {
+    "id": "TXT_urbzui_00014",
+    "source_sha256": "53e590c4b5d5dde5d03c1088e87cc84f5f77eb4dc8e5f7db5d74ae8eab2a007b",
+    "ko": "남자아이 7"
+  },
+  {
+    "id": "TXT_urbzui_00015",
+    "source_sha256": "ca4ccefa6ba09448c295b982ce391d6c3c6560f654b3dd9a0cd78481d50b384b",
+    "ko": "여자아이 7"
+  },
+  {
+    "id": "TXT_urbzui_00016",
+    "source_sha256": "ec49cc9b8e89766c70b4cc7420e27a935c01e9fa2febeea4e7eaa92be319fbb2",
+    "ko": "남자아이 8"
+  },
+  {
+    "id": "TXT_urbzui_00017",
+    "source_sha256": "83a17047e59a8d3c62c1d6c3d6d720cf2004e0e5d5b5fbd042d3dd13f0c8eef5",
+    "ko": "여자아이 8"
+  },
+  {
+    "id": "TXT_urbzui_00018",
+    "source_sha256": "a8e80d6d5b58adc35035b29e45f2ab713d4328d960b49a6f5005479290c4cf04",
+    "ko": "남자아이 9"
+  },
+  {
+    "id": "TXT_urbzui_00019",
+    "source_sha256": "4bf6208bdfc4200f09674c53ef4dff77b904465a2f8b4c8cb199fd7a18e53917",
+    "ko": "여자아이 9"
+  },
+  {
+    "id": "TXT_urbzui_00020",
+    "source_sha256": "a1f55e6ba6eeded9b352f182703787fc103fe5fc9f28875748361b56e0efa4c4",
+    "ko": "남자아이 10"
+  },
+  {
+    "id": "TXT_urbzui_00021",
+    "source_sha256": "1d57fb1b146bb75dfaca469ab591e502dd3b0f2f0a5dcc7e4829bfff4cf46f30",
+    "ko": "여자아이 10"
+  },
+  {
+    "id": "TXT_urbzui_00022",
+    "source_sha256": "5c4d8aef2fdb88734f471b64853b3c9d2fac08cbd3a0752d1db081a5b43692d3",
+    "ko": "남자아이 11"
+  },
+  {
+    "id": "TXT_urbzui_00023",
+    "source_sha256": "e0011164e401b9ed2f70212bec95b6622a8c9e5eb3943b8e2e2c36e2fe1f02ee",
+    "ko": "여자아이 11"
+  },
+  {
+    "id": "TXT_urbzui_00024",
+    "source_sha256": "0d81a62958a515cf5b8f4c4bc3db9d2818a5888c3b088c328446195280a81ba3",
+    "ko": "남자아이 12"
+  },
+  {
+    "id": "TXT_urbzui_00025",
+    "source_sha256": "e883f91d240250503cf55aa5c82e10eadc5cd54cdc5a49139952455f70e637ae",
+    "ko": "여자아이 12"
+  },
+  {
+    "id": "TXT_urbzui_00026",
+    "source_sha256": "4f4774c57ac507515e7b8d868e8ee4d2d76d427f76c95c20c1740149b372ebd2",
+    "ko": "남자아이 13"
+  },
+  {
+    "id": "TXT_urbzui_00027",
+    "source_sha256": "6eef4ac37198f187bede8991b3c072331cf1c74bcfcc716c4e1147b15977bc18",
+    "ko": "여자아이 13"
+  },
+  {
+    "id": "TXT_urbzui_00028",
+    "source_sha256": "097eb89352cf887dda1c1309183c487ae86fae22b48390588707bb9a0c44179a",
+    "ko": "남자아이 14"
+  },
+  {
+    "id": "TXT_urbzui_00029",
+    "source_sha256": "f0d6d8a299d3815ded34811b4de019da80fc902ea2784ea824109b78c1c341e3",
+    "ko": "여자아이 14"
+  },
+  {
+    "id": "TXT_urbzui_00030",
+    "source_sha256": "0132ae0cf9ae42aaf72dbc44671511e553b1ed7313d46d4a8e4314c45a3372ff",
+    "ko": "남자아이 15"
+  },
+  {
+    "id": "TXT_urbzui_00031",
+    "source_sha256": "0d5ff534ddc01ece65143bfbaf7a6bdee9fb578c8df7b8011a81d032a872b16b",
+    "ko": "여자아이 15"
+  },
+  {
+    "id": "TXT_urbzui_00032",
+    "source_sha256": "d099f1667e49ccdbc843718465028601567495e03c47fe60e4b5453c98a25f4f",
+    "ko": "남자아이 16"
+  },
+  {
+    "id": "TXT_urbzui_00033",
+    "source_sha256": "26764079c4f9e4bfc22960374b5c3f80a1f84d276e369d2ca521b0e4165475c6",
+    "ko": "여자아이 16"
+  },
+  {
+    "id": "TXT_urbzui_00034",
+    "source_sha256": "fd86d26645ff651d6d3fe34991e03da8fb15b9faaf16d41dead45c6e4c80f96c",
+    "ko": "남자아이 17"
+  },
+  {
+    "id": "TXT_urbzui_00035",
+    "source_sha256": "17dba8274bd98602583f8a914b48aeca3cb69f9317b8746e733fd943211d15a4",
+    "ko": "여자아이 17"
+  },
+  {
+    "id": "TXT_urbzui_00036",
+    "source_sha256": "ba65f2a4ba175a20c404d163e69379d102ae1f68f94631fbdb66e69abc3402c8",
+    "ko": "남자아이 18"
+  },
+  {
+    "id": "TXT_urbzui_00037",
+    "source_sha256": "a4fa01b6276569420e8a10b751531b722765cfad6d7c4cbc283e9eb3b0f17a17",
+    "ko": "여자아이 18"
+  },
+  {
+    "id": "TXT_urbzui_00038",
+    "source_sha256": "d2e001edccfbe4542cca530ae6eab5c9c99c0d1b20a522dae02e7a1ccdc7f2dd",
+    "ko": "남자아이 19"
+  },
+  {
+    "id": "TXT_urbzui_00039",
+    "source_sha256": "c1ac7ce7c355ec6b62828543f16dea33ba4d5be65d35e9858614a4db21f57638",
+    "ko": "여자아이 19"
+  },
+  {
+    "id": "TXT_urbzui_00040",
+    "source_sha256": "72d6837ba05f7ae3250eb33d5d8369720b8ffe28e9c204cc704d7ca76b2b804c",
+    "ko": "남자아이 20"
+  },
+  {
+    "id": "TXT_urbzui_00041",
+    "source_sha256": "d3ae0bb51a01a7caa43b0c30a0e57843b42512cc235e64ba598975f1ff9a5523",
+    "ko": "여자아이 20"
+  },
+  {
+    "id": "TXT_urbzui_00042",
+    "source_sha256": "84f9a4bc654aabf5a4f359ebfc9ba061aa16c00de8231703b8de1893ffa8110f",
+    "ko": "남자아이 21"
+  },
+  {
+    "id": "TXT_urbzui_00043",
+    "source_sha256": "e33b8e5efea82ff6f4afb7ba474fba35ef648c16b70a9dd8996e203ed24b7e94",
+    "ko": "여자아이 21"
+  },
+  {
+    "id": "TXT_urbzui_00044",
+    "source_sha256": "c521828b14c290a272fd6e0776130538cdec42effac2ee42f46976e7837520a8",
+    "ko": "남자아이 22"
+  },
+  {
+    "id": "TXT_urbzui_00045",
+    "source_sha256": "8786af1ddfd63607821309ff4f9cc1d4a0c1a6102881a4268e9f0ca5d31a96a2",
+    "ko": "여자아이 22"
+  },
+  {
+    "id": "TXT_urbzui_00046",
+    "source_sha256": "cab7dd804307b7770d958ebce170fa3a47cb8b1fe276e375c150826971cc98b6",
+    "ko": "남자아이 23"
+  },
+  {
+    "id": "TXT_urbzui_00047",
+    "source_sha256": "55eea868159d4eea2dc3ee7a691325913105d6cc500808a56ffd8d471e795f38",
+    "ko": "여자아이 23"
+  },
+  {
+    "id": "TXT_urbzui_00048",
+    "source_sha256": "a6cb725a9070a6384565371ae9208c1a3056ef778e6049c03ccb02547a5b23a1",
+    "ko": "남자아이 24"
+  },
+  {
+    "id": "TXT_urbzui_00049",
+    "source_sha256": "3a13a96a8e7cecf0958b6aac7814decd98e0539c0f495c9343aaf927faa420fd",
+    "ko": "여자아이 24"
+  },
+  {
+    "id": "TXT_urbzui_00059",
+    "source_sha256": "52e3aaf51d7fa8b3a10be86549ff371b334b1f2bc82e52cafd19f442cc0fd6c9",
+    "ko": "네온 이스트"
+  },
+  {
+    "id": "TXT_urbzui_00065",
+    "source_sha256": "28626bde73d68194fc774a06e7d187cebd9086e8fabd7fc9baeb1e9917b8fc69",
+    "ko": "코즈모 스트리트"
+  },
+  {
+    "id": "TXT_urbzui_00071",
+    "source_sha256": "4627d2d5efbd5fec4dc8847fe47d6df759bceaec5d1d85c58d71d8f54441db61",
+    "ko": "다이아몬드 하이츠"
+  },
+  {
+    "id": "TXT_urbzui_00077",
+    "source_sha256": "4a27d2abda4e5d79a7f7168a01dedbd6d90313b7b08c622515f3a96faf0c66ee",
+    "ko": "사우스사이드 브리지"
+  },
+  {
+    "id": "TXT_urbzui_00083",
+    "source_sha256": "6fdf5845fafd5d99f0c31afeb47391a4e25958124dcebea91cfa38c024948d3b",
+    "ko": "스카이라인 해변"
+  },
+  {
+    "id": "TXT_urbzui_00089",
+    "source_sha256": "8564c6a121ec0c2d83fab3361da91f7f315fc24b9b2323e787e19fb4840ed166",
+    "ko": "가솔린 로"
+  },
+  {
+    "id": "TXT_urbzui_00095",
+    "source_sha256": "1c02cf55b33c8a9c09b2af57940f5e64f96ca151d2313f432528f4d4229873fd",
+    "ko": "중앙역"
+  },
+  {
+    "id": "TXT_urbzui_00101",
+    "source_sha256": "3a19d923d860029e9ba2014351ef8c1a4f409da100893274dece781ac6bc75ea",
+    "ko": "킥테일 공원"
+  },
+  {
+    "id": "TXT_urbzui_00107",
+    "source_sha256": "4dc479fe1a487bc1da547f0f8dfc726707636695d9b4f0cbd770089fd00e4475",
+    "ko": "주조소"
+  },
+  {
+    "id": "TXT_urbzui_00113",
+    "source_sha256": "06fb472dbfb003ee153d8619e193ecf476be4ace2e2931002122bc43b3c134fb",
+    "ko": "98번가 3층"
+  },
+  {
+    "id": "TXT_urbzui_00119",
+    "source_sha256": "71c4c206a203379254751bf31981db2ef7a1b1a235ba01d18e6498caaedbed2b",
+    "ko": "블랭크우드 타워"
+  },
+  {
+    "id": "TXT_urbzui_00125",
+    "source_sha256": "7234acb43823dfa3d6b5eceff367b357412c3ad1fc659079d46d6c3e7920dfb0",
+    "ko": "다리우스의 펜트하우스"
+  },
+  {
+    "id": "TXT_urbzui_00175",
+    "source_sha256": "a537d84efdbe8ba09ae7dd2e2239b4861c3b1341a52f17fd1bfb1f64694c0d5b",
+    "ko": "연인 초대하기"
+  },
+  {
+    "id": "TXT_urbzui_00181",
+    "source_sha256": "9281528896c8d4b5ecd37ad83111c79bd514197d565af7892c0444938be55ede",
+    "ko": "<The1><R1><Button1> 버튼으로 시간을 두 배 빠르게 진행하세요."
+  },
+  {
+    "id": "TXT_urbzui_00189",
+    "source_sha256": "b056eafc80b8bff04dbc4855acb5e9d04bc9ec80ed3a68960e1f725150b2f1a8",
+    "ko": "고트 가족에게 생긴 유령 문제 알아내기"
+  },
+  {
+    "id": "TXT_urbzui_00191",
+    "source_sha256": "c924dbee24297d6de571ae22bbb337e179d8293e94be2533cc15510825101105",
+    "ko": "체이스의 비밀 공식에 관심 있는 사람 찾기"
+  },
+  {
+    "id": "TXT_urbzui_00193",
+    "source_sha256": "057965fcdd3066da19c03df2a47ddff8e8b7df5e10825cb76451de722de0ced1",
+    "ko": "변기를 사용해 용변 욕구 해결하기"
+  },
+  {
+    "id": "TXT_urbzui_00195",
+    "source_sha256": "78c03281e3ac3097bd075e7aa66ebde7609303796999f55b6f35337ebc63eaec",
+    "ko": "배가 찰 만큼 음식 먹기"
+  },
+  {
+    "id": "TXT_urbzui_00201",
+    "source_sha256": "4c39b185a66004ed65ff87dbbb0945fcc6ee8b55b72ab6e037422df6f7b2f6da",
+    "ko": "말콤에게 누명을 씌워 공연음란 혐의로 체포되게 하기"
+  },
+  {
+    "id": "TXT_urbzui_00203",
+    "source_sha256": "b1b06e8390dbb1e9a7a4c64af815966a2886eb02da811bd97509a247cbf39086",
+    "ko": "픽셀 에이커스에 $2000 상당의 시설 추가하기"
+  },
+  {
+    "id": "TXT_urbzui_00205",
+    "source_sha256": "33420c391c8efa373282c97b97213e1bb947cb91ca993b10f3f0c6c5b46f0887",
+    "ko": "신문으로 일자리 찾기"
+  },
+  {
+    "id": "TXT_urbzui_00207",
+    "source_sha256": "d31faed2021b8dc9855b9e70914aad462c4ac9e4dfd19d1e6c42382ddfcbed55",
+    "ko": "즐거운 활동으로 재미 욕구 높이기"
+  },
+  {
+    "id": "TXT_urbzui_00215",
+    "source_sha256": "2bd09d3b27b1280f0d8741c7db4b9912942609efefb247615c04d82b09096a15",
+    "ko": "토안의 체육관에서 무슨 일이 벌어지는지 알아내기"
+  },
+  {
+    "id": "TXT_urbzui_00217",
+    "source_sha256": "741d430add51bf40541a77072411bcdae7366982edcc5d6e721d406ce6d0c4a7",
+    "ko": "클럽에 $1500 상당의 시설 추가하기"
+  },
+  {
+    "id": "TXT_urbzui_00219",
+    "source_sha256": "f32aa1b1811748a1b37833c7a00c4360242b97e364fc2e6948c9d706940e909e",
+    "ko": "패션 직종에서 헤어스타일리스트 되기"
+  },
+  {
+    "id": "TXT_urbzui_00223",
+    "source_sha256": "75597ffbe01b451b03ccfd288011f4dc227ff5282a4ae25f803ea6c2f10da464",
+    "ko": "스튜디오 8에서 클럽 러브의 춤 솜씨 뽐내기"
+  },
+  {
+    "id": "TXT_urbzui_00225",
+    "source_sha256": "abb77f5cdeba791fb9fc95a129b8db51974e4def8b3eb07a2f91efdf84a17185",
+    "ko": "최고의 DJ 댄스 파티 열기"
+  },
+  {
+    "id": "TXT_urbzui_00227",
+    "source_sha256": "fed043d9fae10e463596080a58cc34bcbd81f0368c53274d2af5ef5c48b821cb",
+    "ko": "영화배우 직종에서 퀴즈 쇼 진행자 되기"
+  },
+  {
+    "id": "TXT_urbzui_00229",
+    "source_sha256": "19916a454a29a8560734c11a4c0a96548d70020f698bc6acbb02d962ef1916be",
+    "ko": "결혼하기"
+  },
+  {
+    "id": "TXT_urbzui_00231",
+    "source_sha256": "8a50218dc342870900fca67269ab01572e1dc99f14ccb0ac49bc53ceeb2091ba",
+    "ko": "옥타곤에 $2000 상당의 장비 구입하기"
+  },
+  {
+    "id": "TXT_urbzui_00233",
+    "source_sha256": "babda3f115705d6c333d53936eb8abf390e861fffd81fba743d6a24a4d9b7592",
+    "ko": "괴짜 과학자 직종에서 로봇 공학자 되기"
+  },
+  {
+    "id": "TXT_urbzui_00235",
+    "source_sha256": "622544c2c537ee2d6ff8e557cf90a5c82df72a1ec7ecce8445de1da6194c1bfb",
+    "ko": "아기를 어린이로 키우기"
+  },
+  {
+    "id": "TXT_urbzui_00243",
+    "source_sha256": "39e57c6eccaf9d8bf0e161b90a7490896c3144b89f78c86f953315574564583f",
+    "ko": "임무: 생물 무기를 수색하고 파괴하기"
+  },
+  {
+    "id": "TXT_urbzui_00245",
+    "source_sha256": "a8c44a262bce7aa3d1914bb39ecdebe9b846d9f70435194a564e63c62d76837c",
+    "ko": "임무: 반전 시위대를 찾아 진압하기"
+  },
+  {
+    "id": "TXT_urbzui_00247",
+    "source_sha256": "6bd03ea2a855cb37d608db4002dcca58688173de7a67da35161188b63a695dae",
+    "ko": "임무: 정보 수집 - 해커를 찾아 활동 중단시키기"
+  },
+  {
+    "id": "TXT_urbzui_00249",
+    "source_sha256": "19916a454a29a8560734c11a4c0a96548d70020f698bc6acbb02d962ef1916be",
+    "ko": "결혼하기"
+  },
+  {
+    "id": "TXT_urbzui_00251",
+    "source_sha256": "a537d84efdbe8ba09ae7dd2e2239b4861c3b1341a52f17fd1bfb1f64694c0d5b",
+    "ko": "연인 초대하기"
+  },
+  {
+    "id": "TXT_urbzui_00253",
+    "source_sha256": "b6b8ec6dc92ee73d9d67b41239516c6daf42717b62ffc8934abe059f6b3999c7",
+    "ko": "준군사 직종에서 정보국장 되기"
+  },
+  {
+    "id": "TXT_urbzui_00255",
+    "source_sha256": "1d29d59bd1a27ae02d6564001d54fe06d2830655ec8fcad238db6120b0bed09a",
+    "ko": "괴짜 과학자 직종에서 시공간 이론가 되기"
+  },
+  {
+    "id": "TXT_urbzui_00257",
+    "source_sha256": "dde3fce251515bd34e1b1cacb19dc2572cb29497121d251f15ea985bfe7ad26c",
+    "ko": "준군사 직종에서 암호 해독가 되기"
+  },
+  {
+    "id": "TXT_urbzui_00259",
+    "source_sha256": "b8b9cd64b83a9570acc33bc1f596710bf37903385ba9de987317b42faed40c8b",
+    "ko": "발사 파티에서 로켓 정원 요정 뽐내기"
+  },
+  {
+    "id": "TXT_urbzui_00261",
+    "source_sha256": "836030e2072c0f4eb27d2ca453fd93115a7871b57dc55b025be931c0770e7281",
+    "ko": "연구실에 $1500 상당의 장비 구입하기"
+  },
+  {
+    "id": "TXT_urbzui_00263",
+    "source_sha256": "89c0c0817e8459c11eb2ce3b2e96316138e6723a576e0180fea705a521f66cb5",
+    "ko": "아기 갖기"
+  },
+  {
+    "id": "TXT_urbzui_00267",
+    "source_sha256": "0f57dcd2e817dd59e4632a0605fd88cda3177fe41229bd9f161b137d05ce9957",
+    "ko": "오염 포자가 어디에서 오는지 알아내기"
+  },
+  {
+    "id": "TXT_urbzui_00269",
+    "source_sha256": "c799c275344039ded6fd5793d1e279499991d6ba38744c69fd9c6c43db3e6627",
+    "ko": "스튜디오 8에 가서 과학자에 대한 생각 바꾸기"
+  },
+  {
+    "id": "TXT_urbzui_00271",
+    "source_sha256": "19916a454a29a8560734c11a4c0a96548d70020f698bc6acbb02d962ef1916be",
+    "ko": "결혼하기"
+  },
+  {
+    "id": "TXT_urbzui_00273",
+    "source_sha256": "a537d84efdbe8ba09ae7dd2e2239b4861c3b1341a52f17fd1bfb1f64694c0d5b",
+    "ko": "연인 초대하기"
+  },
+  {
+    "id": "TXT_urbzui_00275",
+    "source_sha256": "bad5988931eb4c22852f5c8fbdb8ecdf2cd83acb970987cddee82df9f2755c2f",
+    "ko": "준군사 직종에서 비밀 요원 되기"
+  },
+  {
+    "id": "TXT_urbzui_00277",
+    "source_sha256": "20c79d799ee00387355dafffd815bcb4edfb0c47bcc4cbe017a39060f7e98ccd",
+    "ko": "괴짜 과학자 직종에서 유전자 접합 연구원 되기"
+  },
+  {
+    "id": "TXT_urbzui_00279",
+    "source_sha256": "9121df5f97d45d99ee90ea01b3ea1767728b1502d4f098e98a04b7893a467c06",
+    "ko": "준군사 직종에서 비밀 작전 요원 되기"
+  },
+  {
+    "id": "TXT_urbzui_00281",
+    "source_sha256": "fdc0338758e82e9c4ba13ef578db1efcaa99ecf39ff71746c89d676d12abaade",
+    "ko": "괴짜 과학자 직종에서 생체 해부 연구원 되기"
+  },
+  {
+    "id": "TXT_urbzui_00283",
+    "source_sha256": "0c9cb6c1d2cfd0ab1fc5046366fa39cafda4608f64cd765fa3b92fb75c299088",
+    "ko": "말콤이 자신의 대작 영화에 나를 출연시키도록 하기"
+  },
+  {
+    "id": "TXT_urbzui_00285",
+    "source_sha256": "4f1fc87b9ce615372e65beacb1e5170c838fbdbae4c2587bbeaa603ce28ea928",
+    "ko": "집에 $2000 상당의 시설 추가하기"
+  },
+  {
+    "id": "TXT_urbzui_00287",
+    "source_sha256": "de3c9e21a2b208233ee30c4b16ad050ddb4891e2bd78855e327537806aabd07b",
+    "ko": "빨간 당구대를 구할 곳 알아내기"
+  },
+  {
+    "id": "TXT_urbzui_00289",
+    "source_sha256": "7811cdf29af9f97a825937c2ab2e9049b024c35a074cae454a8c914f7110d9d2",
+    "ko": "좋은 공상과학 영화 대본 찾기"
+  },
+  {
+    "id": "TXT_urbzui_00291",
+    "source_sha256": "9aa8de4ffaac5fa21d3514bf9e1df5378121d5c469a77ff42dcf881a2e6c5de7",
+    "ko": "체육관의 근육질에게 힘 과시하기"
+  },
+  {
+    "id": "TXT_urbzui_00293",
+    "source_sha256": "622544c2c537ee2d6ff8e557cf90a5c82df72a1ec7ecce8445de1da6194c1bfb",
+    "ko": "아기를 어린이로 키우기"
+  },
+  {
+    "id": "TXT_urbzui_00295",
+    "source_sha256": "19916a454a29a8560734c11a4c0a96548d70020f698bc6acbb02d962ef1916be",
+    "ko": "결혼하기"
+  },
+  {
+    "id": "TXT_urbzui_00297",
+    "source_sha256": "c29f0aeaea1790e79b3313b7fb65f64a7acd3f2f4952994ec625870110ab6aab",
+    "ko": "요리 기술 1점 얻기"
+  },
+  {
+    "id": "TXT_urbzui_00299",
+    "source_sha256": "cc76ef0200b417506c28beeefcf80bd282c2b89cbb0a0c7736e124b96ab3f592",
+    "ko": "더들리와 더 친해지기"
+  },
+  {
+    "id": "TXT_urbzui_00301",
+    "source_sha256": "85cc4a01bbff3eb8c540dbfc3e9f2935f17f307a61fced00dd3a63ec0aa81daa",
+    "ko": "다른 심과 교류하여 사교 욕구 채우기"
+  },
+  {
+    "id": "TXT_urbzui_00303",
+    "source_sha256": "64372b89fbb817d67c1933ad00c6d494cbc4db6804d65c804c97d6ea7b86711e",
+    "ko": "영화배우 직종에서 영화감독 되기"
+  },
+  {
+    "id": "TXT_urbzui_00305",
+    "source_sha256": "ff154ea12447add9782f2697cdeec0fcb7aa6c41f490a5803308e7959964c9de",
+    "ko": "운동선수 직종에서 수석 코치 되기"
+  },
+  {
+    "id": "TXT_urbzui_00307",
+    "source_sha256": "550f2bd0360558d55b26568eabddd2b0655804d37e80b063ae79131a0f47a07c",
+    "ko": "패션 직종에서 패션쇼 모델 되기"
+  },
+  {
+    "id": "TXT_urbzui_00309",
+    "source_sha256": "58b27cf7eafd075acb01fadf5dba6327f245c7ceecfee902ea98cf061b6008bd",
+    "ko": "운동선수 직종에서 신인 선수 되기"
+  },
+  {
+    "id": "TXT_urbzui_00311",
+    "source_sha256": "ebc668d1d3f2ca569587415f5ecbb7235b987efa82dee264bc5e4da182368f4d",
+    "ko": "준군사 직종에서 훈련 교관 되기"
+  },
+  {
+    "id": "TXT_urbzui_00313",
+    "source_sha256": "3c87996b21d8824155f07a8011abb1419d03be9d9418ba5d52889031911c793f",
+    "ko": "범죄 직종에서 빈집털이범 되기"
+  },
+  {
+    "id": "TXT_urbzui_00315",
+    "source_sha256": "422f54fba411fe366cd41defd679d74f6d1b3d4f6d5021537134dad63724c530",
+    "ko": "범죄 직종에서 가게 좀도둑 되기"
+  },
+  {
+    "id": "TXT_urbzui_00317",
+    "source_sha256": "d4696a702176f105a699319749da0bab70f5a9b92ac8d02bedac0033c8f74f50",
+    "ko": "괴짜 과학자 직종에서 물약 실험 대상 되기"
+  },
+  {
+    "id": "TXT_urbzui_00321",
+    "source_sha256": "831f42d0420d5f6cd54c8e1abbc960024087ee38fd3590c38afb997b8e184dca",
+    "ko": "괴짜 과학자 직종에서 화염광 되기"
+  },
+  {
+    "id": "TXT_urbzui_00323",
+    "source_sha256": "f4410521c8ee5107045dee08437f590b268e142d0cb62194c44cb802d1a7cc94",
+    "ko": "운동선수 직종에서 공 수거원 되기"
+  },
+  {
+    "id": "TXT_urbzui_00325",
+    "source_sha256": "9c757c9e6ccf55fb4a660cd8385386c99a738db91234d7d6f61c09075368f035",
+    "ko": "준군사 직종에서 군화 광택원 되기"
+  },
+  {
+    "id": "TXT_urbzui_00327",
+    "source_sha256": "1d4a3a764030f46c4d5dfc6f108a61c301c058a069631ba00e1165d624a42941",
+    "ko": "카사 칼리엔테에서 누군가 유혹하기"
+  },
+  {
+    "id": "TXT_urbzui_00329",
+    "source_sha256": "e006b1c111930f48dd77b846d4948fb46442e41735c8b6e2ead2202cf425485e",
+    "ko": "범죄 직종에서 갈취범 되기"
+  },
+  {
+    "id": "TXT_urbzui_00331",
+    "source_sha256": "df3a544c8d15f6d5907a6787d2691fe6d19aa86c5c12b6efddfe7927578c3996",
+    "ko": "반문화 직종에서 연애 도사 되기"
+  },
+  {
+    "id": "TXT_urbzui_00333",
+    "source_sha256": "e360a31b89d90eb72edd907e92996f549dcede4f257b150ab7d86fc027e55af1",
+    "ko": "운동선수 직종에서 명예의 전당 헌액자 되기"
+  },
+  {
+    "id": "TXT_urbzui_00335",
+    "source_sha256": "f83dcb215d94c5f3ab4c7535f1fc9fa6a3ef09cd05612ea69e844631d00cae93",
+    "ko": "패션 직종에서 화보 모델 되기"
+  },
+  {
+    "id": "TXT_urbzui_00337",
+    "source_sha256": "31fafeef56c7aad8f445d997e450942a6cee07800be249278c185f266d6eb5b8",
+    "ko": "영화배우 직종에서 섹스 심벌 되기"
+  },
+  {
+    "id": "TXT_urbzui_00345",
+    "source_sha256": "8d699105f8c76a85e89387b01c6ac6bed999810e2854191e18f3f07f51835b1a",
+    "ko": "어질러진 곳 청소하기"
+  },
+  {
+    "id": "TXT_urbzui_00347",
+    "source_sha256": "97830ff38134086486a7cf8ac8a79ca5aaf8ef845f28ccdd334c57719768a49d",
+    "ko": "미미의 집에 가서 미미가 내 손가락을 당기게 하기"
+  },
+  {
+    "id": "TXT_urbzui_00349",
+    "source_sha256": "9133eb92be5c51abb6b871f6d75812ea1017fb922a08c865adbc5db22274d438",
+    "ko": "새집에 엄마 초대하기"
+  },
+  {
+    "id": "TXT_urbzui_00385",
+    "source_sha256": "dc25154933ed9d93082d780e60b13cf0a7b493ac53c1b150cfb1553dbeb2df2f",
+    "ko": "운동선수 직종에서 살아 있는 전설 되기"
+  },
+  {
+    "id": "TXT_urbzui_00389",
+    "source_sha256": "6671fef82580771a3b84ab11b4f9f3f2b7b63d6b3dc8d3ce2ceb88a45ec91493",
+    "ko": "저택을 개선해 재산 자랑하기"
+  },
+  {
+    "id": "TXT_urbzui_00391",
+    "source_sha256": "19916a454a29a8560734c11a4c0a96548d70020f698bc6acbb02d962ef1916be",
+    "ko": "결혼하기"
+  },
+  {
+    "id": "TXT_urbzui_00393",
+    "source_sha256": "3c7fa8146de5d76b39596566d00c49b22079209d24a2bf96658f84fd38aabace",
+    "ko": "영화배우 직종에서 영화계 거물 되기"
+  },
+  {
+    "id": "TXT_urbzui_00395",
+    "source_sha256": "421d5f94ac00ffd01b27a7eea1a11ca763617cf48522adf8f3428a7bf9a72b0c",
+    "ko": "아이를 전 과목 A 성적으로 사립학교에 보내기"
+  },
+  {
+    "id": "TXT_urbzui_00397",
+    "source_sha256": "622544c2c537ee2d6ff8e557cf90a5c82df72a1ec7ecce8445de1da6194c1bfb",
+    "ko": "아기를 어린이로 키우기"
+  },
+  {
+    "id": "TXT_urbzui_00399",
+    "source_sha256": "a537d84efdbe8ba09ae7dd2e2239b4861c3b1341a52f17fd1bfb1f64694c0d5b",
+    "ko": "연인 초대하기"
+  },
+  {
+    "id": "TXT_urbzui_00401",
+    "source_sha256": "db6e03c912b38736eb2319fe5ed225f0d3b46ba783776f41562145c3f4bd4f2b",
+    "ko": "패션 직종에서 슈퍼모델 되기"
+  },
+  {
+    "id": "TXT_urbzui_00403",
+    "source_sha256": "046ccb3ff4fae664bb54ee4ac35e3a55ff0909d8a50b44b13de5c3ceb816e986",
+    "ko": "최고의 은퇴 파티 열기"
+  },
+  {
+    "id": "TXT_urbzui_00405",
+    "source_sha256": "06a16afcd86be83493a57ce39fd35fcbbace359af98d632020ab16a159fb7cf2",
+    "ko": "범죄 직종에서 조직 우두머리 되기"
+  },
+  {
+    "id": "TXT_urbzui_00407",
+    "source_sha256": "19916a454a29a8560734c11a4c0a96548d70020f698bc6acbb02d962ef1916be",
+    "ko": "결혼하기"
+  },
+  {
+    "id": "TXT_urbzui_00409",
+    "source_sha256": "a537d84efdbe8ba09ae7dd2e2239b4861c3b1341a52f17fd1bfb1f64694c0d5b",
+    "ko": "연인 초대하기"
+  },
+  {
+    "id": "TXT_urbzui_00411",
+    "source_sha256": "8ee62b394d8d28fea207f4a2ac7c85c516e4ddf1394d1c0763c74867b9e4eef8",
+    "ko": "범죄 직종에서 청부 살인업자 되기"
+  },
+  {
+    "id": "TXT_urbzui_00413",
+    "source_sha256": "a58bc94af318c75a0690789a077dc1599ed6ffa52838f78e306a5a385448ed1d",
+    "ko": "반문화 직종에서 초능력 운동가 되기"
+  },
+  {
+    "id": "TXT_urbzui_00415",
+    "source_sha256": "5d0bf140109926a9b7a2a4652aac2483a7b896e0dcfb30f11cad5a2d5bf7af53",
+    "ko": "7개 직종을 모두 완수하여 꿈을 이루세요."
+  },
+  {
+    "id": "TXT_urbzui_00417",
+    "source_sha256": "2fbc56fd219df411f967c922138904758a38b911fd5a0e91735035412bf71ff6",
+    "ko": "준군사 직종에서 국방 장관 되기"
+  },
+  {
+    "id": "TXT_urbzui_00419",
+    "source_sha256": "622544c2c537ee2d6ff8e557cf90a5c82df72a1ec7ecce8445de1da6194c1bfb",
+    "ko": "아기를 어린이로 키우기"
+  },
+  {
+    "id": "TXT_urbzui_00421",
+    "source_sha256": "c478f13d000e9ac1f9c1cd36648e09ed45431ba311f6fc2442674f7882dc9246",
+    "ko": "반문화 직종에서 전업 괴짜 되기"
+  },
+  {
+    "id": "TXT_urbzui_00423",
+    "source_sha256": "efd9f6cbed2c4c4533305f9b2672e18a1ec8e008c4d28f6cbf0b6d369517a187",
+    "ko": "괴짜 과학자 직종에서 살인 광선 발명가 되기"
+  },
+  {
+    "id": "TXT_urbzui_00461",
+    "source_sha256": "ec2ed92b958068d475037a2e77188161b2aa937f565dc3af707bd309ed406345",
+    "ko": "반문화 직종에서 바구니 직공 되기"
+  },
+  {
+    "id": "TXT_urbzui_00463",
+    "source_sha256": "7ddfc24ed4c0540057b86433da89694dcd56222b739e907cc48470da7dea5942",
+    "ko": "패션 직종에서 왁싱 전문가 되기"
+  },
+  {
+    "id": "TXT_urbzui_00465",
+    "source_sha256": "16806af9563710d0110ae483b6cf52dde7cf1a1e303f15716637a13eaa3e0168",
+    "ko": "영화배우 직종에서 어린이 방송 보조 진행자 되기"
+  },
+  {
+    "id": "TXT_urbzui_00467",
+    "source_sha256": "32020fa6058dc3affc8026c35ca8234bad49fc994159632c26d5530fb377e705",
+    "ko": "망가진 물건 모두 고치기"
+  },
+  {
+    "id": "TXT_urbzui_00469",
+    "source_sha256": "f510668263554af9e76dd78bbaa25eebfc579fb7db8449f5cf1c1228af424362",
+    "ko": "더들리를 찾아가 수화 사용하기"
+  },
+  {
+    "id": "TXT_urbzui_00471",
+    "source_sha256": "d943afa5b625fe18336b6f64148d26accfa43c551e9ce2d13f8d8d0e356d7ecf",
+    "ko": "패션 직종에서 속옷 모델 되기"
+  },
+  {
+    "id": "TXT_urbzui_00473",
+    "source_sha256": "55684101456739573beda267624030d9443f630fe45cf91cbc36a330c6113312",
+    "ko": "반문화 직종에서 전단 배포원 되기"
+  },
+  {
+    "id": "TXT_urbzui_00477",
+    "source_sha256": "9133eb92be5c51abb6b871f6d75812ea1017fb922a08c865adbc5db22274d438",
+    "ko": "새집에 엄마 초대하기"
+  },
+  {
+    "id": "TXT_urbzui_00479",
+    "source_sha256": "c29f0aeaea1790e79b3313b7fb65f64a7acd3f2f4952994ec625870110ab6aab",
+    "ko": "요리 기술 1점 얻기"
+  },
+  {
+    "id": "TXT_urbzui_00481",
+    "source_sha256": "033b1b10289167615ece21f6231208d4f003e49c83710f2d025ebbef84ffc1d9",
+    "ko": "미미와 더 친해지기"
+  },
+  {
+    "id": "TXT_urbzui_00483",
+    "source_sha256": "85cc4a01bbff3eb8c540dbfc3e9f2935f17f307a61fced00dd3a63ec0aa81daa",
+    "ko": "다른 심과 교류하여 사교 욕구 채우기"
+  },
+  {
+    "id": "TXT_urbzui_00485",
+    "source_sha256": "3bfe1ccaf6203694b3076cf3024748ffff4ef7e4d6bc18751d52c71a7f7177e8",
+    "ko": "영화배우 직종에서 스턴트 대역 되기"
+  },
+  {
+    "id": "TXT_urbzui_00487",
+    "source_sha256": "e2e503a39406b7522be3735f467c1abcabf7cde750708dae3442f1f1b706657b",
+    "ko": "작품을 재배치해 멋진 전시 개막식 열기"
+  },
+  {
+    "id": "TXT_urbzui_00489",
+    "source_sha256": "fc38aadae128a1afb0fcf0ce63df0946d21c516923a78f52d381524676d3737a",
+    "ko": "스튜디오에 $1000 상당의 시설 추가하기"
+  },
+  {
+    "id": "TXT_urbzui_00491",
+    "source_sha256": "a788d2715acbc33c2f1d0047de78147c103c3ba31ab5ab5ae63b97e75757634b",
+    "ko": "미미의 집에 가서 미미가 괜찮은지 확인하기"
+  },
+  {
+    "id": "TXT_urbzui_00495",
+    "source_sha256": "99847fef20f0817c581a33876a8e84ee982d276ec127c8a322a1d157be7f60b6",
+    "ko": "<The1><R2><Button1> 버튼으로 다른 심 조작하기"
+  },
+  {
+    "id": "TXT_urbzui_00497",
+    "source_sha256": "d5d810697b5c86fa770409e5a37c839fe8803d8514bb58b623d7fa60dbb22105",
+    "ko": "아티 또는 채리티와 친구 되기"
+  },
+  {
+    "id": "TXT_urbzui_00499",
+    "source_sha256": "82c3a7c4e895834728cdb56326d4b2d258de90d0761ea18bff47ce3460c83080",
+    "ko": "반문화 직종에서 마사지 치료사 되기"
+  },
+  {
+    "id": "TXT_urbzui_00501",
+    "source_sha256": "283fb781c19b1ac8452c6a8f617bbbc2416b5709e32d0822a114403091d3bb19",
+    "ko": "패션 직종에서 가발 디자이너 되기"
+  },
+  {
+    "id": "TXT_urbzui_00503",
+    "source_sha256": "60d613df19ac944cff54d1976ad285eb3d4bbed1cd7756aaa25bca4e0893e50d",
+    "ko": "반문화 직종에서 히피 되기"
+  },
+  {
+    "id": "TXT_urbzui_00505",
+    "source_sha256": "5e91e020ae296eb28d318ddc9247034fe8ed665be08d10d5b130e61401f5f50a",
+    "ko": "패션 직종에서 네일 아티스트 되기"
+  },
+  {
+    "id": "TXT_urbzui_00509",
+    "source_sha256": "05ea0bfa9839edb50662df626b749f605ae49f8eee675f06ae7d164fddb24342",
+    "ko": "고트 가족에게 $1000 상당의 시설 추가하기"
+  },
+  {
+    "id": "TXT_urbzui_00511",
+    "source_sha256": "dc0ed0467fcf1f7b258bc058b757db0e9fed6e5a6819356221e4166a707c57b3",
+    "ko": "강령회를 열어 유령 쫓아내기"
+  },
+  {
+    "id": "TXT_urbzui_00513",
+    "source_sha256": "ab51cb1cbb237d17bfd1218a006a2216b23181449f07ac3b75ccf3d17c062c89",
+    "ko": "고트 가족이 도둑맞은 고사리 찾기"
+  },
+  {
+    "id": "TXT_urbzui_00515",
+    "source_sha256": "99847fef20f0817c581a33876a8e84ee982d276ec127c8a322a1d157be7f60b6",
+    "ko": "<The1><R2><Button1> 버튼으로 다른 심 조작하기"
+  },
+  {
+    "id": "TXT_urbzui_00517",
+    "source_sha256": "5b4094746c5e0ef945152ad7b9f1c8f5bce19f7ddc583bd4dc1b3c3860014788",
+    "ko": "영화배우 직종에서 연속극 엑스트라 되기"
+  },
+  {
+    "id": "TXT_urbzui_00519",
+    "source_sha256": "31063e6b4c4c0b2a29ac66c00dadcdcbdbe888a415ef184cc595b715cf9a9cc0",
+    "ko": "모티머 또는 벨라와 친구 되기"
+  },
+  {
+    "id": "TXT_urbzui_00521",
+    "source_sha256": "e575836b37f91d4945391b40bb2d1721222d8dc170f1a336b0ac91312a94c0e1",
+    "ko": "괴짜 과학자 직종에서 화학자 되기"
+  },
+  {
+    "id": "TXT_urbzui_00523",
+    "source_sha256": "19916a454a29a8560734c11a4c0a96548d70020f698bc6acbb02d962ef1916be",
+    "ko": "결혼하기"
+  },
+  {
+    "id": "TXT_urbzui_00525",
+    "source_sha256": "4cfe633d165d0da874cc7c103a4722c2eaa7d139080528646db713e04cf274b0",
+    "ko": "범죄 직종에서 방화범 되기"
+  },
+  {
+    "id": "TXT_urbzui_00527",
+    "source_sha256": "36320ab7877ac17975d87d6c4c62a1bd9db2c2a0fead491b4587a791f880bc0e",
+    "ko": "촛대에 관해 아는 이웃 찾기"
+  },
+  {
+    "id": "TXT_urbzui_00529",
+    "source_sha256": "fc18135c3ddb7dce1be6cbc1c2bc421b26f3358c059e1c018b2be76405e48388",
+    "ko": "스튜디오 8에 가서 아웃사이더 아트 돕기"
+  },
+  {
+    "id": "TXT_urbzui_00531",
+    "source_sha256": "a537d84efdbe8ba09ae7dd2e2239b4861c3b1341a52f17fd1bfb1f64694c0d5b",
+    "ko": "연인 초대하기"
+  },
+  {
+    "id": "TXT_urbzui_00533",
+    "source_sha256": "8fbf09d63a636c59053b6020f6863390cab3d80ad811a89fdc590a2645b0f3f9",
+    "ko": "반문화 직종에서 초월주의자 되기"
+  },
+  {
+    "id": "TXT_urbzui_00537",
+    "source_sha256": "e143caa0ab4643ade833be11f682893f7abe016b72f1ac3287e7327f79f67ee5",
+    "ko": "반문화 직종에서 요가 강사 되기"
+  },
+  {
+    "id": "TXT_urbzui_00539",
+    "source_sha256": "0a9d26e3e97ed74e1c8dfaf5c80a3a461c3e15efb9764c09fbc6e9660dc4e501",
+    "ko": "범죄 직종에서 경호원 되기"
+  },
+  {
+    "id": "TXT_urbzui_00541",
+    "source_sha256": "07ee23a53e73aeed21d6bd4aa83a11e1d1a4b448eaa8e0bce4484994c2bf0428",
+    "ko": "운동선수 직종에서 올스타 되기"
+  },
+  {
+    "id": "TXT_urbzui_00543",
+    "source_sha256": "d3dd3c5494dee295452cbffd596a796370b91bbf379e6fbb0cede7de729930bd",
+    "ko": "준군사 직종에서 헬리콥터 조종사 되기"
+  },
+  {
+    "id": "TXT_urbzui_00545",
+    "source_sha256": "25127bccaae6e2491842f99dd8a81348405a65ace1036d50cc1ae458ffd5922b",
+    "ko": "범죄 직종에서 노상강도 되기"
+  },
+  {
+    "id": "TXT_urbzui_00547",
+    "source_sha256": "dfef15760a66fce844bd4b2e7e2c6bb939e7466e5dbea8aa2662467075f9d8fc",
+    "ko": "운동선수 직종에서 주전 선수 되기"
+  },
+  {
+    "id": "TXT_urbzui_00548",
+    "source_sha256": "4f789e0801c7b2d8ebea9e2bba03dd1ce3bf0b2bd65ec0cc7d66446360da4325",
+    "ko": "목표를 달성했습니다."
+  },
+  {
+    "id": "TXT_urbzui_00549",
+    "source_sha256": "1ddde07e3eb338a66cb7818d6fd892a08fd518a09a47b7c24b9dfe5432e1c762",
+    "ko": "준군사 직종에서 공수부대원 되기"
+  },
+  {
+    "id": "TXT_urbzui_00550",
+    "source_sha256": "4f789e0801c7b2d8ebea9e2bba03dd1ce3bf0b2bd65ec0cc7d66446360da4325",
+    "ko": "목표를 달성했습니다."
+  },
+  {
+    "id": "TXT_urbzui_00551",
+    "source_sha256": "28a23ec449eab5c45dcd7803b5bb341182850abb138461ef7d2dff15b69e9656",
+    "ko": "같은 파티에서 심 2명과 연애에 성공하기"
+  },
+  {
+    "id": "TXT_urbzui_00553",
+    "source_sha256": "70b7bd8c9de9a648546ca66d94247b2e808853992197fc83e37a6c61222684b5",
+    "ko": "카사 칼리엔테에 $1500 상당의 시설 추가하기"
+  },
+  {
+    "id": "TXT_urbzui_00557",
+    "source_sha256": "4e506622d905bca92e1dde93fc7c5cd338d22324ed56056f73442c41f4b8a857",
+    "ko": "영화배우 직종에서 공포 영화 엑스트라 되기"
+  },
+  {
+    "id": "TXT_urbzui_00559",
+    "source_sha256": "18f9dfbd336d5ace9f5c39b54b4be008aa48c3d0831674c0db0a632cac955e1b",
+    "ko": "괴짜 과학자 직종에서 바이러스 배양가 되기"
+  },
+  {
+    "id": "TXT_urbzui_00561",
+    "source_sha256": "22ab34892740686e11eb7deda57b15990b0f9ebfde554c08176621375d4a5999",
+    "ko": "심 4명을 토안의 체육관 회원으로 가입시키기"
+  },
+  {
+    "id": "TXT_urbzui_00563",
+    "source_sha256": "555051dbe42fe56dea08b573dcaba7549690b138af087591319885ebea1f7250",
+    "ko": "체육관에 $1000 상당의 시설 추가하기"
+  },
+  {
+    "id": "TXT_urbzui_00565",
+    "source_sha256": "a623e14d32ad7bba7d0ecb9a44e31ff615772a0a4dc0a073a67668dc2a925180",
+    "ko": "범죄 직종에서 차량 절도범 되기"
+  },
+  {
+    "id": "TXT_urbzui_00569",
+    "source_sha256": "ab9eb30b458d682eb1b9beed318b7996b1f2e275620603d186760025e2aeca66",
+    "ko": "더들리의 트레일러에 가서 신나게 파티하기!"
+  },
+  {
+    "id": "TXT_urbzui_00571",
+    "source_sha256": "99847fef20f0817c581a33876a8e84ee982d276ec127c8a322a1d157be7f60b6",
+    "ko": "<The1><R2><Button1> 버튼으로 다른 심 조작하기"
+  },
+  {
+    "id": "TXT_urbzui_00573",
+    "source_sha256": "eb1de2085e0aaf736e1283da0ae188e1cb5203bc53c0253cc9f42fa6ea574f70",
+    "ko": "맥스 또는 골디와 친구 되기"
+  },
+  {
+    "id": "TXT_urbzui_00575",
+    "source_sha256": "33987e8e48611c93012164c3f01078bf74439160aa747e746709349aec0319f9",
+    "ko": "운동선수 직종에서 최우수 선수 되기"
+  },
+  {
+    "id": "TXT_urbzui_00577",
+    "source_sha256": "89b2f8574d8cc578660397892801d06a543d4c335bd4c20fd62c685e7fb8cf79",
+    "ko": "임무: 기밀 - 랜드그랩 상원의원 제거하기"
+  },
+  {
+    "id": "TXT_urbzui_00579",
+    "source_sha256": "a537d84efdbe8ba09ae7dd2e2239b4861c3b1341a52f17fd1bfb1f64694c0d5b",
+    "ko": "연인 초대하기"
+  }
+]

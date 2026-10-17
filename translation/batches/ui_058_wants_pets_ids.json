@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "TXT_SimsObjects_11400",
+    "source_sha256": "0532596b285ff93d7460418cbfd2ffa811cfb2ea47ce16e2ff3dd7878101c102",
+    "ko": "<WT>$me: 놀기. 누가 놀고 싶지? 아! 아! 이 반려동물이요! 나! 나! 나! 날 골라! 날 골라!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11402",
+    "source_sha256": "702fd1e71ed3a32ff1ad5d6802adbd86f00a0bbb003f46ac15795c7e4b5be7ae",
+    "ko": "\r\n      <WT>$playtype. 누가 $playtype 놀이를 하고 싶지? 아! 아! 이 반려동물이요! 나! 나! 나! 날 골라! 날 골라!\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11403",
+    "source_sha256": "89aa399153625bcf1e5733746ef9ba95cc20b969d373d2157639e420428580cf",
+    "ko": "\r\n      $playtype\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11404",
+    "source_sha256": "5e66f4c5c8a177d5cce7aba0a8dab9e497ee32700251a8b5da2c6bf1950d2e75",
+    "ko": "<WT>$playtype. 누가 $playtype 놀이를 하고 싶지? 아! 아! 이 반려동물이요! 나! 나! 나! 날 골라! 날 골라!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11405",
+    "source_sha256": "89aa399153625bcf1e5733746ef9ba95cc20b969d373d2157639e420428580cf",
+    "ko": "\r\n      $playtype\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11406",
+    "source_sha256": "ebe9e0e3c211296a2b7993b8774682dd0ae9415f8ffa5bdc6ce5b4a87df65298",
+    "ko": "<WT>$int_lights 구입하기. 심도 어둠 속에서 살 수는 없습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_11407",
+    "source_sha256": "672d105c70cb5558ba57b1117858858f31f82c7c06cfffdb1d2edcb07c31220e",
+    "ko": "조명 $int개 구입하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11408",
+    "source_sha256": "8f41dbdad61a8d1b0a99b905dec47b2ef88d78bf19e20415bbf415598042f129",
+    "ko": "<WT>$me: 심과 놀기. 장난감은 사랑을 돌려주지 못합니다! $me의 소망은 심과 노는 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11409",
+    "source_sha256": "52be59f852cf4b89ef34f14d4432309bf73215131684a9f68861d2e7a3c7f367",
+    "ko": "반려동물 놀기 (.1)"
+  },
+  {
+    "id": "TXT_SimsObjects_11410",
+    "source_sha256": "5bcab34df31b26882d209dbccaa58881ae58b3cee45c18b89e2453bc16e9145d",
+    "ko": "<WT>$me: 심과 놀기. 장난감은 사랑을 돌려주지 못합니다! $me의 소망은 $sim과 노는 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11411",
+    "source_sha256": "6bf13dae014a5d6a6780a9db8a46922f880e27dbb8ec03f7f950ab5b0524f45f",
+    "ko": "반려동물이 $sim과 놀기 (.3)"
+  },
+  {
+    "id": "TXT_SimsObjects_11412",
+    "source_sha256": "5bcab34df31b26882d209dbccaa58881ae58b3cee45c18b89e2453bc16e9145d",
+    "ko": "<WT>$me: 심과 놀기. 장난감은 사랑을 돌려주지 못합니다! $me의 소망은 $sim과 노는 것입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11413",
+    "source_sha256": "1b636c668bf709412bdfb4ccea730b615e681c6976dc696df0dc761e3fddabdb",
+    "ko": "반려동물이 $sim과 놀기 (.5)"
+  },
+  {
+    "id": "TXT_SimsObjects_11414",
+    "source_sha256": "11ec79330af9b30412341dba83ad16a8d6ee74a499540277dc0ac303d9862c04",
+    "ko": "<WT>반려동물이 $sim과 놀기 (.6)"
+  },
+  {
+    "id": "TXT_SimsObjects_11415",
+    "source_sha256": "4f1486fbb28879c1008d478942e0dc422d0a64a5ba29852b29b83bae1354624b",
+    "ko": "반려동물이 $sim과 놀기 (.7)"
+  },
+  {
+    "id": "TXT_SimsObjects_11416",
+    "source_sha256": "875ae69d5423e65842932c658fa583a3c784946fdb9ae07dc1b4426076e5f342",
+    "ko": "<WT>$me: 심에게 훈련받기. 이 반려동물은 말썽 피운 지난날을 만회하고 싶어 합니다. 재주를 가르쳐 주세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_11417",
+    "source_sha256": "5fd9c0d9a619979d26d9a52ac70fceb36eab4223feb184ae05699a3dcb8b44ee",
+    "ko": "심에게 훈련받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11418",
+    "source_sha256": "58b0c8c6c2c3773b18187c6675a8a4d6ce7e15d5e4a72f026ad2ad7d7fad7b95",
+    "ko": "<WT>$sim에게 훈련받기. 이 반려동물은 재주를 배우고 싶으며, $sim에게 배우기를 원합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_11419",
+    "source_sha256": "d4bae3241cf6f8e1e7dc1be30a653a0d9e9ad63078ae54d7a503c6c50bf16473",
+    "ko": "\r\n      $sim에게 훈련받기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11420",
+    "source_sha256": "a1d4dc686eacef137a5b7681d8847f261138c701a00097db7d05f2fd003a347e",
+    "ko": "<WT>$sim에게 훈련받기. 이 반려동물은 재주를 배우고 싶으며, $sim에게 배우기를 원합니다!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11421",
+    "source_sha256": "d4bae3241cf6f8e1e7dc1be30a653a0d9e9ad63078ae54d7a503c6c50bf16473",
+    "ko": "\r\n      $sim에게 훈련받기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11422",
+    "source_sha256": "46d548ab4dc959704e7cfbbc3d6cc534269b54b72a0598d2c9d69ce65991bfc7",
+    "ko": "<WT>$sim에게 훈련받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11423",
+    "source_sha256": "d2ca124e9e14e1897523c6195e5e2f2b778237903bc12c51c00e4c4701986d1b",
+    "ko": "$sim에게 훈련받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11424",
+    "source_sha256": "d343b2fb26ac92c3e1dd2ce6fb5df711710b090e0e8714704c2822fa9c324119",
+    "ko": "\r\n      <WT>$me: 재주 부리기. 대단한 멋쟁이군요! 이 반려동물은 오로지 재주만 부리고 싶어 합니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11425",
+    "source_sha256": "757bd56cbe16069dcd3d9d1bbe0a7bf94755362067fe585340b37bf4bc0cfb84",
+    "ko": "재주 부리기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11426",
+    "source_sha256": "625b01ac388868caccc7d5c7012e45882b77b90c88ccb5da4f136721c4ef370f",
+    "ko": "\r\n      <WT>$tricktype. 대단한 멋쟁이군요! 이 반려동물은 오로지 $tricktype 재주만 부리고 싶어 합니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11427",
+    "source_sha256": "8ddbadd6f2472d5c996de525a5fee112e76d3faf095d4ff0afe0a62a92f6b10a",
+    "ko": "$tricktype\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11428",
+    "source_sha256": "625b01ac388868caccc7d5c7012e45882b77b90c88ccb5da4f136721c4ef370f",
+    "ko": "\r\n      <WT>$tricktype. 대단한 멋쟁이군요! 이 반려동물은 오로지 $tricktype 재주만 부리고 싶어 합니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11429",
+    "source_sha256": "0bf81c2f71470fb9443298424e09ca74a469338e4e3638adcf4b02c042b4a8dd",
+    "ko": "\r\n      $tricktype\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11430",
+    "source_sha256": "b3922c4c88a8fd70b9eaf6831d15c7450ebe047b233f905431fe38442ae5909a",
+    "ko": "<WT>반려동물 재주 부리기"
+  },
+  {
+    "id": "TXT_SimsObjects_11431",
+    "source_sha256": "dc9904c23b417b4a868169cb5277cb14b7d906cc8cfc692095d54bbed3b92883",
+    "ko": "반려동물 재주 부리기"
+  },
+  {
+    "id": "TXT_SimsObjects_11432",
+    "source_sha256": "dd9de80a9f2131f76f091701f3b4a8f69f69eb71a9983363d15aea9e2178c9f7",
+    "ko": "\r\n      <WT>무언가_긁기. 이 반려동물의 발톱이 길어지고 있습니다. 신발을 숨기세요! 긁을 시간입니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11433",
+    "source_sha256": "1502837dc53bacb2f3b462974208e6b7da00af9c049074a38301b9ca7127514c",
+    "ko": "\r\n      무언가 긁기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11434",
+    "source_sha256": "1fe387cd1d71bab265fbd4cc0b8310764daf49b6844d131841e555dbff4acf4b",
+    "ko": "\r\n      <WT>$object 긁기. 이 반려동물의 발톱이 길어지고 있습니다. $object을 긁을 시간입니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11435",
+    "source_sha256": "9ecc5616e2bd0621d4dc84968e0a162daa422dfd9b08616f7d74f88e9c03fa94",
+    "ko": "$object 긁기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11436",
+    "source_sha256": "1fe387cd1d71bab265fbd4cc0b8310764daf49b6844d131841e555dbff4acf4b",
+    "ko": "\r\n      <WT>$object 긁기. 이 반려동물의 발톱이 길어지고 있습니다. $object을 긁을 시간입니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11437",
+    "source_sha256": "c861ebb2e422f49c5ec856b2a07576c11e76d09029f30f69184357a1f1bde29d",
+    "ko": "\r\n      $object 긁기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11438",
+    "source_sha256": "b99dbd3b625909acf4aeb91ad83b265a0c0ab665771538da35a8f9462d84dd3a",
+    "ko": "<WT>반려동물 긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_11439",
+    "source_sha256": "a1010434831d5ca0627e22ae01201d4d088eea5e4cfd3890c9fd336bc75c512f",
+    "ko": "반려동물 긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_11440",
+    "source_sha256": "a0803d2c8c63992693d69b1dcbdbc0356cb92611af351625b3071973df77969f",
+    "ko": "<WT>$me: 마을 광장 가기. 멋진 반려동물은 모두 거기 있습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_11441",
+    "source_sha256": "20436f5f4b2507aab880eed16bbe066386ef6f21a4219b9ccf832c6583b11d8c",
+    "ko": "마을 광장 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11442",
+    "source_sha256": "eba43c91fd8f23316832c62e78f533d6ddbe12bdc601534d0449e790294f8845",
+    "ko": "반려동물 마을 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11443",
+    "source_sha256": "eba43c91fd8f23316832c62e78f533d6ddbe12bdc601534d0449e790294f8845",
+    "ko": "반려동물 마을 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11444",
+    "source_sha256": "eba43c91fd8f23316832c62e78f533d6ddbe12bdc601534d0449e790294f8845",
+    "ko": "반려동물 마을 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11445",
+    "source_sha256": "eba43c91fd8f23316832c62e78f533d6ddbe12bdc601534d0449e790294f8845",
+    "ko": "반려동물 마을 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11446",
+    "source_sha256": "f6e0861d1bf351ddb242044863693c1b1bf9d949793bec5bbb273a7a992c5f6b",
+    "ko": "<WT>반려동물 마을 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11447",
+    "source_sha256": "1fd22e7822e07f4654c87213eeeaf355f891d74fc718004f78412d11bf1b21cd",
+    "ko": "반려동물 마을 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11448",
+    "source_sha256": "637979484b4e4b09c49e5ba1fa8183f50df13a9117d8a35cb3239f6a1726817d",
+    "ko": "\r\n      <WT>$me: 배 문지르기 받기. 쓰다듬기 중에는 배 문지르기가 최고라는 것을 이 반려동물은 압니다. 이제 당신도 알게 됐군요.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11449",
+    "source_sha256": "2ba5298618d6498e9dcf97fea2d8fe6b60775f08427c2abf4b2186b2a919a4b1",
+    "ko": "\r\n      배 문지르기 받기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11450",
+    "source_sha256": "9c232fbb1627287ddb0cbedca605ea0f881005e6e3b2a9f758f617e3b3f73f4a",
+    "ko": "\r\n      <WT>$sim에게 배 문지르기 받기. 이 반려동물은 배 문지르기와 $sim을 좋아합니다. 둘을 함께 누린다고 상상해 보세요!\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11451",
+    "source_sha256": "be9a134ea8332e1f95072a44e8b90c7d1fb216b966114db7afd13b52f746544a",
+    "ko": "\r\n      $sim에게 배 문지르기 받기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11452",
+    "source_sha256": "9c232fbb1627287ddb0cbedca605ea0f881005e6e3b2a9f758f617e3b3f73f4a",
+    "ko": "\r\n      <WT>$sim에게 배 문지르기 받기. 이 반려동물은 배 문지르기와 $sim을 좋아합니다. 둘을 함께 누린다고 상상해 보세요!\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11453",
+    "source_sha256": "be9a134ea8332e1f95072a44e8b90c7d1fb216b966114db7afd13b52f746544a",
+    "ko": "\r\n      $sim에게 배 문지르기 받기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11454",
+    "source_sha256": "fe621dc6068b379f1f6b621206f0983937f122782f97345b2f1ea67b36654bd9",
+    "ko": "<WT>반려동물 배 문질러 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_11455",
+    "source_sha256": "6c487f64e033d591a3fcded4ce71c095ca8952beaf352fe0d8ef343093c09bf9",
+    "ko": "반려동물 배 문질러 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_11456",
+    "source_sha256": "952d01402333a7e2a89f17bb75ec540b2bca0746c9630959e935b6c50a254936",
+    "ko": "<WT>반려동물_훈련하기. 반려동물은 생각보다 똑똑합니다! 멋진 재주를 하나 가르쳐 주세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11457",
+    "source_sha256": "65c4caba96b49288052e59a390ce03fdbc4b91f6fcee7ae06e89e525fb27c8d7",
+    "ko": "반려동물 훈련하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11458",
+    "source_sha256": "58a0a91a71784e0b8ee1a07a570a8b4498ba6fe9c5d44e2eec792a2b3d7739a3",
+    "ko": "<WT>$sim 훈련하기. 어릴 때 부모님이 시키던 재미있는 재주들을 다시 떠올려 보세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11459",
+    "source_sha256": "21fb1331ac7da92f0577611063139c278d16bd61080d38d95492b12659abc605",
+    "ko": "$sim 훈련하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11460",
+    "source_sha256": "58a0a91a71784e0b8ee1a07a570a8b4498ba6fe9c5d44e2eec792a2b3d7739a3",
+    "ko": "<WT>$sim 훈련하기. 어릴 때 부모님이 시키던 재미있는 재주들을 다시 떠올려 보세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11461",
+    "source_sha256": "31d6b1edd11e67fcd996b6c8eadc229c277cc750f681581f21a69c5413e29d5c",
+    "ko": "$sim 훈련하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11462",
+    "source_sha256": "1afba4b4b88fc9b0b5a669042e942ac959a2d17a6645511ea710f86c44874a35",
+    "ko": "<WT>반려동물 훈련하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11463",
+    "source_sha256": "4ddb2882883c25f63672e59218f7bb6e379c9e2f6db1bd747cd8be2ea809b6c9",
+    "ko": "반려동물 훈련하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11464",
+    "source_sha256": "c093e1372d6e24a9276f8e593d2e1a260132f439c338f9164b324bcfe9a4a7a4",
+    "ko": "<WT>마을_광장_가기. 멋진 사람은 모두 마을 광장에서 어울립니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11465",
+    "source_sha256": "54867f30e839321db0725448e7128753c36f264ec2264b8650863c39b083bbf2",
+    "ko": "마을 광장 가기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11466",
+    "source_sha256": "0b111a6128b10aed2893108d76fa195393244821bf6e3fa56fc67be6ec7a882e",
+    "ko": "마을 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11467",
+    "source_sha256": "0b111a6128b10aed2893108d76fa195393244821bf6e3fa56fc67be6ec7a882e",
+    "ko": "마을 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11468",
+    "source_sha256": "0b111a6128b10aed2893108d76fa195393244821bf6e3fa56fc67be6ec7a882e",
+    "ko": "마을 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11469",
+    "source_sha256": "0b111a6128b10aed2893108d76fa195393244821bf6e3fa56fc67be6ec7a882e",
+    "ko": "마을 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11470",
+    "source_sha256": "8640304b5210e63d67ce8d0770027d090d9047bb31ec55a164e6a75176b68839",
+    "ko": "<WT>마을 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11471",
+    "source_sha256": "a745162b1fa2c909a0a85a2c53c75af2f5b049073933493e467ea0bad6b66466",
+    "ko": "마을 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11472",
+    "source_sha256": "6477c44bd33c221917f5ed8b4ca8fd47287ace3f3be903e04f297e66b1545121",
+    "ko": "\r\n      <WT>집에_가기. 집은 마음이 머무는 곳입니다. 먹을 것도 있고요.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11478",
+    "source_sha256": "2ab89ad56c9dbd2613e220ab55192d191f134fa9a0284e34825e70f25ecad70e",
+    "ko": "<WT>집에 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11480",
+    "source_sha256": "cdb108c55dde0b5d6adc06d1dcdd938a1f02e1398442798ae6e1011340eb66e3",
+    "ko": "<WT>물건_구입하기. 심에게는 시몰레온만이 채울 수 있는 욕구가 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11481",
+    "source_sha256": "7d8c4aa37fcfc9d9e410443f8311850a4936269c19f03b51a4598ab2e2acce33",
+    "ko": "물건 구입하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11482",
+    "source_sha256": "a0e726a3c71974eb3fa465dfcc7eee42933062c3cba9863e6578c8eec4c624b8",
+    "ko": "<WT>$category 구입하기. 알맞은 물건을 사면 어떤 심이든 삶이 좋아집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11483",
+    "source_sha256": "918d883ea83c5c9823bdd0b61788eddecbcf83d3fad5580d601d2d87c594760a",
+    "ko": "구입: $category"
+  },
+  {
+    "id": "TXT_SimsObjects_11484",
+    "source_sha256": "a0e726a3c71974eb3fa465dfcc7eee42933062c3cba9863e6578c8eec4c624b8",
+    "ko": "<WT>$category 구입하기. 알맞은 물건을 사면 어떤 심이든 삶이 좋아집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11485",
+    "source_sha256": "918d883ea83c5c9823bdd0b61788eddecbcf83d3fad5580d601d2d87c594760a",
+    "ko": "구입: $category"
+  },
+  {
+    "id": "TXT_SimsObjects_11486",
+    "source_sha256": "ebea5cc4a5328f8a40bb45a4363a7c029cf5b733164d93b79c0cb365e87aaccb",
+    "ko": "<WT>다른_심의_죽음. 아무리 조심하는 심도 사고를 겪습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11487",
+    "source_sha256": "ff576d15e8fbe2ea990e8efb83bf6e00c62101dfb6a7afc5ef5f7e7523144dad",
+    "ko": "누군가의 죽음"
+  },
+  {
+    "id": "TXT_SimsObjects_11488",
+    "source_sha256": "de00157debc92f6fc809abe8f8ecd98c6558df4a91e45ab7893d711b93486314",
+    "ko": "<WT>$sim의 죽음. 아무리 조심하는 심도 사고를 겪습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11489",
+    "source_sha256": "07e454d8e474608f48733cc4d4985abb87592280392708fbb501f4d745fa3163",
+    "ko": "$sim의 죽음"
+  },
+  {
+    "id": "TXT_SimsObjects_11490",
+    "source_sha256": "de00157debc92f6fc809abe8f8ecd98c6558df4a91e45ab7893d711b93486314",
+    "ko": "<WT>$sim의 죽음. 아무리 조심하는 심도 사고를 겪습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11491",
+    "source_sha256": "07e454d8e474608f48733cc4d4985abb87592280392708fbb501f4d745fa3163",
+    "ko": "$sim의 죽음"
+  },
+  {
+    "id": "TXT_SimsObjects_11492",
+    "source_sha256": "01dbb891509535dd303d4ba5b6c0bcb6f303393c75b26fc9593a26eb0fbf8442",
+    "ko": "<WT>누군가의_죽음. 친구를 잃는 것은 끔찍합니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_11493",
+    "source_sha256": "ff576d15e8fbe2ea990e8efb83bf6e00c62101dfb6a7afc5ef5f7e7523144dad",
+    "ko": "누군가의 죽음"
+  },
+  {
+    "id": "TXT_SimsObjects_11494",
+    "source_sha256": "f1833a88fdfb9b7c06c293143c44fcedda5d20b963f42ecd5d89e019b61acd61",
+    "ko": "<WT>먹이_그릇_채우기. 그릇에 먹이가 없으면 반려동물은 먹을 수 없습니다! 굶기려는 건가요?"
+  },
+  {
+    "id": "TXT_SimsObjects_11495",
+    "source_sha256": "a9c8ebe28a774c06dca0e2188649252d23f67b8c5a920dafb78dba09c7080250",
+    "ko": "먹이 그릇 채우기"
+  },
+  {
+    "id": "TXT_SimsObjects_11496",
+    "source_sha256": "c97f37b1b4c7f270e22e268380fb4c5c7d86da72f0b00a25c60faaf3cc565eb0",
+    "ko": "특정 먹이 그릇"
+  },
+  {
+    "id": "TXT_SimsObjects_11497",
+    "source_sha256": "01a80cd7ba0987bbd5e6fe32264e4c064592185c36f9b2bfda854da0590bcad1",
+    "ko": "특정 먹이 그릇"
+  },
+  {
+    "id": "TXT_SimsObjects_11498",
+    "source_sha256": "34ce381b1db8184a5abafe36b9316e66f725c805aaa5974df944332652df1fb7",
+    "ko": "먹이 그릇 긴 문구 여성형"
+  },
+  {
+    "id": "TXT_SimsObjects_11499",
+    "source_sha256": "3e0a86c39f58acf40101c92d4e1d2dad04949885ede7b62b5bc0c81588c255f5",
+    "ko": "먹이 그릇 짧은 문구 여성형"
+  },
+  {
+    "id": "TXT_SimsObjects_11500",
+    "source_sha256": "c9b228baf88bd8051fdb41752d2c05f4b58f8fef7f43a5a7c4050ccfc1327fec",
+    "ko": "먹이 그릇 이야기 긴 문구"
+  },
+  {
+    "id": "TXT_SimsObjects_11501",
+    "source_sha256": "cef9a680208bf178a4de46b3f1982004f63c267ca361080d623d1810342514b9",
+    "ko": "먹이 그릇 이야기 짧은 문구"
+  },
+  {
+    "id": "TXT_SimsObjects_11502",
+    "source_sha256": "0b7be157700066fad64a272914ae24585df784564fb00cf9a1896e8311747a33",
+    "ko": "<WT>$me: 심 만나기. 다양함은 삶의 양념입니다. 이 반려동물은 새 심을 만날 준비가 됐습니다!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11503",
+    "source_sha256": "12ab31ad67207f96b129d3f578d89f41c1fcf6058e89f1c2221f5ec8cdd31bc9",
+    "ko": "심 만나기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11504",
+    "source_sha256": "25beda694849347ac520a196177e855c6f7346aa0993678d008969c098ea15d1",
+    "ko": "<WT>$sim 만나기. 다양함은 삶의 양념이라지만 이 반려동물은 한 가지 맛만 신경 씁니다. $sim을 맛보고 싶어 합니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11505",
+    "source_sha256": "9e4c952aeb81c543b74606116c3ece481b1b0b930ea72e4820e764538096e328",
+    "ko": "$sim 만나기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11506",
+    "source_sha256": "25beda694849347ac520a196177e855c6f7346aa0993678d008969c098ea15d1",
+    "ko": "<WT>$sim 만나기. 다양함은 삶의 양념이라지만 이 반려동물은 한 가지 맛만 신경 씁니다. $sim을 맛보고 싶어 합니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11507",
+    "source_sha256": "9e4c952aeb81c543b74606116c3ece481b1b0b930ea72e4820e764538096e328",
+    "ko": "$sim 만나기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11508",
+    "source_sha256": "616aa0de492a0a1f67736db34586c2f86c3d5a65274312329839f57e4e8073fc",
+    "ko": "반려동물이 새 심 만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_11509",
+    "source_sha256": "616aa0de492a0a1f67736db34586c2f86c3d5a65274312329839f57e4e8073fc",
+    "ko": "반려동물이 새 심 만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_11510",
+    "source_sha256": "995ac50ddd3b5acbb79cc9282befab7c60e10329ec7428fcac6ec8b1b94418d9",
+    "ko": "<WT>$me: 무언가와 놀기. 장난감! 장난감! 장난감! 이 반려동물은 더 많은 물건과 놀고 싶습니다. 물질주의 만세!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11511",
+    "source_sha256": "e67070b809f3a9b3427a47195419e228a47f5f79cd623d6a6767764afca21c86",
+    "ko": "무언가와 놀기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11512",
+    "source_sha256": "17fcdcda1d0bee2ff998f880bb84a2fbd4f9a38f2a8f639b78b51a1820e2ac30",
+    "ko": "<WT>$object과 놀기. 세상의 온갖 장난감 중에서 이 반려동물의 머릿속에는 $object뿐입니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11513",
+    "source_sha256": "5772ffdec19dd6f290ea73e4a77083fc1c9cb6d2227f2efc6825fb7a770dc652",
+    "ko": "$object과 놀기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11514",
+    "source_sha256": "5d2ad6438e875f95388f4dbe839ce5768ecb0390e0de18f559f5c524b9706191",
+    "ko": "<WT>$object과 놀기. 세상의 온갖 장난감 중에서 이 반려동물의 머릿속에는 $object뿐입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11515",
+    "source_sha256": "5772ffdec19dd6f290ea73e4a77083fc1c9cb6d2227f2efc6825fb7a770dc652",
+    "ko": "$object과 놀기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11516",
+    "source_sha256": "b63074185a7ea882140bfa2cd727d68864a4ff7c03c315b6074eba0ad208c6e7",
+    "ko": "반려동물이 물건과 놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_11517",
+    "source_sha256": "b63074185a7ea882140bfa2cd727d68864a4ff7c03c315b6074eba0ad208c6e7",
+    "ko": "반려동물이 물건과 놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_11518",
+    "source_sha256": "08312298d8043500360cb2a4b32b8213a88a805b54a6909cb0a57ad328b3549a",
+    "ko": "<WT>$me: 친구 되기. 이 반려동물은 세상에서 가장 다정한 친구가 되고 싶어 합니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_11519",
+    "source_sha256": "4230680adaf6fb96e9f26ca60c8a79873f6edab01c2dec786182b278f063326f",
+    "ko": "친구 되기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11520",
+    "source_sha256": "492ffcd96b8e876bb45050eb468bcfec0e2bc12fce0e0fbfe2289de3f2a12eb9",
+    "ko": "<WT>$sim과 친구 되기. 이 반려동물은 $sim에게 세상에서 가장 다정한 친구가 되고 싶어 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11521",
+    "source_sha256": "2a3ba03e55f42129d16e3244cdd3bcda93955888c3b7d4e5f9e6cea8153fb5a0",
+    "ko": "$sim과 친구 되기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11522",
+    "source_sha256": "492ffcd96b8e876bb45050eb468bcfec0e2bc12fce0e0fbfe2289de3f2a12eb9",
+    "ko": "<WT>$sim과 친구 되기. 이 반려동물은 $sim에게 세상에서 가장 다정한 친구가 되고 싶어 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_11523",
+    "source_sha256": "2a3ba03e55f42129d16e3244cdd3bcda93955888c3b7d4e5f9e6cea8153fb5a0",
+    "ko": "$sim과 친구 되기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11524",
+    "source_sha256": "670fdcff15fdb9c8d0fa75f296ef7adc2d4ecf476c42cfc35b0a7cdad7831c72",
+    "ko": "반려동물이 $sim과 친구 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_11525",
+    "source_sha256": "670fdcff15fdb9c8d0fa75f296ef7adc2d4ecf476c42cfc35b0a7cdad7831c72",
+    "ko": "반려동물이 $sim과 친구 되기"
+  },
+  {
+    "id": "TXT_SimsObjects_11526",
+    "source_sha256": "1a0a25ffbfaef4a384fc254ba60bdbc2621aa6a2e4bb14b172fa636ee395d019",
+    "ko": "\r\n      <WT>나무_오르기. 동네 왕국을 굽어보기에는 나무 꼭대기만 한 곳이 없습니다. 반려동물이 나무에 오르고 싶어 합니다!\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11527",
+    "source_sha256": "3101a535b024e9d5cf432ccda552d4f6caf3f581d3f8e5b136fd463243d1eff2",
+    "ko": "나무 오르기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11528",
+    "source_sha256": "a291c8da39c8980e4fb9dd57b17821b09a9e387f52ace91ed6c55d61c4738347",
+    "ko": "반려동물 나무 오르기"
+  },
+  {
+    "id": "TXT_SimsObjects_11529",
+    "source_sha256": "a291c8da39c8980e4fb9dd57b17821b09a9e387f52ace91ed6c55d61c4738347",
+    "ko": "반려동물 나무 오르기"
+  },
+  {
+    "id": "TXT_SimsObjects_11530",
+    "source_sha256": "a291c8da39c8980e4fb9dd57b17821b09a9e387f52ace91ed6c55d61c4738347",
+    "ko": "반려동물 나무 오르기"
+  },
+  {
+    "id": "TXT_SimsObjects_11531",
+    "source_sha256": "a291c8da39c8980e4fb9dd57b17821b09a9e387f52ace91ed6c55d61c4738347",
+    "ko": "반려동물 나무 오르기"
+  },
+  {
+    "id": "TXT_SimsObjects_11532",
+    "source_sha256": "a291c8da39c8980e4fb9dd57b17821b09a9e387f52ace91ed6c55d61c4738347",
+    "ko": "반려동물 나무 오르기"
+  },
+  {
+    "id": "TXT_SimsObjects_11533",
+    "source_sha256": "a291c8da39c8980e4fb9dd57b17821b09a9e387f52ace91ed6c55d61c4738347",
+    "ko": "반려동물 나무 오르기"
+  },
+  {
+    "id": "TXT_SimsObjects_11534",
+    "source_sha256": "d59a2acf1d83604c50af77b24eab448af30d7b2d6140810df451aa848e38d6a1",
+    "ko": "<WT>자기. 이 반려동물은 피곤합니다. 따뜻하고 푹신한 곳에 웅크리고 잠들고 싶습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11536",
+    "source_sha256": "014deff40d993f9072a9eaee253f95480f152a2274fb5e6841197d7cd19169fe",
+    "ko": "반려동물 자기"
+  },
+  {
+    "id": "TXT_SimsObjects_11537",
+    "source_sha256": "014deff40d993f9072a9eaee253f95480f152a2274fb5e6841197d7cd19169fe",
+    "ko": "반려동물 자기"
+  },
+  {
+    "id": "TXT_SimsObjects_11538",
+    "source_sha256": "014deff40d993f9072a9eaee253f95480f152a2274fb5e6841197d7cd19169fe",
+    "ko": "반려동물 자기"
+  },
+  {
+    "id": "TXT_SimsObjects_11539",
+    "source_sha256": "014deff40d993f9072a9eaee253f95480f152a2274fb5e6841197d7cd19169fe",
+    "ko": "반려동물 자기"
+  },
+  {
+    "id": "TXT_SimsObjects_11540",
+    "source_sha256": "014deff40d993f9072a9eaee253f95480f152a2274fb5e6841197d7cd19169fe",
+    "ko": "반려동물 자기"
+  },
+  {
+    "id": "TXT_SimsObjects_11541",
+    "source_sha256": "014deff40d993f9072a9eaee253f95480f152a2274fb5e6841197d7cd19169fe",
+    "ko": "반려동물 자기"
+  },
+  {
+    "id": "TXT_SimsObjects_11542",
+    "source_sha256": "cd3a4a3ea7d9ae2ab5d5faf2315d4f50342f7de1c155acd50e308229d1b1972b",
+    "ko": "<WT>$me: 새끼 낳기. 이 반려동물도 더 젊어지지는 않습니다. 생체 시계가 똑딱거립니다. 새끼를 낳을 때입니다! \r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11543",
+    "source_sha256": "8e779235fa05b4c15c5387233394c096ba2796784ae996704d07bc7d60239966",
+    "ko": "새끼 낳기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11544",
+    "source_sha256": "060fe831f6886d19a7a3784d83fc1ef00a8bfe8a848ccc68d84ff6c700f2c1a7",
+    "ko": "\r\n      <WT>$sim과 새끼 갖기. 이 반려동물도 더 젊어지지는 않습니다. 생체 시계가 똑딱거립니다. $Sim과 새끼를 가질 때입니다! 이런 일이!\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11545",
+    "source_sha256": "435f09af277b1885e391a2cd1eaa07e0287d2b9d2407f8922db669a21d3803c6",
+    "ko": "$sim과 새끼 갖기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11546",
+    "source_sha256": "1af2696ca1ee8d4d06fbaf3b3011e56f155660252620acee195b552c80855a5b",
+    "ko": "<WT>$sim과 새끼 갖기. 이 반려동물도 더 젊어지지는 않습니다. 생체 시계가 똑딱거립니다. $Sim과 새끼를 가질 때입니다! 이런 일이!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11547",
+    "source_sha256": "435f09af277b1885e391a2cd1eaa07e0287d2b9d2407f8922db669a21d3803c6",
+    "ko": "$sim과 새끼 갖기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11548",
+    "source_sha256": "1a63bcbb3ffaaa64166db0d0ed57fb52d8c77dacd1e15e642246892ee8929422",
+    "ko": "반려동물이 $sim과 새끼 갖기"
+  },
+  {
+    "id": "TXT_SimsObjects_11549",
+    "source_sha256": "1a63bcbb3ffaaa64166db0d0ed57fb52d8c77dacd1e15e642246892ee8929422",
+    "ko": "반려동물이 $sim과 새끼 갖기"
+  },
+  {
+    "id": "TXT_SimsObjects_11550",
+    "source_sha256": "a8a06384ebb400fa69e1368c139a5bd5e0bd1c91a22ee750b47007537be84d49",
+    "ko": "<WT>무언가_물어뜯기. 이 반려동물의 이가 길어지고 있습니다. 신발을 숨기세요! 물어뜯을 시간입니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11551",
+    "source_sha256": "1a70d98d1dc863df4c84f354fe5d8efd7e24e30c308d9088c619560da27e103b",
+    "ko": "무언가 물어뜯기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11552",
+    "source_sha256": "1403ca2ce89b751a8934657f1354dcc02f99ac4dcbed3be801aea104c07bff1d",
+    "ko": "<WT>$object 물어뜯기. 이 반려동물의 이가 길어지고 있습니다. 물어뜯을 시간이며 $object에 입맛이 당깁니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11553",
+    "source_sha256": "80c6c1f0ac941b2f751b8d15eabccb1dcae6ef3cae9ae5f79a6a846cce51f5ef",
+    "ko": "$object 물어뜯기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11554",
+    "source_sha256": "1403ca2ce89b751a8934657f1354dcc02f99ac4dcbed3be801aea104c07bff1d",
+    "ko": "<WT>$object 물어뜯기. 이 반려동물의 이가 길어지고 있습니다. 물어뜯을 시간이며 $object에 입맛이 당깁니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11555",
+    "source_sha256": "80c6c1f0ac941b2f751b8d15eabccb1dcae6ef3cae9ae5f79a6a846cce51f5ef",
+    "ko": "$object 물어뜯기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11556",
+    "source_sha256": "ecfe573f654f2aee8df61abcff4806a70e124cd218bd902647ba3e2c63d527fa",
+    "ko": "반려동물이 $category 물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_11557",
+    "source_sha256": "ecfe573f654f2aee8df61abcff4806a70e124cd218bd902647ba3e2c63d527fa",
+    "ko": "반려동물이 $category 물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_11558",
+    "source_sha256": "d32fd8fa6e94934a6dd11c33a73420a9442ea70c7086a450c2519675cff791a7",
+    "ko": "<WT>물_마시기. 사막의 스펀지처럼 이 반려동물은 그저 물을 실컷 마시고 싶습니다!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11559",
+    "source_sha256": "208fe0344f0f0c3d1f03e1ed93b34600bf10e0351263d54c14fabcb93e7a7086",
+    "ko": "\r\n      물 마시기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11560",
+    "source_sha256": "258b0aaf4a70e4e21f2560ddb3bc63313c68e58b043b68e6e7a40daa3abedd2d",
+    "ko": "반려동물 물 마시기"
+  },
+  {
+    "id": "TXT_SimsObjects_11561",
+    "source_sha256": "258b0aaf4a70e4e21f2560ddb3bc63313c68e58b043b68e6e7a40daa3abedd2d",
+    "ko": "반려동물 물 마시기"
+  },
+  {
+    "id": "TXT_SimsObjects_11562",
+    "source_sha256": "258b0aaf4a70e4e21f2560ddb3bc63313c68e58b043b68e6e7a40daa3abedd2d",
+    "ko": "반려동물 물 마시기"
+  },
+  {
+    "id": "TXT_SimsObjects_11563",
+    "source_sha256": "258b0aaf4a70e4e21f2560ddb3bc63313c68e58b043b68e6e7a40daa3abedd2d",
+    "ko": "반려동물 물 마시기"
+  },
+  {
+    "id": "TXT_SimsObjects_11564",
+    "source_sha256": "258b0aaf4a70e4e21f2560ddb3bc63313c68e58b043b68e6e7a40daa3abedd2d",
+    "ko": "반려동물 물 마시기"
+  },
+  {
+    "id": "TXT_SimsObjects_11565",
+    "source_sha256": "258b0aaf4a70e4e21f2560ddb3bc63313c68e58b043b68e6e7a40daa3abedd2d",
+    "ko": "반려동물 물 마시기"
+  },
+  {
+    "id": "TXT_SimsObjects_11566",
+    "source_sha256": "ebdae0dd3bb183063f30b82eca54dd9355e25753ba015ac5434bc6744c3d8da1",
+    "ko": "<WT>덤불에_숨기. 이 고양이 눈에 당신이 안 보이면 당신도 고양이를 못 봅니다! 덤불 속에 숨고 싶어 합니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11567",
+    "source_sha256": "4be908f2cfcc4c950ae7acb9ad6b8b872d1069d211f447638dc61f0ca2391e8e",
+    "ko": "덤불에 숨기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11568",
+    "source_sha256": "d0bc1cb0d3a7362163db2fb36b82f0a04c6f94a9b3fa304cf63ab9155580c528",
+    "ko": "반려동물 덤불에 숨기"
+  },
+  {
+    "id": "TXT_SimsObjects_11569",
+    "source_sha256": "d0bc1cb0d3a7362163db2fb36b82f0a04c6f94a9b3fa304cf63ab9155580c528",
+    "ko": "반려동물 덤불에 숨기"
+  },
+  {
+    "id": "TXT_SimsObjects_11570",
+    "source_sha256": "d0bc1cb0d3a7362163db2fb36b82f0a04c6f94a9b3fa304cf63ab9155580c528",
+    "ko": "반려동물 덤불에 숨기"
+  },
+  {
+    "id": "TXT_SimsObjects_11571",
+    "source_sha256": "d0bc1cb0d3a7362163db2fb36b82f0a04c6f94a9b3fa304cf63ab9155580c528",
+    "ko": "반려동물 덤불에 숨기"
+  },
+  {
+    "id": "TXT_SimsObjects_11572",
+    "source_sha256": "d0bc1cb0d3a7362163db2fb36b82f0a04c6f94a9b3fa304cf63ab9155580c528",
+    "ko": "반려동물 덤불에 숨기"
+  },
+  {
+    "id": "TXT_SimsObjects_11573",
+    "source_sha256": "d0bc1cb0d3a7362163db2fb36b82f0a04c6f94a9b3fa304cf63ab9155580c528",
+    "ko": "반려동물 덤불에 숨기"
+  },
+  {
+    "id": "TXT_SimsObjects_11574",
+    "source_sha256": "8046f5612c80f4f4dfef2c2385ac29879812217f63c027eaab722fbf7c39d128",
+    "ko": "<WT>불. 기술이 부족하면 참담한 결과를 낳을 수 있습니다. 열기를 견디지 못하겠다면 부엌에 들어가지 마세요."
+  },
+  {
+    "id": "TXT_SimsObjects_11580",
+    "source_sha256": "2999d2be1dee2699ce257f43b883f435ac3e74cd6ee866c92c32d33f855e78ca",
+    "ko": "<WT>불. 화재로 식당이 파괴될 수도 있습니다! "
+  },
+  {
+    "id": "TXT_SimsObjects_11584",
+    "source_sha256": "1c9681f8d05701ba7e133198bc619a1ca6532271f23ecbe46bab98503099b3ac",
+    "ko": "<WT>새_물통에서_새_쫓기. 물통 안의 새야, 새야... 이 반려동물은 널 입에 넣고 싶단다...\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11585",
+    "source_sha256": "c9dd72aec4bafaf1447e1299bfd7da61ff14f7ba85cac5d00407a94557bf0023",
+    "ko": "새 물통에서 새 쫓기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11586",
+    "source_sha256": "0584bcbaeacc819075061c20f15c9d24c55a22f940fdac8e03774ba3d612fd3b",
+    "ko": "반려동물_새_쫓기"
+  },
+  {
+    "id": "TXT_SimsObjects_11587",
+    "source_sha256": "0584bcbaeacc819075061c20f15c9d24c55a22f940fdac8e03774ba3d612fd3b",
+    "ko": "반려동물_새_쫓기"
+  },
+  {
+    "id": "TXT_SimsObjects_11588",
+    "source_sha256": "0584bcbaeacc819075061c20f15c9d24c55a22f940fdac8e03774ba3d612fd3b",
+    "ko": "반려동물_새_쫓기"
+  },
+  {
+    "id": "TXT_SimsObjects_11589",
+    "source_sha256": "0584bcbaeacc819075061c20f15c9d24c55a22f940fdac8e03774ba3d612fd3b",
+    "ko": "반려동물_새_쫓기"
+  },
+  {
+    "id": "TXT_SimsObjects_11590",
+    "source_sha256": "0584bcbaeacc819075061c20f15c9d24c55a22f940fdac8e03774ba3d612fd3b",
+    "ko": "반려동물_새_쫓기"
+  },
+  {
+    "id": "TXT_SimsObjects_11591",
+    "source_sha256": "0584bcbaeacc819075061c20f15c9d24c55a22f940fdac8e03774ba3d612fd3b",
+    "ko": "반려동물_새_쫓기"
+  },
+  {
+    "id": "TXT_SimsObjects_11592",
+    "source_sha256": "bf63bfe6b3e08e4b26f9eda616fd0b4d53f0c14680aa2bf30aa27623229a2e1b",
+    "ko": "\r\n      <WT>심_쫓아다니기. 조심하세요! 이 반려동물이 잡으러 옵니다! 심을 쫓아다니고 싶어 합니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11593",
+    "source_sha256": "e1198880a55584931b930c58bdb15767480b0fc53559ef48a480dcb86f8081ba",
+    "ko": "\r\n      심 쫓아다니기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11594",
+    "source_sha256": "3994f51ff66fc415fb235819bc13426fce6f43a0001929442ae6799b271e7688",
+    "ko": "\r\n      <WT>$sim 쫓아다니기. 장난기가 넘치는 반려동물입니다. $sim을 쫓아다니고 싶어 합니다.\r\n\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11595",
+    "source_sha256": "9cb173bd819ce5ba5dc19494c16368528958d208c0eb6bd2a32bcac5dcdf0b00",
+    "ko": "\r\n      $sim 쫓아다니기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11596",
+    "source_sha256": "9dfa796fd903d6d0b92184eca393afed4f49bb5f83b60cd20bd54c2969701fd0",
+    "ko": "\r\n      <WT>$sim 쫓아다니기. 장난기가 넘치는 반려동물입니다. $sim을 쫓아다니고 싶어 합니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11597",
+    "source_sha256": "9cb173bd819ce5ba5dc19494c16368528958d208c0eb6bd2a32bcac5dcdf0b00",
+    "ko": "\r\n      $sim 쫓아다니기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11598",
+    "source_sha256": "316041bb67cafc2b43ea6a07baa6eca681e0960462786faddd6a282a202d9726",
+    "ko": "반려동물이 $sim 쫓아다니기"
+  },
+  {
+    "id": "TXT_SimsObjects_11599",
+    "source_sha256": "316041bb67cafc2b43ea6a07baa6eca681e0960462786faddd6a282a202d9726",
+    "ko": "반려동물이 $sim 쫓아다니기"
+  },
+  {
+    "id": "TXT_SimsObjects_11600",
+    "source_sha256": "76bff367bdac6103fae04ae37f9e167f8a6a386c43e6af212d2061a3e312c6dc",
+    "ko": "\r\n      <WT>쓰레기_속에서_뒹굴기. 쓰레기 향수만큼 세련됨을 잘 표현하는 것은 없습니다. 죽은 생선 향수는 몰라도요... 어쨌든 이 반려동물은 쓰레기 속에서 뒹굴고 싶습니다!\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11601",
+    "source_sha256": "3702605d1a79c65c68ebfa8704b74bdaab293eca746899c6870dddae4da29fc6",
+    "ko": "\r\n      쓰레기 속에서 뒹굴기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11602",
+    "source_sha256": "89900543144b02fa09fc4aa7e19d103248855cd538df8f73fcc76dc1caa04dd9",
+    "ko": "반려동물_쓰레기_속에서_뒹굴기"
+  },
+  {
+    "id": "TXT_SimsObjects_11603",
+    "source_sha256": "89900543144b02fa09fc4aa7e19d103248855cd538df8f73fcc76dc1caa04dd9",
+    "ko": "반려동물_쓰레기_속에서_뒹굴기"
+  },
+  {
+    "id": "TXT_SimsObjects_11604",
+    "source_sha256": "89900543144b02fa09fc4aa7e19d103248855cd538df8f73fcc76dc1caa04dd9",
+    "ko": "반려동물_쓰레기_속에서_뒹굴기"
+  },
+  {
+    "id": "TXT_SimsObjects_11605",
+    "source_sha256": "89900543144b02fa09fc4aa7e19d103248855cd538df8f73fcc76dc1caa04dd9",
+    "ko": "반려동물_쓰레기_속에서_뒹굴기"
+  },
+  {
+    "id": "TXT_SimsObjects_11606",
+    "source_sha256": "89900543144b02fa09fc4aa7e19d103248855cd538df8f73fcc76dc1caa04dd9",
+    "ko": "반려동물_쓰레기_속에서_뒹굴기"
+  },
+  {
+    "id": "TXT_SimsObjects_11607",
+    "source_sha256": "89900543144b02fa09fc4aa7e19d103248855cd538df8f73fcc76dc1caa04dd9",
+    "ko": "반려동물_쓰레기_속에서_뒹굴기"
+  },
+  {
+    "id": "TXT_SimsObjects_11608",
+    "source_sha256": "6a2a8b5f9299184dc8f023026bf52fc033f3e7618808a038c3129d0bab3236fe",
+    "ko": "\r\n      <WT>심의_냄새_맡기. 킁. 킁. 킁킁킁, 킁! 이 반려동물은 심의 냄새를 맡고 싶습니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11609",
+    "source_sha256": "a703b5608b712c8cbd1445f931dc14d277afb74b61be848427205d8256d4e29e",
+    "ko": "심의 냄새 맡기"
+  },
+  {
+    "id": "TXT_SimsObjects_11610",
+    "source_sha256": "ad1ae91e0405e367b740b4c7042d575f7a58f805e57e6554966f3e018138bfa4",
+    "ko": "\r\n      <WT>$sim 냄새 맡기. 이 반려동물은 $sim의 냄새를 맡고 싶습니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11611",
+    "source_sha256": "34fec7a72abb69f1c250ea1ffb001c53d82cd08053ba5b98896a29c1a25d6f03",
+    "ko": "\r\n      $sim 냄새 맡기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11612",
+    "source_sha256": "ad1ae91e0405e367b740b4c7042d575f7a58f805e57e6554966f3e018138bfa4",
+    "ko": "\r\n      <WT>$sim 냄새 맡기. 이 반려동물은 $sim의 냄새를 맡고 싶습니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11613",
+    "source_sha256": "34fec7a72abb69f1c250ea1ffb001c53d82cd08053ba5b98896a29c1a25d6f03",
+    "ko": "\r\n      $sim 냄새 맡기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11614",
+    "source_sha256": "c8de508536abec29a466859b84da2d6c32bc339851f57ae6671934efe0628311",
+    "ko": "반려동물이 $sim 냄새 맡기"
+  },
+  {
+    "id": "TXT_SimsObjects_11615",
+    "source_sha256": "c8de508536abec29a466859b84da2d6c32bc339851f57ae6671934efe0628311",
+    "ko": "반려동물이 $sim 냄새 맡기"
+  },
+  {
+    "id": "TXT_SimsObjects_11616",
+    "source_sha256": "464028558a1d4122459599a48579a012949b272aa319b99f8121cc8fd4826c31",
+    "ko": "<WT>$me: 칭찬받기. 요즘 누가 착한 강아지였지? 반려동물이 착하게 굴었나요? 칭찬으로 고마움을 표현해 주세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11617",
+    "source_sha256": "923f4f80b87fac0ac43d0ed3a54d4cb7a5541b05a1f5fdcbc801e2ae5cd2855b",
+    "ko": "칭찬받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11618",
+    "source_sha256": "57f73db0eca0af3408b3813e9a558ef05886e64eaabed4209163f6838971bae9",
+    "ko": "<WT>$sim에게 칭찬받기. 이 반려동물은 $sim에게 칭찬받고 싶습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11619",
+    "source_sha256": "1e4cb3994c62d1cc363fb6ff169f1be78458899505157d0728c25e696ad086b2",
+    "ko": "$sim에게 칭찬받기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11620",
+    "source_sha256": "57f73db0eca0af3408b3813e9a558ef05886e64eaabed4209163f6838971bae9",
+    "ko": "<WT>$sim에게 칭찬받기. 이 반려동물은 $sim에게 칭찬받고 싶습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11621",
+    "source_sha256": "1e4cb3994c62d1cc363fb6ff169f1be78458899505157d0728c25e696ad086b2",
+    "ko": "$sim에게 칭찬받기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11622",
+    "source_sha256": "d60d931961855ae9067beae8fc9163efca23fbec1b43d4b208c4bcbd51bf6a1c",
+    "ko": "반려동물이 $sim에게 칭찬받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11623",
+    "source_sha256": "d60d931961855ae9067beae8fc9163efca23fbec1b43d4b208c4bcbd51bf6a1c",
+    "ko": "반려동물이 $sim에게 칭찬받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11624",
+    "source_sha256": "ee472ef0ae51aab88119877ba31dd415fff5f6678142f9b871d4dd707072d9a3",
+    "ko": "<WT>$me: 목욕하기. 이 반려동물은 씻고 싶습니다. 사실 욕실 전체에 물을 뿌리고 싶지만 그냥 모르는 척해 줍시다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11625",
+    "source_sha256": "e0917831fabf8fae13fc89bf22522d78898fe4536fe48fdca5c1df35490f18bf",
+    "ko": "목욕받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11626",
+    "source_sha256": "08f0494e674a0ef9cbc6c3fb26fb80040bd9efe61771b8f92ca1c064df94ac3b",
+    "ko": "<WT>$sim에게 목욕받기. 뽀득뽀득. 이 반려동물은 $sim이 욕조에 넣어 주기를 원합니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11627",
+    "source_sha256": "8c775c3729154d2f2af180723fe238f4f19bbdbfeb09e8bd3cc8b7f4c6f71b25",
+    "ko": "$sim에게 목욕받기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11628",
+    "source_sha256": "08f0494e674a0ef9cbc6c3fb26fb80040bd9efe61771b8f92ca1c064df94ac3b",
+    "ko": "<WT>$sim에게 목욕받기. 뽀득뽀득. 이 반려동물은 $sim이 욕조에 넣어 주기를 원합니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11629",
+    "source_sha256": "8c775c3729154d2f2af180723fe238f4f19bbdbfeb09e8bd3cc8b7f4c6f71b25",
+    "ko": "$sim에게 목욕받기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11630",
+    "source_sha256": "3557841cc93703c3295e7f86003c468e4363b70ab1e1cc326afce9d958a52692",
+    "ko": "반려동물이 $sim에게 목욕받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11631",
+    "source_sha256": "3557841cc93703c3295e7f86003c468e4363b70ab1e1cc326afce9d958a52692",
+    "ko": "반려동물이 $sim에게 목욕받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11632",
+    "source_sha256": "a1c52a48b4e72b28dd66c3b9e33ef686d2cfe8300bdd734e13ccd75ab9536e3d",
+    "ko": "<WT>심에게_하악질하기. 화난 고양이의 침을 조심하세요! 하악질 한 번이면 날아옵니다!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11633",
+    "source_sha256": "4df999b2d50777e4e2cd540c9d29f0ffd7d30d224bcbaa2e673e6d1278244d49",
+    "ko": "심에게 하악질하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11634",
+    "source_sha256": "ad147c7eb8fea873788f7dae62006a21df5e4dbdf5ffd09df10bb146d7a0fb59",
+    "ko": "<WT>$sim에게 하악질하기. 이 고양이는 $sim에게 정말 하악질하고 싶습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11635",
+    "source_sha256": "2d7a43d5d57e53165723217299fc280204d0a8eba59d6579356aff4ee559b551",
+    "ko": "$sim에게 하악질하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11636",
+    "source_sha256": "ad147c7eb8fea873788f7dae62006a21df5e4dbdf5ffd09df10bb146d7a0fb59",
+    "ko": "<WT>$sim에게 하악질하기. 이 고양이는 $sim에게 정말 하악질하고 싶습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11637",
+    "source_sha256": "2d7a43d5d57e53165723217299fc280204d0a8eba59d6579356aff4ee559b551",
+    "ko": "$sim에게 하악질하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11638",
+    "source_sha256": "8a65348c0ca197fbe31c19e806f11de9fe524858a6120e47e64acbcd03211798",
+    "ko": "반려동물이 $sim에게 하악질하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11639",
+    "source_sha256": "8a65348c0ca197fbe31c19e806f11de9fe524858a6120e47e64acbcd03211798",
+    "ko": "반려동물이 $sim에게 하악질하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11640",
+    "source_sha256": "d59e021887732b8bc5180c7255a17754859986e1de0d5ac918b0f8735ec7a6ca",
+    "ko": "<WT>$me: 쓰다듬기 받기. 이 반려동물의 털은 비단처럼 부드러워 쓰다듬고 싶지 않나요?\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11641",
+    "source_sha256": "2cbe651729b28832fa9cf0c634f15725d8089d87db0af4285a5010ec7581f683",
+    "ko": "\r\n      쓰다듬기 받기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11642",
+    "source_sha256": "5e01f4cadaacfcb52b22235a4e69f19ca9e1be17b4c1205a0ae62234d0de294a",
+    "ko": "\r\n      <WT>$sim에게 쓰다듬기 받기. 이 반려동물의 비단처럼 부드러운 털을 $Sim이 쓰다듬어야 하지 않을까요? 분명 그럴 겁니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11643",
+    "source_sha256": "9258043a668742a4aec9cc93d609752241da05a822a7c15f4ecc90f42b6ff52d",
+    "ko": "\r\n      $sim에게 쓰다듬기 받기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11644",
+    "source_sha256": "5e01f4cadaacfcb52b22235a4e69f19ca9e1be17b4c1205a0ae62234d0de294a",
+    "ko": "\r\n      <WT>$sim에게 쓰다듬기 받기. 이 반려동물의 비단처럼 부드러운 털을 $Sim이 쓰다듬어야 하지 않을까요? 분명 그럴 겁니다.\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11645",
+    "source_sha256": "9258043a668742a4aec9cc93d609752241da05a822a7c15f4ecc90f42b6ff52d",
+    "ko": "\r\n      $sim에게 쓰다듬기 받기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11646",
+    "source_sha256": "4d96fce3a20b5d85c8eab8a1c5a8d0d18556f2b8fffe11ce8c7e6e1b7981d767",
+    "ko": "반려동물이 $sim에게 쓰다듬기 받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11647",
+    "source_sha256": "4d96fce3a20b5d85c8eab8a1c5a8d0d18556f2b8fffe11ce8c7e6e1b7981d767",
+    "ko": "반려동물이 $sim에게 쓰다듬기 받기"
+  },
+  {
+    "id": "TXT_SimsObjects_11648",
+    "source_sha256": "0fd5d45aabe36b387bf8b9b0b3d317917b1e443bf6ce109e6ba00cb9fdb75a29",
+    "ko": "<WT>변기_사용하기. 이 고양이는 정말 변기를 쓰고 싶습니다. 믿으세요."
+  },
+  {
+    "id": "TXT_SimsObjects_11649",
+    "source_sha256": "1199b76f429abc84eb86e60238cc4fe6105bd1d044459b1e9cefe724fb05b705",
+    "ko": "변기 사용\r\n"
+  }
+]

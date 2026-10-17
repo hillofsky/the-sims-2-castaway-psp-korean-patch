@@ -1,0 +1,143 @@
+{
+  "game": {
+    "event": "game.status",
+    "game": {
+      "id": "ULUS10296",
+      "version": "1.00",
+      "title": "The Sims™ 2 Castaway"
+    },
+    "paused": false
+  },
+  "cpu": {
+    "event": "cpu.status",
+    "stepping": false,
+    "paused": false,
+    "pc": 145324088,
+    "ticks": 29177587839
+  },
+  "threads": {
+    "event": "hle.thread.list",
+    "threads": [
+      {
+        "id": 272,
+        "name": "idle0",
+        "status": 1,
+        "statuses": [
+          "running"
+        ],
+        "pc": 145324088,
+        "entry": 134217728,
+        "initialStackSize": 138407936,
+        "currentStackSize": 4096,
+        "priority": 127,
+        "waitType": 0,
+        "isCurrent": true
+      },
+      {
+        "id": 273,
+        "name": "idle1",
+        "status": 2,
+        "statuses": [
+          "ready"
+        ],
+        "pc": 134217728,
+        "entry": 134217728,
+        "initialStackSize": 138403840,
+        "currentStackSize": 4096,
+        "priority": 127,
+        "waitType": 0,
+        "isCurrent": false
+      },
+      {
+        "id": 276,
+        "name": "user_main",
+        "status": 2,
+        "statuses": [
+          "ready"
+        ],
+        "pc": 145303980,
+        "entry": 144860620,
+        "initialStackSize": 167721984,
+        "currentStackSize": 49152,
+        "priority": 111,
+        "waitType": 0,
+        "isCurrent": false
+      },
+      {
+        "id": 370,
+        "name": "DVDUMD_READ",
+        "status": 4,
+        "statuses": [
+          "wait"
+        ],
+        "pc": 145287432,
+        "entry": 145287408,
+        "initialStackSize": 167709696,
+        "currentStackSize": 12288,
+        "priority": 21,
+        "waitType": 1,
+        "isCurrent": false
+      },
+      {
+        "id": 393,
+        "name": "SND",
+        "status": 4,
+        "statuses": [
+          "wait"
+        ],
+        "pc": 146009720,
+        "entry": 145470328,
+        "initialStackSize": 167676928,
+        "currentStackSize": 32768,
+        "priority": 18,
+        "waitType": 10,
+        "isCurrent": false
+      },
+      {
+        "id": 394,
+        "name": "SND_SAS",
+        "status": 4,
+        "statuses": [
+          "wait"
+        ],
+        "pc": 146009720,
+        "entry": 145469484,
+        "initialStackSize": 167668736,
+        "currentStackSize": 8192,
+        "priority": 17,
+        "waitType": 10,
+        "isCurrent": false
+      },
+      {
+        "id": 406,
+        "name": "EResourceLoaderImpl",
+        "status": 4,
+        "statuses": [
+          "wait"
+        ],
+        "pc": 145923620,
+        "entry": 145972224,
+        "initialStackSize": 167635968,
+        "currentStackSize": 32768,
+        "priority": 109,
+        "waitType": 3,
+        "isCurrent": false
+      },
+      {
+        "id": 635,
+        "name": "SceIoAsync",
+        "status": 4,
+        "statuses": [
+          "wait"
+        ],
+        "pc": 136449536,
+        "entry": 136449536,
+        "initialStackSize": 138403072,
+        "currentStackSize": 512,
+        "priority": 107,
+        "waitType": 23,
+        "isCurrent": false
+      }
+    ]
+  }
+}

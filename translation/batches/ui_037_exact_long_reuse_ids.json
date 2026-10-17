@@ -1,0 +1,562 @@
+[
+  {
+    "id": "TXT_SimsObjects_08179",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_08180",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_08181",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_08182",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_08187",
+    "source_sha256": "7d6ea4e2914bb96fa1c5cfffa3a9e726d11d9aa403b4d32dc791e622946751a0",
+    "ko": "지금은 별로 재미가 없네."
+  },
+  {
+    "id": "TXT_SimsObjects_08212",
+    "source_sha256": "7d6ea4e2914bb96fa1c5cfffa3a9e726d11d9aa403b4d32dc791e622946751a0",
+    "ko": "지금은 별로 재미가 없네."
+  },
+  {
+    "id": "TXT_SimsObjects_08237",
+    "source_sha256": "7d6ea4e2914bb96fa1c5cfffa3a9e726d11d9aa403b4d32dc791e622946751a0",
+    "ko": "지금은 별로 재미가 없네."
+  },
+  {
+    "id": "TXT_SimsObjects_08262",
+    "source_sha256": "7d6ea4e2914bb96fa1c5cfffa3a9e726d11d9aa403b4d32dc791e622946751a0",
+    "ko": "지금은 별로 재미가 없네."
+  },
+  {
+    "id": "TXT_SimsObjects_08287",
+    "source_sha256": "7d6ea4e2914bb96fa1c5cfffa3a9e726d11d9aa403b4d32dc791e622946751a0",
+    "ko": "지금은 별로 재미가 없네."
+  },
+  {
+    "id": "TXT_SimsObjects_08585",
+    "source_sha256": "b4181a46fc393f1453e1fba685f3e2fbd42f332ddc288efa4f1bb26d68da0127",
+    "ko": "$Neighbor을 초대하시겠습니까, 아니면 대화만 하시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_08589",
+    "source_sha256": "8bce5e8ead233d98659c4b71789438122195396dfa16eff63054cbf0a7154994",
+    "ko": "다른 방을 보세요. $Neighbor은 이미 와 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08590",
+    "source_sha256": "1d7b4f562198fab1289e22b42633d56a3e8abe8959a5d9da5c46bc744f839399",
+    "ko": "$Neighbor은 이미 와 있어요. 머리를 다쳤거나 바구미라도 들어갔는지 검사받아 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_08591",
+    "source_sha256": "3e0f86ecf248b240725a9c925343c90b1290e073df0ef4c9a780eed4d0a07884",
+    "ko": "있잖아요! $Neighbor은 이미 와 있어요!"
+  },
+  {
+    "id": "TXT_SimsObjects_08592",
+    "source_sha256": "19dac510f72b2c7a8afc29773ec245d5710953a780478a6466b85bb6fd2101d5",
+    "ko": "빨리 뒤를 보세요! $Neighbor은 이미 와 있어요!"
+  },
+  {
+    "id": "TXT_SimsObjects_08593",
+    "source_sha256": "2a625b41a7abf53d15b0a186894b57e56617e4627e0338fa451a01442964571b",
+    "ko": "사람들이 뒤에서 수군대는 것도 무리가 아니군요. $Neighbor은 이미 와 있어요."
+  },
+  {
+    "id": "TXT_SimsObjects_08594",
+    "source_sha256": "dce9c74a4bbbcd0734448f609f7bae7a0717dc395e0d03065395742c6b61db51",
+    "ko": "시간을 보셨나요? $Neighbor은 일하는 중입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08595",
+    "source_sha256": "9615749d1a95c016237bfe75fae84638ac1648dcb21e0af4a774e10819227349",
+    "ko": "$Neighbor은 일하는 중이라고요! 좀요!"
+  },
+  {
+    "id": "TXT_SimsObjects_08596",
+    "source_sha256": "cb7deca29d6dec6c83d3fabe6fb9c57328115bf879d627f7e3256c9819effd83",
+    "ko": "$Neighbor은 일하는 중입니다. 더 적당한 시간에 전화하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_08597",
+    "source_sha256": "b8acf7e65f13ce00f6a02ce56ae481e84cd6eae19382faa7adf1d941c91e138f",
+    "ko": "집에서 쉬니 좋으시겠지만, 불쌍한 $Neighbor은 먹고살려고 일해야 합니다. 얄밉군요."
+  },
+  {
+    "id": "TXT_SimsObjects_08598",
+    "source_sha256": "b41a6e477365702bebbcc2d206dbbb9f745816bbed35f37269bc37af43ea6853",
+    "ko": "$Neighbor은 일하는 중입니다. 윗분들을 위해 일하고 있죠!"
+  },
+  {
+    "id": "TXT_SimsObjects_08599",
+    "source_sha256": "7c260e9441301120e66eefa18aab149bf3e581c6628e7ec999c98b888abd8f6e",
+    "ko": "$Neighbor의 말: \"제정신이야? 다시는 이 시간에 전화하지 마!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08600",
+    "source_sha256": "311933544c480c90991a7dc5862a9780db2de83ae6735944db86187bca1f9a31",
+    "ko": "$Neighbor의 말: \"야! 지금 몇 시인지 알아? 나 좀 내버려 둬!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08601",
+    "source_sha256": "eb32a9fb4838aa9321203335e25edbd1ca341ba23a9f0193dd63a1eb096b7280",
+    "ko": "$Neighbor의 말: \"이야, 깨워 줘서 고맙다. 난 푹 자는 거 정말 싫어하거든. 바보야!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08602",
+    "source_sha256": "f929b0d282fb4db4e2782dd8bffbca3af3a673f8e7df171bce7e98b9dd4579b5",
+    "ko": "$Neighbor의 말: \"지금 몇 시인지 안 보여? 미모를 위해 자고 있잖아!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08603",
+    "source_sha256": "8866f02053c6a6253f1288f0efe0e5c080d2e46f0c4725f95abe9fdb7a4d72f7",
+    "ko": "$Neighbor의 말: \"한밤중에 깨워 줘서 고마워. 와, 칠흑같이 어두우니까 모든 게 참 아름답네!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08604",
+    "source_sha256": "3d2d77c9e751343b2e2b08640ec983ef4a5d41c8338850389ca6e7e712e5a4f4",
+    "ko": "$Neighbor의 말: \"가고는 싶은데... 음... 잔디밭에 퍼티를 발라야 해.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08605",
+    "source_sha256": "973936055e7b18987f82f951160001ac62af8b54f016bc91be7aa0c3c0b1d5b4",
+    "ko": "$Neighbor의 말: \"있지, 솔직히 말하면 난 네가 별로야.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08606",
+    "source_sha256": "bf6ebe44d0af3613dc17a0f45c89c5bee0a486ca7ad841aefdbf3979b6fbdfdc",
+    "ko": "$Neighbor의 말: \"물론이지. 짐만 챙기면 되냐고? 하! 웃기네. 차라리 생오징어를 먹겠어.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08607",
+    "source_sha256": "1928fa4713ad08877d7cca42b5f59cd727ce0c2fc857513da421d72a1719d246",
+    "ko": "$Neighbor의 말: \"와, 말도 할 줄 알아? 흥미롭네. 아무튼 난 더 중요한 일이 있어.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08608",
+    "source_sha256": "9fb4650198c44b3c22d24de010b8842a9f897197909727d83a31e71f7f4d3968",
+    "ko": "$Neighbor의 말: \"아, 지금은 못 만나. 거북이한테 물을 줘야 하거든.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08609",
+    "source_sha256": "8518316856fe0291f37c515dc724ee7428c4437878546885beab0e95a38dfb5a",
+    "ko": "$Neighbor의 말: \"사양할게. 영적 조언자가 집 밖에 나가지 말랬어.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08610",
+    "source_sha256": "da6958bb48335ad78bfdba50e2eb7c078d6e416f43205f2761b79c8cd295a4f4",
+    "ko": "$Neighbor의 말: \"아, 미안해. 우유가 상하기를 기다리고 있어.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08611",
+    "source_sha256": "752c8f5088c356142006ce1a51009325cab817d243bf80f2b5060530bdc61717",
+    "ko": "$Neighbor의 말: \"미안하지만 케이크에 청동 도금을 하는 중이야.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08612",
+    "source_sha256": "2df35aa22460a8d1521bcb16f045e7e2c5b5d5fa87e5ecb061fb419a488a7857",
+    "ko": "$Neighbor의 말: \"너랑 시간을 보낼 기회를 거절하겠냐고? 당연하지.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08613",
+    "source_sha256": "ffcdb754e85f606cf4ffc614bb40938b4115ffe7d483710cc92b889e644c4093",
+    "ko": "$Neighbor의 말: \"미안, 친구. 지금 공기를 마시고 있거든. 나중에 보자.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08614",
+    "source_sha256": "a14a77bb252e402df608e988152f596a0b3e6a2469d522b8e89647481ff58c0b",
+    "ko": "$Neighbor의 말: \"막 십자말풀이를 끝냈어. 바로 갈게!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08615",
+    "source_sha256": "480c092962969a9ec2ce16e1d11840682ebf8720d4142747a95f784b24beceab",
+    "ko": "$Neighbor의 말: \"전화해 줘서 정말 기뻐. 바로 갈게.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08616",
+    "source_sha256": "f7cca5bfc38a2bbf71405cfb757080cc14840c025e50c918c8aa075b7da61685",
+    "ko": "$Neighbor의 말: \"이럴 수가! 나도 방금 네 생각을 했어! 당장 갈게.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08617",
+    "source_sha256": "526631bf979c447089e099c63aa64ab676c8284182ef331a07439c0de5be582d",
+    "ko": "$Neighbor의 말: \"물론이지. 어제 내가 누가 뭘 하는 걸 봤는지 알면 놀랄걸. 곧 보자!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08618",
+    "source_sha256": "b95a55da58457aba412e23a347cac9ffd6f4baa77cd2461a606bb718212048d9",
+    "ko": "$Neighbor의 말: \"넌 내 인생이라는 거실을 밝혀 주는 전등이야. 바로 갈게!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08619",
+    "source_sha256": "44e39d0643a0470fb8d193b04e2b5bb7322d1887f44bdd3b74a5f1f48180af21",
+    "ko": "$Neighbor의 말: \"영영 안 물어볼 줄 알았어. 우리 집은 너무 지루해!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08620",
+    "source_sha256": "0f5a614902d000372fdc2ec4fe631d61e754ee42b6908a35bdf9cae21ce7de2e",
+    "ko": "$Neighbor의 말: \"알람시계 맞춤법 검사나 할까 했는데, 네 집이 더 재미있겠다. 조금 있다 갈게.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08621",
+    "source_sha256": "eae41af32d2586d2325f2dc6ed32f66c97445cecae8457d9680daa64b0bec586",
+    "ko": "$Neighbor의 말: \"너 최고야! 바로 갈게!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08622",
+    "source_sha256": "90db200a215d2fcd9e36ada660f219b1808ee128f9a51c3c2932cb7fc3d55d5e",
+    "ko": "$Neighbor의 말: \"딱히 더 나은 할 일도 없어. 곧 보자!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08623",
+    "source_sha256": "5bbf877ebbc92e3e2ee5cacbb5899e6c9220b44c2118aa537a8d38bdbdfa189b",
+    "ko": "$Neighbor의 말: \"좋아! 정말 좋아! 좋아! 좋아! 지금 갈게!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08624",
+    "source_sha256": "9637a0c8c22ee8bd3b7bae6a14acc583f585f4fda76c9279f29b381453d5e03d",
+    "ko": "$Neighbor의 말: \"이런, 또 전화했어? 몇 시간 뒤에 다시 전화해.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08625",
+    "source_sha256": "ed9aa765801930e7159f0138201e45f36975467c3c434f03e046cd48456f720f",
+    "ko": "$Neighbor의 말: \"잠깐만. 하루에 몇 번이나 전화할 거야? 나중에 다시 해.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08626",
+    "source_sha256": "26385ca8846266dfaa48d7359b247f3e4e5091301b534d26fd47c6e1d7fca136",
+    "ko": "$Neighbor의 말: \"귀 좀 쉬어야겠어. 나중에 다시 전화해 줘.\""
+  },
+  {
+    "id": "TXT_SimsObjects_08627",
+    "source_sha256": "6b70c6e57bbfc67299eb2f821f1dd257be3e33b7c98452fe7c382884f1c31c49",
+    "ko": "$Neighbor의 말: \"아아아아악! 전화 좀 그만 해!\""
+  },
+  {
+    "id": "TXT_SimsObjects_08628",
+    "source_sha256": "a611c706995a0fbe6f06f8584c46bf9f0b297d27eb7d858b28804f23dc42a8a1",
+    "ko": "$Neighbor의 말: \"지금 꽤 바빠. 한 시간쯤 뒤에 다시 전화해 줄래?\""
+  },
+  {
+    "id": "TXT_SimsObjects_08629",
+    "source_sha256": "1222533f777a33c87b9e3f3c76cc6aa8d076252d689bdf4a14bc57cad776e451",
+    "ko": "좋아! 친구 한두 명 데려가도 돼?"
+  },
+  {
+    "id": "TXT_SimsObjects_08630",
+    "source_sha256": "f1052a6d4612c59783014ff897e2fcfd86907ab8466e357d702c871ed0805a39",
+    "ko": "지금 몇 명이랑 같이 있어. 다른 사람도 데려가도 괜찮아?"
+  },
+  {
+    "id": "TXT_SimsObjects_08631",
+    "source_sha256": "ea438e490fd737fb01ba9df0262eb78506e3417ebce236c3b4a146db2884b2d0",
+    "ko": "친구들을 데려가서 분위기를 좀 띄워 볼까?"
+  },
+  {
+    "id": "TXT_SimsObjects_08632",
+    "source_sha256": "ca76e14e8704540768ea707cd0bf687dc196851ccd4af662820dc62adf709634",
+    "ko": "친구를 데려가도 괜찮을까?"
+  },
+  {
+    "id": "TXT_SimsObjects_08633",
+    "source_sha256": "a2de4f3b365ac48014a27be7f3ce5ab79b914b22c7d2bf6f4994a411eebea889",
+    "ko": "내 친구들도 데려가도 돼?"
+  },
+  {
+    "id": "TXT_SimsObjects_08634",
+    "source_sha256": "6f1426c74e8302de926446f9fb056469b27b227d6216c512e239638aee1af8bf",
+    "ko": "친구를 데려갈 수 있어. 새로운 사람을 만나 볼래?"
+  },
+  {
+    "id": "TXT_SimsObjects_08635",
+    "source_sha256": "2c504ee08895c467b98dc91d8eac3b21e78067082a12b07748c680fc381250b6",
+    "ko": "지금 여기서 파티 중이야. 다 같이 네 집으로 가도 돼?"
+  },
+  {
+    "id": "TXT_SimsObjects_08636",
+    "source_sha256": "62d7276e645092e33b0837fc05b080fec32bacd5f3e91818e916f86376b80669",
+    "ko": "누구 하나 같이 가도 괜찮아?"
+  },
+  {
+    "id": "TXT_SimsObjects_08637",
+    "source_sha256": "bc7a74fce291ae922a07e5a77b0b22a5cfbee99063f00218f5bfb0727fed5238",
+    "ko": "지금 손님이 와 있어. 그 사람도 초대할까?"
+  },
+  {
+    "id": "TXT_SimsObjects_08638",
+    "source_sha256": "182be1d2292c8ca0df506e28693bd85d9248d3b0ef34b9f2d13a132b4affb824",
+    "ko": "제일 친한 친구가 와 있어. 같이 초대해도 괜찮아?"
+  },
+  {
+    "id": "TXT_SimsObjects_08639",
+    "source_sha256": "ba019ba909ca8eced6f963b8ec180561505a632291aa1f0eaafc7e0a22a9bd4d",
+    "ko": "파티라고? 멋져! 춤추는 신발을 신을 때가 왔군! \r\n\r\n최대한 빨리 친구들을 모두 데려갈게!"
+  },
+  {
+    "id": "TXT_SimsObjects_08640",
+    "source_sha256": "a00ff744d21b1bdfc2e48d93c7713a914ae4fe9426087378f74fa3b7f00e041f",
+    "ko": "이봐요, 지난번에 우리 가사 도우미에게 돈을 안 줬잖아요. 다시 거래하기 전까지는 좀 기다려야겠네요."
+  },
+  {
+    "id": "TXT_SimsObjects_08642",
+    "source_sha256": "185edd2d925ca9c012213881520de60a346f3f21475efbeefd5f4fef8a7b518a",
+    "ko": "요금 미납으로 이용이 거부됐습니다. 직접 식물에 물 주는 법이나 배우세요."
+  },
+  {
+    "id": "TXT_SimsObjects_08644",
+    "source_sha256": "26d6a0e8ad8bc7e43f2da85d5525a4347aa3ed3096783deab7dae73c46673a7c",
+    "ko": "지난번에 수리 기사에게 돈을 주지 않았으니 좀 고생해 보세요. 즐거운 시간 되시길."
+  },
+  {
+    "id": "TXT_SimsObjects_08646",
+    "source_sha256": "ac89928448f8b9ff21c1e8222baf771a4d76181caae914b44270ffe0cdf53654",
+    "ko": "사흘마다 시간당 $$MoneyLocal:1의 요금으로 정원사를 고용하시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_08647",
+    "source_sha256": "7586d9a86f29cce6bcb733b84188accd91adfaaf8241b2bc7f64c8287af4cfc7",
+    "ko": "매일 시간당 $$MoneyLocal:1의 요금으로 가사 도우미를 고용하시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_08648",
+    "source_sha256": "60ca3985ffdd89991fb3912c4dea996c519b6c07ec4523999cea04c6988aedb7",
+    "ko": "시간당 $$MoneyLocal:1의 요금으로 수리 기사를 고용하시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_08649",
+    "source_sha256": "92f86819310059c45d3f922500dd4b315aef0d5ed48f240f7af87e11be705708",
+    "ko": "마음이 바뀌면 전화 주세요."
+  },
+  {
+    "id": "TXT_SimsObjects_08650",
+    "source_sha256": "0d400f281805a9604c22360ce02381bef983f6c20c9788a0549d52f2824ca760",
+    "ko": "감사합니다, $Me. 오늘 방문하겠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08651",
+    "source_sha256": "9091a733a48f0343d13e2ba2399c095ed70a8a9d2cf73fe72ef9892778ff6a29",
+    "ko": "감사합니다, $Me. 내일 방문하겠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08652",
+    "source_sha256": "a7bf33ea8a66f5a354fd1699cc3febe5f3155a67972f0708d9f8e5add6b35e14",
+    "ko": "침착하세요! 곧 출동하겠습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_08655",
+    "source_sha256": "a58c6840612df0f08c9b7197b91b2fadc7f5c90c8d83ad91f1ff1d89b4f84ade",
+    "ko": "주문 금액은 $$MoneyLocal:1입니다. 피자는 약 한 시간 뒤에 도착합니다. 주문해 주셔서 감사합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08656",
+    "source_sha256": "73e0623fb61a84d4829d2c3d0fe4d81f6edd8eaab65d19acc8b9b25ec135145c",
+    "ko": "심시티 피자"
+  },
+  {
+    "id": "TXT_SimsObjects_08657",
+    "source_sha256": "69a98b04ba00a638cc205baf7d5d1205e949cf3695fd0b5401491e906479aeaf",
+    "ko": "죄송합니다. 피자를 주문할 돈이 부족합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08658",
+    "source_sha256": "6d9c9ce17c6e4cd45e005922736e1bc258147e3074cd2565df3c254d21a01f2a",
+    "ko": "안녕하세요, $Me. \r\n\r\n삶에서 원하는 것이 무엇인지 다시 생각해 보고 싶으시다고요?  \r\n\r\n맞습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_08660",
+    "source_sha256": "403893fce900e51c63d24a646b77974fae31406b5379235e044ddab3902b71e1",
+    "ko": "무슨 말씀인지 알겠습니다, $Me. \r\n\r\n잠시 뒤면 삶에서 원하는 모든 것이 새로워질 겁니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_08661",
+    "source_sha256": "00715f8bb09a99c4a3213b26f2dea7f568a27f43ced7d54a31f217d022c71e36",
+    "ko": "자기야, 변기 청소했어. 나 달라진 남자라고. 아, 죄송해요. 잘못 걸었네요."
+  },
+  {
+    "id": "TXT_SimsObjects_08662",
+    "source_sha256": "90f8f1805f1317efe4f249928ced4a545057c820507726672a0cdf95487f0717",
+    "ko": "숟가락에 기름이 묻었다. 반복한다. 숟가락에 기름이 묻었다."
+  },
+  {
+    "id": "TXT_SimsObjects_08663",
+    "source_sha256": "5b8aaf62998b05c97885d7f336a8ce297acc457ad5dcd75b11fcdede38c664a9",
+    "ko": "고양이 털을 밀었더니 좀 무서워졌어. 아, 잘못 걸었네. 미안해요, 미안해요."
+  },
+  {
+    "id": "TXT_SimsObjects_08664",
+    "source_sha256": "f270c04fabd572da07481f4b1234f0266731d4faab87e78e8fb4300a7b22c759",
+    "ko": "저기, 우리 고양이가 아픈 것 같거든? 잘 모르겠는데... 고양이는 원래 털 같은 게 있어야 하지 않아? 아! 미안해. 잘못 걸었어."
+  },
+  {
+    "id": "TXT_SimsObjects_08665",
+    "source_sha256": "b33df1f7b3a32d2d2e9aa7c2dd2ce23d788889e5ff06190544945cdc4bf8b98d",
+    "ko": "그들이 여기 있어. 보이지 않지만 여기 있어."
+  },
+  {
+    "id": "TXT_SimsObjects_08666",
+    "source_sha256": "f2f35773fedc3aa16f2a8029fe4c3135e0534a96efb4ccfc5864d10a527cf9a0",
+    "ko": "축하합니다! 당신의 모든 생각을 통제하는 그림자 정부가 당신에게 유리한 실수를 저질렀습니다. $$MoneyLocal:0의 수표를 받습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_08667",
+    "source_sha256": "470cfb662350f50b42a139aeabdaf53fde7794719e641f961ad4c16c84dfda84",
+    "ko": "좋은 소식과 나쁜 소식이 있습니다. 좋은 소식은 무료 고양이에 당첨됐다는 겁니다! 나쁜 소식은 털을 밀었다는 거죠. 하지만 좋은 소식도 있습니다. 깎은 털을 가발 공장에 팔아서 대신 $$MoneyLocal:0을 드립니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_08668",
+    "source_sha256": "60ed1792f532cace81f26a8b4e53b4b9bc4c77aa1b93e13a389f797ba83a9527",
+    "ko": "당신의 터무니없는 소송이 법정 밖에서 합의됐습니다. $$MoneyLocal:0을 받습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_08669",
+    "source_sha256": "6a922c9b3a9fae73634898b0020c5c945e55db2dcfca3c9d0ea8f54c7ae7c758",
+    "ko": "죄송해요, 잘못 걸었어요. 그래도 운동은 좀 됐겠네요. 잘 있어요, 바보 씨!"
+  },
+  {
+    "id": "TXT_SimsObjects_08670",
+    "source_sha256": "e0bb9ebb7902114ae70ce82c44052f070159650c44ac1afde6ceff423343e82c",
+    "ko": " 재미있는 얘기 하나 들을래?? "
+  },
+  {
+    "id": "TXT_SimsObjects_08673",
+    "source_sha256": "017e2e3efd08c0ad1599273bd42b770d2cf53d78b6cffea5f3e9ebfbcf8b72dd",
+    "ko": "야, 시계는 봤어??? 신나는 파티는 언제든 좋지만, 지금은 정말 아니야."
+  },
+  {
+    "id": "TXT_SimsObjects_08676",
+    "source_sha256": "f3ff51e2c65ee1d59c8d4e3018a4e66ec59b74f2ec8ae5462b4270a0c3f1620a",
+    "ko": "우리 반려동물을 찾았다고요? 정말 잘됐네요! 하지만 안타깝게도 이 집에는 반려동물을 더 들일 자리가 없어요. 죄송합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_08677",
+    "source_sha256": "e56fa4c326b976aab7e39c3e82d7b5ec94e70b05d362dfbb829bf819e4a261f5",
+    "ko": "제 반려동물을 찾았다고요? 정말 잘됐어요!"
+  },
+  {
+    "id": "TXT_SimsObjects_08678",
+    "source_sha256": "154efa59f70d9de84e79cd78328ed0cf9b0b033e75d7a88ca0339245707df824",
+    "ko": "반려동물을 찾아보겠습니다. 주인에게 돌려보낼 수 있도록 최선을 다하겠습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_08735",
+    "source_sha256": "fb6c9551e5613fcb37c5bf7ab31b7d6c880f81587d5fd04b387e4b0b1b0f5fd5",
+    "ko": "이리 오라고 부르기.../$Object "
+  },
+  {
+    "id": "TXT_SimsObjects_08743",
+    "source_sha256": "fb6c9551e5613fcb37c5bf7ab31b7d6c880f81587d5fd04b387e4b0b1b0f5fd5",
+    "ko": "이리 오라고 부르기.../$Object "
+  },
+  {
+    "id": "TXT_SimsObjects_08751",
+    "source_sha256": "fb6c9551e5613fcb37c5bf7ab31b7d6c880f81587d5fd04b387e4b0b1b0f5fd5",
+    "ko": "이리 오라고 부르기.../$Object "
+  },
+  {
+    "id": "TXT_SimsObjects_08805",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09021",
+    "source_sha256": "9dca3d06da5605814b4e75e309ed8c76d93342e0e8404f652539a6a683c151ff",
+    "ko": "축하합니다! 새 요리법을 배웠습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09022",
+    "source_sha256": "ec36ef706a9a50f874532904da7f5d177c8dcab2ee6ff880368acaa320dda9d3",
+    "ko": "$Me이 친구들을 만나러 갑니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09023",
+    "source_sha256": "eff0ba8c14dde7f5a7a45aeed94c6d2d69bc4641327a7d2b4e3bf774dd8e75a8",
+    "ko": "$Me이 볼일을 보러 떠났습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09025",
+    "source_sha256": "4057083a0361ae3969b2e84c2199fa860b484eb1a292907e6772a5c1d243f64b",
+    "ko": "$Me이 불에 타 죽었습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09026",
+    "source_sha256": "38bf2c78d0cc811b16f99f3d5b5ddf63822cf5d727d758ccb656e9972f7969c0",
+    "ko": "$Me이 굶어 죽었습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09110",
+    "source_sha256": "fb6c9551e5613fcb37c5bf7ab31b7d6c880f81587d5fd04b387e4b0b1b0f5fd5",
+    "ko": "이리 오라고 부르기.../$Object "
+  },
+  {
+    "id": "TXT_SimsObjects_09111",
+    "source_sha256": "c5e9f29f87fdc61fd80fefa58fe547aa91ad220dd2ecd9fcdb291b7e6767bd17",
+    "ko": "지금은 이 물건이 별로 재미없어."
+  },
+  {
+    "id": "TXT_SimsObjects_09123",
+    "source_sha256": "9dca3d06da5605814b4e75e309ed8c76d93342e0e8404f652539a6a683c151ff",
+    "ko": "축하합니다! 새 요리법을 배웠습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09863",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09874",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09885",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09896",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09907",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09918",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09929",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09940",
+    "source_sha256": "b42b2bba9f28bf91905d85482751564c00820d7a65a031979007db2b210116a2",
+    "ko": "이리 오라고 부르기.../$Object"
+  },
+  {
+    "id": "TXT_urbzui_00618",
+    "source_sha256": "354ea0b3a66ed7effbd13fade856a9a7c1d687c6fbdbc23d7f1968b880e0b748",
+    "ko": "새 게임을 시작하여 저장하면 이전에 저장한 데이터가 사라집니다.\r\n\r\n계속하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00647",
+    "source_sha256": "7618209912ba0a03c74341e7325c722bde0790a0363b81bb566ebc396da75ae1",
+    "ko": "기존 저장 데이터를 불러오시겠습니까, 아니면 새 게임 파일을 시작하시겠습니까?"
+  }
+]

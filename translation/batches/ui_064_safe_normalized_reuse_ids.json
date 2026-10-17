@@ -1,0 +1,47 @@
+[
+  {
+    "id": "TXT_SimsObjects_05841",
+    "source_sha256": "943d39798b10a4b838dd1b0708a52e3d63ef2b315dc9d22f4dcda735b31ca053",
+    "ko": "파티 열기"
+  },
+  {
+    "id": "TXT_SimsObjects_05952",
+    "source_sha256": "33a6c70d0e85a58e3daf55bdf3357689600101bdac1a20f75d24649866c1d152",
+    "ko": "체스 두기"
+  },
+  {
+    "id": "TXT_SimsObjects_05956",
+    "source_sha256": "33a6c70d0e85a58e3daf55bdf3357689600101bdac1a20f75d24649866c1d152",
+    "ko": "체스 두기"
+  },
+  {
+    "id": "TXT_SimsObjects_10617",
+    "source_sha256": "62e733ffcb7a1e9b3eb007007c45906e82830ec6140d02b12a731a5810edb130",
+    "ko": "친구 $int명 사귀기"
+  },
+  {
+    "id": "TXT_SimsObjects_10635",
+    "source_sha256": "97d49cb06e883ae3f183445673eff1cde1c5a3d5b5f7bfabd117df429e5062ec",
+    "ko": "유령 만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10636",
+    "source_sha256": "058756bc47c93d8cf394b22eba72e0ad9baad603123656fd001f3c532dff6cfc",
+    "ko": "유령 만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10637",
+    "source_sha256": "058756bc47c93d8cf394b22eba72e0ad9baad603123656fd001f3c532dff6cfc",
+    "ko": "유령 만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10638",
+    "source_sha256": "058756bc47c93d8cf394b22eba72e0ad9baad603123656fd001f3c532dff6cfc",
+    "ko": "유령 만나기"
+  },
+  {
+    "id": "TXT_SimsObjects_10639",
+    "source_sha256": "058756bc47c93d8cf394b22eba72e0ad9baad603123656fd001f3c532dff6cfc",
+    "ko": "유령 만나기"
+  }
+]

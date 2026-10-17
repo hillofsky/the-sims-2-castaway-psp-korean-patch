@@ -1,0 +1,722 @@
+[
+  {
+    "id": "TXT_SimsObjects_03400",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_SimsObjects_03403",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_SimsObjects_03406",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_SimsObjects_03409",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_SimsObjects_03412",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_SimsObjects_03415",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_SimsObjects_03417",
+    "source_sha256": "8315e9d5b05ae810ee044649c3f6810879edaefc6b8bf787d120d14ebcbcca8c",
+    "ko": "문틀 없는 판잣집은 부리 없는 닭과 같습니다. 다만 덜 비극적이고 덜 기괴할 뿐이죠."
+  },
+  {
+    "id": "TXT_SimsObjects_03418",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_SimsObjects_03421",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_SimsObjects_03424",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_SimsObjects_03427",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_SimsObjects_03430",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_SimsObjects_03433",
+    "source_sha256": "fbf247e43d3745e564547a9fec38ece168d8daa78a6354646fab62574f2c369a",
+    "ko": "문"
+  },
+  {
+    "id": "TXT_SimsObjects_03455",
+    "source_sha256": "c141faa80e43a11909f5736d1e767f12e1468aa06dadd446081746934e875fc3",
+    "ko": "불"
+  },
+  {
+    "id": "TXT_SimsObjects_03456",
+    "source_sha256": "c141faa80e43a11909f5736d1e767f12e1468aa06dadd446081746934e875fc3",
+    "ko": "불"
+  },
+  {
+    "id": "TXT_SimsObjects_03457",
+    "source_sha256": "c141faa80e43a11909f5736d1e767f12e1468aa06dadd446081746934e875fc3",
+    "ko": "불"
+  },
+  {
+    "id": "TXT_SimsObjects_03458",
+    "source_sha256": "6b819feeff5a4c1d50fdb566640dbe62194c6d01bdc4b10deff0cfbda2cac4b2",
+    "ko": "흘린 물"
+  },
+  {
+    "id": "TXT_SimsObjects_03460",
+    "source_sha256": "8eaf29cd17be6014563b8e915fd0c2525585d2deef9e7c942b7a24b54436b748",
+    "ko": "물웅덩이"
+  },
+  {
+    "id": "TXT_SimsObjects_03473",
+    "source_sha256": "29e479279001249f85a37d4fed59925deabe569d0b882789246f17f785905594",
+    "ko": "심세이프티 V 도난 경보기"
+  },
+  {
+    "id": "TXT_SimsObjects_03474",
+    "source_sha256": "7a23033889046f67d1a403a6c0b66b0c193004e539e03c4e67b88bd024bff81b",
+    "ko": "주거 침입이 무서워 잠을 못 이루시나요? 심세이프티 덕분에 편히 주무세요. 침입자를 감지하고 몇 초 안에 자동으로 경찰을 부릅니다. 한 방 안에서 작동하며, 알람 소리는 편안하고 디지털 화면은 첨단 기술처럼 보입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03475",
+    "source_sha256": "388e05a888acf91cf1f2f7aa2b6866f48d8712c9f0f37e5653651cc3e6593edf",
+    "ko": "도난 경보기"
+  },
+  {
+    "id": "TXT_SimsObjects_03476",
+    "source_sha256": "9e7db1998cd81c9f37ac2084b40f034550def5f040899c04193e5a5668c73f42",
+    "ko": "사이버크로노미터 알람시계"
+  },
+  {
+    "id": "TXT_SimsObjects_03477",
+    "source_sha256": "dc030ddfd1fab7b9a0b58bc9805e8c90d2bf9489013aca1df441895f21653683",
+    "ko": "IP 주소 세 개와 비밀번호로 보호되는 철통 방화벽, 1GB 백업 시스템을 갖춘 고성능 무선 알람시계입니다. 위성 방송국 세 곳 중에서 선택하세요. 알람만 맞추면 다시는 기상 호출을 놓치지 않습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03478",
+    "source_sha256": "bb3bc59e2e37e89f1c01c0073565be789d4168004f1b66af76679787e96188af",
+    "ko": "알람시계"
+  },
+  {
+    "id": "TXT_SimsObjects_03479",
+    "source_sha256": "d18691bce07fb8dff2cc42dbaf43149175b38fdf2c639c948bfafe4882097e3d",
+    "ko": "스모크센트리 연기 탐지기"
+  },
+  {
+    "id": "TXT_SimsObjects_03480",
+    "source_sha256": "87b0181005867575831c6cef62c749a25c400b44ef5f3e43a52ebab7104c3a3a",
+    "ko": "연기 탐지기로 당신과 사랑하는 이들이 사랑받는 바비큐가 되는 일을 막으세요. 불이 붙는 즉시 감지하며, 날카로운 알람이 집주인과 소방서에 알립니다. 파티와 결혼식에도 좋습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03481",
+    "source_sha256": "d5a657a3625652e5011d0f46bb508d3b5e6a97db40f756f7e381038235d5d057",
+    "ko": "화재 경보기"
+  },
+  {
+    "id": "TXT_SimsObjects_03482",
+    "source_sha256": "e82091ea020f257d78463addc810a479a3e498d60f9491138384832558c6c259",
+    "ko": "맥스아츠 5p0r3 게임 키트"
+  },
+  {
+    "id": "TXT_SimsObjects_03483",
+    "source_sha256": "9fdad53f7e5d433757e7167c742a6221373e36672d8d482f84c691d0f768a866",
+    "ko": "활짝 벌린 두 팔과 준비된 엄지로 쌍방향 오락 혁명의 새벽을 맞이하세요! 무선 조작! 다인용 광란을 위한 내장 네트워크! 고화질 3D 홀로그램 화면까지! 이 시스템을 소유해 게임 기술의 최첨단이 누구 것인지 친구들에게 보여 주세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_03484",
+    "source_sha256": "aa06dfc6f84ac3aa8d1bc7dd3c35a7a8bb3ef008e590bf10fc9cb8c5efcd4dd4",
+    "ko": "비디오 게임"
+  },
+  {
+    "id": "TXT_SimsObjects_03488",
+    "source_sha256": "c257f088eb9eb40abb531bfd95efd8ed33f10fdc497e32ca17acf638f18be37e",
+    "ko": "무선 벽걸이 전화기"
+  },
+  {
+    "id": "TXT_SimsObjects_03489",
+    "source_sha256": "5b7a5b716a81d5973e791365875b1c6c0ef9b4f8cc9ade4e54c93993983d54b1",
+    "ko": "옛 기술이 멀쩡히 작동하는데 왜 휴대전화 통신에 큰돈을 쓰나요? 벽에 달면 탁자와 책상이 어지럽지 않습니다. 신호 끊김도, 배터리 방전도, 무료라는 게임도 이제 그만!"
+  },
+  {
+    "id": "TXT_SimsObjects_03490",
+    "source_sha256": "63dceb8800b2dd4af9567a1f54f03b7c3dbdc27fac4799091ebfcc4928899ee5",
+    "ko": "전화기"
+  },
+  {
+    "id": "TXT_SimsObjects_03491",
+    "source_sha256": "c257f088eb9eb40abb531bfd95efd8ed33f10fdc497e32ca17acf638f18be37e",
+    "ko": "무선 벽걸이 전화기"
+  },
+  {
+    "id": "TXT_SimsObjects_03492",
+    "source_sha256": "5b7a5b716a81d5973e791365875b1c6c0ef9b4f8cc9ade4e54c93993983d54b1",
+    "ko": "옛 기술이 멀쩡히 작동하는데 왜 휴대전화 통신에 큰돈을 쓰나요? 벽에 달면 탁자와 책상이 어지럽지 않습니다. 신호 끊김도, 배터리 방전도, 무료라는 게임도 이제 그만!"
+  },
+  {
+    "id": "TXT_SimsObjects_03493",
+    "source_sha256": "63dceb8800b2dd4af9567a1f54f03b7c3dbdc27fac4799091ebfcc4928899ee5",
+    "ko": "전화기"
+  },
+  {
+    "id": "TXT_SimsObjects_03494",
+    "source_sha256": "7d7c85d9fb2f761487ff88f70b9e5e30e375a7281fa66b3f27b6c3178137c709",
+    "ko": "비행기 라디오"
+  },
+  {
+    "id": "TXT_SimsObjects_03495",
+    "source_sha256": "5eb08101b67d97792f3daa547d389bea56cf198ed516e556a64eb7e80dc1c559",
+    "ko": "불운한 라마 화물 항공 227편의 라디오가 기적적으로 멀쩡합니다. 고품질 미국 제조업이 존재하던 지난 시대를 증명하죠."
+  },
+  {
+    "id": "TXT_SimsObjects_03496",
+    "source_sha256": "7d7c85d9fb2f761487ff88f70b9e5e30e375a7281fa66b3f27b6c3178137c709",
+    "ko": "비행기 라디오"
+  },
+  {
+    "id": "TXT_SimsObjects_03497",
+    "source_sha256": "e35e1d86195035d8fdd2de7693a3dba63ce341cc5f0e2475fa68b741a0e5086d",
+    "ko": "송신기"
+  },
+  {
+    "id": "TXT_SimsObjects_03498",
+    "source_sha256": "23cad3d92eb6301571a57155a1fc2519fa98e7484af79654843dad192f92aa52",
+    "ko": "이 무선 안테나는 비행기 라디오의 일부로 보입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03499",
+    "source_sha256": "e35e1d86195035d8fdd2de7693a3dba63ce341cc5f0e2475fa68b741a0e5086d",
+    "ko": "송신기"
+  },
+  {
+    "id": "TXT_SimsObjects_03520",
+    "source_sha256": "e4eb18069d65aaa901cecb66371155f389643796428e9d54c5f5127c91ab3fdc",
+    "ko": "음식"
+  },
+  {
+    "id": "TXT_SimsObjects_03521",
+    "source_sha256": "e4eb18069d65aaa901cecb66371155f389643796428e9d54c5f5127c91ab3fdc",
+    "ko": "음식"
+  },
+  {
+    "id": "TXT_SimsObjects_03523",
+    "source_sha256": "e4eb18069d65aaa901cecb66371155f389643796428e9d54c5f5127c91ab3fdc",
+    "ko": "음식"
+  },
+  {
+    "id": "TXT_SimsObjects_03527",
+    "source_sha256": "e9f1c186ffcd8442e67191d054f27ee4ed30a6e38975c503d1f265162680a5fc",
+    "ko": "체스 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_03528",
+    "source_sha256": "f2aed310a47e8ab6d942bb6bf788e1f5465e73c5bc025b17896fb1e624f26361",
+    "ko": "체스는 왕들이 즐기던 고대 게임입니다. 지루하고 공부벌레 같은 왕들이요."
+  },
+  {
+    "id": "TXT_SimsObjects_03529",
+    "source_sha256": "e9f1c186ffcd8442e67191d054f27ee4ed30a6e38975c503d1f265162680a5fc",
+    "ko": "체스 탁자"
+  },
+  {
+    "id": "TXT_SimsObjects_03530",
+    "source_sha256": "c89ea4611692e53ca3494157f0f8dbcc13304805daf07dcf08e093abb6cbbdc0",
+    "ko": "드라이버 프로 2006: 칩 샷"
+  },
+  {
+    "id": "TXT_SimsObjects_03531",
+    "source_sha256": "4ae5f5787626dc390b5ed2aa762a9b927dc78d80977571eed1991665cee50ea3",
+    "ko": "에지 스포츠가 또 해냈습니다. 사상 가장 사실적이고 정교한 골프 시뮬레이터! 골프채 1006종, 스탯츠호 기술, 맞춤 장비, 여전한 3D, 온라인 다인용 게임! 좁은 페어웨이에서 1번 홀부터 18번 홀까지 나아가는 오픈 월드 게임을 경험하세요..."
+  },
+  {
+    "id": "TXT_SimsObjects_03532",
+    "source_sha256": "8271a0bdd6b8d3abbe0b9d4a610ddbb7489e516629ca94618d5f11c5673a1902",
+    "ko": "골프 게임"
+  },
+  {
+    "id": "TXT_SimsObjects_03542",
+    "source_sha256": "85d97e599c0035beb3d713e39a66b651b41f22787359275d293842d5d1febb53",
+    "ko": "상형문자 조각"
+  },
+  {
+    "id": "TXT_SimsObjects_03543",
+    "source_sha256": "75caac5d51f16c3ff7d2e10ac0a86a131af937dde3865cc7cdbdc0cbeaa2f0b1",
+    "ko": "고대 문명은 돌에 영웅적인 신들의 이야기와 귀갓길에 우유를 사 오라는 메모를 새겼습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03544",
+    "source_sha256": "a14e1b7c481d8a81abfb885a60388cb421c65f5da10344f4a1636e49bddf1345",
+    "ko": "상형문자"
+  },
+  {
+    "id": "TXT_SimsObjects_03546",
+    "source_sha256": "16eb35cbef2813fc0ec9f37cb3f2818d526fc271b96608df4f95fa0b70e47c3d",
+    "ko": "막대기에 불을 붙인 이 혁신적인 물건으로 보금자리를 멋지게 알리세요."
+  },
+  {
+    "id": "TXT_SimsObjects_03547",
+    "source_sha256": "7cb056b99d5bb9030be8d6494044b6f188f6a7c3465f5cbf3c4949d677efc60e",
+    "ko": "보금자리 티키"
+  },
+  {
+    "id": "TXT_SimsObjects_03632",
+    "source_sha256": "4e3ea4e8731fb590a830c2316fec66856fb0acf67b420daf9a0e4eceb7dcb439",
+    "ko": "북"
+  },
+  {
+    "id": "TXT_SimsObjects_03634",
+    "source_sha256": "4e3ea4e8731fb590a830c2316fec66856fb0acf67b420daf9a0e4eceb7dcb439",
+    "ko": "북"
+  },
+  {
+    "id": "TXT_SimsObjects_03635",
+    "source_sha256": "a37836ef0e14a5bfab694fc2949545b66ef46d555aedb1a0c4c791801ef83516",
+    "ko": "원숭이 나팔"
+  },
+  {
+    "id": "TXT_SimsObjects_03636",
+    "source_sha256": "c5df8183e29f09c010a3dd58c8e0f5abbac8e43d9ab1cb195ec22d0c3c08cd7c",
+    "ko": "원숭이 나팔을 제대로 불면 영장류가 거부할 수 없는 매혹적인 노래가 울려 퍼집니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03637",
+    "source_sha256": "a37836ef0e14a5bfab694fc2949545b66ef46d555aedb1a0c4c791801ef83516",
+    "ko": "원숭이 나팔"
+  },
+  {
+    "id": "TXT_SimsObjects_03647",
+    "source_sha256": "3831c8235f0719d44aa4ff5d1065a34b2fe7a87c956a3f38dbd88ca2e4bcc4b3",
+    "ko": "우쿨렐레"
+  },
+  {
+    "id": "TXT_SimsObjects_03649",
+    "source_sha256": "3831c8235f0719d44aa4ff5d1065a34b2fe7a87c956a3f38dbd88ca2e4bcc4b3",
+    "ko": "우쿨렐레"
+  },
+  {
+    "id": "TXT_SimsObjects_03652",
+    "source_sha256": "12d6736f4d2331ef6ee76a614f756be4deffc4bd1329bcb5bf1b56fd1771881c",
+    "ko": "새끼 고양이"
+  },
+  {
+    "id": "TXT_SimsObjects_03655",
+    "source_sha256": "bc294628171a12e7bc7ad6ca19d8e7956f9106628eb927e52fe92a6c31742e31",
+    "ko": "램프"
+  },
+  {
+    "id": "TXT_SimsObjects_03658",
+    "source_sha256": "bc294628171a12e7bc7ad6ca19d8e7956f9106628eb927e52fe92a6c31742e31",
+    "ko": "램프"
+  },
+  {
+    "id": "TXT_SimsObjects_03661",
+    "source_sha256": "bc294628171a12e7bc7ad6ca19d8e7956f9106628eb927e52fe92a6c31742e31",
+    "ko": "램프"
+  },
+  {
+    "id": "TXT_SimsObjects_03663",
+    "source_sha256": "501bb711886f6ae2164f317c35180cb071a35d07f6a9541656bcc1798b203a54",
+    "ko": "한밤중에 발가락을 찧는 사고를 줄이려면 이 오두막 스탠드를 야간등으로 사용해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_03664",
+    "source_sha256": "bc294628171a12e7bc7ad6ca19d8e7956f9106628eb927e52fe92a6c31742e31",
+    "ko": "램프"
+  },
+  {
+    "id": "TXT_SimsObjects_03670",
+    "source_sha256": "bc294628171a12e7bc7ad6ca19d8e7956f9106628eb927e52fe92a6c31742e31",
+    "ko": "램프"
+  },
+  {
+    "id": "TXT_SimsObjects_03673",
+    "source_sha256": "bc294628171a12e7bc7ad6ca19d8e7956f9106628eb927e52fe92a6c31742e31",
+    "ko": "램프"
+  },
+  {
+    "id": "TXT_SimsObjects_03676",
+    "source_sha256": "bc294628171a12e7bc7ad6ca19d8e7956f9106628eb927e52fe92a6c31742e31",
+    "ko": "램프"
+  },
+  {
+    "id": "TXT_SimsObjects_03679",
+    "source_sha256": "bc294628171a12e7bc7ad6ca19d8e7956f9106628eb927e52fe92a6c31742e31",
+    "ko": "램프"
+  },
+  {
+    "id": "TXT_SimsObjects_03682",
+    "source_sha256": "bc294628171a12e7bc7ad6ca19d8e7956f9106628eb927e52fe92a6c31742e31",
+    "ko": "램프"
+  },
+  {
+    "id": "TXT_SimsObjects_03685",
+    "source_sha256": "93f8c23a0aa521d527576d180ebc2e594c674964d01d06c5ea02bd82b50f0738",
+    "ko": "라마 왕관"
+  },
+  {
+    "id": "TXT_SimsObjects_03686",
+    "source_sha256": "0a461c04dcd183342f4566924eefeb9c4e622da8e715a263efc43d516ceef651",
+    "ko": "우편함"
+  },
+  {
+    "id": "TXT_SimsObjects_03687",
+    "source_sha256": "0a461c04dcd183342f4566924eefeb9c4e622da8e715a263efc43d516ceef651",
+    "ko": "우편함"
+  },
+  {
+    "id": "TXT_SimsObjects_03688",
+    "source_sha256": "0a461c04dcd183342f4566924eefeb9c4e622da8e715a263efc43d516ceef651",
+    "ko": "우편함"
+  },
+  {
+    "id": "TXT_SimsObjects_03689",
+    "source_sha256": "245ad028f7d23252d681e4f0e9a19885aa95442414d13b9395f0c8b9ac70f08e",
+    "ko": "청구서"
+  },
+  {
+    "id": "TXT_SimsObjects_03690",
+    "source_sha256": "245ad028f7d23252d681e4f0e9a19885aa95442414d13b9395f0c8b9ac70f08e",
+    "ko": "청구서"
+  },
+  {
+    "id": "TXT_SimsObjects_03691",
+    "source_sha256": "245ad028f7d23252d681e4f0e9a19885aa95442414d13b9395f0c8b9ac70f08e",
+    "ko": "청구서"
+  },
+  {
+    "id": "TXT_SimsObjects_03694",
+    "source_sha256": "64e0614b36d72260a0dbc31678ba1efd478baad3b6ef241eaf7a177f8def5c5d",
+    "ko": "지도 조각"
+  },
+  {
+    "id": "TXT_SimsObjects_03695",
+    "source_sha256": "cc598ef2bf92c99a9c257d8f586fd58eb2d4a127cc8200c9e0d9aac4b57c998d",
+    "ko": "병 속의 편지"
+  },
+  {
+    "id": "TXT_SimsObjects_03696",
+    "source_sha256": "ac8497ffc905209da0a2231e454ba7a4a77d0cbdbcfe6b1c23cd446228cc6334",
+    "ko": "병입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03697",
+    "source_sha256": "cef1ac32a32dfd5ba928dbed1f2d9d65f1fc3d07557ed8777288bfdf97b9a9ff",
+    "ko": "병 속의 편지"
+  },
+  {
+    "id": "TXT_SimsObjects_03698",
+    "source_sha256": "15dd241d7efbd9d077c9182c1d8a7e206c639afa778f66e266c17bd943ee9997",
+    "ko": "신문"
+  },
+  {
+    "id": "TXT_SimsObjects_03699",
+    "source_sha256": "15dd241d7efbd9d077c9182c1d8a7e206c639afa778f66e266c17bd943ee9997",
+    "ko": "신문"
+  },
+  {
+    "id": "TXT_SimsObjects_03700",
+    "source_sha256": "15dd241d7efbd9d077c9182c1d8a7e206c639afa778f66e266c17bd943ee9997",
+    "ko": "신문"
+  },
+  {
+    "id": "TXT_SimsObjects_03719",
+    "source_sha256": "bd7383818c9fdbc8b7895aea16c398f214b4183c04de080294cc3c63a45eff99",
+    "ko": "저승사자"
+  },
+  {
+    "id": "TXT_SimsObjects_03721",
+    "source_sha256": "bd7383818c9fdbc8b7895aea16c398f214b4183c04de080294cc3c63a45eff99",
+    "ko": "저승사자"
+  },
+  {
+    "id": "TXT_SimsObjects_03740",
+    "source_sha256": "d0cff99fa0791621ba038c4da20158195cb13a39926d5c450d9db8bf9778fb1c",
+    "ko": "테이스티 원더스 식사 뼈다귀"
+  },
+  {
+    "id": "TXT_SimsObjects_03741",
+    "source_sha256": "fa7fa6762247f62df81265e776416a982994f510497f985c12a0e23921e5613c",
+    "ko": "세 코스 요리의 풍미를 합성 뼈다귀 하나에 담았습니다! 첫 코스는 표토, 다음은 일주일 묵은 쓰레기, 마무리는 곰팡이 핀 신발입니다. 맛있게 드세요!\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03742",
+    "source_sha256": "f950109fcbe642a759a2cfc2c90be2b347f5bcd9c05e228218ec0d33f1ea9837",
+    "ko": "뼈다귀"
+  },
+  {
+    "id": "TXT_SimsObjects_03743",
+    "source_sha256": "3ec6983901927c35b12a1a0093b58ca75063619fb38b2d3b9ed815df4e22a5d2",
+    "ko": "반려동물 뼈다귀"
+  },
+  {
+    "id": "TXT_SimsObjects_03744",
+    "source_sha256": "1c6012628d3de1e2fdfd09ea94b125a88225dcbbf65d1fa00c874ccdad75a62c",
+    "ko": "칼슘이 풍부한 반려동물 뼈다귀를 씹으면 치태와 치석, 잇몸병인 치은염을 예방하는 데 도움이 됩니다. 털북숭이 친구에게 쓰레기를 먹는 것이 자랑스럽다는 눈부신 미소를 선물하세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03745",
+    "source_sha256": "f950109fcbe642a759a2cfc2c90be2b347f5bcd9c05e228218ec0d33f1ea9837",
+    "ko": "뼈다귀"
+  },
+  {
+    "id": "TXT_SimsObjects_03746",
+    "source_sha256": "291f6732f0d518c5756b2c9222f213080471fea0a198a89c0663bb730b3774b8",
+    "ko": "밧줄 반려동물 뼈다귀\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03747",
+    "source_sha256": "a82c47aec0066fc3fd3dceab8ce8224747647b0651a9b53a289d16dc50ad461c",
+    "ko": "밧줄보다 재미있는 게 있을까요? 없죠! 이 밧줄 뼈다귀는 아무리 잔인하게 다뤄도 견디도록 만들어졌습니다. 축축한 밧줄로 몇 시간이고 즐겁게 놀 수 있습니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03748",
+    "source_sha256": "44ae7682786c7a418fe93ed99b3a93212042d6eff2560b0926a3045160586a52",
+    "ko": "밧줄 뼈다귀"
+  },
+  {
+    "id": "TXT_SimsObjects_03749",
+    "source_sha256": "8b0a3ac57583d385042187423ab42bf7442abefcce92362de4e904ae7577ffef",
+    "ko": "촘프코 씹는 장난감\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03750",
+    "source_sha256": "634fae2b66fd9c999ac66597c14f3416ba697304c5ac312251ca09c97b5ad8de",
+    "ko": "촘프코 장난감은 첨단 플라스틱과 햄을 완벽하게 결합한 특허 소재 에버바이트 폴리머로 만듭니다. 찌그러짐과 긁힘, 변형을 막아 줍니다. 그리고 햄이 들어 있습니다. \r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03751",
+    "source_sha256": "cc0e80a74d321d67f4c0f146a1d61751be17019ac0f9122228f75f0b42c01ed2",
+    "ko": "씹는 장난감"
+  },
+  {
+    "id": "TXT_SimsObjects_03752",
+    "source_sha256": "d206852b95b14c682aa88dc50dd32c1eae7adba7aebd5bb1cea11222720acc65",
+    "ko": "드룰즈사의 비극적인 광대\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03753",
+    "source_sha256": "72e8b6a5aa2b863efeacfca5a7f36f87fdb7039dfb27532a2482eebd1aa20c07",
+    "ko": "까다로운 반려동물을 위한 비극적인 광대 소리 장난감은 깊은 허무감을 기르기 위해 만들어진 저렴한 상징적 심연입니다. 타다 남은 잿불과 불타는 타이어 등 다양한 맛을 제공합니다.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03754",
+    "source_sha256": "cc0e80a74d321d67f4c0f146a1d61751be17019ac0f9122228f75f0b42c01ed2",
+    "ko": "씹는 장난감"
+  },
+  {
+    "id": "TXT_SimsObjects_03757",
+    "source_sha256": "cc0e80a74d321d67f4c0f146a1d61751be17019ac0f9122228f75f0b42c01ed2",
+    "ko": "씹는 장난감"
+  },
+  {
+    "id": "TXT_SimsObjects_03760",
+    "source_sha256": "cc0e80a74d321d67f4c0f146a1d61751be17019ac0f9122228f75f0b42c01ed2",
+    "ko": "씹는 장난감"
+  },
+  {
+    "id": "TXT_SimsObjects_03761",
+    "source_sha256": "83279886fb444c9683c5418f59909f9ad589dfa38ec0946659283842529c892d",
+    "ko": "반려동물 플럼밥 "
+  },
+  {
+    "id": "TXT_SimsObjects_03762",
+    "source_sha256": "aa8981a309f8a734bc1428e2a127ce0bedc114acff9d41b9738af4b1e5bd03a2",
+    "ko": "심과 더 높은 존재의 연결을 형상화한 고무 장난감입니다. 이제 마음껏 갉아먹으세요. \r\n\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03763",
+    "source_sha256": "cc0e80a74d321d67f4c0f146a1d61751be17019ac0f9122228f75f0b42c01ed2",
+    "ko": "씹는 장난감"
+  },
+  {
+    "id": "TXT_SimsObjects_03769",
+    "source_sha256": "cc0e80a74d321d67f4c0f146a1d61751be17019ac0f9122228f75f0b42c01ed2",
+    "ko": "씹는 장난감"
+  },
+  {
+    "id": "TXT_SimsObjects_03776",
+    "source_sha256": "e6a621b9de4a57525f34177987dc61cc9beedbe0eeea890d52517e0c27df2788",
+    "ko": "풋내기 백합"
+  },
+  {
+    "id": "TXT_SimsObjects_03777",
+    "source_sha256": "bbdd8310eb4cb7dfd027796eb3f25e013ddbb0437f29d8e1a1ae164e17d824bb",
+    "ko": "이 백합 자체는 물이나 관심이 거의 필요 없지만, 커다랗고 화려한 꽃과 나 좀 보라는 잎사귀 덕분에 주인은 쏟아지는 관심과 칭찬을 받습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03778",
+    "source_sha256": "0bd287f6ce17c0df72d097db9e24f828fbe5e24987012f8153a21ef6189a3747",
+    "ko": "식물"
+  },
+  {
+    "id": "TXT_SimsObjects_03779",
+    "source_sha256": "1f641def2592fbe291c4b254c24d833e6c80e35d23c2679de52708832c90e31d",
+    "ko": "장미 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_03780",
+    "source_sha256": "db6d49948adbc6c361c2bb8119ea301659685c84b1dd48b874ff3b0292a27e80",
+    "ko": "장미는 수확 후에도 향기가 오래 남아 수천 년 동안 재배됐습니다. 하지만 유전자 특허법 때문에 요즘은 향도 없고 꺾을 수도 없는 이 장미만 구할 수 있습니다. 즐기세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_03781",
+    "source_sha256": "0bd287f6ce17c0df72d097db9e24f828fbe5e24987012f8153a21ef6189a3747",
+    "ko": "식물"
+  },
+  {
+    "id": "TXT_SimsObjects_03782",
+    "source_sha256": "18fb1c3adbef0b41534ca19f77ae752cb014e0fd76d426627a3b5c8e9a131bae",
+    "ko": "고무나무 화분"
+  },
+  {
+    "id": "TXT_SimsObjects_03783",
+    "source_sha256": "358316e4e2f6743f9cb178196091c65300a2bedd898ae187f5ee7803542972d8",
+    "ko": "허전한 구석이나 테라스에 생기를 더하세요. 튼튼한 식물이 흙과 이끼를 채운 고급 도기 화병에 담겨 있습니다. 물을 주고 푸르름을 즐기세요."
+  },
+  {
+    "id": "TXT_SimsObjects_03784",
+    "source_sha256": "bfa6c3a03981d89344da28483bae51bfac7aec4469c1c99fb65fd5d64d355d45",
+    "ko": "고무나무"
+  },
+  {
+    "id": "TXT_SimsObjects_03788",
+    "source_sha256": "dce5a72ed3687908767542332a31ab8d9974d5d0a94f3bc40abac86105be4979",
+    "ko": "최고의 튤립"
+  },
+  {
+    "id": "TXT_SimsObjects_03789",
+    "source_sha256": "ad2dda6b80770b766d2ac104f721244812989feef70091275eee949be5d17cc2",
+    "ko": "네덜란드가 선사하는 최고의 알뿌리, 최고의 튤립입니다. 부드럽고 다채로운 꽃잎으로 금세 매력적인 화단을 만들어 보세요. 살금살금 걷지 말고 원예 가게로 달려가 정원을 최고로 꾸미세요!"
+  },
+  {
+    "id": "TXT_SimsObjects_03790",
+    "source_sha256": "a3b6cb52ce986ff4ca5baa8a1051a42b2748d06b0f33b93a75a87add2a7d74d2",
+    "ko": "꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_03791",
+    "source_sha256": "b20cd4227b0f5c126feb992ea906147850f5d8df614cdef265d413a59a0434c3",
+    "ko": "우리 생애의 데이지"
+  },
+  {
+    "id": "TXT_SimsObjects_03792",
+    "source_sha256": "1cf18d80ab2ca412fa6c1132cdae6aab1a0c5bbb34b59ade8bed6a0b882e3006",
+    "ko": "데이지가 수다와 드라마로 가득한 비밀 생활을 한다는 믿음은 오래됐습니다. 이토록 우리 마음을 흔드는 꽃이 또 있을까요? 꽃들이 뒤에서 수군댄다고 의심하지만 않는다면 어느 정원에든 잘 어울립니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03793",
+    "source_sha256": "a3b6cb52ce986ff4ca5baa8a1051a42b2748d06b0f33b93a75a87add2a7d74d2",
+    "ko": "꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_03794",
+    "source_sha256": "a42a4871122e817055f4cc06de8872259688b70238fd54b6ea2eb9ca6e7e6100",
+    "ko": "파파베르의 양귀비\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03795",
+    "source_sha256": "ba98459e6b81a16cd7fe72c4da684760527f127e047823ba9621bdb26cdccbaa",
+    "ko": "파파베르의 양귀비로 정원에 생명을 불어넣으세요! 같은 값에 더 큰 만족을 드리도록 특별히 재배했습니다. 다른 양귀비보다 꽃잎이 50% 더 크고, 색도 더 풍부하고 선명합니다. \r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03796",
+    "source_sha256": "a3b6cb52ce986ff4ca5baa8a1051a42b2748d06b0f33b93a75a87add2a7d74d2",
+    "ko": "꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_03799",
+    "source_sha256": "b47a49efd2ed642c4b1573315ce18b301783897dc73a84cc6a19371ecf23fc4f",
+    "ko": "히비스커스"
+  },
+  {
+    "id": "TXT_SimsObjects_03802",
+    "source_sha256": "baf5d82057e714c2c75b2cf6e26fb389b6645f0965addb25f825c7fbe070928e",
+    "ko": "난초"
+  },
+  {
+    "id": "TXT_SimsObjects_03805",
+    "source_sha256": "7dc40526168e7e3cd88644347f2395686e69b059f4c2bb4aee63a7ed9fab2382",
+    "ko": "야자나무"
+  },
+  {
+    "id": "TXT_SimsObjects_03809",
+    "source_sha256": "669c50bb5e90936ea14c6aede9093e85211ac5b1fc3fb1fbf581cdbf9e3794a9",
+    "ko": "반려동물 점수-시몰레온 교환기"
+  },
+  {
+    "id": "TXT_SimsObjects_03810",
+    "source_sha256": "bd4b4fb8b304ec382740ae3057ecd2f38bf6518af1b4b4410442b8f26ab82e24",
+    "ko": "교환기 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_03811",
+    "source_sha256": "ffc027edcc0ef3f2f62c7bb1498056da1e66f4a9baf22ba07a27aa5870d7b848",
+    "ko": "교환기"
+  },
+  {
+    "id": "TXT_SimsObjects_03814",
+    "source_sha256": "fa29d57f4bff4eaf3a0866c34bd263ef52e678815fc601296937d26e34624d4a",
+    "ko": "온천"
+  },
+  {
+    "id": "TXT_SimsObjects_03820",
+    "source_sha256": "3e49ac277ce79d44ffff5d416df6b13e0ee9114b43822567ff5e2df23c962af3",
+    "ko": "변기"
+  },
+  {
+    "id": "TXT_SimsObjects_03823",
+    "source_sha256": "3e49ac277ce79d44ffff5d416df6b13e0ee9114b43822567ff5e2df23c962af3",
+    "ko": "변기"
+  },
+  {
+    "id": "TXT_SimsObjects_03829",
+    "source_sha256": "01db9e7c19677cf9a015a39af662b0b823c59b7902c2fe47689f6c4219c151e4",
+    "ko": "샤워기"
+  },
+  {
+    "id": "TXT_SimsObjects_03832",
+    "source_sha256": "01db9e7c19677cf9a015a39af662b0b823c59b7902c2fe47689f6c4219c151e4",
+    "ko": "샤워기"
+  },
+  {
+    "id": "TXT_SimsObjects_03835",
+    "source_sha256": "01db9e7c19677cf9a015a39af662b0b823c59b7902c2fe47689f6c4219c151e4",
+    "ko": "샤워기"
+  },
+  {
+    "id": "TXT_SimsObjects_03838",
+    "source_sha256": "01db9e7c19677cf9a015a39af662b0b823c59b7902c2fe47689f6c4219c151e4",
+    "ko": "샤워기"
+  },
+  {
+    "id": "TXT_SimsObjects_03844",
+    "source_sha256": "35d866910e259e394850b6461e86abf0840d9cb90306ad974c754d3ee51bf532",
+    "ko": "세면대"
+  },
+  {
+    "id": "TXT_SimsObjects_03847",
+    "source_sha256": "35d866910e259e394850b6461e86abf0840d9cb90306ad974c754d3ee51bf532",
+    "ko": "세면대"
+  }
+]

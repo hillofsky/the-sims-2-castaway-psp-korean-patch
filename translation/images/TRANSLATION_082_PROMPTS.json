@@ -1,0 +1,15 @@
+{
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "key": "newspaper",
+      "path": "D:\\심즈2캐스트어웨이\\work\\texture_survey\\texture_0510.png",
+      "prompt": "Use case: text-localization. Edit target: supplied tiny grayscale newspaper texture for a dog squeaky toy in a PSP game. Preserve square flat texture layout, gray paper, black paw-print illustration, columns of decorative tiny unreadable newsprint, borders and low-resolution pixel-art style exactly. Only replace the top newspaper masthead 'K9 Times' with exact Korean text '멍멍신문'. Make masthead heavy, clear, compact, one line across full top width. Do not add anything, no mockup, no perspective, no shadows outside texture. This will be downsampled to 32 by 32 pixels; legible simple Hangul forms are essential. Output square grayscale flat texture."
+    },
+    {
+      "key": "editoggler",
+      "path": "D:\\심즈2캐스트어웨이\\work\\texture_survey\\texture_2793.png",
+      "prompt": "Use case: text-localization. Edit target: supplied square PSP debug floor texture, pure magenta background and white blocky pixel lettering. Replace English 'Edit' and 'oggler' entirely with exact Korean text on two lines: first line '편집', second line '전환'. Preserve the pure magenta background RGB255,0,255 and pure white lettering, flat square texture with no gradients, no shadow, no frame, no object mockup. Bold simple low-resolution pixel-style Hangul, centered and filling the same footprint. This will be downsampled to64x64 pixels; keep ample stroke thickness and clean readable syllables."
+    }
+  ]
+}

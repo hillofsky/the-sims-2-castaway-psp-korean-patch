@@ -1,0 +1,307 @@
+[
+  {
+    "id": "TXT_urbzui_00763",
+    "source_sha256": "e02c59d916c3ede89f9fa89bb16098294c6757daa43af47cc588cd46fe7e01f5",
+    "ko": "\r\n      Xbox에 게임을 저장할 빈 블록이 부족합니다. 저장하려면 빈 블록이 <size>개 더 필요합니다.\r\n\r\n      <BUTTON_00> 버튼으로 저장하지 않고 계속하거나 <BUTTON_01> 버튼으로 빈 블록을 확보하세요.\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00774",
+    "source_sha256": "1d331cfb330145fefba397fc0ea5d1c265ea4c5079563adc8bf41e257c647de9",
+    "ko": "\r\n      심 1의 저장된 게임이 없습니다\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00788",
+    "source_sha256": "4a3ba0a35c12707ce0b882caca9e6d992cd94c674a8e2ed45017784e9d167275",
+    "ko": "<BLINK_3E64>확인_중\r\n\r\n하드 디스크를 확인하고 있습니다. Xbox 본체를 끄지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00789",
+    "source_sha256": "279668881b83bbefcef20212649fb143a08c30ae19465a2af397b8c2b09c2f96",
+    "ko": "\r\n      <BLINK_3E64>확인_중\r\n\r\n      하드 디스크를 확인하고 있습니다. Xbox 본체를 끄지 마세요.\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00790",
+    "source_sha256": "1f385d8767c5aa136c596a9df3ca0f56ee12aac8bce3cf3615666b8591e230dd",
+    "ko": "<BLINK_3E64>불러오는_중\r\n\r\n심즈™ 2 저장 데이터를 불러오고 있습니다. Xbox 본체를 끄지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00791",
+    "source_sha256": "e8a93de4870ad40c499e9863153df0675fdbc70fbb036b86048ce91477e869f2",
+    "ko": "\r\n      <BLINK_3E64>저장_중\r\n\r\n      게임을 저장하고 있습니다. Xbox 본체를 끄지 마세요.\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00792",
+    "source_sha256": "e8a93de4870ad40c499e9863153df0675fdbc70fbb036b86048ce91477e869f2",
+    "ko": "\r\n      <BLINK_3E64>저장_중\r\n\r\n      게임을 저장하고 있습니다. Xbox 본체를 끄지 마세요.\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00793",
+    "source_sha256": "119f0ac06b30c4bc3cc7471fbb881abaa904527dee9b1478244ef758036368d0",
+    "ko": "플레이할 심즈™ 2 저장 데이터를 선택하세요:\r\n   "
+  },
+  {
+    "id": "TXT_urbzui_00796",
+    "source_sha256": "bcfb62fa6e4a2c139819a63ad834c9fb877f3c2f883a08c1db4732b7966be25e",
+    "ko": "Xbox 대시보드 열기"
+  },
+  {
+    "id": "TXT_urbzui_00798",
+    "source_sha256": "2fb0316ad1135088ffbeeaa553193ae9d69ddaf12c34999501ccdf4dadd7ff85",
+    "ko": "\r\n      <COLOR_FFFF3333>경고!\r\n\r\n      스토리 모드와 자유 모드는 하나의 저장 데이터를 공유합니다!\r\n\r\n      어느 모드에서든 새 게임을 시작해 저장하면 이전에 저장한 정보가 사라집니다.\r\n\r\n      새 게임을 시작하시겠습니까?\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00799",
+    "source_sha256": "34b4e78c95613697e05ab6928b3f66758e6125ca7d55930443a625fb7ba571a2",
+    "ko": "\r\n      선택한 심즈™ 2 저장 데이터가 손상되어 사용할 수 없습니다.\r\n\r\n      A 버튼을 눌러 계속하세요.\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00800",
+    "source_sha256": "34b4e78c95613697e05ab6928b3f66758e6125ca7d55930443a625fb7ba571a2",
+    "ko": "\r\n      선택한 심즈™ 2 저장 데이터가 손상되어 사용할 수 없습니다.\r\n\r\n      A 버튼을 눌러 계속하세요.\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00801",
+    "source_sha256": "a26d0438bf3e23c5cfd7ab0b90d95b4aa60d22e436bda4f38bb25ed9f31a98c0",
+    "ko": "\r\n      현재 불러온 게임과 같은 저장 데이터에서는 심을 옮길 수 없습니다.\r\n\r\n      확인을 선택하여 계속하세요.\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00802",
+    "source_sha256": "34b4e78c95613697e05ab6928b3f66758e6125ca7d55930443a625fb7ba571a2",
+    "ko": "\r\n      선택한 심즈™ 2 저장 데이터가 손상되어 사용할 수 없습니다.\r\n\r\n      A 버튼을 눌러 계속하세요.\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00805",
+    "source_sha256": "4d0a70d60324c640e5bdcf8eccf9d5e10c12718fd3862ac45fb8ee7441e60096",
+    "ko": "Xbox에 게임을 저장할 빈 블록이 부족합니다. 저장하려면 빈 블록이 <size>개 더 필요합니다.\r\n\r\n<BUTTON_00> 버튼으로 저장하지 않고 계속하세요.\r\n\r\n\r\n"
+  },
+  {
+    "id": "TXT_urbzui_00806",
+    "source_sha256": "0cd5ef16a288d2ce1fad9b8baf8f788d5e78c531ec89089399d2ca277bb13ad4",
+    "ko": "\r\n      저장에 실패했습니다.\r\n\r\n      다시 시도하시겠습니까?\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00808",
+    "source_sha256": "34b4e78c95613697e05ab6928b3f66758e6125ca7d55930443a625fb7ba571a2",
+    "ko": "\r\n      선택한 심즈™ 2 저장 데이터가 손상되어 사용할 수 없습니다.\r\n\r\n      A 버튼을 눌러 계속하세요.\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00810",
+    "source_sha256": "1355131d08c9822eafe624329bd381afe57c09ff286a4fc0f39aea080499316f",
+    "ko": "저장할 심즈™ 2 저장 데이터를 선택하세요:"
+  },
+  {
+    "id": "TXT_urbzui_00817",
+    "source_sha256": "4a126a903e82ceea1b1bb104f9b69e7f3523ea57518754baf19b056af9fef4d7",
+    "ko": "Xbox에 게임을 저장할 빈 블록이 부족합니다. 저장하려면 빈 블록이 최소 <size>개 필요합니다. \r\n\r\nXbox 대시보드 열기를 선택해 빈 블록을 확보하거나 계속을 선택해 저장하지 않고 진행하세요. \r\n"
+  },
+  {
+    "id": "TXT_urbzui_00819",
+    "source_sha256": "decbf1fe619f9a0f04f0664728901b37074244556774b3d87cd5ca1311d0cbeb",
+    "ko": "\r\n      계속하면 현재 심의 모든 변경 사항이 저장됩니다.\r\n\r\n      계속하시겠습니까?\r\n    "
+  },
+  {
+    "id": "TXT_urbzui_00821",
+    "source_sha256": "4a126a903e82ceea1b1bb104f9b69e7f3523ea57518754baf19b056af9fef4d7",
+    "ko": "Xbox에 게임을 저장할 빈 블록이 부족합니다. 저장하려면 빈 블록이 최소 <size>개 필요합니다. \r\n\r\nXbox 대시보드 열기를 선택해 빈 블록을 확보하거나 계속을 선택해 저장하지 않고 진행하세요. \r\n"
+  },
+  {
+    "id": "TXT_urbzui_00832",
+    "source_sha256": "b5c717e540b78e30498af3f6cbe8740f0442591242ff27f58db2389a003bcbfb",
+    "ko": "<ROCK_L_080A>집필자 <ROCK_L_090A>메뉴"
+  },
+  {
+    "id": "TXT_urbzui_00842",
+    "source_sha256": "aa2c31bd3dc5a1a2b55392979750dabd044d33d45e1b73c91f63ea68162400ee",
+    "ko": "(( <BUTTON_02> 사용 금지 ))"
+  },
+  {
+    "id": "TXT_urbzui_00843",
+    "source_sha256": "6aca109d62ecd1cb69ec8dac1b82ceed2601435a3dbdeb4d0f03ce24d3a3a3f9",
+    "ko": "(( <BUTTON_03> 사용 금지 ))"
+  },
+  {
+    "id": "TXT_urbzui_00844",
+    "source_sha256": "b3982f53595fdf76b31d54db19ecc8d0da4bd079f35be85fd781c5571ffbbda6",
+    "ko": "(( <BUTTON_01> 사용 금지 ))"
+  },
+  {
+    "id": "TXT_urbzui_00845",
+    "source_sha256": "0015575ab8c237cc27e7e21c14eba25fecf13d342e927cdb86e45d78317825cb",
+    "ko": "(( <BUTTON_00> 사용 금지 ))"
+  },
+  {
+    "id": "TXT_urbzui_01061",
+    "source_sha256": "de62f09a83afc58409cb6549e0312ac81cecbf6f0372516153ad69c0815648ac",
+    "ko": "파격을 갈망하다"
+  },
+  {
+    "id": "TXT_urbzui_01062",
+    "source_sha256": "230b5b979331e47f94d3d96218d0695de65c444fa1bcd13eea230b50d15645c9",
+    "ko": "개성을 지켜라!"
+  },
+  {
+    "id": "TXT_urbzui_01063",
+    "source_sha256": "3adcaf6a530dd36076f33e71b8bdca38b9fbad842f2982a7fd9909eb2900291e",
+    "ko": "유명인의 스타일"
+  },
+  {
+    "id": "TXT_urbzui_01064",
+    "source_sha256": "0ee82b2e081ce58a6e83ec26b9604665f801d69c9bb4b995cdec201460db6eeb",
+    "ko": "스타일? 그런 건 잊어..."
+  },
+  {
+    "id": "TXT_urbzui_01065",
+    "source_sha256": "09de7cce6b113080eb38b997be669d989aa1321f51f5cd02cbfd6863712c82e4",
+    "ko": "하이톱과 로라이즈"
+  },
+  {
+    "id": "TXT_urbzui_01066",
+    "source_sha256": "bb588350cca1ac9ff0f6a51a13f093d8c13427da5ef934e0c194229da4a4f931",
+    "ko": "나쁜 여자와 거친 남자"
+  },
+  {
+    "id": "TXT_urbzui_01067",
+    "source_sha256": "242ae97980af1788d155638af7de08a4edbd83c81593edf494452ce88d670d9e",
+    "ko": "가죽, 스파이크, 그리고 당당함"
+  },
+  {
+    "id": "TXT_urbzui_01068",
+    "source_sha256": "69df55f9c342f30c8332528fb42aea9f0a6522397c24023773035fc7b46fd13b",
+    "ko": "친구들, 완전히 편하게"
+  },
+  {
+    "id": "TXT_urbzui_01069",
+    "source_sha256": "7bc1e75a02452d44d0a415bb401473e00b00cf8481a5745e2e517a4411758ce8",
+    "ko": "새로운 검정"
+  },
+  {
+    "id": "TXT_urbzui_01109",
+    "source_sha256": "4f31a20375bcc793b36cd77e2a7ecfdfacce380e6f33b9423a897b09d1cce1d3",
+    "ko": "©2007 Electronic Arts Inc. 모든 권리 보유."
+  },
+  {
+    "id": "TXT_urbzui_01143",
+    "source_sha256": "b133dc4d51207415619c5d1bc8a6129f5ff258b059c9a3be724dd91b0a147aa0",
+    "ko": "<ROCK_W_0303>개발_ <ROCK_L_090A>메<ROCK_L_080A>뉴"
+  },
+  {
+    "id": "TXT_urbzui_01144",
+    "source_sha256": "4c76932b94dc9c80314fd1d575b7794ed94b6cd2a7e2a8e56a228c320a3a3e5d",
+    "ko": "위스커튼"
+  },
+  {
+    "id": "TXT_urbzui_01145",
+    "source_sha256": "544a9cb451f2a731f20e658e5f6d1547ef51017cd1d4e88f5fdbff73f68300df",
+    "ko": "진저"
+  },
+  {
+    "id": "TXT_urbzui_01146",
+    "source_sha256": "06366e74a9cde6ab7adb323335a3cb4d13d985e45a22d4c164f0d5d4c2c75259",
+    "ko": "맥스웰"
+  },
+  {
+    "id": "TXT_urbzui_01147",
+    "source_sha256": "9ae4bc0e32db0e3484cd398459d20f9b4f79cce36667428181bf037131a3c987",
+    "ko": "크리스"
+  },
+  {
+    "id": "TXT_urbzui_01148",
+    "source_sha256": "4a197c29969a87bb21d8abd1850ef0933ad19eb4394da019dd83607cfe874666",
+    "ko": "뉴비"
+  },
+  {
+    "id": "TXT_urbzui_01150",
+    "source_sha256": "8d100e975a8edf233425a2fa668dd425d95731dc1a616c92129bc310158a4e30",
+    "ko": "이 체험판은 홍보만을 목적으로 하며, \r\n누구도 판매하거나 대여하거나 복제할 수 없습니다. \r\n관련 법률에 따라 이 체험판의 무단 사용이 금지됩니다.\r\n"
+  },
+  {
+    "id": "TXT_urbzui_01162",
+    "source_sha256": "f6620c4de4367f7e491983cacfc0b7c5a060d07d59e6b5985907ce99ad574eaf",
+    "ko": "EyeToy® USB 카메라 설정을 저장하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_01394",
+    "source_sha256": "d6c3af2e01c93316a4e7eceef0769ae76d0464dc1172a25c273840b1e150f47e",
+    "ko": "반려동물 맡기기"
+  },
+  {
+    "id": "TXT_urbzui_01395",
+    "source_sha256": "8df2367264d80c22025243438a612b1103502343b6a7886c7034686053e7cad5",
+    "ko": "반려동물 호텔의 하루 요금은 <kennel_cost>입니다."
+  },
+  {
+    "id": "TXT_urbzui_01396",
+    "source_sha256": "6c4ce701c98ddcaf419e0f0f8e0cd10bb2bff88cd33c12b37395b11ca9912693",
+    "ko": "반려동물을 호텔에 며칠 동안 맡기시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_01397",
+    "source_sha256": "d4ad49d62018b21e70e5cc7b3b9277c2e8143664a8a252477221829814e16ccc",
+    "ko": "<BUTTON_06> 심즈 선물 코드 생성"
+  },
+  {
+    "id": "TXT_urbzui_01400",
+    "source_sha256": "10f1d8a955ffbcf95c73a90e4b9a7fa7ae3ce0783e6be81986d86909987ec64e",
+    "ko": "축하합니다! 이제 이 반려동물을 구입할 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01401",
+    "source_sha256": "99f5985ab04a6288033b7d7789483b544ffd589f32636e381c9e54463602ecd3",
+    "ko": "하지만 이 아이템은 이미 다음 위치에서 해제했습니다: "
+  },
+  {
+    "id": "TXT_urbzui_01402",
+    "source_sha256": "09bb9265dfbc846a6c13158ce51295870beb8cdf3678093213c1d0c7ad1ebcd8",
+    "ko": "축하합니다! 의상 아이템을 해제했습니다. 반려동물 미용실이나 반려동물 만들기의 다음 목록에서 사용할 수 있습니다: "
+  },
+  {
+    "id": "TXT_urbzui_01403",
+    "source_sha256": "4226adb5b7ee14ed1b31857fbd68f87885d2f273723e2a24f4c658d5b177c343",
+    "ko": "축하합니다! 반려동물 만들기에서 사용할 새 유전 정보를 해제했습니다. 다음 항목에서 사용할 수 있습니다: "
+  },
+  {
+    "id": "TXT_urbzui_01458",
+    "source_sha256": "b0546ee91642932ef1a79836e49164247fc3fd395d94cd3648cec48aab60cd36",
+    "ko": "Maxis™는 Electronic Arts™의 브랜드입니다."
+  },
+  {
+    "id": "TXT_urbzui_01477",
+    "source_sha256": "a56e5db18867b669f0e384f7c23ab05ead3010b28ceb261743cc3ca306cc26e4",
+    "ko": "심즈™ 2 펫츠와 새로운 동네에 오신 것을 환영합니다! \r\n\r\n기존 장소와 가족을 선택하거나 처음부터 직접 만들 수 있습니다. 학교 건물을 선택하면 튜토리얼을 플레이할 수 있습니다."
+  },
+  {
+    "id": "TXT_urbzui_01608",
+    "source_sha256": "abfbffa7e34905cb1c8aa2c067d767edd31196adea59fa4c10d86a4623c2f931",
+    "ko": "암컷 고양이"
+  },
+  {
+    "id": "TXT_urbzui_01609",
+    "source_sha256": "8bf170e24cb32c9a9dc28aaf469f9f47f9fc59722cc24f279e1d25f449f39c10",
+    "ko": "수컷 고양이"
+  },
+  {
+    "id": "TXT_urbzui_01610",
+    "source_sha256": "5361faa92b326929247a3551e80476ab21d543201eee51a2570b72d84f8df8a5",
+    "ko": "암컷 대형견"
+  },
+  {
+    "id": "TXT_urbzui_01611",
+    "source_sha256": "ed00f86d4c9d209db6bcd41b77951719f3b6eef57c58fcd9b010a671f461f753",
+    "ko": "수컷 대형견"
+  },
+  {
+    "id": "TXT_urbzui_01612",
+    "source_sha256": "0a11a218a8b2c75e10f86e4e20e9312c6686890063bddb9ac744791a8a88e905",
+    "ko": "암컷 소형견"
+  },
+  {
+    "id": "TXT_urbzui_01613",
+    "source_sha256": "43dbc55d9a00d1ce6f26d0b0e414f2114449ad4105d9c86974367f1678456bef",
+    "ko": "수컷 소형견"
+  },
+  {
+    "id": "TXT_urbzui_01620",
+    "source_sha256": "109d0c7a7544733c7ddf67cb8b844c34eedbf209e21adb003c74951f2c4b5742",
+    "ko": "가족에 이 반려동물을 들일 자리가 없습니다. 가족 구성원을 줄인 다음 다시 시도하세요."
+  }
+]

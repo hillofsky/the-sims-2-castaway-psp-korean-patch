@@ -1,0 +1,502 @@
+[
+  {
+    "id": "TXT_SimsObjects_02610",
+    "source_sha256": "5b39060021a89ce6f897cd6353287dbad11a69ce517ece46cdc56da03b7e5e95",
+    "ko": "네모난 판잣집"
+  },
+  {
+    "id": "TXT_SimsObjects_02611",
+    "source_sha256": "30c3d10d4ffed55c478d048153f46cbc369d68f35b60389b77a4f4e4cf8afe48",
+    "ko": "판잣집은 간신히 거처 노릇을 할 뿐입니다. 방 하나에 4x5 크기인 이 집은 단순하고 기본적인 거처입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02612",
+    "source_sha256": "68e46f34f618b712ec72d55f5b9e050ddb7115e54c2ba569baed59590cd42d18",
+    "ko": "기대어 세운 오두막"
+  },
+  {
+    "id": "TXT_SimsObjects_02613",
+    "source_sha256": "9cdf3a8073832f1fd446a117d016c49d3216fae46b5fe517946d04efa0fea87a",
+    "ko": "오두막은 판잣집보다 훨씬 낫지만 여전히 날씨에 약합니다. 벽 하나뿐인 이 1x3 거처는 빠르고 쉽게 지을 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02614",
+    "source_sha256": "dceb81d8fd90d2c86434a14f429f3dcfbfbed1031fee466376f99fe869cc1369",
+    "ko": "아담한 방갈로"
+  },
+  {
+    "id": "TXT_SimsObjects_02615",
+    "source_sha256": "ed05e1fe3c2e867e4e1d81f3b41e45a52401de749bbd4326b8b4e22e901c0e48",
+    "ko": "방갈로는 아주 널찍하고 날씨에도 잘 견딥니다. 이 거처에는 열린 ㄴ자형 거실과 옆방 두 개가 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02616",
+    "source_sha256": "9111288f1bbe7693877ce6aea02345f00429b07e00e8ed5d78f1e6825f4c206d",
+    "ko": "맨드레이크 뿌리"
+  },
+  {
+    "id": "TXT_SimsObjects_02617",
+    "source_sha256": "6b8f5476f5d704e50e9545d92a214619f21d08f3c92fcc1580b28a62af51510e",
+    "ko": "영원히 마법과 함께 이야기되는 맨드레이크 뿌리는 푸미가토 으스스함 척도에서 10점을 기록합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02618",
+    "source_sha256": "6455dbcb9597e2174aedccfd387db577d487fc7fc6027c2d66eb7c239cf56922",
+    "ko": "망고"
+  },
+  {
+    "id": "TXT_SimsObjects_02619",
+    "source_sha256": "afb7ff443dafd95f976c143157b94a78880286e62d0adb570206089cc4564fe3",
+    "ko": "풍미 가득한 이 과일을 너무 먹으면 망고 광증에 걸릴 위험이 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02620",
+    "source_sha256": "5213085713ee6d891e54d5a194c65bf0739f4d8e81267e414eaed5aa34ff119b",
+    "ko": "망고스틴"
+  },
+  {
+    "id": "TXT_SimsObjects_02621",
+    "source_sha256": "05cf9a18ad161ae16fdeffca88b38313b2eba47285010e793d64560758add986",
+    "ko": "차가운 망고스틴 에이드 한 잔보다 상쾌한 것은 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02622",
+    "source_sha256": "1f072650803e222c9c05b3cda70d152035c672a4d0c43079726358522ca66113",
+    "ko": "맹그로브퉁돔"
+  },
+  {
+    "id": "TXT_SimsObjects_02623",
+    "source_sha256": "78d06445e51d4423fc38dd3a03364c068ed016307886ba4f21a9129941d99d6f",
+    "ko": "훌륭한 수컷 맹그로브퉁돔 뒤에는 언제나 훌륭한 암컷 맹그로브퉁돔이 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02624",
+    "source_sha256": "6a6786c59c62c9ee2983ef565565fcd779791a9006d2e8f2e348572f637e5cd2",
+    "ko": "청새치"
+  },
+  {
+    "id": "TXT_SimsObjects_02625",
+    "source_sha256": "9cc1a01f8340f6d77b1f3150de5c68adca005061994e9c4a33fd320f36301b99",
+    "ko": "이 거대한 물고기는 창처럼 생긴 주둥이로 마케팅 발표에서 중요한 대목을 짚어줍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02628",
+    "source_sha256": "a0be98704c34dd45a59d3c1e3c70d73230d10507eb9957c6849fcdc706f8593c",
+    "ko": "금속 끌"
+  },
+  {
+    "id": "TXT_SimsObjects_02629",
+    "source_sha256": "1b2e47bb963d40af1e83b46d381489188fcf8fed5574f0fec299b0c0839b534e",
+    "ko": "미켈란젤로는 금속 끌이나 다름없는 소박한 도구로 걸작 다비드를 조각했습니다. 여러분은 이 끌로 어떤 위대한 일을 해낼 건가요? 집을 장식하거나 광석을 캐보면 어떨까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_02632",
+    "source_sha256": "02da5d6357b6f3040ee2004c4527e6d1a84144690462cff59fa7c96cb1a56c0c",
+    "ko": "금속 광석"
+  },
+  {
+    "id": "TXT_SimsObjects_02633",
+    "source_sha256": "7c1a6447558dbc663b14f42265c0dca8e20369a5b8194b58a7dea2aca65ad888",
+    "ko": "문명의 필수 재료인 광석을 제련하면서 우리는 빵 굽기 기술을 눈부시게 발전시킬 수 있었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02634",
+    "source_sha256": "f9c5dc5bc63a9a9f1de3cb787cafbc8e39e79a54643c192f651cfa209165a416",
+    "ko": "유성퍼치"
+  },
+  {
+    "id": "TXT_SimsObjects_02635",
+    "source_sha256": "21abe3b0f20d809f110645550a4e793d07f80c9ed9ce526d408fb370de5489f9",
+    "ko": "유성퍼치는 가로줄 무늬가 있고 유성과는 아무 상관도 없는 물고기입니다. 그래서 이런 이름이 붙었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02636",
+    "source_sha256": "c227f57b982a3253279880c0ae14a5a47c685541382855c0f44603775602bf94",
+    "ko": "주교관고둥 껍데기"
+  },
+  {
+    "id": "TXT_SimsObjects_02637",
+    "source_sha256": "e254f3f94747c7122e7900515979c8c3c539ca4e94e22061bbdffe68d78b6146",
+    "ko": "선사시대의 주교관고둥 껍데기는 길이가 20큐빗이나 되었으며 텁수룩한 털로 덮여 있었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02638",
+    "source_sha256": "4f192a64bc0312a0a428ffe418ba16c27c4ae34eec3d96b28657736b46d5e37e",
+    "ko": "원숭이얼굴 프리클백"
+  },
+  {
+    "id": "TXT_SimsObjects_02639",
+    "source_sha256": "3d2bdb059789635165ac738acec4d14f5820e300d29c854661df63a32ef6a79c",
+    "ko": "대부분의 원숭이얼굴 프리클백은 그 흔한 이름을 못마땅해하며 케비디크티스 비올라케우스라고 불리길 더 좋아합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02640",
+    "source_sha256": "ef0641a10f63bf8eb87e422117563201ae406a1a2dad4fedfb509c782f960904",
+    "ko": "아귀"
+  },
+  {
+    "id": "TXT_SimsObjects_02641",
+    "source_sha256": "c23663146c9c4a77e66766d10a9ce376ab81d79d786fa1d289874c14b80c462a",
+    "ko": "모든 아귀는 평생 침묵하겠다는 서약을 합니다. 그래서 아귀가 말하는 소리를 들어본 사람이 없는 것이죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02642",
+    "source_sha256": "77f49fd5f4e20a028a6a4b35f8f50092eefa7a9de37591c5f873ffe10f0a6a8a",
+    "ko": "달고기"
+  },
+  {
+    "id": "TXT_SimsObjects_02643",
+    "source_sha256": "5bbdf2d7569e451f6c26465fdd95fd65a6ccd622a2f7074a7b4332e9d41e6e1f",
+    "ko": "온종일 바위 밑에 숨어 지냈으니, 밤은 달고기의 시간입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02645",
+    "source_sha256": "84867f9d8360ff97ed21ffb3d91a9a5a8af1d461740cd3a621e847af1e9e819a",
+    "ko": "월장석은 수많은 빛깔을 띠지만, 어느 것도 달처럼 보이지는 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02646",
+    "source_sha256": "3c058c50be44c876c358c5ac613c79d330c90e32283155ee3e5767c81adf0af5",
+    "ko": "곰치"
+  },
+  {
+    "id": "TXT_SimsObjects_02647",
+    "source_sha256": "c7e9af5da0971bee73005e37d6008c838c11d1dfac28f93c21b9fdc3aaa6c1a8",
+    "ko": "곰치는 맛이 좋은 장어지만 독이 있는 껍질을 없애려면 제대로 손질해야 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02648",
+    "source_sha256": "f851fdb89f0b212e5bbdf8a8869caabbd7228a9bad8426ecbcb16a854a4a4c8f",
+    "ko": "숭어"
+  },
+  {
+    "id": "TXT_SimsObjects_02649",
+    "source_sha256": "d411d3cb766cdc4cfb15af063527671a09e877c42753366897caaccc11215526",
+    "ko": "앞은 짧고 뒤는 길게 만들어진 물고기입니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02650",
+    "source_sha256": "1d506926a25746f87803670070dcca693c3d5982d1dbc9228514b492cf6bc412",
+    "ko": "북"
+  },
+  {
+    "id": "TXT_SimsObjects_02651",
+    "source_sha256": "dce367cfe35900366cd9c19e9ce7aea6422b47d10151b8bf4b844a37ca18b2ad",
+    "ko": "섬의 자연스러운 리듬에 끌리나요? 그렇다면 작은 북으로 당김음 가득한 소란에 함께해 보세요. 박자는 꼭 지키시고요."
+  },
+  {
+    "id": "TXT_SimsObjects_02652",
+    "source_sha256": "26fc80a06eb67346fac78551eee3fb3be73eae2e928b1b708b07eecc912a3760",
+    "ko": "마림바"
+  },
+  {
+    "id": "TXT_SimsObjects_02653",
+    "source_sha256": "6591514e368de265a53ff67b3a872e75d003a57e05947bef5106690c62ac4bad",
+    "ko": "실로폰의 관능적인 사촌인 마림바가 있다면 원치 않은 섬 체류도 한결 덜 지옥 같아질 겁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02654",
+    "source_sha256": "22da4e32ababa522476c216f9cc94ef38e5712a78f0e44f999412e6ac4f9e037",
+    "ko": "셰이커"
+  },
+  {
+    "id": "TXT_SimsObjects_02655",
+    "source_sha256": "ce29cb2627a2aa55a2545c7a76545a42b3f8ec7080722c4aa6c21ae2e89df70f",
+    "ko": "간단한 리듬 악기가 필요할 때는 코코넛에 체리씨를 넣고 마음껏 흔들어 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02656",
+    "source_sha256": "46f71fa04f1a14ed2a41775efbcc5765384fbd39e9a95caf87384e5d3c08fdce",
+    "ko": "우쿨렐레"
+  },
+  {
+    "id": "TXT_SimsObjects_02657",
+    "source_sha256": "ae0b13cd1f6ac5ad958e448b71b879a5e9829d3bdcb0b844efb92c02a6f7f64d",
+    "ko": "죄수에게 하모니카가 있다면 표류자에게는 우쿨렐레가 있습니다. 하나 깎아 만들어 새 섬 생활의 배경음악을 연주해 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02658",
+    "source_sha256": "bb628a14dfcbd58beb40d838148364b7e95272d20239d83cf5394daa535c1980",
+    "ko": "앵무조개 껍데기"
+  },
+  {
+    "id": "TXT_SimsObjects_02659",
+    "source_sha256": "47f37a504fff6cdfcd337abdf0ddb355aa62b5f3b57428a818fbfb4d4dde4c1e",
+    "ko": "원시적인 섬 문화에서는 조개를 돈으로 쓰곤 했습니다. 오늘날에도 어떤 섬에서는 앵무조개 두 개로 새우와 피망을 넣은 기로스 하나를 살 수 있죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02660",
+    "source_sha256": "21139ddd69e6b24496cf1739dbbbb90efcb9eb1d28ec7b4f801919c8a749e152",
+    "ko": "바나나 잎 목도리 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02661",
+    "source_sha256": "019a037970f4d3f3cd4fd2737b1c2feac0a7170066943797429b9d44c97a74ef",
+    "ko": "열대 섬의 밤에도 따뜻하게 지낼 수 있는 목도리입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02662",
+    "source_sha256": "9dc9b0bf579c3a4fb8b7a97f3b3c9f17f508f280b8c29bf8fb271fc6c94ef727",
+    "ko": "깃털과 구슬 목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02663",
+    "source_sha256": "1efa7d0874ef15a998dbe6d1ea256524a1dbefcec30945a29363df6612a0decc",
+    "ko": "옷장에 다채로운 색이 필요하다면 깃털과 구슬로 장신구를 만들어 보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02664",
+    "source_sha256": "2c0e2112b4fab3611c2b54ef799631441c9dc6b0a6b2d58556e7b188c51b94d7",
+    "ko": "코코넛 껍데기 초커 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02665",
+    "source_sha256": "690d05d89679adddc1dc5d35be3f0d0e983ebf5d5c1ee6f4db9c081e59212de7",
+    "ko": "깎은 코코넛 껍데기와 가죽이 완벽하게 어우러졌습니다. 거친 심이든 멋을 아는 심이든, 코코넛 껍데기 초커는 다양한 매력을 선사합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02666",
+    "source_sha256": "d0c8028c368db9a1ee07a0833ff455252dc94f80cde2717e0f0d595c5777ff45",
+    "ko": "나무 조각 목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02667",
+    "source_sha256": "6af6ccc79e6fb8072add8603e6475c7e6f1daa0a7bcbc88e484785ac79f4ff67",
+    "ko": "깎은 나무로 만드는 이 목걸이는 솜씨를 계속 높여줄 기법을 필요로 합니다. 마카로니로 만든 것은 아니지만, 그래도 어머니가 자랑스러워할 목걸이입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02668",
+    "source_sha256": "4ddeaa4ecd6584cb9926e923d8f095ac8460c295f5c56fc1e35a316f67da321b",
+    "ko": "유리와 상어 이빨 목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02669",
+    "source_sha256": "6dc220363a43479f65cad11ce1a3b13a81ad340164a7e176f777c80b4e21d4d6",
+    "ko": "유리와 상어 이빨 목걸이는 언제나 날카로워 보이고 싶은 심에게 완벽합니다. 말 그대로요."
+  },
+  {
+    "id": "TXT_SimsObjects_02670",
+    "source_sha256": "76f42f22640de57a35c81184fa90e7161e4d8a7bed455e411dab01b80fbf8faf",
+    "ko": "금덩이 목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02671",
+    "source_sha256": "14ce66c6702b0dae9941f95b27fa101cb23f088b336bd7587573387bdbacea43",
+    "ko": "이를 씌우든 목걸이를 만들든 금은 아주 유용한 자원입니다. 이 목걸이가 그저 예뻐 보일 뿐이라 해도, 이렇게 반짝이는 물건에 불평하기는 어렵죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02672",
+    "source_sha256": "771932673cd5268a026c17ee2ce1631141c31257312bec62e36cee7358b11f2f",
+    "ko": "덩굴과 담쟁이 목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02673",
+    "source_sha256": "e8072c45f01e75ad261387aa38d6d773b3981399bed1e52f9e4a2240c4fce17d",
+    "ko": "24캐럿 나뭇잎으로 만든 덩굴과 담쟁이 목걸이는 섬에서 만든 어떤 의상이든 한층 돋보이게 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02674",
+    "source_sha256": "77d3dc2268c935b2f26e9b54ad9044516c6eaee134172550784fa0aaaa3f34b6",
+    "ko": "옥구슬 목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02675",
+    "source_sha256": "52e8134d45c458bb6b519e9604c4649e8727eb392e89df762c479a73f3daa8fe",
+    "ko": "수천 년 동안 사람들에게 알려진 옥은 논쟁적인 보석이었습니다. 어떤 사회에서는 무기 재료로 썼고, 다른 문화에서는 평화의 상징이었죠. 옥 목걸이를 어떻게 쓸지는 여러분에게 달렸습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02676",
+    "source_sha256": "be1eaabbbb57d32292d6320188869853bacf2e6b2caf70bf625e9d020cc403de",
+    "ko": "전통 꽃목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02677",
+    "source_sha256": "77ba6ee972518cd9c825f2ae1989dc534a7c69f2f087524ac92c967843874e7e",
+    "ko": "향기롭고 다채로운 이 목걸이는 숨 쉬는 순간마다 활력을 불어넣어 줍니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02678",
+    "source_sha256": "7ac5e7a9cad9ceb7a604841603a841748f8846c03cda52aabf468ba548e05d6c",
+    "ko": "월장석 구슬 목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02679",
+    "source_sha256": "d907f746ebedf220f3dc84829fc24f84f5fb9b7077673264495530fd0817e9af",
+    "ko": "옛사람들은 이 멋진 보석을 들여다보면 달이 차고 기우는 모습을 알 수 있다고 믿었습니다. 착용자에게 강렬한 환영을 보여준다는 월장석은 달이 치즈로 만들어졌다는 사실도 세상에 알려주었죠. "
+  },
+  {
+    "id": "TXT_SimsObjects_02680",
+    "source_sha256": "7f216015763c141b4a644183e5e66ec2e00da8da1541d84e6f141c862e8f0c2c",
+    "ko": "진주구슬 목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02681",
+    "source_sha256": "23f1521c196a96f4aa13c4a64c9d88fd0fe0bcc550c91d9c5b9889230cad12b9",
+    "ko": "이 섬의 천연 진주는 이로 물어보는 시험을 분명 통과할 겁니다. 이 목걸이의 진주층에서는 매끈한 감촉을 찾을 수 없으니까요!"
+  },
+  {
+    "id": "TXT_SimsObjects_02682",
+    "source_sha256": "3db2fafc141e50f8a5da5c1837a3ff454cf0b2e6557665c91b6434822a3f8025",
+    "ko": "드리운 조개 목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02683",
+    "source_sha256": "1fa6151b6bd3cfac6f21822c5d2583cb25e7c0babc2eaf0dcace980264d3c2dd",
+    "ko": "창문 장식의 원리를 가슴선에도 적용해 보세요. 순전히 멋을 위한 이중 드리움 디자인은 이웃의 시선을 거의 가리지 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02684",
+    "source_sha256": "386e981f0ba80275142d7354ae9def3fe6b9b0b737ab94fea8e5a1ba8cbc2f7f",
+    "ko": "멧돼지 엄니와 구슬 장식 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02685",
+    "source_sha256": "4f0dd751a7151d1ceb10ede53500f2028dd69731ff9f0982ecfb5fd86cda8ed6",
+    "ko": "다른 건 몰라도 이 목걸이는 여러분의 용기를 보여줍니다. 이 대단한 물건을 만들려면 돼지와 여러 번 싸워야 할 테니까요."
+  },
+  {
+    "id": "TXT_SimsObjects_02686",
+    "source_sha256": "cebbb0ac0ab4bc87610840dc24329957adbeaa44699db6369e370a89641a5ad0",
+    "ko": "새 둥지 목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02687",
+    "source_sha256": "4a355b7cd133b97ffbbba757d7fcd9728309504231a8cd5841e7018a14595f3a",
+    "ko": "실용적인 사람이라면 귀한 자원으로 의자나 침대를 만들었겠지만 여러분은 목걸이를 골랐습니다. 밤에 잘 때는 침대가 더 편하겠지만, 이렇게 멋져 보이기까지 할까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_02688",
+    "source_sha256": "56993d61b3aa127a49febee5d331594f1137a3148d63d9bb372a45ddd6faf103",
+    "ko": "알로하 결혼 꽃목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02689",
+    "source_sha256": "9b72183179872160ba6ed4a1d21afed439e8d5fefe70dc8dc08183607b1751ab",
+    "ko": "이 화려한 결혼 목걸이를 만들어 선물하면 여러분과 사랑하는 이에게 평화와 사랑, 애정이 기다리고 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02690",
+    "source_sha256": "410764ad1f4e1874890d3d07b8790b4c98f5d726e800749496ff3e6da0dca669",
+    "ko": "유목 기념 목걸이 (남녀 공용)"
+  },
+  {
+    "id": "TXT_SimsObjects_02691",
+    "source_sha256": "a348451e4344dbd1edca1222c4ec02480e4e9bfff7979b36399a9bd6e96cd5c3",
+    "ko": "유목 조각마다 들려줄 이야기가 있습니다. 드넓은 푸른 바다를 수천 마일이나 떠돌아 이제 목걸이가 될 차례를 맞았습니다. "
+  },
+  {
+    "id": "TXT_SimsObjects_02693",
+    "source_sha256": "40373ad2d28a6d4ad58cec0302022ed6b069f31bed8269f0fb615a30a7472cbb",
+    "ko": "대부분의 사람은 이 무척 유용한 화산암에 필요한 지식을 물건을 가져와 소개하는 시간에 모두 배웁니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02698",
+    "source_sha256": "cc278ed65b2d4d792808abde8bcf79848ad5c13f4f9f540eb4cfef3d74902029",
+    "ko": "양파"
+  },
+  {
+    "id": "TXT_SimsObjects_02699",
+    "source_sha256": "28ed2eb72e2918297c85df45bdef5aeac839a03a1a7603e35a2fd7ea63c1b5d6",
+    "ko": "양파를 자르면 눈물을 묽은 황산으로 바꾸는 기체가 나옵니다. 멋지군요!"
+  },
+  {
+    "id": "TXT_SimsObjects_02700",
+    "source_sha256": "d35fcfc1456fcaf5f7219a1757d6257b89333dbfb91e12880ff2a4806312d9bc",
+    "ko": "주황 히비스커스"
+  },
+  {
+    "id": "TXT_SimsObjects_02701",
+    "source_sha256": "0480aa4c640200e7603aab2aa7eabb3422bf156f70b8a89653e5023f983bb053",
+    "ko": "주황 히비스커스 꽃은 아무도 오래가리라 기대하지 않는 결혼을 축하할 때 흔히 쓰입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02702",
+    "source_sha256": "f5df052d45af1f036c66b3c005a2bc85144bd82358f53bf6c63dd7eebd1eba14",
+    "ko": "파란 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_02703",
+    "source_sha256": "f3ff051ee8a13e031daeef1782c81ed95f6d2f6e1edaca6e7e7b2b86aa05328b",
+    "ko": "파란 난초는 너무나 여려서 매정한 말 한마디에도 시들 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02704",
+    "source_sha256": "0c80f5fa4dc08ce4e70ebc74ec3fb73b8c6ede2b423658b0cc4f65d05c6443f2",
+    "ko": "분홍 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_02705",
+    "source_sha256": "0d2b962c6246d9307f1b8e8197e23be65406eb1fdd4832a3f07e60b38420c40b",
+    "ko": "분홍 난초의 향은 싸구려 풍선껌 냄새로 오해받곤 합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02706",
+    "source_sha256": "205d84fdffa638082cb6a2182be3dedfe776794db28b40a76d366cb54523a6d3",
+    "ko": "보라 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_02707",
+    "source_sha256": "59d7f30ab35591adf6dbae2179e67c721aed7ccc9fe8f9423a795299e78c4a21",
+    "ko": "가장 기운 넘치는 벌들만이 풍만한 보라 난초에 감히 꽃가루를 옮기려 듭니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02708",
+    "source_sha256": "de18fa28b668cd77cff52fb182d23f0eb0f82872ef9ed14c36d87d3d7db3486b",
+    "ko": "빨간 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_02709",
+    "source_sha256": "7eabb730eb0631e375c3f2e447a1293649c0ae60b10b8f9b37f5a053d8ad40c0",
+    "ko": "빨간 난초가 피면 장미마저 멈춰 서서 향을 맡습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02710",
+    "source_sha256": "553eb2c0b62179844faad6772802202861b6763e2951f8d040838fcb399385fa",
+    "ko": "하얀 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_02711",
+    "source_sha256": "bbf37f60262d5d65594fcb42582b72462fdfd4672998b36aa59f54338d0e46b9",
+    "ko": "옛 주부들은 긴 사냥을 마치고 돌아온 남편에게서 뿜어져 나오는 악령을 쫓는 데 하얀 난초를 썼습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02712",
+    "source_sha256": "b43b401dc51b590b7c3bc51a0d2e8c57da3b48df14f5876512f2618aef1ff15a",
+    "ko": "야자나무 잎"
+  },
+  {
+    "id": "TXT_SimsObjects_02713",
+    "source_sha256": "c8ab4aaf45934dd30655760d3e16f71674eaa9b58fe3d324af806e67a5d3bdb9",
+    "ko": "야자나무 잎의 용도는 정확히 1,001가지입니다. 새로운 용도를 발견하면 1,002가지가 되겠죠."
+  },
+  {
+    "id": "TXT_SimsObjects_02714",
+    "source_sha256": "193e5e1cb2367d43d35155afb6af96cb40f76dead96873f853562e62e789c7d7",
+    "ko": "파파야"
+  },
+  {
+    "id": "TXT_SimsObjects_02715",
+    "source_sha256": "4b5b86eb83b81630a1038f0542f074f18400f2173eef3aa15552ed13ec88f35a",
+    "ko": "나와틀어로 치치우알차포틀이라 부르는 파파야는 하루 중 언제 먹어도 맛있는 간식입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_02716",
+    "source_sha256": "2b1f3f0b7afa26e4a824521353a48880a0dbb7c6f7a371056fbde0c6ee03f407",
+    "ko": "복숭아"
+  },
+  {
+    "id": "TXT_SimsObjects_02717",
+    "source_sha256": "613d949683f2b0dcf18a47238e4b82cc46b9027a3c2fa3d5ee301f5d684b23f5",
+    "ko": "복숭아는 연약합니다. 정말입니다. 쉽게 멍드니 살살 다루세요."
+  },
+  {
+    "id": "TXT_SimsObjects_02718",
+    "source_sha256": "72bc556112e9538a2433f0a9b87b032eae43c69e367e9dca1b176929dcf20ed5",
+    "ko": "진주"
+  },
+  {
+    "id": "TXT_SimsObjects_02719",
+    "source_sha256": "350d1eaaaa61348e6725a816d3057c4a2a6e68cf703a7040103fc8c36561039d",
+    "ko": "진주는 양파처럼 층층이 이루어져 있습니다. 층이 많을수록 무엇 때문에 속상한지 알아내기도 어렵죠."
+  }
+]

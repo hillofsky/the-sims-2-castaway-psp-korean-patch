@@ -1,0 +1,612 @@
+[
+  {
+    "id": "TXT_SimsObjects_09200",
+    "source_sha256": "ce2d0cedd3b2c47d189c9fde4cd94b94244c2047273bd49ec97e948e246a35dc",
+    "ko": "놀아 주기.../안아 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_09201",
+    "source_sha256": "dab2d4dad528d8020ae40d9197c716f38a0d0ea52e650883e45dd7b45b32a4d4",
+    "ko": "놀아 주기.../쓰다듬기"
+  },
+  {
+    "id": "TXT_SimsObjects_09202",
+    "source_sha256": "c87c5601f8bdfa42b50e1cfa8de811859c3648fc5aa751245b9a6e23deb66da5",
+    "ko": "놀아 주기.../통통 튀겨 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_09203",
+    "source_sha256": "4ebd33815d2c999a50466344c6d3e6f41f823c945d4564a8dfae473a14d9c4d5",
+    "ko": "놀아 주기.../꼭 안아 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_09204",
+    "source_sha256": "d3526afa63c6fe5fb46e3b7809ea3be463927ea3cb26fd5aea832d0b6dd5d0bf",
+    "ko": "놀아 주기.../간지럽히기"
+  },
+  {
+    "id": "TXT_SimsObjects_09209",
+    "source_sha256": "b571d6070b1c5ee6ef302a3a12f8c4aa3e1f52ba07bdd8b1d7d4a346f1f5f3bb",
+    "ko": "축하합니다! 여자아이입니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09210",
+    "source_sha256": "80ac38e2d56545410baeefca9e829246655d2e8664659d347453a67490032a08",
+    "ko": "축하합니다! 남자아이입니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09215",
+    "source_sha256": "62331c6aa0e1660e48cb58011e0e6595fdcb3ebc1973d03c5bda371a9e716abc",
+    "ko": "반려동물이 자라려면 먼저 이름을 지어 줘야 합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09219",
+    "source_sha256": "db6ac1abf0fb0d8eeb91731a451728bc5ef827a27f75fdb2d9c8f198e3d1b8ab",
+    "ko": "놀아 주기 .../간지럽히기"
+  },
+  {
+    "id": "TXT_SimsObjects_09220",
+    "source_sha256": "c87c5601f8bdfa42b50e1cfa8de811859c3648fc5aa751245b9a6e23deb66da5",
+    "ko": "놀아 주기.../통통 튀겨 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_09221",
+    "source_sha256": "4ebd33815d2c999a50466344c6d3e6f41f823c945d4564a8dfae473a14d9c4d5",
+    "ko": "놀아 주기.../꼭 안아 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_09222",
+    "source_sha256": "ce2d0cedd3b2c47d189c9fde4cd94b94244c2047273bd49ec97e948e246a35dc",
+    "ko": "놀아 주기.../안아 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_09223",
+    "source_sha256": "dab2d4dad528d8020ae40d9197c716f38a0d0ea52e650883e45dd7b45b32a4d4",
+    "ko": "놀아 주기.../쓰다듬기"
+  },
+  {
+    "id": "TXT_SimsObjects_09224",
+    "source_sha256": "2c8960b3dc0f2b1cd94892067de78fb2382b0f309b1fa4ee9e839293f9f5ff94",
+    "ko": "덫이 망가졌습니다. 어딘가에 의기양양한 닭이 비웃고 있을지도 모릅니다. 그래도 잔가지 몇 개는 건졌습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09225",
+    "source_sha256": "1c4bb691ca909a8c6a73aef717e8641389e32bf9686b4c59f38ec7ed1d59dc5d",
+    "ko": "닭을 잡지 못했습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09226",
+    "source_sha256": "113885cad6fe4b107a7100c492583f67166e457ff8cd0d60073434374e1da2bb",
+    "ko": "축하합니다! 약삭빠른 닭을 잡았습니다. 먹을까요, 친구로 삼을까요?"
+  },
+  {
+    "id": "TXT_SimsObjects_09227",
+    "source_sha256": "a980c46a6b00ae29e80a5875929b2c614ed9ae79218b43ee964188924b08048a",
+    "ko": "$Me의 수집품: 깃털 몇 개입니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09236",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09241",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09246",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09251",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09256",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09261",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09266",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09271",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09276",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09281",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09286",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09291",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09296",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09301",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09306",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09311",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09316",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09321",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09326",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09331",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09336",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09341",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09346",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09351",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09356",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09361",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09366",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09371",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09376",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09381",
+    "source_sha256": "233bc2e40605edf7eb12a52f2b6fb167e5760f13399c09fd0ec28bb6eaad8d25",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09401",
+    "source_sha256": "c765fe1544cc261e58eedb93d7a03234b9b2fb78d7a4ede99ec058ee78b08b90",
+    "ko": "축하합니다. 영장류 친구가 다음 물건을 가져왔습니다:\r\n\r\n$TokenNameLocal:0 - $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09402",
+    "source_sha256": "8e3db74030b617314f3f04ef1ee47288b9a3c044ac776c335f87b39380865bce",
+    "ko": "축하합니다. 영장류 친구가 다음 물건을 가져왔습니다:\r\n\r\n$TokenNameLocal:0 - $Local:1\r\n$TokenNameLocal:2 - $Local:3"
+  },
+  {
+    "id": "TXT_SimsObjects_09403",
+    "source_sha256": "8b6574c3ceb938253ffa220099d9bbf94c936d3ca9659b7c070c426b58827ae6",
+    "ko": "축하합니다. 영장류 친구가 다음 물건을 가져왔습니다:\r\n\r\n$TokenNameLocal:0 - $Local:1\r\n$TokenNameLocal:2 - $Local:3\r\n$TokenNameLocal:4 - $Local:5"
+  },
+  {
+    "id": "TXT_SimsObjects_09406",
+    "source_sha256": "370d0055e946c5b0ba89cab7077ffecb98aae267afd5b87d9af9992933cdf2ca",
+    "ko": "건설: $Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09407",
+    "source_sha256": "370d0055e946c5b0ba89cab7077ffecb98aae267afd5b87d9af9992933cdf2ca",
+    "ko": "건설: $Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09408",
+    "source_sha256": "370d0055e946c5b0ba89cab7077ffecb98aae267afd5b87d9af9992933cdf2ca",
+    "ko": "건설: $Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09409",
+    "source_sha256": "370d0055e946c5b0ba89cab7077ffecb98aae267afd5b87d9af9992933cdf2ca",
+    "ko": "건설: $Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09410",
+    "source_sha256": "370d0055e946c5b0ba89cab7077ffecb98aae267afd5b87d9af9992933cdf2ca",
+    "ko": "건설: $Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09411",
+    "source_sha256": "370d0055e946c5b0ba89cab7077ffecb98aae267afd5b87d9af9992933cdf2ca",
+    "ko": "건설: $Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09448",
+    "source_sha256": "fe82132f734e3577b4549a61b1e19162ef04a1654fcc88541b2a88381854d78d",
+    "ko": "축하합니다! 혀의 탐정 능력을 발휘해 이 과일의 정체를 알아냈습니다: $NameLocal:1"
+  },
+  {
+    "id": "TXT_SimsObjects_09449",
+    "source_sha256": "01255d600c4d40b676e0074402099b0013c82fffb26893e4f3f986c8d4215e09",
+    "ko": "보물 지도 조각을 찾았습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09452",
+    "source_sha256": "2cf1883867d65f00b4da49cc5f66f05b7289378d89c4b909eff42c9f45a7283f",
+    "ko": "맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_09468",
+    "source_sha256": "0119d8114191feaa29027514980a949049c276c78a7ea6ba4eddc9a083e60ca2",
+    "ko": "클래식 모드에서는 커서로 심에게 명령을 내리고 행동을 지켜보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09470",
+    "source_sha256": "0a9cb78cf58c2343aff0221fc41bf87d3d26976e3e0a080c8046c2ec663ecf24",
+    "ko": "반려동물도 심처럼 음식과 잠, 재미가 필요합니다. 자세한 내용은 심 전환 기능으로 반려동물을 선택하고 욕구를 확인하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09471",
+    "source_sha256": "7ec361a202b231f11db065eb92543fa6756f56b3dec15fc74ff8d0f6d70a9a95",
+    "ko": "반려동물에게도 소망이 있습니다. <BUTTON_03> 버튼의 왼쪽을 누르면 확인할 수 있습니다. 소망을 이루어 주면 마을 광장에서 쓸 반려동물 점수를 얻습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09472",
+    "source_sha256": "ca8e8991e89c2252190c5c1d599ebea957d29e7c07705358b1e1d7f5327f9ec1",
+    "ko": "반려동물을 훈련하세요. 명령에 따라 재주를 부리도록 가르치고 잘못하면 꾸짖으세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_09473",
+    "source_sha256": "86f3565c33b7e784ae4afbbe7f0239def6742727d020339ca8e3d55c2f0e2b21",
+    "ko": "즐겨 찾는 가게가 개선됐습니다! 여기서 멈추지 마세요! 마을 광장의 모든 가게가 새로운 모습과 더 다양한 상품을 갖출 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09480",
+    "source_sha256": "c33b045cee2f99e86e212f603e24ae5e5b8e0c198dcbf09aefeaf9d64250f7ba",
+    "ko": "반려동물이 원하는 모든 것을 찾아 쇼핑하세요. 좋아하는 가게에서 충분히 구매하고 성장하는 모습을 지켜보세요! "
+  },
+  {
+    "id": "TXT_SimsObjects_09481",
+    "source_sha256": "c9f5d5cec9b6fbc870f17d841810dfd10db434ca643c1ab83dd7612343e2da8e",
+    "ko": "좋은 상품이 너무 많아 과소비하기 쉽습니다. 이 기계에서 시몰레온을 반려동물 점수로 바꿀 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09482",
+    "source_sha256": "0905e69372bd6028fcfb421748d75d36bb669bb8885facc67b4023c599c5221c",
+    "ko": "안녕하세요, 친구. 저는 이 동네 조련사입니다. 시간당 요금을 내시면 반려동물이 챔피언처럼 재주를 부리도록 가르쳐 드리죠."
+  },
+  {
+    "id": "TXT_SimsObjects_09483",
+    "source_sha256": "2ecda53874e4b2f21ae9159ebf4c4c0233d24226fe1883c8b05744d604628f02",
+    "ko": "경제가 호황을 맞아 마을이 성장하고 있습니다. 흡족해진 시장이 선물한 마을 광장의 새 시설을 즐기세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09484",
+    "source_sha256": "354a1abb922930640e92b8ffc6e3d13a1544288db196bbe112f048e3dbbab2d7",
+    "ko": "환영해요, 이웃님! 정착하고 나면 보도의 화살표를 이용해 마을 광장으로 오세요. 반려동물을 위한 모든 것이 있으며 사교를 즐기기에도 좋답니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09729",
+    "source_sha256": "763f2d09c839b75876ce9f173cae193ae6941a45195aaa25424326809b0f3eb1",
+    "ko": "기분이 엉망이야. 체스는 안 할래."
+  },
+  {
+    "id": "TXT_SimsObjects_09730",
+    "source_sha256": "326dfb07d742e8e69f2ad89a892b8abd56d87e561cebb25d21f1d36872aae67f",
+    "ko": "축구는 못 하겠어. 지금 슬픔에 사로잡혀 있거든."
+  },
+  {
+    "id": "TXT_SimsObjects_09810",
+    "source_sha256": "89713b9c9c1b8f659c9f49db25e4a47886dd673fee248c3f650391f09a759cef",
+    "ko": "수락"
+  },
+  {
+    "id": "TXT_SimsObjects_09811",
+    "source_sha256": "a2d285b352873457207a34a015267524bb4613c3e8c961c8998da4e08e0d5745",
+    "ko": "거절"
+  },
+  {
+    "id": "TXT_SimsObjects_09812",
+    "source_sha256": "66154a084145e46916b6f1a3bbdfd73665c9235b74e184a672fee1caaaa34d56",
+    "ko": "시뮬레이션"
+  },
+  {
+    "id": "TXT_SimsObjects_09840",
+    "source_sha256": "611aa334a31d0a5485893ca257530e00b306eef05df01a0eaae43e8572d62254",
+    "ko": "벌금 $$MoneyLocal:1이 부과됐습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09841",
+    "source_sha256": "f74d4abca0e5e1d732b6d5647ad779ef817ba12fa6a8e112be3911aec255ea9d",
+    "ko": "$Neighbor의 기분이 좋지 않습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09842",
+    "source_sha256": "3616f87d1e062b85d9964735335399f608c45968e8794166cb3c8371820bbe8f",
+    "ko": "$Neighbor의 답변: 제안은 고맙지만 지금은 가족을 떠날 수 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09843",
+    "source_sha256": "3ccb11cdd0099e96fdaec2ec9156d4f40bb68be68fd98bc009b3dd2ca280a64b",
+    "ko": "$Neighbor에게는 이미 짝이 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09844",
+    "source_sha256": "03793097f74595d1c169ac4b0a5719a6a1436682c16669582272a850b9d96e70",
+    "ko": "지금은 가족 구성원을 더 들일 자리가 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09845",
+    "source_sha256": "2d91784112745255d2115c99718165a2cb0fe653af2ba2d69db4160b454dfbae",
+    "ko": "안타깝게도 $Neighbor의 가족 합류는 정원 때문에 불가능합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09846",
+    "source_sha256": "060a31dcc15eb29ab313dc5456834a2c6438ec2df33fa3a325e1dad4ff653002",
+    "ko": "미안하지만 우리 사이는 아직 그만큼 가깝지 않아."
+  },
+  {
+    "id": "TXT_SimsObjects_09848",
+    "source_sha256": "e761cff568e850eca99f913ebc64b11d631448cae83d0aee26184844664ec61d",
+    "ko": "축하합니다! 이제 $Neighbor과 짝이 되었습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_09849",
+    "source_sha256": "618ce5df952201efa1042a1969f60248acfd2e050c5c56ee2d58f989ac990df2",
+    "ko": "아직 함께 살 만큼 잘 아는 사이는 아닌 것 같아. 나중에 다시 물어봐."
+  },
+  {
+    "id": "TXT_SimsObjects_09850",
+    "source_sha256": "bb95a7d7f3cf77c4720de63a2bf5a9005e34406bcabc2add50d72f3d3f7c33d3",
+    "ko": "$Object을 내보내시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_09851",
+    "source_sha256": "cca845c4a9c311c17a02a24ef1e28c5f78b1ab02898f4a3ab374348af8cadc03",
+    "ko": "$Object과 헤어지시겠습니까?"
+  },
+  {
+    "id": "TXT_SimsObjects_09852",
+    "source_sha256": "58181bb1b13c16c6ddd66ee35b7ef9c7541d5ba5362b3cbde793a33c131bc421",
+    "ko": "떠나지 않겠어. 내 배우자가 아직 여기 살잖아."
+  },
+  {
+    "id": "TXT_SimsObjects_09854",
+    "source_sha256": "7d56ec4ea31e10555e1c15dc004df5f3bfb428931a2ad4a878eb4655a920095d",
+    "ko": "관계가 끝났습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09855",
+    "source_sha256": "7d56ec4ea31e10555e1c15dc004df5f3bfb428931a2ad4a878eb4655a920095d",
+    "ko": "관계가 끝났습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09856",
+    "source_sha256": "3c907ee09244443a1e1556f0ef58c2dce122521e518310a713f87dafeef3f6b8",
+    "ko": "당신에게는 이미 짝이 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09857",
+    "source_sha256": "8f7749cec4c60abee4914d926072f4ab9b9d5cd42e91eda8a793bcd93f71b331",
+    "ko": "$Neighbor의 방문 선물입니다! 새 출발에 도움이 될 반려동물 간식을 받았습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09858",
+    "source_sha256": "16f7ba4e1c01ad3df2bb76d6efa0a9af183208f6a74901ee60ca11145dd2de6e",
+    "ko": "이 심은 더는 이 부지에 살지 않지만 동네가 가득 차서 떠날 수 없습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09859",
+    "source_sha256": "f4aa64d12d6b374e418b9661df3c721e358690061d2bb29edbb60fa156604f17",
+    "ko": "고맙지만 사양할게. 그 선물에는 관심 없어."
+  },
+  {
+    "id": "TXT_SimsObjects_09860",
+    "source_sha256": "7d1abd014b2a4b9d77b13dcb1b2bd43b32af0f17d06237ac50cdb1b27f41334c",
+    "ko": "제안은 고맙지만 이미 다른 사람과 함께 살고 있어."
+  },
+  {
+    "id": "TXT_SimsObjects_09861",
+    "source_sha256": "4c368bc98566c517ca5f187da8b106b725144084f3cd8a5d97b35a44c424a350",
+    "ko": "다가가기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09862",
+    "source_sha256": "b0204236d068fb7c8bbfe3c080c48ea1927b7dcce981813e738589d740cbfa8b",
+    "ko": "대화하기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09872",
+    "source_sha256": "4c368bc98566c517ca5f187da8b106b725144084f3cd8a5d97b35a44c424a350",
+    "ko": "다가가기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09873",
+    "source_sha256": "b0204236d068fb7c8bbfe3c080c48ea1927b7dcce981813e738589d740cbfa8b",
+    "ko": "대화하기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09883",
+    "source_sha256": "4c368bc98566c517ca5f187da8b106b725144084f3cd8a5d97b35a44c424a350",
+    "ko": "다가가기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09884",
+    "source_sha256": "b0204236d068fb7c8bbfe3c080c48ea1927b7dcce981813e738589d740cbfa8b",
+    "ko": "대화하기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09894",
+    "source_sha256": "4c368bc98566c517ca5f187da8b106b725144084f3cd8a5d97b35a44c424a350",
+    "ko": "다가가기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09895",
+    "source_sha256": "b0204236d068fb7c8bbfe3c080c48ea1927b7dcce981813e738589d740cbfa8b",
+    "ko": "대화하기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09905",
+    "source_sha256": "4c368bc98566c517ca5f187da8b106b725144084f3cd8a5d97b35a44c424a350",
+    "ko": "다가가기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09906",
+    "source_sha256": "b0204236d068fb7c8bbfe3c080c48ea1927b7dcce981813e738589d740cbfa8b",
+    "ko": "대화하기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09916",
+    "source_sha256": "4c368bc98566c517ca5f187da8b106b725144084f3cd8a5d97b35a44c424a350",
+    "ko": "다가가기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09917",
+    "source_sha256": "b0204236d068fb7c8bbfe3c080c48ea1927b7dcce981813e738589d740cbfa8b",
+    "ko": "대화하기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09927",
+    "source_sha256": "4c368bc98566c517ca5f187da8b106b725144084f3cd8a5d97b35a44c424a350",
+    "ko": "다가가기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09928",
+    "source_sha256": "b0204236d068fb7c8bbfe3c080c48ea1927b7dcce981813e738589d740cbfa8b",
+    "ko": "대화하기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09938",
+    "source_sha256": "4c368bc98566c517ca5f187da8b106b725144084f3cd8a5d97b35a44c424a350",
+    "ko": "다가가기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_09939",
+    "source_sha256": "b0204236d068fb7c8bbfe3c080c48ea1927b7dcce981813e738589d740cbfa8b",
+    "ko": "대화하기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_10044",
+    "source_sha256": "f7759b6ca471503828a8f520c0cac7b213efe86d54ed824066cacc402d4c653f",
+    "ko": "덫 회수하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10045",
+    "source_sha256": "cadae6ed42b5ba0b57aff8e9d5f1c6cd9cdba144a088bf828464d0039ce2e416",
+    "ko": "부서진 덫 수거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10046",
+    "source_sha256": "f7624681ec0867a35f71787b1c0fb0d0040907af08abc1daaf9e10f9b4ee63cb",
+    "ko": "축하합니다. 물고기 덫을 회수하여 다음을 잡았습니다:\r\n\r\n$TokenNameLocal:0 - $Local:1\r\n$TokenNameLocal:2 - $Local:3\r\n$TokenNameLocal:4 - $Local:5"
+  },
+  {
+    "id": "TXT_SimsObjects_10047",
+    "source_sha256": "16d955d6065f3d4986e7087a6ff922ef370598cff00d40eb61fb0d53f691f198",
+    "ko": "물고기 덫 수확물"
+  },
+  {
+    "id": "TXT_SimsObjects_10048",
+    "source_sha256": "513f5576c0462a3e5028429d5b3502b2eb6efc6f22c0f1d3b92bcfa85d747ae0",
+    "ko": "축하합니다. 물고기 덫을 회수하여 다음을 잡았습니다:\r\n\r\n$TokenNameLocal:0 - $Local:1\r\n$TokenNameLocal:2 - $Local:3"
+  },
+  {
+    "id": "TXT_SimsObjects_10049",
+    "source_sha256": "3164ef9027f4ff56e371638878ef6c0cef33b285d8417ce87b1f367156349b07",
+    "ko": "축하합니다. 물고기 덫을 회수하여 다음을 잡았습니다:\r\n\r\n$TokenNameLocal:0 - $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_10050",
+    "source_sha256": "c9c1117615dea296fed229668990f91b2709a871c790b3d3e6b5909f89afde26",
+    "ko": "오늘은 물고기가 없지만 적어도 덫은 되찾았습니다"
+  },
+  {
+    "id": "TXT_SimsObjects_10051",
+    "source_sha256": "59e954a4507fc08bae6830e892c79b0de80eecaf64d2d2df31f8c262eca65514",
+    "ko": "축하합니다. 덫으로 다음을 잡았습니다:\r\n\r\n$TokenNameLocal:0 - $Local:1\r\n$TokenNameLocal:2 - $Local:3\r\n$TokenNameLocal:4 - $Local:5"
+  },
+  {
+    "id": "TXT_SimsObjects_10052",
+    "source_sha256": "e0161e1f9444ec62a8142255ae168af10d0ca45e3801b9038a09bbeff400e28e",
+    "ko": "축하합니다. 덫으로 다음을 잡았습니다:\r\n\r\n$TokenNameLocal:0 - $Local:1\r\n$TokenNameLocal:2 - $Local:3"
+  },
+  {
+    "id": "TXT_SimsObjects_10053",
+    "source_sha256": "b6b63f0dd7e84aeeb72bfa0c11c22edeacb7d05f27ddeac266fb88591d42a46f",
+    "ko": "축하합니다. 덫으로 다음을 잡았습니다:\r\n\r\n$TokenNameLocal:0 - $Local:1"
+  },
+  {
+    "id": "TXT_SimsObjects_10055",
+    "source_sha256": "646374c5620abadbaff0221ff83a8b217fb7a04ae2a5eb226462a514721a3a55",
+    "ko": "순발력이 좋군요! $TokenNameLocal:7을 작살로 잡았습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_10057",
+    "source_sha256": "69fb9d56fc91f262eac94b487c6d2d593328c17ca5e3d5b3a6e6d7d5f64dd8f3",
+    "ko": "보물 지도 조각을 찾았습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_10058",
+    "source_sha256": "69a94a1a804db6fcbcd7be31ceab01201e9c8479b939e5bc780b4c9280594065",
+    "ko": "감이 좋군요! $TokenNameLocal:3을 낚았습니다!"
+  }
+]

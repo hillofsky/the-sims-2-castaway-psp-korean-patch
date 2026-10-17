@@ -1,0 +1,477 @@
+[
+  {
+    "id": "TXT_urbzui_00581",
+    "source_sha256": "fa993cc86d9f459377761b83f5ea45b957129bfe329a9bff69ed54369c649ec5",
+    "ko": "운동선수 직종에서 슈퍼스타 되기"
+  },
+  {
+    "id": "TXT_urbzui_00583",
+    "source_sha256": "90cf6a7ae83e66eb2575423f13f0dcf1834df6895ca6265a15c829b55ff9ef52",
+    "ko": "패션 직종에서 메이크업 아티스트 되기"
+  },
+  {
+    "id": "TXT_urbzui_00585",
+    "source_sha256": "a2d60492c39b8084fb94a463f41d5666f3fdc975195b402f45a2500bd0abba9c",
+    "ko": "영화배우 직종에서 시트콤 스타 되기"
+  },
+  {
+    "id": "TXT_urbzui_00593",
+    "source_sha256": "67c6a65c68c5f5180e181066e26e737931ac38d7607611fcbf7096eaa707bac6",
+    "ko": "메모리 카드 슬롯 A 또는 B에 메모리 카드가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00594",
+    "source_sha256": "c8fb19a7734b858873bad5a23628c043fcb7659bcd63e1bab2c52779a5c13265",
+    "ko": "Wii 본체 메모리의 빈 공간이 부족합니다.\r\n\r\n데이터를 SD 카드로 옮기거나 데이터 관리 화면에서 삭제하여 빈 공간 9블록을 확보하세요."
+  },
+  {
+    "id": "TXT_urbzui_00595",
+    "source_sha256": "5ae19d7bbd8808a813b2fa78bb2d6b6d2e755ea4b1dedb0c08d9425153ef9e31",
+    "ko": "저장하지 않고 계속"
+  },
+  {
+    "id": "TXT_urbzui_00598",
+    "source_sha256": "656fabf3ab7a1bec6850978e157cf35eae90f758d166ad018d41da99f1a8e99a",
+    "ko": "메모리 카드 포맷"
+  },
+  {
+    "id": "TXT_urbzui_00599",
+    "source_sha256": "a0ed4169e28e9fa2fbe21b7ce1d7515ca7aa2e7710b2483c8c974db8d94eeb0b",
+    "ko": "메모리 카드 슬롯 A"
+  },
+  {
+    "id": "TXT_urbzui_00600",
+    "source_sha256": "1e0294b54e15af14a95e43b0b327c5935ed7d2090b2fb9b888b79860cd82bd0c",
+    "ko": "메모리 카드 슬롯 B"
+  },
+  {
+    "id": "TXT_urbzui_00602",
+    "source_sha256": "4b2d2f8b71fb570e181e68d8589cf7431171cb01a9edabed750ba913b5603344",
+    "ko": "심 만들기"
+  },
+  {
+    "id": "TXT_urbzui_00606",
+    "source_sha256": "f99b5fd125c15c14a34269fab55435fa7685af4791131cc13784d23b389ade7c",
+    "ko": "심 추가"
+  },
+  {
+    "id": "TXT_urbzui_00607",
+    "source_sha256": "b3c25ea9c92f37ed91f58cc11dad0e1a4aecb3ac928e14dd057e18944d23e803",
+    "ko": "<BLINK_3E64>접근_중\r\n\r\nWii 본체 메모리에 접근하고 있습니다.\r\n전원 버튼이나 RESET 버튼을 누르지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00608",
+    "source_sha256": "ff4aa15372041e6882fdf78bd83c66960a9693683bc7313f7f93d42ae9d7e466",
+    "ko": "<BLINK_3E64>확인_중\r\n\r\n확인하고 있습니다. \r\n전원 버튼이나 RESET 버튼을 누르지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00609",
+    "source_sha256": "6fc239bdd0ab451c7a2e89e167f1c7fcdd22e2cc4f70da8508a5527304386174",
+    "ko": "<BLINK_3E64>삭제_중\r\n\r\nWii 본체 메모리를 삭제하고 있습니다.\r\n전원 버튼이나 RESET 버튼을 누르지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00610",
+    "source_sha256": "f08dc5ee7a95d1e432266c2ce4c2cabf50ff4b94472b17f0e90ece14ab2884f4",
+    "ko": "<BLINK_3E64>포맷_중\r\n\r\n포맷하고 있습니다.\r\n슬롯 <#>의 메모리 카드나 전원 버튼을 건드리지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00611",
+    "source_sha256": "c40775528889c252da604d921f1cefe80567ffc3b415ce6e865bbfbf7f0c9f12",
+    "ko": "<BLINK_3E64>불러오는_중\r\n\r\n불러오고 있습니다. \r\n전원 버튼이나 RESET 버튼을 누르지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00612",
+    "source_sha256": "d6f13e3f3a0b19e5e8147c507ff54bdfa1647e6d346af4c08f67d68a94127e58",
+    "ko": "<BLINK_3E64>저장_중\r\n\r\n저장하고 있습니다.\r\n전원 버튼이나 RESET 버튼을 누르지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00613",
+    "source_sha256": "bbb0e91f3e79de7061c06ccd9b925e365e3e521eda668782bd54434770564f86",
+    "ko": "메모리 카드 슬롯을 선택하세요."
+  },
+  {
+    "id": "TXT_urbzui_00614",
+    "source_sha256": "b360211c38e8546f11e4d8dd81dffd81eaae4c6127bbc8303bd4450109f58804",
+    "ko": "플레이어 <size>의 심 선택"
+  },
+  {
+    "id": "TXT_urbzui_00616",
+    "source_sha256": "5428b6134c3cbcacee305af355765b4c0fde711959c0cb4a8014e03eb9627d55",
+    "ko": "Wii 메뉴로 돌아가기"
+  },
+  {
+    "id": "TXT_urbzui_00619",
+    "source_sha256": "43a1eda25d6815d680d0f14b92d175edda4bd1b56e23800c32c6c6586260f770",
+    "ko": "포맷 실패! \r\n슬롯 <#>의 메모리 카드가 손상되어\r\n사용할 수 없습니다. "
+  },
+  {
+    "id": "TXT_urbzui_00620",
+    "source_sha256": "b970414c8ab0dcd4a6d0d903663321b828fe8527c6eb705feaf229eec494d39b",
+    "ko": "슬롯 <#>의 메모리 카드 데이터가 손상되어 포맷해야 합니다. \r\n포맷하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00621",
+    "source_sha256": "5380b82ad2b1f9fe8cf630710462c00a1cdf7a0d6c96ce04e9e2f0a35421e723",
+    "ko": "슬롯 <#>의 메모리 카드가 손상되어 사용할 수 없습니다. 계속하면 게임 데이터를 저장할 수 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00622",
+    "source_sha256": "e3ee407b6044991b545aeeb2cdce9b93775b9453c8b1846601e384ba306fcf03",
+    "ko": "슬롯 <#>의 메모리 카드가 손상되어 사용할 수 없습니다. 계속하면 게임 데이터를 저장할 수 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00623",
+    "source_sha256": "667eadf1cf56dfeb0104503065d7dc4f6496d2068b84fddeec2f95b9e2c940bc",
+    "ko": "포맷에 성공했습니다!"
+  },
+  {
+    "id": "TXT_urbzui_00624",
+    "source_sha256": "b55166146a765ca353d0bf4199bcb3bde54937c0de152d9b6851f8713318bd22",
+    "ko": "현재 불러온 게임과 같은 메모리 카드에서는 심을 가져올 수 없습니다.  \r\n확인을 눌러 계속하세요."
+  },
+  {
+    "id": "TXT_urbzui_00625",
+    "source_sha256": "7ec8870521ccb9de24a4f678ecf5b348c0b7ffe38a4f76461b457c24dcb32e81",
+    "ko": "데이터가 손상되어 이 파일을 사용할 수 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00626",
+    "source_sha256": "74a538ea26d2f2b8730cf4651de23e3dbfa612b0c7feccad9784e6eeef7d24d2",
+    "ko": "슬롯 <#>의 메모리 카드가 제거됐습니다. "
+  },
+  {
+    "id": "TXT_urbzui_00627",
+    "source_sha256": "33e727ca08effb1e4fb25d085ea10a8753ea294ef380d41bfe48b15fdcefb468",
+    "ko": "불러오기에 성공했습니다."
+  },
+  {
+    "id": "TXT_urbzui_00628",
+    "source_sha256": "2f4712e01629841740bbbacd2cdd51e8f59318e1748222d2e5589405779434f5",
+    "ko": "Wii 본체 메모리에 심즈™ 2 캐스트어웨이 저장 데이터가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00629",
+    "source_sha256": "c8fb19a7734b858873bad5a23628c043fcb7659bcd63e1bab2c52779a5c13265",
+    "ko": "Wii 본체 메모리의 빈 공간이 부족합니다.\r\n\r\n데이터를 SD 카드로 옮기거나 데이터 관리 화면에서 삭제하여 빈 공간 9블록을 확보하세요."
+  },
+  {
+    "id": "TXT_urbzui_00630",
+    "source_sha256": "18d2ed21206ec062ba421e2b5934f3b0b1435f0e7a5308fa52ed2d9650c4e590",
+    "ko": "저장 실패!  \r\n사용 중에 슬롯 <#>의 메모리 카드가 제거됐습니다."
+  },
+  {
+    "id": "TXT_urbzui_00631",
+    "source_sha256": "6f1bcb8e0044827dbbf524523b4a13b228933cce4718440b787a7f8d402d7cdf",
+    "ko": "사용 중에 슬롯 <#>의 메모리 카드가 제거됐습니다."
+  },
+  {
+    "id": "TXT_urbzui_00632",
+    "source_sha256": "8bb65b9711d33723de7eb1ecf3ace3e5cdba2bbc3270264bf7f2db12849076d5",
+    "ko": "저장에 성공했습니다."
+  },
+  {
+    "id": "TXT_urbzui_00633",
+    "source_sha256": "7ad4f629f8fe9e02da3eca3ba463a6f9f1e42c0f9f65de3062f7dc22c9703e75",
+    "ko": "슬롯 <#>에 잘못된 장치가 있습니다.  \r\n메모리 카드를 넣으세요."
+  },
+  {
+    "id": "TXT_urbzui_00634",
+    "source_sha256": "7ec8870521ccb9de24a4f678ecf5b348c0b7ffe38a4f76461b457c24dcb32e81",
+    "ko": "데이터가 손상되어 이 파일을 사용할 수 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00636",
+    "source_sha256": "bbb0e91f3e79de7061c06ccd9b925e365e3e521eda668782bd54434770564f86",
+    "ko": "메모리 카드 슬롯을 선택하세요."
+  },
+  {
+    "id": "TXT_urbzui_00637",
+    "source_sha256": "4b37a58d87f3ffe3bfae0e7214e623052528bf8f93e02f75675bdca1e881afe6",
+    "ko": "심 선택"
+  },
+  {
+    "id": "TXT_urbzui_00638",
+    "source_sha256": "839fbfc542276555ce2bec062a3ab9a4a22fa56b8a98dc80dad3cbcc053ee43f",
+    "ko": "포맷을 취소하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00639",
+    "source_sha256": "d5afc9566cec204be923ef257363667bb58daa2c4d1f3a706d046b772b6d3bcc",
+    "ko": "다음 심을 삭제하시겠습니까? \r\n<p1_first_name> <p1_last_name>"
+  },
+  {
+    "id": "TXT_urbzui_00640",
+    "source_sha256": "10fd135787dc0615470daaeb6643a52913dd2ffb203b70a29b14c7af0c5a09a9",
+    "ko": "메모리 카드를 포맷하면 이전에 저장한 모든 게임 데이터가 사라집니다. \r\n포맷하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00641",
+    "source_sha256": "dd8cc84450cf00c57074c6a38a008564ae1b426966d5144bd247a3596ab93545",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드를 포맷하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00642",
+    "source_sha256": "b90149c555dce341c2b5ed50613dc0decdf3af58f1e8155713ea1141c6c9d21f",
+    "ko": "다음 심을 가져오시겠습니까?\r\n<p1_first_name> <p1_last_name>"
+  },
+  {
+    "id": "TXT_urbzui_00643",
+    "source_sha256": "fd5729a0d0ca27c8cf06b9986046ca835669a2fde27393e13bb42971e081d4e5",
+    "ko": "저장된 게임 데이터를 불러오시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00644",
+    "source_sha256": "7803cca5c89790cb688b82180c4524bbccf3c8780495d0bb6299ea8e428510aa",
+    "ko": "새 게임을 시작합니다. 새 심 가족과 새 동네를 만드시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00645",
+    "source_sha256": "7ab3b45eb6199d8c664792275a7b207279400bf1af3f5cd129de39d95a25e6b3",
+    "ko": "변경 사항을 취소하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00646",
+    "source_sha256": "cfe32791ea28eab385bd3c0b18f680929d9d21625ef0e6e82526eeae0ab58ef9",
+    "ko": "다음 위치에 메모리 카드가 없습니다.\r\n메모리 카드 슬롯 A 또는 B"
+  },
+  {
+    "id": "TXT_urbzui_00648",
+    "source_sha256": "54efaa3f81b66a51c64bdcb7dba07a06d9aebfebbb564e93a8e142ace08f800a",
+    "ko": "계속하면 심의 모든 변경 사항이 저장됩니다.  \r\n계속하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00649",
+    "source_sha256": "2f15559afd1dab7e30c05872f6d3b3e39e3f92ac4245422f4bb597670565303a",
+    "ko": "종료하시겠습니까?\r\n현재 게임을 저장할 수 없습니다. 종료하면 마지막 저장 이후의 진행 내용이 모두 사라집니다.  \r\n\r\n"
+  },
+  {
+    "id": "TXT_urbzui_00650",
+    "source_sha256": "c8fb19a7734b858873bad5a23628c043fcb7659bcd63e1bab2c52779a5c13265",
+    "ko": "Wii 본체 메모리의 빈 공간이 부족합니다.\r\n\r\n데이터를 SD 카드로 옮기거나 데이터 관리 화면에서 삭제하여 빈 공간 9블록을 확보하세요."
+  },
+  {
+    "id": "TXT_urbzui_00661",
+    "source_sha256": "ab03373a56306cda1ed642b52ea4fc40f470302d404641cc6a101fa3a4185d3e",
+    "ko": "메모리 카드 슬롯 1 또는 2에 메모리 카드(PS2)가 없습니다."
+  },
+  {
+    "id": "TXT_urbzui_00662",
+    "source_sha256": "d51f82d116d5679a02b2f5755446a67fd1a77e9f30dcb54eb6d1fc8d48a68874",
+    "ko": "HDD의 저장 폴더가 허용하는 최대 파일 수에 도달하여 저장할 수 없습니다.\r\n이 게임 데이터를 저장하려면 최소 1138KB가 필요합니다."
+  },
+  {
+    "id": "TXT_urbzui_00663",
+    "source_sha256": "27e2f0e80cae5ffe809e71ac42961665707d5d6d90da0bba99ab642cbcdb8eeb",
+    "ko": "HDD가 허용하는 최대 폴더 수에 도달하여 저장할 수 없습니다.\r\n이 게임 데이터를 저장하려면 최소 1126KB가 필요합니다."
+  },
+  {
+    "id": "TXT_urbzui_00664",
+    "source_sha256": "6a48965118eb582bbad58550b27002dcdb49689c74897291768d623953e9daa2",
+    "ko": "메모리 카드(PS2)가 없습니다.\r\n\r\n게임 데이터를 저장하려면 빈 공간이 1138KB 이상인 메모리 카드(PS2)를 넣으세요.\r\n\r\n시작하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00665",
+    "source_sha256": "f6a067c7181a2d8631343838de2efa26e37520a553e539e200ab8a02bf9d9f88",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)에 새 게임 데이터를 저장할 공간이 부족합니다.\r\n\r\n심즈™ 2 캐스트어웨이를 저장하려면 최소 1138KB의 빈 공간이 필요합니다. \r\n\r\n저장하지 않고 계속하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00666",
+    "source_sha256": "64823925eddde113ab13a75a11467343a2a033ceff9640619c91c505b10c456c",
+    "ko": "메모리 카드 슬롯 1의 메모리 카드(PS2)에 새 게임 데이터를 저장할 공간이 부족합니다.   \r\n\r\n메모리 카드 슬롯 2의 메모리 카드(PS2)에 새 게임 데이터를 저장할 공간이 부족합니다. \r\n\r\n심즈™ 2 캐스트어웨이를 저장하려면 최소 1138KB의 빈 공간이 필요합니다. \r\n\r\n저장하지 않고 계속하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00667",
+    "source_sha256": "cc1aa06b895b4c6cce5f33c9ac3372cf480915f32bc4e106285f3bbf2676007e",
+    "ko": "현재 연결된 HDD가 포맷되지 않았습니다.\r\nHDD 유틸리티 디스크 설명서에 따라 HDD를 포맷하세요."
+  },
+  {
+    "id": "TXT_urbzui_00671",
+    "source_sha256": "b96fac6ef64e19df98261c75317013d4ad35efead57e59dd4d6946a0d07b55a1",
+    "ko": "HDD"
+  },
+  {
+    "id": "TXT_urbzui_00672",
+    "source_sha256": "e0cbc050b388c7560b0ce2824aeee25fc758e542c133c67617560ba427baf73e",
+    "ko": "메모리 카드 슬롯 1"
+  },
+  {
+    "id": "TXT_urbzui_00673",
+    "source_sha256": "07733dabe645593a6303e0e0abc55303b3b298e40185f30e9a9f18ad22db28fe",
+    "ko": "메모리 카드 슬롯 2"
+  },
+  {
+    "id": "TXT_urbzui_00680",
+    "source_sha256": "4db5858199089c7c068b9b73e5f69e2d1df11e2543d48bae30d47738402ff12b",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)를 확인하고 있습니다.\r\n\r\n메모리 카드(PS2)나 컨트롤러를 제거하거나 본체를 재시작하거나 끄지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00681",
+    "source_sha256": "7b3efd7dd0ad53456a7faed10105f6a2bb07f511bd9de0bc04d744940192c171",
+    "ko": "HDD를 확인하고 있습니다. 컨트롤러를 제거하거나 본체를 재시작하거나 끄지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00682",
+    "source_sha256": "4db5858199089c7c068b9b73e5f69e2d1df11e2543d48bae30d47738402ff12b",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)를 확인하고 있습니다.\r\n\r\n메모리 카드(PS2)나 컨트롤러를 제거하거나 본체를 재시작하거나 끄지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00683",
+    "source_sha256": "8bed07cbc694acf475e698d665f68df9f00fab48283fe39d8b501639d4a6ba0e",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)를 포맷하고 있습니다.\r\n\r\n메모리 카드(PS2)나 컨트롤러를 제거하거나 본체를 재시작하거나 끄지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00700",
+    "source_sha256": "df1df8240803cc2a35a220240dc0c95fdbc8959560f3e0ed48f132d5f1e05690",
+    "ko": "<BLINK_3E64>불러오는_중\r\n\r\n메모리 카드 슬롯 <#>의 메모리 카드(PS2)에서 게임 데이터를 불러오고 있습니다.\r\n\r\n메모리 카드(PS2)나 컨트롤러를 제거하거나 본체를 재시작하거나 끄지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00701",
+    "source_sha256": "d78c48382a17d06dd0cbebc4e9c90b9f582e36bee86f41f605b8203898ebf387",
+    "ko": "<BLINK_3E64>불러오는_중\r\n\r\nHDD에서 데이터를 불러오고 있습니다. 본체를 재시작하거나 끄지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00702",
+    "source_sha256": "2cb17ab9df91db59073b776153fd6c9f76e59a931c701e436fda80db80e2d98e",
+    "ko": "<BLINK_3E64>저장_중\r\n\r\n메모리 카드 슬롯 <#>의 메모리 카드(PS2)에 데이터를 저장하고 있습니다.\r\n\r\n메모리 카드(PS2)나 컨트롤러를 제거하거나 본체를 재시작하거나 끄지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00703",
+    "source_sha256": "d370705930fef293b611e40c397bf9f4bee511162f87805b378d768d26a379db",
+    "ko": "<BLINK_3E64>저장_중\r\n\r\nHDD에 게임 데이터를 저장하고 있습니다. 본체를 재시작하거나 끄지 마세요."
+  },
+  {
+    "id": "TXT_urbzui_00710",
+    "source_sha256": "bc2a5ea576bc873aaf012f5d81ceeab37170e17d51296bbdc1588b5fe5544a2a",
+    "ko": "포맷에 실패했습니다! 메모리 카드 슬롯 <#>의 메모리 카드(PS2)를 확인하고 다시 시도하세요."
+  },
+  {
+    "id": "TXT_urbzui_00711",
+    "source_sha256": "c73fdc49baa83ad9062088a8f4d544478ea4d0d862b31fb46eeb53353754aa8d",
+    "ko": "다음 메모리 카드(PS2)에 심즈™ 2 캐스트어웨이 게임 데이터가 없습니다.\r\n메모리 카드 슬롯 <#>\r\n\r\n메모리 카드(PS2)를 확인하고 다시 시도하세요."
+  },
+  {
+    "id": "TXT_urbzui_00712",
+    "source_sha256": "87f18ec2d0b2754c7ad17b83c8555876baf9f985eaf821369c53dcd004c5a1ae",
+    "ko": "HDD 섹터 데이터 손상. Sony HDD API를 참조하거나 HDD 정보를 표시하세요."
+  },
+  {
+    "id": "TXT_urbzui_00713",
+    "source_sha256": "c73fdc49baa83ad9062088a8f4d544478ea4d0d862b31fb46eeb53353754aa8d",
+    "ko": "다음 메모리 카드(PS2)에 심즈™ 2 캐스트어웨이 게임 데이터가 없습니다.\r\n메모리 카드 슬롯 <#>\r\n\r\n메모리 카드(PS2)를 확인하고 다시 시도하세요."
+  },
+  {
+    "id": "TXT_urbzui_00714",
+    "source_sha256": "e4f434a817fdd17d584d77aee122f13d94dfbd1844ba126d6272f1de3bba9185",
+    "ko": "HDD 섹터 손상. Sony HDD API를 참조하거나 HDD 정보를 표시하세요."
+  },
+  {
+    "id": "TXT_urbzui_00717",
+    "source_sha256": "5dc4ea8b4c375f8d36f243637fc6ad5743156f573298163139f7c357c562578c",
+    "ko": "HDD 입출력 오류가 발생했습니다. HDD를 사용할 수 없습니다. PlayStation®BB 유닛 설명서에 따라 유닛을 복구하세요."
+  },
+  {
+    "id": "TXT_urbzui_00718",
+    "source_sha256": "48bf7debec6bac847ad79c4f633136fd60737111950068dcca225f6273102917",
+    "ko": "불러오기에 실패했습니다! 메모리 카드 슬롯 <#>의 메모리 카드(PS2)를 확인하고 다시 시도하세요."
+  },
+  {
+    "id": "TXT_urbzui_00719",
+    "source_sha256": "94282311ede4ef671891d48b75529a1a565538bdea4624b0195c7017b958d9d1",
+    "ko": "불러오기에 실패했습니다! HDD를 확인하고 다시 시도하세요."
+  },
+  {
+    "id": "TXT_urbzui_00720",
+    "source_sha256": "f734a084019d30abd5024787d099378e849c058ac26353401b5e604b0ab5c0ec",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)가 제거됐습니다.  "
+  },
+  {
+    "id": "TXT_urbzui_00722",
+    "source_sha256": "c73fdc49baa83ad9062088a8f4d544478ea4d0d862b31fb46eeb53353754aa8d",
+    "ko": "다음 메모리 카드(PS2)에 심즈™ 2 캐스트어웨이 게임 데이터가 없습니다.\r\n메모리 카드 슬롯 <#>\r\n\r\n메모리 카드(PS2)를 확인하고 다시 시도하세요."
+  },
+  {
+    "id": "TXT_urbzui_00724",
+    "source_sha256": "71ac03381dc424c178cb29d20697e69443298c7e697d5a3a50a083642013d8c0",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)에 새 게임 데이터를 저장할 빈 공간이 부족합니다. 빈 공간이 1138KB 이상인 메모리 카드(PS2)를 넣으세요.\r\n\r\n저장하지 않고 계속하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00725",
+    "source_sha256": "da72d856cd774f96d18c6205f093caeb1ba0a2a8dc2c9ade3c1df0f9f536c395",
+    "ko": "HDD에 새 게임 데이터를 저장할 빈 공간이 부족합니다. 최소 1126KB의 빈 공간을 확보하세요."
+  },
+  {
+    "id": "TXT_urbzui_00726",
+    "source_sha256": "b91e1fd1acb38d9a9632f623e1ca8c5e036535e72ff6ba5398bfcffa666ee8ea",
+    "ko": "저장에 실패했습니다! 메모리 카드 슬롯 <#>의 메모리 카드(PS2)를 확인하고 다시 시도하세요."
+  },
+  {
+    "id": "TXT_urbzui_00727",
+    "source_sha256": "8ad11753a8c368ec074a51e0b6f55bcc2bec36d76f976fbc61fd763b4d239192",
+    "ko": "저장에 실패했습니다! HDD를 확인하고 다시 시도하세요."
+  },
+  {
+    "id": "TXT_urbzui_00728",
+    "source_sha256": "8bd29f51be3efca2becdb7dc0ab3cf2d6dc77192154481b630b4eb83ef29e3a3",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)가 제거됐습니다. "
+  },
+  {
+    "id": "TXT_urbzui_00730",
+    "source_sha256": "b7c9902ae385c17ad302923937e6c1a53c88f3223be3cc5dacd285b28dc35854",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)에 있는 심즈™ 2 캐스트어웨이 게임 데이터가 손상됐습니다."
+  },
+  {
+    "id": "TXT_urbzui_00731",
+    "source_sha256": "4e847a44aeb0820de1efd3caaf3edbb4356e9ce06337c2f4474be15574797a8f",
+    "ko": "HDD에 저장된 심<size>의 게임 데이터가 손상됐습니다."
+  },
+  {
+    "id": "TXT_urbzui_00738",
+    "source_sha256": "f44fa169c8ac0065ccdc1a03ee3adce6c838c3129f103de4be35c371452d4811",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)가 포맷되지 않았습니다.  \r\n\r\n메모리 카드(PS2)를 포맷하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00739",
+    "source_sha256": "78c8cfecd8f7ace6d98a30d38f3b4cdbd9e4a02c4412af7308557a297b9173a1",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)를 포맷하시겠습니까?  \r\n"
+  },
+  {
+    "id": "TXT_urbzui_00742",
+    "source_sha256": "65d07355ceac8e372ed8d42f95dc3b5d76814d971173ca18ee4d399e0f829c97",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)에서 게임 데이터를 불러오시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00745",
+    "source_sha256": "5cd4c056459f08c55836d35faa9144ab206e4b48250927f9fd1a8db8719f7295",
+    "ko": "메모리 카드 슬롯 1 또는 2에 메모리 카드(PS2)가 없습니다.\r\n\r\n다시 시도하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00749",
+    "source_sha256": "f9dbd7568958b4e70e403621fb5de3d12e1c946bc67da4d6f3f182adcbd7ff59",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)에 빈 공간이 부족합니다. 심즈™ 2 캐스트어웨이의 새 게임 데이터를 저장하려면 최소 1138KB의 빈 공간이 필요합니다.\r\n\r\n저장하지 않고 계속하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00750",
+    "source_sha256": "a966ea0666a56707f051f7b1cd453716ae7e048061fab1863d01bf54db614dcb",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)에 있는 기존 심즈™ 2 캐스트어웨이 게임 데이터를 덮어쓰시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00751",
+    "source_sha256": "70177770bab2f773916c62f01d2a92923798ad6ff71ecc7425ebdf51596c129c",
+    "ko": "HDD에 있는 기존 심즈™ 2 캐스트어웨이 저장 데이터를 덮어쓰시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00754",
+    "source_sha256": "13a2048ca95e587c73f8416f3ed1f71743ae25bf0c1adf9a4c3f23305f1ba400",
+    "ko": "HDD에 게임 데이터를 저장하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00755",
+    "source_sha256": "ae8e243f11ed8b0ee39dad7c1dd307abb57c64a537a0f4c121cd746eb4cab983",
+    "ko": "메모리 카드 슬롯 <#>의 메모리 카드(PS2)에 게임 데이터를 저장하시겠습니까?"
+  },
+  {
+    "id": "TXT_urbzui_00757",
+    "source_sha256": "4007e6bf52184576ed7b57ef8a44493c90acc9db60788fb8463782f0ff5dd425",
+    "ko": "Wii 본체 메모리의 빈 공간이 부족합니다.\r\n\r\n데이터를 SD 카드로 옮기거나 데이터 관리 화면에서 삭제하세요."
+  }
+]

@@ -1,0 +1,3317 @@
+[
+  {
+    "id": "TXT_SimsObjects_06000",
+    "source_sha256": "f683cc5124e6ade3429a1ebbfbce5b008b4f4940a5303cf2efa956e10faec3eb",
+    "ko": "함께 놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_06001",
+    "source_sha256": "57da3efa8883390f9ddf5fbcad89d86ca2a5db3da05bec48605ae4ccfbe78956",
+    "ko": "손가락 흔들기"
+  },
+  {
+    "id": "TXT_SimsObjects_06002",
+    "source_sha256": "2613ffbb33a7056c6fb60c0a25177ef0b3408744bb7cd7d8c76e666ad9f321e4",
+    "ko": "성장하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06004",
+    "source_sha256": "3064d79a295cefe4b384b8fe5cb29fd6b06d7eb1ad94b8895f4148039d06b330",
+    "ko": "이름 바꾸기"
+  },
+  {
+    "id": "TXT_SimsObjects_06006",
+    "source_sha256": "1154e7fb1cd0f75ae6a9b7498984bfc81206cd3ff83af927b63b11168aa4c4f8",
+    "ko": "켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_06007",
+    "source_sha256": "09b1798b222179dfa2dd292afa2b4b9f7c7fbe357d340a6d37746799d42175e0",
+    "ko": "끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_06008",
+    "source_sha256": "1154e7fb1cd0f75ae6a9b7498984bfc81206cd3ff83af927b63b11168aa4c4f8",
+    "ko": "켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_06009",
+    "source_sha256": "09b1798b222179dfa2dd292afa2b4b9f7c7fbe357d340a6d37746799d42175e0",
+    "ko": "끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_06010",
+    "source_sha256": "1154e7fb1cd0f75ae6a9b7498984bfc81206cd3ff83af927b63b11168aa4c4f8",
+    "ko": "켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_06011",
+    "source_sha256": "09b1798b222179dfa2dd292afa2b4b9f7c7fbe357d340a6d37746799d42175e0",
+    "ko": "끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_06012",
+    "source_sha256": "1154e7fb1cd0f75ae6a9b7498984bfc81206cd3ff83af927b63b11168aa4c4f8",
+    "ko": "켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_06013",
+    "source_sha256": "09b1798b222179dfa2dd292afa2b4b9f7c7fbe357d340a6d37746799d42175e0",
+    "ko": "끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_06014",
+    "source_sha256": "1154e7fb1cd0f75ae6a9b7498984bfc81206cd3ff83af927b63b11168aa4c4f8",
+    "ko": "켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_06015",
+    "source_sha256": "09b1798b222179dfa2dd292afa2b4b9f7c7fbe357d340a6d37746799d42175e0",
+    "ko": "끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_06016",
+    "source_sha256": "1154e7fb1cd0f75ae6a9b7498984bfc81206cd3ff83af927b63b11168aa4c4f8",
+    "ko": "켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_06017",
+    "source_sha256": "09b1798b222179dfa2dd292afa2b4b9f7c7fbe357d340a6d37746799d42175e0",
+    "ko": "끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_06018",
+    "source_sha256": "1154e7fb1cd0f75ae6a9b7498984bfc81206cd3ff83af927b63b11168aa4c4f8",
+    "ko": "켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_06019",
+    "source_sha256": "09b1798b222179dfa2dd292afa2b4b9f7c7fbe357d340a6d37746799d42175e0",
+    "ko": "끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_06020",
+    "source_sha256": "1154e7fb1cd0f75ae6a9b7498984bfc81206cd3ff83af927b63b11168aa4c4f8",
+    "ko": "켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_06021",
+    "source_sha256": "09b1798b222179dfa2dd292afa2b4b9f7c7fbe357d340a6d37746799d42175e0",
+    "ko": "끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_06022",
+    "source_sha256": "1154e7fb1cd0f75ae6a9b7498984bfc81206cd3ff83af927b63b11168aa4c4f8",
+    "ko": "켜기"
+  },
+  {
+    "id": "TXT_SimsObjects_06023",
+    "source_sha256": "09b1798b222179dfa2dd292afa2b4b9f7c7fbe357d340a6d37746799d42175e0",
+    "ko": "끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_06025",
+    "source_sha256": "cd7866d363e089aafb4cb9d6586990120f2449427ea307e6d187177c74d46424",
+    "ko": "우편 가져오기"
+  },
+  {
+    "id": "TXT_SimsObjects_06026",
+    "source_sha256": "6e54828fe01633f694c65cf0e6204b0216c409a0eb503a11ac84cacac09f59f4",
+    "ko": "청구서 지불하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06027",
+    "source_sha256": "2c04332660a1c4cb52e150e0e0c087d6adcbb58ba06ebc95dea2ad2af0f80249",
+    "ko": "우편 배달하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06029",
+    "source_sha256": "dd18cfad128d12b71ca5f01d2a28db1a53e87b79dd3a90a8361df5492a0f8ded",
+    "ko": "소리 내기"
+  },
+  {
+    "id": "TXT_SimsObjects_06030",
+    "source_sha256": "abe50eeb8aa5fd8dc3428d19b593747bf90f0a0a89dce9d61a7855781cc47717",
+    "ko": "긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_06031",
+    "source_sha256": "c36d819e7bc6d2b7da51394411c733db89c395987885ca6770167a3b9bc45c3c",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06033",
+    "source_sha256": "6e54828fe01633f694c65cf0e6204b0216c409a0eb503a11ac84cacac09f59f4",
+    "ko": "청구서 지불하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06037",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_06041",
+    "source_sha256": "0c751893478a3ae597a2b22a6d0c125429ea196263b34a7de34303a44c071b94",
+    "ko": "병 안 살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06042",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_06044",
+    "source_sha256": "a208c31c72b459222aa1e61f9d917d0b4b28098019ca60232947a6c36962710a",
+    "ko": "일자리 찾기"
+  },
+  {
+    "id": "TXT_SimsObjects_06045",
+    "source_sha256": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+    "ko": "읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_06046",
+    "source_sha256": "0d1b102a7164771c7ce6e385546445ee5207ffad8bd66e24318369ff75ee54d9",
+    "ko": "내려놓기"
+  },
+  {
+    "id": "TXT_SimsObjects_06047",
+    "source_sha256": "7f7a5269d4a5aa9e06751f52f21202f9f4f33d0a4cc386428efa10130256891e",
+    "ko": "재활용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06050",
+    "source_sha256": "7f6afc6daa539ea1a8ff0322d2e799e7cdd98ca23f9ef443fbdf675c58a75ae4",
+    "ko": "가져오기"
+  },
+  {
+    "id": "TXT_SimsObjects_06051",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_06052",
+    "source_sha256": "7f6afc6daa539ea1a8ff0322d2e799e7cdd98ca23f9ef443fbdf675c58a75ae4",
+    "ko": "가져오기"
+  },
+  {
+    "id": "TXT_SimsObjects_06053",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_06054",
+    "source_sha256": "e99c90db87c0e400832edcedcc1b14e33cff7559988f4d7032337e17401b2945",
+    "ko": "훈련하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06055",
+    "source_sha256": "82a632a2ac748015bf1f7ef210aa3bfb1a0d92c651b59a8a227dae092452362d",
+    "ko": "훈련 그만두기"
+  },
+  {
+    "id": "TXT_SimsObjects_06057",
+    "source_sha256": "ff72d2f38ccd6a691b2f232a928f7f263098aeda18c0d7c33f20a760cedd4e7c",
+    "ko": "대답하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06058",
+    "source_sha256": "c45c800fcb30911d6cce12fad470cbcf0ac5bc7af9aa4b40c15c00888aaaef65",
+    "ko": "서비스에 관해 묻기"
+  },
+  {
+    "id": "TXT_SimsObjects_06073",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06076",
+    "source_sha256": "dc5117b2f764ff207dd1d15be37843b4b45ec8e0500156520defc28dfa810bd0",
+    "ko": "바나나 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06077",
+    "source_sha256": "dee6a104e47f777363eda3526f23e29d2a764afd878f45b5c853b8038ee25d84",
+    "ko": "포옹하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06082",
+    "source_sha256": "fa9a5c75ebaccbe530ab0a7ad7fb35bad15e2fb86afe79d9648f6855d0e7f015",
+    "ko": "침팬지 이름 짓기"
+  },
+  {
+    "id": "TXT_SimsObjects_06086",
+    "source_sha256": "240acf51ab36532d0713ee2ee85c1a7df80d3077ffffbf26995c37ff1431155a",
+    "ko": "바이올린 대결"
+  },
+  {
+    "id": "TXT_SimsObjects_06103",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06104",
+    "source_sha256": "dee6a104e47f777363eda3526f23e29d2a764afd878f45b5c853b8038ee25d84",
+    "ko": "포옹하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06105",
+    "source_sha256": "08f50ae12b1750518c96d3695b7b697787602ac5757a688f02ea14d2dc05949c",
+    "ko": "자원 채집하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06106",
+    "source_sha256": "f5523d59444dd72c603fe13ba9395f69436b6fccc5a628dfb2fc17a9f7d45b52",
+    "ko": "쫓아내기"
+  },
+  {
+    "id": "TXT_SimsObjects_06108",
+    "source_sha256": "93e9f44a49f7a6c5239935dbacfbba420039e7334ad5846be7c8c9a6176593cc",
+    "ko": "털 손질해 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06113",
+    "source_sha256": "00b83efe7a60600cf229c37473cf8ed36ea3f36cce9d4d014bf52be1ad3a30a7",
+    "ko": "부지 떠나기"
+  },
+  {
+    "id": "TXT_SimsObjects_06126",
+    "source_sha256": "ff72d2f38ccd6a691b2f232a928f7f263098aeda18c0d7c33f20a760cedd4e7c",
+    "ko": "대답하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06131",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06133",
+    "source_sha256": "05df35de8cafea20b34d9f18311c2085c64802a50b5f806719077eec7b20d18d",
+    "ko": "침팬지에게 받기"
+  },
+  {
+    "id": "TXT_SimsObjects_06135",
+    "source_sha256": "dee6a104e47f777363eda3526f23e29d2a764afd878f45b5c853b8038ee25d84",
+    "ko": "포옹하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06136",
+    "source_sha256": "5a96c1f903f7dabea51cccf606084189ec538e65c4b972fe7402247348fa0a3e",
+    "ko": "즐겁게 해 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06137",
+    "source_sha256": "f5523d59444dd72c603fe13ba9395f69436b6fccc5a628dfb2fc17a9f7d45b52",
+    "ko": "쫓아내기"
+  },
+  {
+    "id": "TXT_SimsObjects_06140",
+    "source_sha256": "fa9a5c75ebaccbe530ab0a7ad7fb35bad15e2fb86afe79d9648f6855d0e7f015",
+    "ko": "침팬지 이름 짓기"
+  },
+  {
+    "id": "TXT_SimsObjects_06144",
+    "source_sha256": "3720778cd8c1a584bbad8c6152122c3f9b9aadc59756aba7d27d492a486da185",
+    "ko": "채집 부탁하기..."
+  },
+  {
+    "id": "TXT_SimsObjects_06160",
+    "source_sha256": "7b8c13a82b2d5b3a9608f054af317ae96d080928fc996213de980a43d2a2889e",
+    "ko": "관심 주기.../배 문질러 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06161",
+    "source_sha256": "6eacc754110efa9fc8579a591d97d25aff8081c0b1fc16d0b9c2af3aff20b72d",
+    "ko": "관심 주기.../안아 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06162",
+    "source_sha256": "e760ac49d0ab8fd54b57a373c65c40e1ddce6311c3a707f34fa8df9016075af9",
+    "ko": "놀기.../손가락 흔들기"
+  },
+  {
+    "id": "TXT_SimsObjects_06163",
+    "source_sha256": "df548314bce7d9ea73e3c58b064fbc8641dc45329813797e91195c0e70e507bf",
+    "ko": "관심 주기.../반려동물 간식 주기..."
+  },
+  {
+    "id": "TXT_SimsObjects_06164",
+    "source_sha256": "bf81ada01df9011a9c5a2bb33830ad1c2128f8147abf8b86e49bacdd68fe05d5",
+    "ko": "관심 주기.../쓰다듬기"
+  },
+  {
+    "id": "TXT_SimsObjects_06167",
+    "source_sha256": "886ce18d91914b551d1676ceeaa197dfd905944a2168e8ca178335dc16c1f460",
+    "ko": "관심 주기.../주기..."
+  },
+  {
+    "id": "TXT_SimsObjects_06168",
+    "source_sha256": "6a381ca189cbddd63737cbaf6e8b593844ce467ba52b1c5e5e05d8f29864385d",
+    "ko": "냄새 맡기"
+  },
+  {
+    "id": "TXT_SimsObjects_06169",
+    "source_sha256": "defa6dd1729947f6d9e0cea0edea319d5a4b4591aace0fd69f4b4b06068f273a",
+    "ko": "으르렁거리기"
+  },
+  {
+    "id": "TXT_SimsObjects_06170",
+    "source_sha256": "247b7b828819f3c9aa7a34757f040744f95c266050b91beded45c7cc28d54b87",
+    "ko": "훈련하기.../가르치기..."
+  },
+  {
+    "id": "TXT_SimsObjects_06171",
+    "source_sha256": "1ef142c8213e887dc6812fe3147cfeada300cc161799af8d62bf1e165b1a4a6c",
+    "ko": "싸우기"
+  },
+  {
+    "id": "TXT_SimsObjects_06172",
+    "source_sha256": "b872bda66fcb06c1485f6998151f19cdc5fbc88c1f65c361dc0bd56127abf8ab",
+    "ko": "으르렁거리기/하악질하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06173",
+    "source_sha256": "4c629e5d131d7b23c4e823feb51c69f4ccbb6b6a265ede0fa891ec769bc9d3d4",
+    "ko": "도망치기"
+  },
+  {
+    "id": "TXT_SimsObjects_06174",
+    "source_sha256": "359d6083cc038e53f018977333775ac03c2d599ed1c46e932966d3a569291287",
+    "ko": "캣닢에 열광하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06175",
+    "source_sha256": "436e61016e26fcb773b9725745cbbf0afe7f001ea26041a814a7712c2925c442",
+    "ko": "놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_06176",
+    "source_sha256": "0f10582866be92e234eda860566d17bdcb3157802cc3a6046190d7b0dd581363",
+    "ko": "특별 행동.../떠돌이 동물 쫓아내기"
+  },
+  {
+    "id": "TXT_SimsObjects_06177",
+    "source_sha256": "8e8b2a279d976cf779118fe5ee11cc7df79a06f25b92707f08e47d7a50960603",
+    "ko": "특별 행동.../마이크로칩 확인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06178",
+    "source_sha256": "b9a21ea1396054c42564a3c19a143f019b709e7cda3d232a66757ae8dd329a5e",
+    "ko": "특별 행동.../떠돌이 동물 입양하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06179",
+    "source_sha256": "9edc004bfd573d09c11c7e3596b6b063cc42ec686e53323391e0497f6421cc8a",
+    "ko": "훈련하기.../명령하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06180",
+    "source_sha256": "372fbc8abb47ce6991c730a340772acde732ef4c35fa090347e3fee3af61df22",
+    "ko": "놀기.../물어오기"
+  },
+  {
+    "id": "TXT_SimsObjects_06181",
+    "source_sha256": "22e562e03b3b9664f3d1b625badaa3dfcb67d2ee94193b4a36a6c0e5f8207df0",
+    "ko": "훈련하기.../꾸짖기"
+  },
+  {
+    "id": "TXT_SimsObjects_06182",
+    "source_sha256": "7cb31c869868d298690b01abb6b81c7fb0e6440c66167794ddb645e3b7f7791e",
+    "ko": "놀기.../재롱 놀이"
+  },
+  {
+    "id": "TXT_SimsObjects_06183",
+    "source_sha256": "882354f122e72aacf1de4b5f6e0da97594078e0ad2d344e4c7265be7ce38debe",
+    "ko": "꼬리 쫓기"
+  },
+  {
+    "id": "TXT_SimsObjects_06184",
+    "source_sha256": "41f47eb08777e144d75fdbbed830e05352eac306b937da14bfefe844d2bec392",
+    "ko": "놀기.../장난감 놀이"
+  },
+  {
+    "id": "TXT_SimsObjects_06186",
+    "source_sha256": "641d1ef657bdfd9fa2064ab5ae3f0e44186e5161dcd36b63839f3a76a79883bc",
+    "ko": "따라가기"
+  },
+  {
+    "id": "TXT_SimsObjects_06187",
+    "source_sha256": "8c4151c817c7db9a2c5406c2ac3fffc10fc72b6af07298703111d71afe738082",
+    "ko": "놀기.../줄다리기"
+  },
+  {
+    "id": "TXT_SimsObjects_06188",
+    "source_sha256": "befc7c18283d1f95c40fe9d3534f5ec827f5308f5fc7fc21a54c6495dcef1c54",
+    "ko": "특별 행동.../새끼 갖기"
+  },
+  {
+    "id": "TXT_SimsObjects_06189",
+    "source_sha256": "95087a1419019c99a63b3c75e43f7b78824491fd2698b185cf2511f551daaf8d",
+    "ko": "특별 행동.../새끼 갖기 "
+  },
+  {
+    "id": "TXT_SimsObjects_06190",
+    "source_sha256": "58fbb55d4f18a656142953b770ea73bff1a3ffdd76281aa90d812f74bbdcf216",
+    "ko": "구덩이 파기"
+  },
+  {
+    "id": "TXT_SimsObjects_06192",
+    "source_sha256": "c68946ac48ef1f2c9bb05e28ad79a7ee640e60d434dc1846f962802c83ca6b28",
+    "ko": "따라가기 그만두기"
+  },
+  {
+    "id": "TXT_SimsObjects_06194",
+    "source_sha256": "5bcb4cfcdc87d9029c75e6337499cd713f2e40f3099db3eca059f204abc9dc73",
+    "ko": "짖기"
+  },
+  {
+    "id": "TXT_SimsObjects_06195",
+    "source_sha256": "804969be0cebe24e5370a15ccb8df66fb094289234a40fbd2d6b27cf2dac0833",
+    "ko": "훈련하기.../칭찬하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06196",
+    "source_sha256": "1ae6e6416a7ad654c3bc276ec2ee2a048f7a37b42970f3140d21d0abb625780d",
+    "ko": "쫓기"
+  },
+  {
+    "id": "TXT_SimsObjects_06197",
+    "source_sha256": "a58a92cdf9dbda900f82c3f983ad95af6ef90e7d2ae381770e0ad22e63b1c297",
+    "ko": "관심 주기.../소지품에서 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06199",
+    "source_sha256": "e385821a58a57323e00176e398e5edb60dbb5e05a9fcf7f1ad9027f557391315",
+    "ko": "경계 그만두기"
+  },
+  {
+    "id": "TXT_SimsObjects_06200",
+    "source_sha256": "655f2e7661adc39eb63f7b2c84651254087020d3372e55c12c31e89afb2f8b7d",
+    "ko": "기절하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06202",
+    "source_sha256": "3bc9d52cb254af64fae7b1548945b201851142fbffc655872a6f630a7f365451",
+    "ko": "훈련하기.../신문 가져오기"
+  },
+  {
+    "id": "TXT_SimsObjects_06203",
+    "source_sha256": "0967faba54db6eea6b3d96cbb631077cde401cbfa82087f61534ddec929ffed2",
+    "ko": "훈련하기.../격려하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06204",
+    "source_sha256": "b24cbc0244930cb7a1a4702f33b475c3ff7a31ffa05cee91430313580c0317a7",
+    "ko": "특별 행동.../반려동물 쫓아내기"
+  },
+  {
+    "id": "TXT_SimsObjects_06205",
+    "source_sha256": "5a71d0ade2560bab18c28cfd452a93415734c840cdac59e0f9e1d45ec23f7b4f",
+    "ko": "관심 주기.../간식 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06207",
+    "source_sha256": "ff72d2f38ccd6a691b2f232a928f7f263098aeda18c0d7c33f20a760cedd4e7c",
+    "ko": "대답하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06208",
+    "source_sha256": "be26d817adb4cca1881fd77f615a3a7d65c2f676fe09c9d00848908480f18536",
+    "ko": "스스로 털 손질하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06209",
+    "source_sha256": "6d10065bf4269015d66319e2202ed185bdb00f30507a8beb81f115127a476e34",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06211",
+    "source_sha256": "89011a1d4ca056bb84f356d66ac7aff83a61dfe0ffc4f3475d2fabe3b0dc131e",
+    "ko": "낑낑거리기"
+  },
+  {
+    "id": "TXT_SimsObjects_06212",
+    "source_sha256": "fce8b278b7fc92aeed3c6d749cf58c00a16326cf5b1c7c95f5359f6a7fa1f7a1",
+    "ko": "부지 순찰하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06213",
+    "source_sha256": "7095778fa862cb377f57cc515c36a5c9a2b270fc55b2d9f1204c83ba927a9fc1",
+    "ko": "낯선 사람 살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06214",
+    "source_sha256": "7095778fa862cb377f57cc515c36a5c9a2b270fc55b2d9f1204c83ba927a9fc1",
+    "ko": "낯선 사람 살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06215",
+    "source_sha256": "b20d8bf9c69dd55f26d2b18a953b40c00a17bf91b54b252d519b330effa8fec0",
+    "ko": "소변보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06216",
+    "source_sha256": "477a8bbb19e573573e198b1ac9aeadfa058fe39e8825fd96e878b76b7e0a77da",
+    "ko": "특별 행동.../반려동물 씻기기"
+  },
+  {
+    "id": "TXT_SimsObjects_06217",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_06221",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_06225",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_06229",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_06233",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_06237",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_06241",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_06245",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_06249",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_06253",
+    "source_sha256": "7ca7dea906800f87091b819132ecf2aa2b7ea14c9841fa18b9db121d3bbe82dc",
+    "ko": "물 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06254",
+    "source_sha256": "0e1b61e25afa6892811addd6f8085ab3a32139b43e04c9fca602c3ff352335ce",
+    "ko": "다시 심기"
+  },
+  {
+    "id": "TXT_SimsObjects_06259",
+    "source_sha256": "7ca7dea906800f87091b819132ecf2aa2b7ea14c9841fa18b9db121d3bbe82dc",
+    "ko": "물 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06264",
+    "source_sha256": "0e1b61e25afa6892811addd6f8085ab3a32139b43e04c9fca602c3ff352335ce",
+    "ko": "다시 심기"
+  },
+  {
+    "id": "TXT_SimsObjects_06265",
+    "source_sha256": "7ca7dea906800f87091b819132ecf2aa2b7ea14c9841fa18b9db121d3bbe82dc",
+    "ko": "물 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06266",
+    "source_sha256": "0e1b61e25afa6892811addd6f8085ab3a32139b43e04c9fca602c3ff352335ce",
+    "ko": "다시 심기"
+  },
+  {
+    "id": "TXT_SimsObjects_06271",
+    "source_sha256": "7ca7dea906800f87091b819132ecf2aa2b7ea14c9841fa18b9db121d3bbe82dc",
+    "ko": "물 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06272",
+    "source_sha256": "0e1b61e25afa6892811addd6f8085ab3a32139b43e04c9fca602c3ff352335ce",
+    "ko": "다시 심기"
+  },
+  {
+    "id": "TXT_SimsObjects_06277",
+    "source_sha256": "7ca7dea906800f87091b819132ecf2aa2b7ea14c9841fa18b9db121d3bbe82dc",
+    "ko": "물 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06278",
+    "source_sha256": "0e1b61e25afa6892811addd6f8085ab3a32139b43e04c9fca602c3ff352335ce",
+    "ko": "다시 심기"
+  },
+  {
+    "id": "TXT_SimsObjects_06284",
+    "source_sha256": "7ca7dea906800f87091b819132ecf2aa2b7ea14c9841fa18b9db121d3bbe82dc",
+    "ko": "물 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06285",
+    "source_sha256": "0e1b61e25afa6892811addd6f8085ab3a32139b43e04c9fca602c3ff352335ce",
+    "ko": "다시 심기"
+  },
+  {
+    "id": "TXT_SimsObjects_06291",
+    "source_sha256": "7ca7dea906800f87091b819132ecf2aa2b7ea14c9841fa18b9db121d3bbe82dc",
+    "ko": "물 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06292",
+    "source_sha256": "0e1b61e25afa6892811addd6f8085ab3a32139b43e04c9fca602c3ff352335ce",
+    "ko": "다시 심기"
+  },
+  {
+    "id": "TXT_SimsObjects_06301",
+    "source_sha256": "60ab5eb8ff32efe058021a0237230ad5f332f06dbb3452716a19da0c369f3864",
+    "ko": "$를 ¢로 환전하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06302",
+    "source_sha256": "cb1d16c8c3a136cc53bdf42775b4292a479e1ec046c0e521d2aba7c2b919d9a7",
+    "ko": "반려동물 점수란?"
+  },
+  {
+    "id": "TXT_SimsObjects_06303",
+    "source_sha256": "ab63b5fdbc45792610e986b7a9039549020dac7d315a7089b06105f99b382bba",
+    "ko": "마을 광장 안내"
+  },
+  {
+    "id": "TXT_SimsObjects_06304",
+    "source_sha256": "f33e435b3f76b36a58f2796b111dcad7df735a93432f6dc498b91c2b447037e7",
+    "ko": "타기"
+  },
+  {
+    "id": "TXT_SimsObjects_06306",
+    "source_sha256": "fd30fe681b4b2d9e55f851cb34641f907401aa43e9d80f5b1e14ce714ef00497",
+    "ko": "함께하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06309",
+    "source_sha256": "c36d819e7bc6d2b7da51394411c733db89c395987885ca6770167a3b9bc45c3c",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06311",
+    "source_sha256": "c36d819e7bc6d2b7da51394411c733db89c395987885ca6770167a3b9bc45c3c",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06324",
+    "source_sha256": "9cfc3ba733285038034ffaf443ba526137ff3066fdd6719a52ca4b7d2645cccc",
+    "ko": "손 씻기"
+  },
+  {
+    "id": "TXT_SimsObjects_06327",
+    "source_sha256": "30c9bc3cbcf686244adcb1bd3a5837c7b843a7b36665c310dbb9f85f7ad7f102",
+    "ko": "설거지하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06328",
+    "source_sha256": "9cfc3ba733285038034ffaf443ba526137ff3066fdd6719a52ca4b7d2645cccc",
+    "ko": "손 씻기"
+  },
+  {
+    "id": "TXT_SimsObjects_06331",
+    "source_sha256": "30c9bc3cbcf686244adcb1bd3a5837c7b843a7b36665c310dbb9f85f7ad7f102",
+    "ko": "설거지하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06332",
+    "source_sha256": "9cfc3ba733285038034ffaf443ba526137ff3066fdd6719a52ca4b7d2645cccc",
+    "ko": "손 씻기"
+  },
+  {
+    "id": "TXT_SimsObjects_06335",
+    "source_sha256": "30c9bc3cbcf686244adcb1bd3a5837c7b843a7b36665c310dbb9f85f7ad7f102",
+    "ko": "설거지하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06340",
+    "source_sha256": "9cfc3ba733285038034ffaf443ba526137ff3066fdd6719a52ca4b7d2645cccc",
+    "ko": "손 씻기"
+  },
+  {
+    "id": "TXT_SimsObjects_06343",
+    "source_sha256": "30c9bc3cbcf686244adcb1bd3a5837c7b843a7b36665c310dbb9f85f7ad7f102",
+    "ko": "설거지하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06344",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06346",
+    "source_sha256": "e0723a86a5b9408aee9113031785d3d15d9702892f31a46e5fe927c0c8552675",
+    "ko": "살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06347",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06348",
+    "source_sha256": "c8570f871fae1fc41c74bdb9d91046072aad1a768a47c9cb42c97af4fd4073de",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06349",
+    "source_sha256": "e0723a86a5b9408aee9113031785d3d15d9702892f31a46e5fe927c0c8552675",
+    "ko": "살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06350",
+    "source_sha256": "b1b1b4e5e8d796ce71667cf34f0aa7c824da30757b3ebd41c6aeb0645701d669",
+    "ko": "정렬하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06351",
+    "source_sha256": "c8570f871fae1fc41c74bdb9d91046072aad1a768a47c9cb42c97af4fd4073de",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06352",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06353",
+    "source_sha256": "c8570f871fae1fc41c74bdb9d91046072aad1a768a47c9cb42c97af4fd4073de",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06354",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06355",
+    "source_sha256": "c8570f871fae1fc41c74bdb9d91046072aad1a768a47c9cb42c97af4fd4073de",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06356",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06357",
+    "source_sha256": "c8570f871fae1fc41c74bdb9d91046072aad1a768a47c9cb42c97af4fd4073de",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06358",
+    "source_sha256": "c6ca3ec7cabedea5d066ead60130a7dee50a347b1dc3ae867a4c80af7d328d97",
+    "ko": "섬 탈출하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06360",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06362",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06364",
+    "source_sha256": "0a85ac5e0817e48b4675a52d9b43d9de36755759b44de4c5eaf35ef9f256f1f4",
+    "ko": "가시덤불 치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_06365",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06367",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06369",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06371",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06373",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06375",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06377",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06381",
+    "source_sha256": "e0723a86a5b9408aee9113031785d3d15d9702892f31a46e5fe927c0c8552675",
+    "ko": "살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06383",
+    "source_sha256": "e0723a86a5b9408aee9113031785d3d15d9702892f31a46e5fe927c0c8552675",
+    "ko": "살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06385",
+    "source_sha256": "e0723a86a5b9408aee9113031785d3d15d9702892f31a46e5fe927c0c8552675",
+    "ko": "살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06387",
+    "source_sha256": "e0723a86a5b9408aee9113031785d3d15d9702892f31a46e5fe927c0c8552675",
+    "ko": "살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06389",
+    "source_sha256": "65719444b7a73b63cfd39669a69b0486a12aba45a297a74b68ca0e92a58664c5",
+    "ko": "협곡 건너기"
+  },
+  {
+    "id": "TXT_SimsObjects_06390",
+    "source_sha256": "c8570f871fae1fc41c74bdb9d91046072aad1a768a47c9cb42c97af4fd4073de",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06392",
+    "source_sha256": "e0723a86a5b9408aee9113031785d3d15d9702892f31a46e5fe927c0c8552675",
+    "ko": "살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06393",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06395",
+    "source_sha256": "e0723a86a5b9408aee9113031785d3d15d9702892f31a46e5fe927c0c8552675",
+    "ko": "살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06397",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06399",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06401",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06403",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06405",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06407",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06409",
+    "source_sha256": "e0723a86a5b9408aee9113031785d3d15d9702892f31a46e5fe927c0c8552675",
+    "ko": "살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06410",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06412",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06414",
+    "source_sha256": "3b73900b8d29f963dece78edd4bd9529d855e50f2a3fcc39b3d66cd657630905",
+    "ko": "탐험하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06427",
+    "source_sha256": "19410a0d25ffe23d6ad148fd3eaedab1e390a01eb5331efca6db9aa908e683c8",
+    "ko": "손가락 흔들기"
+  },
+  {
+    "id": "TXT_SimsObjects_06428",
+    "source_sha256": "f683cc5124e6ade3429a1ebbfbce5b008b4f4940a5303cf2efa956e10faec3eb",
+    "ko": "함께 놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_06429",
+    "source_sha256": "24f4f9a490731e1e6e61bebfe719c68ed3670feef9022d580cfaf7cd848535ec",
+    "ko": "코 비비기"
+  },
+  {
+    "id": "TXT_SimsObjects_06430",
+    "source_sha256": "683b72e4df675c672d707a2cff40b7d74519f19464fa9980d565bb2c214cfa47",
+    "ko": "아기가 자랍니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_06432",
+    "source_sha256": "3064d79a295cefe4b384b8fe5cb29fd6b06d7eb1ad94b8895f4148039d06b330",
+    "ko": "이름 바꾸기"
+  },
+  {
+    "id": "TXT_SimsObjects_06434",
+    "source_sha256": "08595f3b5dde108f8132b019ae6c048627a59fd6927b35a84555d801d070e96e",
+    "ko": "깃털 얻기"
+  },
+  {
+    "id": "TXT_SimsObjects_06435",
+    "source_sha256": "d8aa3c78b8a8e15b91ddabd88f0b48b7cb5130a5a06e08bba3bacb672965e530",
+    "ko": "닭 덫 설치하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06436",
+    "source_sha256": "f7759b6ca471503828a8f520c0cac7b213efe86d54ed824066cacc402d4c653f",
+    "ko": "덫 회수하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06437",
+    "source_sha256": "cadae6ed42b5ba0b57aff8e9d5f1c6cd9cdba144a088bf828464d0039ce2e416",
+    "ko": "부서진 덫 수거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06442",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06444",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06446",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06448",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06451",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06453",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06455",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06457",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06459",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06461",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06464",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06466",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06468",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06470",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06472",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06474",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06476",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06478",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06480",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06482",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06484",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06486",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06488",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06490",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06492",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06494",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06495",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06497",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06499",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06501",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06503",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06505",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06507",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06509",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06511",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06513",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06515",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06517",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06519",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06521",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06523",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06525",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06527",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06529",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06531",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06533",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06535",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06537",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06539",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06541",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06543",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06545",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06547",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06549",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06551",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06553",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06555",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06557",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06559",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06561",
+    "source_sha256": "12c4856186bca97ad805fadb503c41ff02a109d3fd840260ff7a9729699ee1b9",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06564",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06567",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06570",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06603",
+    "source_sha256": "abe50eeb8aa5fd8dc3428d19b593747bf90f0a0a89dce9d61a7855781cc47717",
+    "ko": "긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_06605",
+    "source_sha256": "abe50eeb8aa5fd8dc3428d19b593747bf90f0a0a89dce9d61a7855781cc47717",
+    "ko": "긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_06617",
+    "source_sha256": "abe50eeb8aa5fd8dc3428d19b593747bf90f0a0a89dce9d61a7855781cc47717",
+    "ko": "긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_06618",
+    "source_sha256": "6d10065bf4269015d66319e2202ed185bdb00f30507a8beb81f115127a476e34",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06619",
+    "source_sha256": "abe50eeb8aa5fd8dc3428d19b593747bf90f0a0a89dce9d61a7855781cc47717",
+    "ko": "긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_06625",
+    "source_sha256": "6d10065bf4269015d66319e2202ed185bdb00f30507a8beb81f115127a476e34",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06627",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06628",
+    "source_sha256": "42f56fa90fd50aed5882b6ad42f2928cb93c19bc5c755dd222712778aef1037e",
+    "ko": "농담하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06629",
+    "source_sha256": "29e6d3eebd74c00f3a0990b0510390f91e1cec7ecc1e2f2198c361107fcda936",
+    "ko": "기운 북돋우기"
+  },
+  {
+    "id": "TXT_SimsObjects_06631",
+    "source_sha256": "1332b5c1540251b8b0e92168366a00799202593202ee688f8747ef04fe28cef3",
+    "ko": "칭찬하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06632",
+    "source_sha256": "79d4dd13c51d4e8ee66c1052402c3d97c70982e9e6091ae6846fda2c867a7d90",
+    "ko": "키스하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06633",
+    "source_sha256": "e111b9f1a5afa16a31035a49241d3c953861208015b28d6123f79228e549b873",
+    "ko": "머리 바꾸기"
+  },
+  {
+    "id": "TXT_SimsObjects_06635",
+    "source_sha256": "78bec708c6343018e47ddf3a1533fa9482fee867fbe563cfc3bf647b74059a10",
+    "ko": "모욕하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06637",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06638",
+    "source_sha256": "42f56fa90fd50aed5882b6ad42f2928cb93c19bc5c755dd222712778aef1037e",
+    "ko": "농담하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06639",
+    "source_sha256": "29e6d3eebd74c00f3a0990b0510390f91e1cec7ecc1e2f2198c361107fcda936",
+    "ko": "기운 북돋우기"
+  },
+  {
+    "id": "TXT_SimsObjects_06640",
+    "source_sha256": "ede2cbd7eff897101e320b7e356b6c68665f0eb6813538fc89c4795b90e8e454",
+    "ko": "기우제 춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_06641",
+    "source_sha256": "1332b5c1540251b8b0e92168366a00799202593202ee688f8747ef04fe28cef3",
+    "ko": "칭찬하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06642",
+    "source_sha256": "b394d16a2847c239901a2cd0275ad8c7dc246f20b65ffd0bdca2a38c3ec36005",
+    "ko": "일어서기"
+  },
+  {
+    "id": "TXT_SimsObjects_06644",
+    "source_sha256": "78bec708c6343018e47ddf3a1533fa9482fee867fbe563cfc3bf647b74059a10",
+    "ko": "모욕하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06645",
+    "source_sha256": "62e0df134d7e80abb976d863e3602a9a240fe509ac17654521ac4ac6bffda44d",
+    "ko": "게임 시작"
+  },
+  {
+    "id": "TXT_SimsObjects_06646",
+    "source_sha256": "62e0df134d7e80abb976d863e3602a9a240fe509ac17654521ac4ac6bffda44d",
+    "ko": "게임 시작"
+  },
+  {
+    "id": "TXT_SimsObjects_06647",
+    "source_sha256": "7286e83dee99cff0f8bacdb36d58c6bc01cd082b727e9add382f6501a8f0d054",
+    "ko": "상태 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_06648",
+    "source_sha256": "e0723a86a5b9408aee9113031785d3d15d9702892f31a46e5fe927c0c8552675",
+    "ko": "살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06649",
+    "source_sha256": "e0723a86a5b9408aee9113031785d3d15d9702892f31a46e5fe927c0c8552675",
+    "ko": "살펴보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06651",
+    "source_sha256": "c36d819e7bc6d2b7da51394411c733db89c395987885ca6770167a3b9bc45c3c",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06652",
+    "source_sha256": "9fae46543dabc7370cd5f7aa027236c32b6cd8ca023fb52e09b64edb3662e4c5",
+    "ko": "덤불에 숨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06653",
+    "source_sha256": "6a381ca189cbddd63737cbaf6e8b593844ce467ba52b1c5e5e05d8f29864385d",
+    "ko": "냄새 맡기"
+  },
+  {
+    "id": "TXT_SimsObjects_06655",
+    "source_sha256": "c36d819e7bc6d2b7da51394411c733db89c395987885ca6770167a3b9bc45c3c",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06662",
+    "source_sha256": "8f8be82c643506306eb0a9c10e2a4fa0b07eee5e8746af0cbf61760f98ea0e7d",
+    "ko": "냄새 맡기 놀이"
+  },
+  {
+    "id": "TXT_SimsObjects_06671",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06672",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06677",
+    "source_sha256": "377cbd23295d41ef41622ff8daf59ace5a333205dbe85af413056484bfd32cc0",
+    "ko": "멧돼지의 공격!"
+  },
+  {
+    "id": "TXT_SimsObjects_06678",
+    "source_sha256": "377cbd23295d41ef41622ff8daf59ace5a333205dbe85af413056484bfd32cc0",
+    "ko": "멧돼지의 공격!"
+  },
+  {
+    "id": "TXT_SimsObjects_06680",
+    "source_sha256": "219d57f7d4df28707053ae920f151a40300aa80d994f4fade17a529c4ba754c6",
+    "ko": "침팬지에게 코코넛 받기"
+  },
+  {
+    "id": "TXT_SimsObjects_06701",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06702",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06703",
+    "source_sha256": "fa8c0d51aa00c4ffeabdffd5e7fbdcf8901f2080932da4c68cbfa05e3e54af8d",
+    "ko": "가족의 입맞춤"
+  },
+  {
+    "id": "TXT_SimsObjects_06704",
+    "source_sha256": "fa8c0d51aa00c4ffeabdffd5e7fbdcf8901f2080932da4c68cbfa05e3e54af8d",
+    "ko": "가족의 입맞춤"
+  },
+  {
+    "id": "TXT_SimsObjects_06705",
+    "source_sha256": "f8159ba20137782dab9b74be8c678a210fe2ab931837c2637c6068481529f579",
+    "ko": "간지럽히기"
+  },
+  {
+    "id": "TXT_SimsObjects_06706",
+    "source_sha256": "f8159ba20137782dab9b74be8c678a210fe2ab931837c2637c6068481529f579",
+    "ko": "간지럽히기"
+  },
+  {
+    "id": "TXT_SimsObjects_06709",
+    "source_sha256": "228d96734b15e1445aaad5b3ce2c1b3204d2313ffda6387456d9feeaf5b1e3af",
+    "ko": "등 마사지하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06710",
+    "source_sha256": "228d96734b15e1445aaad5b3ce2c1b3204d2313ffda6387456d9feeaf5b1e3af",
+    "ko": "등 마사지하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06711",
+    "source_sha256": "0e553d0686a3ff56de9a793566dcbe2cf07810004576a0efa2cd9443eb1ea42e",
+    "ko": "주먹 맞대기 놀이"
+  },
+  {
+    "id": "TXT_SimsObjects_06712",
+    "source_sha256": "0e553d0686a3ff56de9a793566dcbe2cf07810004576a0efa2cd9443eb1ea42e",
+    "ko": "주먹 맞대기 놀이"
+  },
+  {
+    "id": "TXT_SimsObjects_06713",
+    "source_sha256": "be15aede18705ab29f58716276903d680070053bf80731236ee42d5e40851041",
+    "ko": "낭만적인 키스"
+  },
+  {
+    "id": "TXT_SimsObjects_06714",
+    "source_sha256": "be15aede18705ab29f58716276903d680070053bf80731236ee42d5e40851041",
+    "ko": "낭만적인 키스"
+  },
+  {
+    "id": "TXT_SimsObjects_06715",
+    "source_sha256": "5e7328135cb720978be30914468bce1944f563a69ccac73de1686fdae6693cd4",
+    "ko": "다정하게 포옹하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06716",
+    "source_sha256": "5e7328135cb720978be30914468bce1944f563a69ccac73de1686fdae6693cd4",
+    "ko": "다정하게 포옹하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06717",
+    "source_sha256": "a618ee1c6d87311c4bf3d9d49a002f447c300426e03ac0a4d649c04079cbf01b",
+    "ko": "낭만적으로 포옹하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06718",
+    "source_sha256": "a618ee1c6d87311c4bf3d9d49a002f447c300426e03ac0a4d649c04079cbf01b",
+    "ko": "낭만적으로 포옹하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06719",
+    "source_sha256": "22986b368804f59943b538f60a10d65db8232bf708af2a59c074b79729a93f09",
+    "ko": "부드러운 키스"
+  },
+  {
+    "id": "TXT_SimsObjects_06720",
+    "source_sha256": "22986b368804f59943b538f60a10d65db8232bf708af2a59c074b79729a93f09",
+    "ko": "부드러운 키스"
+  },
+  {
+    "id": "TXT_SimsObjects_06721",
+    "source_sha256": "580086020e822977d73f8fa53ff9a515020d4ac8ee4142a4411a8796652e153c",
+    "ko": "사과하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06722",
+    "source_sha256": "580086020e822977d73f8fa53ff9a515020d4ac8ee4142a4411a8796652e153c",
+    "ko": "사과하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06723",
+    "source_sha256": "16caa387d5e528dd685043a83c9ef6284aed28a60ef5f60e50f3253d38bd289c",
+    "ko": "허풍 이야기하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06724",
+    "source_sha256": "16caa387d5e528dd685043a83c9ef6284aed28a60ef5f60e50f3253d38bd289c",
+    "ko": "허풍 이야기하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06725",
+    "source_sha256": "28c4b8110ebab0a631493f645dcc6cfe580f0d2202f2bb85c2dd3960babddb00",
+    "ko": "손등 치기 놀이"
+  },
+  {
+    "id": "TXT_SimsObjects_06726",
+    "source_sha256": "28c4b8110ebab0a631493f645dcc6cfe580f0d2202f2bb85c2dd3960babddb00",
+    "ko": "손등 치기 놀이"
+  },
+  {
+    "id": "TXT_SimsObjects_06727",
+    "source_sha256": "19feacec91ee57dcb6f68a95db3b5394bf36707f831223a4a18e74f994704460",
+    "ko": "역겹게 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06728",
+    "source_sha256": "19feacec91ee57dcb6f68a95db3b5394bf36707f831223a4a18e74f994704460",
+    "ko": "역겹게 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06729",
+    "source_sha256": "7862d815e054f3d638f9df0c81ad9eb72b70c7fa1154398b04d2ecd3ac3ad7ae",
+    "ko": "감상하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06730",
+    "source_sha256": "7862d815e054f3d638f9df0c81ad9eb72b70c7fa1154398b04d2ecd3ac3ad7ae",
+    "ko": "감상하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06733",
+    "source_sha256": "78bec708c6343018e47ddf3a1533fa9482fee867fbe563cfc3bf647b74059a10",
+    "ko": "모욕하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06734",
+    "source_sha256": "78bec708c6343018e47ddf3a1533fa9482fee867fbe563cfc3bf647b74059a10",
+    "ko": "모욕하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06735",
+    "source_sha256": "c6402106c8212060a327a1f37524a814dd135a068ae74ac965f20aa69b9f1a6c",
+    "ko": "주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06736",
+    "source_sha256": "c6402106c8212060a327a1f37524a814dd135a068ae74ac965f20aa69b9f1a6c",
+    "ko": "주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06737",
+    "source_sha256": "4896a650ed52f23eaa835b83117dda13bc7fdb55d50994726b9df05bb3d6ba0f",
+    "ko": "축하하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06738",
+    "source_sha256": "4896a650ed52f23eaa835b83117dda13bc7fdb55d50994726b9df05bb3d6ba0f",
+    "ko": "축하하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06739",
+    "source_sha256": "29a40861bafe31e774190c795fc6fe4b8c012fea4707010f4102e52d74eafa15",
+    "ko": "위로하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06740",
+    "source_sha256": "29a40861bafe31e774190c795fc6fe4b8c012fea4707010f4102e52d74eafa15",
+    "ko": "위로하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06741",
+    "source_sha256": "725628b0e06a3c3ef5c9488dde4a3de6c6cb7c43ca4543966d77d3d642520efb",
+    "ko": "뒷이야기하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06742",
+    "source_sha256": "725628b0e06a3c3ef5c9488dde4a3de6c6cb7c43ca4543966d77d3d642520efb",
+    "ko": "뒷이야기하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06743",
+    "source_sha256": "d30b74abae0ea762130c8ca8d2c78243550c3b9372da5b892f623efe62a6014d",
+    "ko": "쿡 찌르기"
+  },
+  {
+    "id": "TXT_SimsObjects_06744",
+    "source_sha256": "ab418b2b3c13c0035370391d3c67c822d86179c7f37b81ba104406417dfd968d",
+    "ko": "쿡 찔리기"
+  },
+  {
+    "id": "TXT_SimsObjects_06745",
+    "source_sha256": "7cd80ae962515869747c8da4606b0403c4b124379255bc1c20253a5c02599277",
+    "ko": "성가시게 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06746",
+    "source_sha256": "7cd80ae962515869747c8da4606b0403c4b124379255bc1c20253a5c02599277",
+    "ko": "성가시게 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06747",
+    "source_sha256": "5c883c1515a338b936df3d22d87163b7d740bcb967383fd53f9dfef3eddec442",
+    "ko": "메롱하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06748",
+    "source_sha256": "5c883c1515a338b936df3d22d87163b7d740bcb967383fd53f9dfef3eddec442",
+    "ko": "메롱하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06749",
+    "source_sha256": "8bb1af456a2b9d62cf5915743dfecdeb41b2bed2154affd24697f55f7816e4ee",
+    "ko": "첫 키스"
+  },
+  {
+    "id": "TXT_SimsObjects_06750",
+    "source_sha256": "8bb1af456a2b9d62cf5915743dfecdeb41b2bed2154affd24697f55f7816e4ee",
+    "ko": "첫 키스"
+  },
+  {
+    "id": "TXT_SimsObjects_06751",
+    "source_sha256": "42f56fa90fd50aed5882b6ad42f2928cb93c19bc5c755dd222712778aef1037e",
+    "ko": "농담하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06752",
+    "source_sha256": "42f56fa90fd50aed5882b6ad42f2928cb93c19bc5c755dd222712778aef1037e",
+    "ko": "농담하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06753",
+    "source_sha256": "29e6d3eebd74c00f3a0990b0510390f91e1cec7ecc1e2f2198c361107fcda936",
+    "ko": "기운 북돋우기"
+  },
+  {
+    "id": "TXT_SimsObjects_06754",
+    "source_sha256": "29e6d3eebd74c00f3a0990b0510390f91e1cec7ecc1e2f2198c361107fcda936",
+    "ko": "기운 북돋우기"
+  },
+  {
+    "id": "TXT_SimsObjects_06755",
+    "source_sha256": "af0db210412d4288682d1de973c50e5ef1b30a0a9873989d1a4ba5874ee90308",
+    "ko": "잔소리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06756",
+    "source_sha256": "af0db210412d4288682d1de973c50e5ef1b30a0a9873989d1a4ba5874ee90308",
+    "ko": "잔소리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06757",
+    "source_sha256": "c9f50b76773b7cae8f8e516e0ea80eecb8a92297d2475772e6496f012f6a4a43",
+    "ko": "세레나데 부르기"
+  },
+  {
+    "id": "TXT_SimsObjects_06758",
+    "source_sha256": "c9f50b76773b7cae8f8e516e0ea80eecb8a92297d2475772e6496f012f6a4a43",
+    "ko": "세레나데 부르기"
+  },
+  {
+    "id": "TXT_SimsObjects_06759",
+    "source_sha256": "638b48bdb5bb3e3cb34898c975a921e7cbddc304cb0a5cd65e6324edba478f48",
+    "ko": "밀치기"
+  },
+  {
+    "id": "TXT_SimsObjects_06760",
+    "source_sha256": "638b48bdb5bb3e3cb34898c975a921e7cbddc304cb0a5cd65e6324edba478f48",
+    "ko": "밀치기"
+  },
+  {
+    "id": "TXT_SimsObjects_06761",
+    "source_sha256": "2ff4307c7990c9ec78b390e33b31bbe618f66db3ceb1ab5960ec9d4ee93aed80",
+    "ko": "뺨 때리기"
+  },
+  {
+    "id": "TXT_SimsObjects_06762",
+    "source_sha256": "2ff4307c7990c9ec78b390e33b31bbe618f66db3ceb1ab5960ec9d4ee93aed80",
+    "ko": "뺨 때리기"
+  },
+  {
+    "id": "TXT_SimsObjects_06763",
+    "source_sha256": "e9c2eaec8dfafa64635d859d5d32074affed6d2cf824a2dc668a903ab8f9920f",
+    "ko": "관심 끌기"
+  },
+  {
+    "id": "TXT_SimsObjects_06764",
+    "source_sha256": "4cd548f3cc29cf9c99a0134a971b1be03c8f6bf80ba8f03e174e030b0d292396",
+    "ko": "공격하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06765",
+    "source_sha256": "4cd548f3cc29cf9c99a0134a971b1be03c8f6bf80ba8f03e174e030b0d292396",
+    "ko": "공격하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06766",
+    "source_sha256": "65f257033d80c9f429dbed83860e2391d13a7c844a2330af659030048948d6c8",
+    "ko": "이리 오라고 부르기"
+  },
+  {
+    "id": "TXT_SimsObjects_06767",
+    "source_sha256": "01c9b5d4e4b789f827fe84d87f4937340e0c4891077d23f2093de9a8768ebd4a",
+    "ko": "부름받기"
+  },
+  {
+    "id": "TXT_SimsObjects_06768",
+    "source_sha256": "fa67303aecdafbdddabe4fb62751c7cc1c45876b485191d65aa893c7f1eba737",
+    "ko": "벌금 부과하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06769",
+    "source_sha256": "9b630dab3ba5c1d6a59166b02a93176fcc6f6e8eb1d6c9ae8bf2fde80afd186e",
+    "ko": "벌금 내기"
+  },
+  {
+    "id": "TXT_SimsObjects_06772",
+    "source_sha256": "f2be5baba07aca5f9edbce0a517bd405a0010c70cec2d595d18a1d8d25a5b1ab",
+    "ko": "다른 심 깨우기"
+  },
+  {
+    "id": "TXT_SimsObjects_06773",
+    "source_sha256": "11435b6d096bea0318ac11789680b016b85ca950529a640aa70bfd50fafb95cd",
+    "ko": "함께 춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_06774",
+    "source_sha256": "11435b6d096bea0318ac11789680b016b85ca950529a640aa70bfd50fafb95cd",
+    "ko": "함께 춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_06775",
+    "source_sha256": "8222e3b75889624c665cd9ce2e20218a6a9a855daf669f234e5840788da14dc3",
+    "ko": "떠나 달라고 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06776",
+    "source_sha256": "2f85e885567c81c465be8483b86b0e8c77e1d9ca067b621c141a357ffdc9c802",
+    "ko": "떠나 달라는 요청받기"
+  },
+  {
+    "id": "TXT_SimsObjects_06777",
+    "source_sha256": "c223da60e152adf2e81d1cb7c9ee16f8af056bf13b632acd8ab8f1d5084a9f8e",
+    "ko": "말다툼하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06778",
+    "source_sha256": "c223da60e152adf2e81d1cb7c9ee16f8af056bf13b632acd8ab8f1d5084a9f8e",
+    "ko": "말다툼하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06779",
+    "source_sha256": "04d7f961f17bec91fbc5ee3bd1b693edfbb7dcb865d7d5f6d623812e614315c6",
+    "ko": "부족에 초대하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06780",
+    "source_sha256": "7093aaa8ca604413a0a897799b5d3dd4e3f0970c9b73c4a574765da3523fc26d",
+    "ko": "부족에 초대받기"
+  },
+  {
+    "id": "TXT_SimsObjects_06781",
+    "source_sha256": "b82b0b25dbc806fd7cf63bca047de322ad7745d6a6929f80ff212842b07ad284",
+    "ko": "자랑하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06782",
+    "source_sha256": "b0e5c5867584da495878264c49b938f647edcf97b206e38370fda86a39ae65b0",
+    "ko": "자랑 듣기"
+  },
+  {
+    "id": "TXT_SimsObjects_06783",
+    "source_sha256": "1cbd9e713d937baddd2cce6efa50f11875c188af81de970766cdf5b2ed73d4bb",
+    "ko": "청혼하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06784",
+    "source_sha256": "7e5f10fbb5ba5c1848f04a460bd44c665696f5ecacfeddd36fb2f3fe57f70aaa",
+    "ko": "청혼받기"
+  },
+  {
+    "id": "TXT_SimsObjects_06785",
+    "source_sha256": "d78fe43cbdd6497e11e0d33af33c5f4a0b9cac373db8fd2f350b647692361c82",
+    "ko": "이사 나가 달라고 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06786",
+    "source_sha256": "4162f0e0178616e7bc68ff7e9297b797c4fc2fa06a38b3db204a2c3629de12d5",
+    "ko": "이사 요청받음"
+  },
+  {
+    "id": "TXT_SimsObjects_06787",
+    "source_sha256": "d39307075e6495e27e09ba1155c2b34a5acac706f5a3fc7ebf1f1ecbaf64058b",
+    "ko": "헤어지기"
+  },
+  {
+    "id": "TXT_SimsObjects_06788",
+    "source_sha256": "d39307075e6495e27e09ba1155c2b34a5acac706f5a3fc7ebf1f1ecbaf64058b",
+    "ko": "헤어지기"
+  },
+  {
+    "id": "TXT_SimsObjects_06789",
+    "source_sha256": "d39307075e6495e27e09ba1155c2b34a5acac706f5a3fc7ebf1f1ecbaf64058b",
+    "ko": "헤어지기"
+  },
+  {
+    "id": "TXT_SimsObjects_06790",
+    "source_sha256": "56ea00dfab4222422b9725d0a96b420f50b71783a4495be9fcdf20075acc5b7f",
+    "ko": "질투하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06791",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_06793",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06797",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_06799",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06803",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_06805",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06809",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_06811",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06815",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_06817",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06821",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_06823",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06827",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_06829",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06833",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_06835",
+    "source_sha256": "460b3a7da007b7af9d35bca54181dc91382263b2bf133ca214871ca1fed1fc1c",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_06839",
+    "source_sha256": "fb805c1c503637ebdee3fa2abf37d35a6c928210ecb4171ebb86497202413830",
+    "ko": "피망 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06842",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06843",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06844",
+    "source_sha256": "e5caa93d79265bd78861ae61642154fc691101c7ac0f7bd0b4b0e5a03a6bedda",
+    "ko": "블랙베리 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06847",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06848",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06849",
+    "source_sha256": "353ba06d2cc5e735e8b92526f4becbaef4130f0b21689a54ed6b19fe222265b9",
+    "ko": "체리 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06852",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06853",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06854",
+    "source_sha256": "ae557ed0ad27a7efe0ed60a8da640b0e7df152cfd6110767636a37fe74c720db",
+    "ko": "고추 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06857",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06858",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06859",
+    "source_sha256": "83f21fff7badd0c12bf26f25ba919bc983189821e2a0627938fb85980b5302f0",
+    "ko": "커피콩 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06862",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06863",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06867",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06868",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06869",
+    "source_sha256": "f4aaedfafd5fda35454c7b307c62af98c22fea9bfef2f19ad6b0126800a0f7fe",
+    "ko": "과라나 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06872",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06873",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06874",
+    "source_sha256": "e0f19b2a07c7991d47044425cfc4206667e41e82d590a0d2922a1776db099b91",
+    "ko": "자리공 열매 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06877",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06878",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06879",
+    "source_sha256": "0ed3e3ff6dc82e248764a9982b32c1696d58f8de4d7c34d4abadeef5124cded8",
+    "ko": "쥐똥나무 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06882",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06883",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06884",
+    "source_sha256": "efa4f40083c0ba9297ea568b0ce9de04ab1dc8fc50071e4ec13930dd55cc342c",
+    "ko": "라즈베리 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06887",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06888",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06889",
+    "source_sha256": "58df7e68c6c1548303c87b07cfa3a5bcb2ff079518cc4e538755433497f2002f",
+    "ko": "스노베리 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06892",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06893",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06894",
+    "source_sha256": "166547622420085e296594fe5dc4fbe018f3d3c05d87472aa513b8c913439089",
+    "ko": "대두 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06897",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06898",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06899",
+    "source_sha256": "45fbbcbce5cf38f1b84fc97b658a0ee63c2ffd29625257f9c18fd0f9073abd8f",
+    "ko": "닭 넣기"
+  },
+  {
+    "id": "TXT_SimsObjects_06901",
+    "source_sha256": "2895b5a18c9dc1a7dabf96996b04323e4dcb156711edb428f071a04ff0bf9896",
+    "ko": "닭에게 세레나데 부르기"
+  },
+  {
+    "id": "TXT_SimsObjects_06902",
+    "source_sha256": "ec20b94d8231139520c5a58fffd8dcf293a3e5acda7e10339589b0b29d25f58c",
+    "ko": "닭 꺼내기"
+  },
+  {
+    "id": "TXT_SimsObjects_06920",
+    "source_sha256": "25831f7498d158b45dd4205d2a090d7b9b298dc50c210c5f83362321f830edf4",
+    "ko": "부석 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06924",
+    "source_sha256": "25831f7498d158b45dd4205d2a090d7b9b298dc50c210c5f83362321f830edf4",
+    "ko": "부석 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06932",
+    "source_sha256": "0e0d0ed2483f19c2b77f153fe1b2d062bffa66bb5f5e4480436cc6753a59266b",
+    "ko": "히비스커스 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06936",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06937",
+    "source_sha256": "0e0d0ed2483f19c2b77f153fe1b2d062bffa66bb5f5e4480436cc6753a59266b",
+    "ko": "히비스커스 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06941",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06942",
+    "source_sha256": "0e0d0ed2483f19c2b77f153fe1b2d062bffa66bb5f5e4480436cc6753a59266b",
+    "ko": "히비스커스 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06946",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06947",
+    "source_sha256": "0e0d0ed2483f19c2b77f153fe1b2d062bffa66bb5f5e4480436cc6753a59266b",
+    "ko": "히비스커스 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06951",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06952",
+    "source_sha256": "9d1c30d11de1360cc37809e836dea01a3f597efec9d0535e4eb66e81f8c4eb20",
+    "ko": "붓꽃 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06956",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06957",
+    "source_sha256": "3fa84b924220e414733437153c7ac6238518a91474534f251ddb83a83a80ded2",
+    "ko": "난초 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06961",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06962",
+    "source_sha256": "3fa84b924220e414733437153c7ac6238518a91474534f251ddb83a83a80ded2",
+    "ko": "난초 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06966",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06967",
+    "source_sha256": "3fa84b924220e414733437153c7ac6238518a91474534f251ddb83a83a80ded2",
+    "ko": "난초 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06971",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06972",
+    "source_sha256": "3fa84b924220e414733437153c7ac6238518a91474534f251ddb83a83a80ded2",
+    "ko": "난초 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06976",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06977",
+    "source_sha256": "3fa84b924220e414733437153c7ac6238518a91474534f251ddb83a83a80ded2",
+    "ko": "난초 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06981",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06982",
+    "source_sha256": "1c9b497fc9d52284a5f6de1942163032b6089266439f48d96e3ee059a37441b8",
+    "ko": "조개 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06989",
+    "source_sha256": "f7759b6ca471503828a8f520c0cac7b213efe86d54ed824066cacc402d4c653f",
+    "ko": "덫 회수하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06995",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06996",
+    "source_sha256": "49407a0ed8e1b337232b0363351596e675cf3b6d7d6ed39ece2907c94601c7ef",
+    "ko": "칸탈루프 멜론 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06999",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07000",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07001",
+    "source_sha256": "60ab27bf09d8cd1f565be5e7609a26e329eb17f933d6937dce1a90dc16f301e4",
+    "ko": "당근 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07004",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07005",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07006",
+    "source_sha256": "2280c543a3f00cde451269253332e822be591138f1ff2a61a227476c8493402e",
+    "ko": "옥수수 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07009",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07010",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07011",
+    "source_sha256": "2e976cb17a3052d5dade5088894a710398e1886912bd52ec92df6b67bb38232f",
+    "ko": "오이 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07014",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07015",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07016",
+    "source_sha256": "af45b32f09fa5607914415c53bacf5015efc60190f1eac265cb0c63e854206fe",
+    "ko": "마늘 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07019",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07020",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07021",
+    "source_sha256": "c605c7df9f9f174ef929472e4f1343babf3f931c331e553fc22009dcde2369de",
+    "ko": "생강 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07024",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07025",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07030",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07031",
+    "source_sha256": "ff9073c2f9b8cb731562e757c79c94ed2a0408bb7d577711cec9c4a140fdc21f",
+    "ko": "쪽잎 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07035",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07036",
+    "source_sha256": "75c535df1ab67039303b28ec805f8f9e183f067fefc8a5458c80152132fe893d",
+    "ko": "긴콩 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07039",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07040",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07041",
+    "source_sha256": "254a04f773533725b210bbd85734f9df0c7595a5f81bbc90f798acb84d8d9087",
+    "ko": "맨드레이크 뿌리 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07044",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07045",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07046",
+    "source_sha256": "6fea64deee51c713329ffbc318e8e6277a241fbde45a5caa99a3f43289fcd8c1",
+    "ko": "양파 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07049",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07050",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07051",
+    "source_sha256": "c3d48caef6ac4a92c1f5ea50f721071266983439d6de601fe7621fa1c0d83f03",
+    "ko": "파인애플 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07054",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07055",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07056",
+    "source_sha256": "6f4da57944f824d65cafe80a511b094c192f511acb3a35ab004e97eadbe8b4e2",
+    "ko": "호박 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07059",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07060",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07061",
+    "source_sha256": "6f95ab68896a2b09832423e917889e8300392a54e09caa1d34f70d585d60bc8b",
+    "ko": "쌀 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07064",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07065",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07066",
+    "source_sha256": "e4efea5eef098aba60bc28aa3b6d535863aa2659e9e2ee07432809c685daafaa",
+    "ko": "사이잘삼 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07070",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07071",
+    "source_sha256": "a81a33e36f931453f9b20023ecae4c4f18c0bfad4746120d6007cd73940bfb27",
+    "ko": "비누 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07074",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07075",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07076",
+    "source_sha256": "22129f542b31696e2aa1603ca03c627ec70e463b3f4c266db3656bcb65dffb48",
+    "ko": "딸기 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07079",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07080",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07081",
+    "source_sha256": "bbcddeb7d09af62631b6573d98c33248e0a4e28e555b10d5dd11a3b349a53990",
+    "ko": "사탕수수 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07084",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07085",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07086",
+    "source_sha256": "b2c87dec47817ca6879677fe67af97d5611337ca91b7e0299dbc63440264669b",
+    "ko": "토란 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07089",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07090",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07091",
+    "source_sha256": "af8f768e456bed1cff71e02cfb5a8351a9a229c73a4cab46260f5aaac49e07d3",
+    "ko": "토마토 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07094",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07095",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07096",
+    "source_sha256": "2e976cb17a3052d5dade5088894a710398e1886912bd52ec92df6b67bb38232f",
+    "ko": "오이 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07099",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07100",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07101",
+    "source_sha256": "75c535df1ab67039303b28ec805f8f9e183f067fefc8a5458c80152132fe893d",
+    "ko": "긴콩 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07104",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07105",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07106",
+    "source_sha256": "22129f542b31696e2aa1603ca03c627ec70e463b3f4c266db3656bcb65dffb48",
+    "ko": "딸기 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07109",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07110",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07111",
+    "source_sha256": "af8f768e456bed1cff71e02cfb5a8351a9a229c73a4cab46260f5aaac49e07d3",
+    "ko": "토마토 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07114",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07115",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07116",
+    "source_sha256": "e34d1007ce11cd2c595659fd23455fff19bfe5493f4a466f55fe300852f9b6f3",
+    "ko": "강황 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07119",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07120",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07136",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07137",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07138",
+    "source_sha256": "cca5b91f80ea823d9d4df06b2d59412e606447dfd772920d8f746bee4065720e",
+    "ko": "밀 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07141",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07142",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07143",
+    "source_sha256": "614bf0e0aa456f50ace5018351c3c9e5569ddbf5cf490e88a4014b946d416c4d",
+    "ko": "얌 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07146",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07147",
+    "source_sha256": "eeed935a43a990b835411dff6d1079c8965649fab38d6490c7ad0d132c6c6ef5",
+    "ko": "식물 제거하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07151",
+    "source_sha256": "2566fd7e88d20adf13a836e9bddff0542dcd5d689f7be0b5ac1840c70e9f7791",
+    "ko": "도끼 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_07154",
+    "source_sha256": "e5bd2ec7ba0e0a375a70549b52d97cae2767a44f6d3f46a5d0e8cb2c335f54c4",
+    "ko": "아몬드 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07157",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07158",
+    "source_sha256": "2548cec78893e74a190c2ee05cc573fcc436e7932d11fcfbf622b9d0305da3c3",
+    "ko": "아보카도 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07161",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07165",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07166",
+    "source_sha256": "f9a45d4e58d2169503e7daa32c8bf260061a05735c52e77885d8258b0fa16436",
+    "ko": "벌집 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07169",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07171",
+    "source_sha256": "02a794cdc07d6036110657cdbd34d38c4959cda06157858daa05896708d7910a",
+    "ko": "연기로 벌 쫓기"
+  },
+  {
+    "id": "TXT_SimsObjects_07172",
+    "source_sha256": "2983a81d9adb577794e9f75e5a79eadb98b701430422f86675d905af85befa9f",
+    "ko": "블러드오렌지 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07175",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07176",
+    "source_sha256": "439e82d24b87c2dcd73376ba1223bbee99cd95c1f5817e57411d5ee3299ba583",
+    "ko": "브라질너트 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07179",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07180",
+    "source_sha256": "8b1492c27f380840b8dd5fd7d004fa0db417627fa27e7a7af017c7dbf70e889d",
+    "ko": "빵나무 열매 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07183",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07184",
+    "source_sha256": "4fe9c483964ebf81df7d4aead08d531ead578522aa9e104e0e8f45378560d4ee",
+    "ko": "카카오 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07187",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07188",
+    "source_sha256": "2cc440aa13721fce8b459134efeaa4e2ab3ecd1018ece0ffa3a1d785f20b7263",
+    "ko": "캐논볼나무 열매 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07191",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07192",
+    "source_sha256": "459470a7aa6bf9f4dff3da9c3fb9ae31b5f24a6f526200f28551df94ce8d4640",
+    "ko": "캐슈너트 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07195",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07199",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07200",
+    "source_sha256": "fb86ef6fcbca80aa5d363bc6861af2ac1b2688b8c4b1d2bf5913f636cd56153f",
+    "ko": "대추야자 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07203",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07204",
+    "source_sha256": "3091ce79b5559d64421019aa3c21c60ad391406367f996ee1ce750f931c222d8",
+    "ko": "자몽 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07207",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07208",
+    "source_sha256": "9b56da68686eaeba1eaeb2433ee5e448386bb80387b5c186576dd5890ac0ac45",
+    "ko": "구아바 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07211",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07212",
+    "source_sha256": "5fac5e0e7105cbc1bebfaf7012b2bdc3114c225b708d22c57bc0061b272daf3b",
+    "ko": "피직너트 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07215",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07219",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07220",
+    "source_sha256": "21f8c6ec8ccc033f8a25524488991eb3e23c9b3b8bc1f47305b78dbf885c1ad2",
+    "ko": "쿠쿠이 열매 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07223",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07224",
+    "source_sha256": "d2a2177cf92bbe30e8788a1709817752163c6ad4f4b1c3c78f18a1b0045159a9",
+    "ko": "레몬 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07227",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07228",
+    "source_sha256": "a3c7d7aed53aeec088c0d1463d126ee0552a3d3bd1b8339dbac26a54c2cd3c59",
+    "ko": "라임 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07231",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07232",
+    "source_sha256": "0e60ee3930a8d6e840720b517dfc254b1da904b17c3f814816823504d03dee75",
+    "ko": "리치 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07235",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07236",
+    "source_sha256": "0e9ba64aeb41a877d581ff57802b4989d70793dd819e719932bef57e1c2582e1",
+    "ko": "마카다미아 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07239",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07240",
+    "source_sha256": "13154cf27c0c7646e01ed053813dd0454d447724ee586af7efb6676ece9d351b",
+    "ko": "만치닐 열매 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07243",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07244",
+    "source_sha256": "375d7b763ced60218e4e55ff90f93008893ec1f8963b18f445d519cd767fc9a1",
+    "ko": "망고 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07247",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07248",
+    "source_sha256": "37eca407bb3179957bdb6bcc635c93082e152675a7a35f8ef6dfebeeb85c58e2",
+    "ko": "망고스틴 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07251",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07255",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07256",
+    "source_sha256": "2f9038657aaa98207eec4bdfaeddb722dd1a697fd57c76c95e5d66b0c3d1ee93",
+    "ko": "파파야 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07259",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07260",
+    "source_sha256": "c578ba3f4e19eadabf827b920b1400fa2ef78b59dcd1867e7564990a05b331fc",
+    "ko": "복숭아 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07263",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07264",
+    "source_sha256": "7cec6b276c420763ee4075b9808a35a84486f01f7ab6c61e97e049e3383af357",
+    "ko": "감 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07267",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07272",
+    "source_sha256": "b8db5215d13de42fbee848b36913f289e9cc79a59c1f31d1546ac53b09f4ccaa",
+    "ko": "럼베리 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07275",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07276",
+    "source_sha256": "6326e9b8359874259e264127d3bd17febd0ad33530ca820ecbab2895ca4d5d3e",
+    "ko": "백단향 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07280",
+    "source_sha256": "41011eccc7a7b94a54a5c5db74f84527522d09990f012d916fb1face7de46a91",
+    "ko": "스타프루트 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07283",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07284",
+    "source_sha256": "8ed56b66f0c5e1cf1f311dbb3e7d76b2edf30b9848211acb20ca20cb97fbb572",
+    "ko": "스트리크닌 열매 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07287",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07288",
+    "source_sha256": "264cc9c808034e605bcbdee763e38794e96591226dce1747f75ddc54396d2d31",
+    "ko": "귤 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07291",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07292",
+    "source_sha256": "2ed4c84ba4a35ad106f94c6c328045b9bdbb09b99846d6182eb2a6db8e9c6f8a",
+    "ko": "티나무 잎 수확하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07295",
+    "source_sha256": "4786cd5110a4a25d7f290ecdc62053c3e521475e725dcee6df863e0e86fd9c60",
+    "ko": "종류 알아보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07300",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07301",
+    "source_sha256": "411e3bfbf32798ab65649d72177f675bddb70bddaa254595379789fe82c85d49",
+    "ko": "여럿이 먹을 식사"
+  },
+  {
+    "id": "TXT_SimsObjects_07302",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07303",
+    "source_sha256": "411e3bfbf32798ab65649d72177f675bddb70bddaa254595379789fe82c85d49",
+    "ko": "여럿이 먹을 식사"
+  },
+  {
+    "id": "TXT_SimsObjects_07304",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07305",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_07306",
+    "source_sha256": "23f8d1ed4136f0c254a66b63b6ded1cae6cdaeb76ff97662d2fbeb20f276aaec",
+    "ko": "애도하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07307",
+    "source_sha256": "23f8d1ed4136f0c254a66b63b6ded1cae6cdaeb76ff97662d2fbeb20f276aaec",
+    "ko": "애도하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07308",
+    "source_sha256": "23d2d73543f9d7d92ac704296e5ee744037f5f4c938e21abf2c17002c4e9ba71",
+    "ko": "춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_07309",
+    "source_sha256": "afa8d9ec0e87f7fd0c5ac46b6d36a8a1082a459a59af30b530a4f080272e40c0",
+    "ko": "추도하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07310",
+    "source_sha256": "afa8d9ec0e87f7fd0c5ac46b6d36a8a1082a459a59af30b530a4f080272e40c0",
+    "ko": "추도하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07313",
+    "source_sha256": "23f8d1ed4136f0c254a66b63b6ded1cae6cdaeb76ff97662d2fbeb20f276aaec",
+    "ko": "애도하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07316",
+    "source_sha256": "4ecee8fb63d4edd6593248471082f224e48578516b349c140364aca75ee570d0",
+    "ko": "데이지 꺾기"
+  },
+  {
+    "id": "TXT_SimsObjects_07317",
+    "source_sha256": "41c2c89f8d5ba47b9d287c85c879dc34d54ed29af50b81756045b903887e237d",
+    "ko": "물약 붓기"
+  },
+  {
+    "id": "TXT_SimsObjects_07318",
+    "source_sha256": "673ca76196cb4e7f52a49c24d058be1e35be1528336dc4edf903d0b5c7200b7a",
+    "ko": "부활하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07319",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07322",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07325",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07328",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07330",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07332",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07334",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07335",
+    "source_sha256": "88f8defcd3675ea8cbebcccda5bc80805b777a5d7f94de881bf928f25543167d",
+    "ko": "심 부르기"
+  },
+  {
+    "id": "TXT_SimsObjects_07338",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07339",
+    "source_sha256": "3f3f8baad08c9ccc4a3e02a17d042b76a1b75162b22bdf00f7273efd896fd5d0",
+    "ko": "낚시하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07342",
+    "source_sha256": "6755fb53dec943ba2ea045d217fcc7f8f6f93653323fa3428471d74b752b3ef8",
+    "ko": "꺼내기"
+  },
+  {
+    "id": "TXT_SimsObjects_07343",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07344",
+    "source_sha256": "3f3f8baad08c9ccc4a3e02a17d042b76a1b75162b22bdf00f7273efd896fd5d0",
+    "ko": "낚시하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07347",
+    "source_sha256": "6755fb53dec943ba2ea045d217fcc7f8f6f93653323fa3428471d74b752b3ef8",
+    "ko": "꺼내기"
+  },
+  {
+    "id": "TXT_SimsObjects_07348",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07350",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07353",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07356",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07358",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07360",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07362",
+    "source_sha256": "6755fb53dec943ba2ea045d217fcc7f8f6f93653323fa3428471d74b752b3ef8",
+    "ko": "꺼내기"
+  },
+  {
+    "id": "TXT_SimsObjects_07364",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07365",
+    "source_sha256": "6755fb53dec943ba2ea045d217fcc7f8f6f93653323fa3428471d74b752b3ef8",
+    "ko": "꺼내기"
+  },
+  {
+    "id": "TXT_SimsObjects_07368",
+    "source_sha256": "6755fb53dec943ba2ea045d217fcc7f8f6f93653323fa3428471d74b752b3ef8",
+    "ko": "꺼내기"
+  },
+  {
+    "id": "TXT_SimsObjects_07369",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07370",
+    "source_sha256": "6724a9302747523a5733742d2c6d6ac9efd5cee751ba8aeacd3d3b545ce783fb",
+    "ko": "바느질 도구 사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07372",
+    "source_sha256": "6755fb53dec943ba2ea045d217fcc7f8f6f93653323fa3428471d74b752b3ef8",
+    "ko": "꺼내기"
+  },
+  {
+    "id": "TXT_SimsObjects_07375",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07378",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07379",
+    "source_sha256": "6755fb53dec943ba2ea045d217fcc7f8f6f93653323fa3428471d74b752b3ef8",
+    "ko": "꺼내기"
+  },
+  {
+    "id": "TXT_SimsObjects_07380",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07382",
+    "source_sha256": "6755fb53dec943ba2ea045d217fcc7f8f6f93653323fa3428471d74b752b3ef8",
+    "ko": "꺼내기"
+  },
+  {
+    "id": "TXT_SimsObjects_07383",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07384",
+    "source_sha256": "b18a31b3e98968a1b5163ab98b9112cfc52c4effa8ca20d0c9d0923dc99e6883",
+    "ko": "화장지 사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07386",
+    "source_sha256": "6755fb53dec943ba2ea045d217fcc7f8f6f93653323fa3428471d74b752b3ef8",
+    "ko": "꺼내기"
+  },
+  {
+    "id": "TXT_SimsObjects_07387",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07390",
+    "source_sha256": "6755fb53dec943ba2ea045d217fcc7f8f6f93653323fa3428471d74b752b3ef8",
+    "ko": "꺼내기"
+  },
+  {
+    "id": "TXT_SimsObjects_07396",
+    "source_sha256": "00b83efe7a60600cf229c37473cf8ed36ea3f36cce9d4d014bf52be1ad3a30a7",
+    "ko": "부지 떠나기"
+  },
+  {
+    "id": "TXT_SimsObjects_07401",
+    "source_sha256": "b85cf0888f791b8d77d510340e0dd1fcfd47485d04623e1a17ed5f4cc4ed84e5",
+    "ko": "쓰레기통 비우기"
+  },
+  {
+    "id": "TXT_SimsObjects_07402",
+    "source_sha256": "d26591aee9a285e47b177c5eb2c5f523b38fe280a26e5bff2ec91bd36e14a981",
+    "ko": "쓰레기 버리기"
+  },
+  {
+    "id": "TXT_SimsObjects_07403",
+    "source_sha256": "e8b5beacf02bbdea37bd09d9fc00bcc4f558831bb212d998314db8da3b8ca337",
+    "ko": "쓰레기통 넘어뜨리기"
+  },
+  {
+    "id": "TXT_SimsObjects_07404",
+    "source_sha256": "d26591aee9a285e47b177c5eb2c5f523b38fe280a26e5bff2ec91bd36e14a981",
+    "ko": "쓰레기 버리기"
+  }
+]

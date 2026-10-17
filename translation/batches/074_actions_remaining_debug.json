@@ -1,0 +1,1827 @@
+[
+  {
+    "id": "TXT_SimsObjects_06005",
+    "source_sha256": "87c1e3c753c07e2fc22408efc251d20794ddd306825d33c7362de4c9b4de629c",
+    "ko": "디버그 - 성장 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_06028",
+    "source_sha256": "e5492aa849bdf457374cb73fc8c45754410329e010e05949d88191406ba7ad84",
+    "ko": "디버그 - 우편 배달"
+  },
+  {
+    "id": "TXT_SimsObjects_06032",
+    "source_sha256": "ace69962a7f6d5335488530a5f6ab5c790f7b32f83b0a365dafc81b3fd2efc9d",
+    "ko": "디버그 애니메이션 시험"
+  },
+  {
+    "id": "TXT_SimsObjects_06036",
+    "source_sha256": "3055a78ee5dc29255642d0cfc55e778ca46eeebda31e5eaad2a822dd740e59b1",
+    "ko": "디버그 - 상태 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_06043",
+    "source_sha256": "2523e3b6abd47ff91643d28cccd1399cc5bbfc56509772d1df1d10e18bf3050b",
+    "ko": "디버그 - 직업 승급 및 옷 갈아입기"
+  },
+  {
+    "id": "TXT_SimsObjects_06048",
+    "source_sha256": "87306b58667c7b0d10adbb4a57e50778b58f75855b897b5baade73df27c632f8",
+    "ko": "디버그 - 작업복 입기"
+  },
+  {
+    "id": "TXT_SimsObjects_06049",
+    "source_sha256": "0269a92b442627ffe681b9d8f22d48c6838fd88e6f9a9eedeac3172e8b22a9cf",
+    "ko": "디버그 - 평상복 입기"
+  },
+  {
+    "id": "TXT_SimsObjects_06061",
+    "source_sha256": "3e0ddb18b8370df6b3f46bd64d37c863b0ef7a44a9f7fa37bb2b68cd25bd064c",
+    "ko": "디버그 - 부지 떠나기"
+  },
+  {
+    "id": "TXT_SimsObjects_06062",
+    "source_sha256": "6d0326131b7c4c46268ef60eef62666433ce5f3335fe50a99a7d5bc398a86209",
+    "ko": "임시 - 자신 죽이기 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06064",
+    "source_sha256": "a61121cb7b3fca9e0920e6736a723c34bbd81ab7bc8beb51cc9bf5ed421757ec",
+    "ko": "임시 - 뒤로 공중제비 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06065",
+    "source_sha256": "8db9b228397bc638ea680af25a32ce2ea415bc10b10cd8df73d5b51b4e3b8fa3",
+    "ko": "디버그 - 뒤로 공중제비"
+  },
+  {
+    "id": "TXT_SimsObjects_06066",
+    "source_sha256": "327c573bd84db6a07e928c0f28fc17d18220c43728a00c9f059c848a4356c494",
+    "ko": "임시 - 관심 끌기 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06067",
+    "source_sha256": "275f2ba158d8edf30a0bfe5b1078f3dd21cab75cfc0ab1c830caacff0db8bf78",
+    "ko": "디버그 - 관심 끌기 - 대화"
+  },
+  {
+    "id": "TXT_SimsObjects_06068",
+    "source_sha256": "86a5c98e82ecd4634dc18affa5aed00b4c97ce2ed530b9e14bf56839093ef089",
+    "ko": "임시 - 관심 끌기 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06069",
+    "source_sha256": "0e21ab664d9bc3f48c80b759a66106797f3600b501ab14314e226932bc193e8e",
+    "ko": "디버그 - 관심 끌기 - 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06070",
+    "source_sha256": "c50684e933517b7cf99636edec3c697ba945647e34336d571020b49e4a638c63",
+    "ko": "임시 - 관심 끌기 - 안기 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06071",
+    "source_sha256": "1ab76c6a96cc800e27fa2a2da9b3b586e6fa6bfac692f4714cce46a785943cce",
+    "ko": "디버그 - 관심 끌기 - 안기"
+  },
+  {
+    "id": "TXT_SimsObjects_06072",
+    "source_sha256": "910254cfbe81f5a5894a2b98cbc66341402a1a9a8e994d45001f4f86c4a030e8",
+    "ko": "임시 - "
+  },
+  {
+    "id": "TXT_SimsObjects_06075",
+    "source_sha256": "e0716ce8807374cfe6e475f68beb3aa404834b7b2142067b9a8786cff5c6b9de",
+    "ko": "임시 - 가져오기"
+  },
+  {
+    "id": "TXT_SimsObjects_06078",
+    "source_sha256": "025b0a56d2a429c83d60e6e7dacbc73aa0abb166ec4469dd4fe048e2481cb0e6",
+    "ko": "임시 - 저글링"
+  },
+  {
+    "id": "TXT_SimsObjects_06080",
+    "source_sha256": "cefe215a680bd1f950c063ed9431277e81d4795e2a08101a0d7c326d47f5f871",
+    "ko": "임시 - 안고 떠나기 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06081",
+    "source_sha256": "60603a99fe0a0aabe715131993605122822134747b2f095793f3b07abbc21073",
+    "ko": "임시 - 바나나 먹기 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06083",
+    "source_sha256": "1a47b8af04fd6825c8ddd381162b7518bf345ca020e7440eaf03d9bb353f67fa",
+    "ko": "임시 - 침팬지 대화 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06084",
+    "source_sha256": "7bd45c6eee9afa57e68075ef91965ecb94600cd1db2a981bc6624804414665b0",
+    "ko": "임시 - 침팬지 털 고르기 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06085",
+    "source_sha256": "6faaf094bf821439ea372c56e01372fab9a09ee3ce86758a441e5462b597c016",
+    "ko": "디버그 - 침팬지 대화"
+  },
+  {
+    "id": "TXT_SimsObjects_06087",
+    "source_sha256": "24105776f94396b5d1a506ae2dc5fda2ed7ddda37153778114e6e2fcaa05df99",
+    "ko": "디버그 되살아나기 ($100)"
+  },
+  {
+    "id": "TXT_SimsObjects_06088",
+    "source_sha256": "2efe9b0d71e77b9e4bcaa0eb091be84878e9339f860ebd4362941109dd2cb08a",
+    "ko": "이동 경로에서 밀어내기"
+  },
+  {
+    "id": "TXT_SimsObjects_06089",
+    "source_sha256": "3e0ddb18b8370df6b3f46bd64d37c863b0ef7a44a9f7fa37bb2b68cd25bd064c",
+    "ko": "디버그 - 부지 떠나기"
+  },
+  {
+    "id": "TXT_SimsObjects_06090",
+    "source_sha256": "6d0326131b7c4c46268ef60eef62666433ce5f3335fe50a99a7d5bc398a86209",
+    "ko": "임시 - 자신 죽이기 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06091",
+    "source_sha256": "febe1d741b49e5a9c31526728d8c5134a803adfc4c04c4f052673722ed85597e",
+    "ko": "미사용"
+  },
+  {
+    "id": "TXT_SimsObjects_06092",
+    "source_sha256": "a61121cb7b3fca9e0920e6736a723c34bbd81ab7bc8beb51cc9bf5ed421757ec",
+    "ko": "임시 - 뒤로 공중제비 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06093",
+    "source_sha256": "8db9b228397bc638ea680af25a32ce2ea415bc10b10cd8df73d5b51b4e3b8fa3",
+    "ko": "디버그 - 뒤로 공중제비"
+  },
+  {
+    "id": "TXT_SimsObjects_06094",
+    "source_sha256": "327c573bd84db6a07e928c0f28fc17d18220c43728a00c9f059c848a4356c494",
+    "ko": "임시 - 관심 끌기 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06095",
+    "source_sha256": "275f2ba158d8edf30a0bfe5b1078f3dd21cab75cfc0ab1c830caacff0db8bf78",
+    "ko": "디버그 - 관심 끌기 - 대화"
+  },
+  {
+    "id": "TXT_SimsObjects_06096",
+    "source_sha256": "327c573bd84db6a07e928c0f28fc17d18220c43728a00c9f059c848a4356c494",
+    "ko": "임시 - 관심 끌기 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06097",
+    "source_sha256": "0e21ab664d9bc3f48c80b759a66106797f3600b501ab14314e226932bc193e8e",
+    "ko": "디버그 - 관심 끌기 - 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06098",
+    "source_sha256": "327c573bd84db6a07e928c0f28fc17d18220c43728a00c9f059c848a4356c494",
+    "ko": "임시 - 관심 끌기 - 번역 대상 아님"
+  },
+  {
+    "id": "TXT_SimsObjects_06099",
+    "source_sha256": "1ab76c6a96cc800e27fa2a2da9b3b586e6fa6bfac692f4714cce46a785943cce",
+    "ko": "디버그 - 관심 끌기 - 안기"
+  },
+  {
+    "id": "TXT_SimsObjects_06100",
+    "source_sha256": "392b472f999682ef33473c23a9151ccb710647e407473d82cf10a68622e5b5be",
+    "ko": "디버그 - 관심 끌기"
+  },
+  {
+    "id": "TXT_SimsObjects_06109",
+    "source_sha256": "9cf6d8ac299f9c70f127d1f632e7ff1857bff6a78b2d5d0ba1d80f100537817e",
+    "ko": "디버그 - 침팬지 털 고르기"
+  },
+  {
+    "id": "TXT_SimsObjects_06110",
+    "source_sha256": "6faaf094bf821439ea372c56e01372fab9a09ee3ce86758a441e5462b597c016",
+    "ko": "디버그 - 침팬지 대화"
+  },
+  {
+    "id": "TXT_SimsObjects_06111",
+    "source_sha256": "68b2101b3dea15b5f5317485dc3a4b26fff0bb062d44066392177c240fc38158",
+    "ko": "디버그 - 심에게 바나나 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06114",
+    "source_sha256": "9e1ddd005725868ebe41cf18e5f1f6287240c2ee39fdf4e237002fd1c347976f",
+    "ko": "자신 죽이기"
+  },
+  {
+    "id": "TXT_SimsObjects_06118",
+    "source_sha256": "f6db80e6f471971e2881cc1b488d5ccae89650cda75e88162140f2e5fd248905",
+    "ko": "디버그 - 멧돼지 쫓아내기"
+  },
+  {
+    "id": "TXT_SimsObjects_06120",
+    "source_sha256": "7e09b10181b9ab7d6d7c2f2bd2fc8ad9d6f6a2df935d32faf58c9acb2a160457",
+    "ko": "디버그 - 안기"
+  },
+  {
+    "id": "TXT_SimsObjects_06121",
+    "source_sha256": "3e0ddb18b8370df6b3f46bd64d37c863b0ef7a44a9f7fa37bb2b68cd25bd064c",
+    "ko": "디버그 - 부지 떠나기"
+  },
+  {
+    "id": "TXT_SimsObjects_06123",
+    "source_sha256": "d1c6ac5a03529c93f9242a0589ef98ee8651c4c661302d39a4cf231359fd51df",
+    "ko": "디버그 - 자신 죽이기"
+  },
+  {
+    "id": "TXT_SimsObjects_06124",
+    "source_sha256": "8db9b228397bc638ea680af25a32ce2ea415bc10b10cd8df73d5b51b4e3b8fa3",
+    "ko": "디버그 - 뒤로 공중제비"
+  },
+  {
+    "id": "TXT_SimsObjects_06125",
+    "source_sha256": "8db9b228397bc638ea680af25a32ce2ea415bc10b10cd8df73d5b51b4e3b8fa3",
+    "ko": "디버그 - 뒤로 공중제비"
+  },
+  {
+    "id": "TXT_SimsObjects_06127",
+    "source_sha256": "275f2ba158d8edf30a0bfe5b1078f3dd21cab75cfc0ab1c830caacff0db8bf78",
+    "ko": "디버그 - 관심 끌기 - 대화"
+  },
+  {
+    "id": "TXT_SimsObjects_06128",
+    "source_sha256": "0e21ab664d9bc3f48c80b759a66106797f3600b501ab14314e226932bc193e8e",
+    "ko": "디버그 - 관심 끌기 - 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06129",
+    "source_sha256": "1ab76c6a96cc800e27fa2a2da9b3b586e6fa6bfac692f4714cce46a785943cce",
+    "ko": "디버그 - 관심 끌기 - 안기"
+  },
+  {
+    "id": "TXT_SimsObjects_06130",
+    "source_sha256": "75208a4fe50af49e8509b72daba71a927cc53b4523ebc14a04f16182264a9a6b",
+    "ko": "디버그 - 멧돼지 돌진"
+  },
+  {
+    "id": "TXT_SimsObjects_06132",
+    "source_sha256": "cf1772f9c42f5a4ef7563aaf8c0ba5da91e7fa43409f76f6ede909335e694bd0",
+    "ko": "디버그 - 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06138",
+    "source_sha256": "6506ad85fc8e73c450d49e89c87c7a155806aaddae57ef171fa600e5b3ec8615",
+    "ko": "디버그 - 안고 떠나기"
+  },
+  {
+    "id": "TXT_SimsObjects_06139",
+    "source_sha256": "ab602cc4dd4269f817876ef2b35e7a0b3ed2f2bf0a61ce7998b4422fadb8d0c9",
+    "ko": "디버그 - 바나나 먹기"
+  },
+  {
+    "id": "TXT_SimsObjects_06141",
+    "source_sha256": "64836b51c30ec9d7754ecb83779c1e92c0878d806297ee5aad8f3da14f3d512e",
+    "ko": "디버그 - 침팬지 대화"
+  },
+  {
+    "id": "TXT_SimsObjects_06142",
+    "source_sha256": "942a81e9f7f1da36cfd830909472b20ec89749917c888bb145469ee3da0b3810",
+    "ko": "디버그 - 털 고르기"
+  },
+  {
+    "id": "TXT_SimsObjects_06143",
+    "source_sha256": "6faaf094bf821439ea372c56e01372fab9a09ee3ce86758a441e5462b597c016",
+    "ko": "디버그 - 침팬지 대화"
+  },
+  {
+    "id": "TXT_SimsObjects_06145",
+    "source_sha256": "34d7f5e9d5921ba190b041e7d6656f49e4f1e18c8ab725fd4611c1f1df51de0c",
+    "ko": "디버그 - 침팬지 수집"
+  },
+  {
+    "id": "TXT_SimsObjects_06146",
+    "source_sha256": "8b40715d3735ee941b891572d179932caf45f799a85ce1a24d86d56ece1fa75e",
+    "ko": "디버그 - 자원 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_06147",
+    "source_sha256": "59963a9a73f1119be2876817dd17e73dc874f6e27af047dca6c1c7568379ba23",
+    "ko": "디버그 - 선물 가져오기 (person_sg에서 지시)"
+  },
+  {
+    "id": "TXT_SimsObjects_06148",
+    "source_sha256": "15f08ad61b4971a2b756a43060ed0cb9e5ec891ae053454bceea2285ee44c41b",
+    "ko": "디버그 - 모래 친구 머리 훔치기"
+  },
+  {
+    "id": "TXT_SimsObjects_06155",
+    "source_sha256": "a30704531204d2426a375bcc2c7370750c7cdc332daed0298655f2a8650095ca",
+    "ko": "디버그 - 침팬지 쫓아내기"
+  },
+  {
+    "id": "TXT_SimsObjects_06185",
+    "source_sha256": "f07da6df6b68fd7973a83b7e464985814521b865fc36698a7c56901d5749b9a1",
+    "ko": "디버그 따라가기"
+  },
+  {
+    "id": "TXT_SimsObjects_06198",
+    "source_sha256": "08d7af107653993b5e258b6a89ed253a12d150a0cb68953c477a30a7ee6420fd",
+    "ko": "디버그 - 메뉴"
+  },
+  {
+    "id": "TXT_SimsObjects_06206",
+    "source_sha256": "b31f3dacfe416bd9ad23065cd2f2c37031a367631b3c8461a81765e413078c35",
+    "ko": "임시 나를 삭제"
+  },
+  {
+    "id": "TXT_SimsObjects_06255",
+    "source_sha256": "05bcbde137c7853f1b14a1a47886a591a6bfbf8d57b8a7d523da35b045b0e13c",
+    "ko": "디버그 - 강제로 건강하게"
+  },
+  {
+    "id": "TXT_SimsObjects_06256",
+    "source_sha256": "4da64b9b84ecd6a47c51f8991a683e453afdbda683594f9cae730da2e9e3cbb7",
+    "ko": "디버그 - 강제로 시들게"
+  },
+  {
+    "id": "TXT_SimsObjects_06257",
+    "source_sha256": "5e7a8e3bbc0793d57bc2cd631515dc3c50498b4f2dab848352f242adb0815ff4",
+    "ko": "디버그 - 강제로 죽은 상태로"
+  },
+  {
+    "id": "TXT_SimsObjects_06261",
+    "source_sha256": "05bcbde137c7853f1b14a1a47886a591a6bfbf8d57b8a7d523da35b045b0e13c",
+    "ko": "디버그 - 강제로 건강하게"
+  },
+  {
+    "id": "TXT_SimsObjects_06262",
+    "source_sha256": "4da64b9b84ecd6a47c51f8991a683e453afdbda683594f9cae730da2e9e3cbb7",
+    "ko": "디버그 - 강제로 시들게"
+  },
+  {
+    "id": "TXT_SimsObjects_06263",
+    "source_sha256": "5e7a8e3bbc0793d57bc2cd631515dc3c50498b4f2dab848352f242adb0815ff4",
+    "ko": "디버그 - 강제로 죽은 상태로"
+  },
+  {
+    "id": "TXT_SimsObjects_06267",
+    "source_sha256": "05bcbde137c7853f1b14a1a47886a591a6bfbf8d57b8a7d523da35b045b0e13c",
+    "ko": "디버그 - 강제로 건강하게"
+  },
+  {
+    "id": "TXT_SimsObjects_06268",
+    "source_sha256": "4da64b9b84ecd6a47c51f8991a683e453afdbda683594f9cae730da2e9e3cbb7",
+    "ko": "디버그 - 강제로 시들게"
+  },
+  {
+    "id": "TXT_SimsObjects_06269",
+    "source_sha256": "5e7a8e3bbc0793d57bc2cd631515dc3c50498b4f2dab848352f242adb0815ff4",
+    "ko": "디버그 - 강제로 죽은 상태로"
+  },
+  {
+    "id": "TXT_SimsObjects_06273",
+    "source_sha256": "05bcbde137c7853f1b14a1a47886a591a6bfbf8d57b8a7d523da35b045b0e13c",
+    "ko": "디버그 - 강제로 건강하게"
+  },
+  {
+    "id": "TXT_SimsObjects_06274",
+    "source_sha256": "4da64b9b84ecd6a47c51f8991a683e453afdbda683594f9cae730da2e9e3cbb7",
+    "ko": "디버그 - 강제로 시들게"
+  },
+  {
+    "id": "TXT_SimsObjects_06275",
+    "source_sha256": "5e7a8e3bbc0793d57bc2cd631515dc3c50498b4f2dab848352f242adb0815ff4",
+    "ko": "디버그 - 강제로 죽은 상태로"
+  },
+  {
+    "id": "TXT_SimsObjects_06279",
+    "source_sha256": "05bcbde137c7853f1b14a1a47886a591a6bfbf8d57b8a7d523da35b045b0e13c",
+    "ko": "디버그 - 강제로 건강하게"
+  },
+  {
+    "id": "TXT_SimsObjects_06280",
+    "source_sha256": "4da64b9b84ecd6a47c51f8991a683e453afdbda683594f9cae730da2e9e3cbb7",
+    "ko": "디버그 - 강제로 시들게"
+  },
+  {
+    "id": "TXT_SimsObjects_06281",
+    "source_sha256": "5e7a8e3bbc0793d57bc2cd631515dc3c50498b4f2dab848352f242adb0815ff4",
+    "ko": "디버그 - 강제로 죽은 상태로"
+  },
+  {
+    "id": "TXT_SimsObjects_06286",
+    "source_sha256": "05bcbde137c7853f1b14a1a47886a591a6bfbf8d57b8a7d523da35b045b0e13c",
+    "ko": "디버그 - 강제로 건강하게"
+  },
+  {
+    "id": "TXT_SimsObjects_06287",
+    "source_sha256": "4da64b9b84ecd6a47c51f8991a683e453afdbda683594f9cae730da2e9e3cbb7",
+    "ko": "디버그 - 강제로 시들게"
+  },
+  {
+    "id": "TXT_SimsObjects_06288",
+    "source_sha256": "5e7a8e3bbc0793d57bc2cd631515dc3c50498b4f2dab848352f242adb0815ff4",
+    "ko": "디버그 - 강제로 죽은 상태로"
+  },
+  {
+    "id": "TXT_SimsObjects_06293",
+    "source_sha256": "05bcbde137c7853f1b14a1a47886a591a6bfbf8d57b8a7d523da35b045b0e13c",
+    "ko": "디버그 - 강제로 건강하게"
+  },
+  {
+    "id": "TXT_SimsObjects_06294",
+    "source_sha256": "4da64b9b84ecd6a47c51f8991a683e453afdbda683594f9cae730da2e9e3cbb7",
+    "ko": "디버그 - 강제로 시들게"
+  },
+  {
+    "id": "TXT_SimsObjects_06295",
+    "source_sha256": "5e7a8e3bbc0793d57bc2cd631515dc3c50498b4f2dab848352f242adb0815ff4",
+    "ko": "디버그 - 강제로 죽은 상태로"
+  },
+  {
+    "id": "TXT_SimsObjects_06308",
+    "source_sha256": "ba8584da48ed6f0688f4c4fffc80246b1004aa8707469032b6c6c5c34355ee18",
+    "ko": "디버그 불러오기 (게임에 표시되지 않음)"
+  },
+  {
+    "id": "TXT_SimsObjects_06396",
+    "source_sha256": "a06d715fd320f03df95e3ee6a20e2aa3e24f854c43ade02de78bae70d1f566e3",
+    "ko": "디버그 - 왕관 지급"
+  },
+  {
+    "id": "TXT_SimsObjects_06416",
+    "source_sha256": "f5741c0bc31b25c9183a46e70c136c0af88997d68b50cf472003ee6b0dd157c8",
+    "ko": "디버그 - 반감 강화 시작"
+  },
+  {
+    "id": "TXT_SimsObjects_06417",
+    "source_sha256": "409a3204b8a128ff911c761189b950039ac6f807b0315ba63a69d6ad2b21f4c3",
+    "ko": "디버그 - 매력 강화 시작"
+  },
+  {
+    "id": "TXT_SimsObjects_06418",
+    "source_sha256": "5672af3f42344d1a951ba96dbdc57473d360b010035110030331589ccabfba95",
+    "ko": "디버그 - 에너지 강화 시작"
+  },
+  {
+    "id": "TXT_SimsObjects_06419",
+    "source_sha256": "3e372aeb23a17b6a7cbc97cdc9b54bab6a7db19bf8864418a9c84707f238acdb",
+    "ko": "디버그 - 기술 강화 시작"
+  },
+  {
+    "id": "TXT_SimsObjects_06420",
+    "source_sha256": "b76ff8f91e15c87e5682867e738cae429fbc4ed73a2807606ee8167eb21d690c",
+    "ko": "디버그 - 이뇨 강화 시작"
+  },
+  {
+    "id": "TXT_SimsObjects_06421",
+    "source_sha256": "973f02dc519ce29b1bab1ff371e581225599b72498fa8eed239a725516e79676",
+    "ko": "디버그 - 매력 강화 중지"
+  },
+  {
+    "id": "TXT_SimsObjects_06422",
+    "source_sha256": "d5f729f38e935b2c0490d7c4f98c7267a17c501eba71aa253892872bb0d2ead0",
+    "ko": "디버그 - 반감 강화 중지"
+  },
+  {
+    "id": "TXT_SimsObjects_06423",
+    "source_sha256": "560f45d1944cc40911e831c5630de4c44f0e61f35edbe61522f19e095a9b174e",
+    "ko": "디버그 - 에너지 강화 중지"
+  },
+  {
+    "id": "TXT_SimsObjects_06424",
+    "source_sha256": "dd0929d4a3c7eb57c7296fb7f62fdbde771e2bdc0ffc521267fec918271b259d",
+    "ko": "디버그 - 기술 강화 중지"
+  },
+  {
+    "id": "TXT_SimsObjects_06425",
+    "source_sha256": "b53bd7e4331ecef44a64ef38f1dbd7a20fbf1b87c9a3e65627f48bfce7bddc60",
+    "ko": "디버그 - 이뇨 강화 중지"
+  },
+  {
+    "id": "TXT_SimsObjects_06433",
+    "source_sha256": "f8ce2938f15898b1d9233d7fd8a887600123930630b6bea19b47bfa3ab7b8022",
+    "ko": "디버그 - 곧 성장하도록 설정"
+  },
+  {
+    "id": "TXT_SimsObjects_06438",
+    "source_sha256": "efd71717b79ee80bbf877b1c47233371361967f61b799f689b8927037f3470f1",
+    "ko": "디버그 - 소지품에 닭 덫 추가"
+  },
+  {
+    "id": "TXT_SimsObjects_06573",
+    "source_sha256": "945cff23b2826b6a6285d663171b9e9fd872bb9b5d1d69e44ff82673b05ea227",
+    "ko": "디버그 - 무작위화"
+  },
+  {
+    "id": "TXT_SimsObjects_06594",
+    "source_sha256": "5447b92764ed83d34cb8d47cac671f23c7ee1c468b24c02becc79c42022bbdc8",
+    "ko": "디버그 - 깔개 태우기"
+  },
+  {
+    "id": "TXT_SimsObjects_06595",
+    "source_sha256": "fadb8d88ba11716257f0d79ffe2ecef7db2275abf71a0deb4eec428bd281f292",
+    "ko": "디버그 잠자기"
+  },
+  {
+    "id": "TXT_SimsObjects_06601",
+    "source_sha256": "5447b92764ed83d34cb8d47cac671f23c7ee1c468b24c02becc79c42022bbdc8",
+    "ko": "디버그 - 깔개 태우기"
+  },
+  {
+    "id": "TXT_SimsObjects_06608",
+    "source_sha256": "5447b92764ed83d34cb8d47cac671f23c7ee1c468b24c02becc79c42022bbdc8",
+    "ko": "디버그 - 깔개 태우기"
+  },
+  {
+    "id": "TXT_SimsObjects_06622",
+    "source_sha256": "5447b92764ed83d34cb8d47cac671f23c7ee1c468b24c02becc79c42022bbdc8",
+    "ko": "디버그 - 깔개 태우기"
+  },
+  {
+    "id": "TXT_SimsObjects_06634",
+    "source_sha256": "c91e53aa5cd9fbb917606b511cfa465a4ffeb0cf906cfdf6884d10f7cdb9b471",
+    "ko": "디버그 - 머리 전환"
+  },
+  {
+    "id": "TXT_SimsObjects_06636",
+    "source_sha256": "8fd385bc055ba3e50b757c04229d979e25bd0e10055e99a0b86f7b4a4bd3e49e",
+    "ko": "디버그 - 머리 훔치기"
+  },
+  {
+    "id": "TXT_SimsObjects_06643",
+    "source_sha256": "03b9bb3ac9f649ecdbfa18eab297f4ff9def7a74e9e909ee5b1d7cff2f61846d",
+    "ko": "디버그 - 쓰러짐"
+  },
+  {
+    "id": "TXT_SimsObjects_06650",
+    "source_sha256": "86282fe060b28b7aa139b267d20067e94ecca11916a371c5df760f4a631aa101",
+    "ko": "디버그 - 보물 지도 지급"
+  },
+  {
+    "id": "TXT_SimsObjects_06660",
+    "source_sha256": "da3e9d5e5cdad265a312db413a9c62cd8de7d98b2257ed22f8331e47fadfedc0",
+    "ko": "임시 그림 그리기..."
+  },
+  {
+    "id": "TXT_SimsObjects_06661",
+    "source_sha256": "38ac5c35d138425a0e1a5558482a2336adf0e3af9bce0960d4bf7e7410bb8ddb",
+    "ko": "임시 그림 팔기"
+  },
+  {
+    "id": "TXT_SimsObjects_06663",
+    "source_sha256": "b498e705792da1c5af66e8ef21e94f01bd80162eda83f88d90e6b64f94b1af76",
+    "ko": "임시 놀이 중지"
+  },
+  {
+    "id": "TXT_SimsObjects_06664",
+    "source_sha256": "be50d0c0c5b0b2ed097ca24e141ddb7f28e20c279143a4d48179ec710216ac79",
+    "ko": "임시 여기 냄새 맡기"
+  },
+  {
+    "id": "TXT_SimsObjects_06707",
+    "source_sha256": "c395007b6a89cdb328799115a04247f45275b2baab3dfe8562c7ead61332c56c",
+    "ko": "디버그 - 재미있는 이야기하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06708",
+    "source_sha256": "c395007b6a89cdb328799115a04247f45275b2baab3dfe8562c7ead61332c56c",
+    "ko": "디버그 - 재미있는 이야기하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06794",
+    "source_sha256": "1788e99e02af769220a6cc6219f1e1fd20dacb00fe5996be9a21166e0d3a4ea3",
+    "ko": "디버그 - 추파 던지기"
+  },
+  {
+    "id": "TXT_SimsObjects_06795",
+    "source_sha256": "07cacf6b5585bf81041eb5e38f6839f3c024f834c86d82f2322be6cc00cb5a9f",
+    "ko": "디버그 (동적 메뉴)"
+  },
+  {
+    "id": "TXT_SimsObjects_06800",
+    "source_sha256": "1788e99e02af769220a6cc6219f1e1fd20dacb00fe5996be9a21166e0d3a4ea3",
+    "ko": "디버그 - 추파 던지기"
+  },
+  {
+    "id": "TXT_SimsObjects_06801",
+    "source_sha256": "07cacf6b5585bf81041eb5e38f6839f3c024f834c86d82f2322be6cc00cb5a9f",
+    "ko": "디버그 (동적 메뉴)"
+  },
+  {
+    "id": "TXT_SimsObjects_06806",
+    "source_sha256": "1788e99e02af769220a6cc6219f1e1fd20dacb00fe5996be9a21166e0d3a4ea3",
+    "ko": "디버그 - 추파 던지기"
+  },
+  {
+    "id": "TXT_SimsObjects_06807",
+    "source_sha256": "07cacf6b5585bf81041eb5e38f6839f3c024f834c86d82f2322be6cc00cb5a9f",
+    "ko": "디버그 (동적 메뉴)"
+  },
+  {
+    "id": "TXT_SimsObjects_06812",
+    "source_sha256": "1788e99e02af769220a6cc6219f1e1fd20dacb00fe5996be9a21166e0d3a4ea3",
+    "ko": "디버그 - 추파 던지기"
+  },
+  {
+    "id": "TXT_SimsObjects_06813",
+    "source_sha256": "07cacf6b5585bf81041eb5e38f6839f3c024f834c86d82f2322be6cc00cb5a9f",
+    "ko": "디버그 (동적 메뉴)"
+  },
+  {
+    "id": "TXT_SimsObjects_06818",
+    "source_sha256": "1788e99e02af769220a6cc6219f1e1fd20dacb00fe5996be9a21166e0d3a4ea3",
+    "ko": "디버그 - 추파 던지기"
+  },
+  {
+    "id": "TXT_SimsObjects_06819",
+    "source_sha256": "07cacf6b5585bf81041eb5e38f6839f3c024f834c86d82f2322be6cc00cb5a9f",
+    "ko": "디버그 (동적 메뉴)"
+  },
+  {
+    "id": "TXT_SimsObjects_06824",
+    "source_sha256": "1788e99e02af769220a6cc6219f1e1fd20dacb00fe5996be9a21166e0d3a4ea3",
+    "ko": "디버그 - 추파 던지기"
+  },
+  {
+    "id": "TXT_SimsObjects_06825",
+    "source_sha256": "07cacf6b5585bf81041eb5e38f6839f3c024f834c86d82f2322be6cc00cb5a9f",
+    "ko": "디버그 (동적 메뉴)"
+  },
+  {
+    "id": "TXT_SimsObjects_06830",
+    "source_sha256": "1788e99e02af769220a6cc6219f1e1fd20dacb00fe5996be9a21166e0d3a4ea3",
+    "ko": "디버그 - 추파 던지기"
+  },
+  {
+    "id": "TXT_SimsObjects_06831",
+    "source_sha256": "07cacf6b5585bf81041eb5e38f6839f3c024f834c86d82f2322be6cc00cb5a9f",
+    "ko": "디버그 (동적 메뉴)"
+  },
+  {
+    "id": "TXT_SimsObjects_06836",
+    "source_sha256": "1788e99e02af769220a6cc6219f1e1fd20dacb00fe5996be9a21166e0d3a4ea3",
+    "ko": "디버그 - 추파 던지기"
+  },
+  {
+    "id": "TXT_SimsObjects_06837",
+    "source_sha256": "07cacf6b5585bf81041eb5e38f6839f3c024f834c86d82f2322be6cc00cb5a9f",
+    "ko": "디버그 (동적 메뉴)"
+  },
+  {
+    "id": "TXT_SimsObjects_06840",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06841",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06845",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06846",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06850",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06851",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06855",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06856",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06860",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06861",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06865",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06866",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06870",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06871",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06875",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06876",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06880",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06881",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06885",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06886",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06890",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06891",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06895",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06896",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06903",
+    "source_sha256": "620ae2c021526a8584b403158976b648991dbdaa0bdf100cf4e24aa0815930f2",
+    "ko": "디버그 - 소지품에 닭 추가"
+  },
+  {
+    "id": "TXT_SimsObjects_06905",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06906",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06907",
+    "source_sha256": "c3c13b98dd298fc8b0a9b6883fdb637e8b8060dc5ba2c630a56669c786b092f3",
+    "ko": "디버그 식별"
+  },
+  {
+    "id": "TXT_SimsObjects_06909",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06910",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06911",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06913",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06914",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06915",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06917",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06918",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06919",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06921",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06922",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06923",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06925",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06926",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06927",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06929",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06930",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06931",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06933",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06934",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06935",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06938",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06939",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06940",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06943",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06944",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06945",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06948",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06949",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06950",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06953",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06954",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06955",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06958",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06959",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06960",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06963",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06964",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06965",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06968",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06969",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06970",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06973",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06974",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06975",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06978",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06979",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06980",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06983",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06984",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06985",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06992",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06993",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06994",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_06997",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_06998",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07002",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07003",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07007",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07008",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07012",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07013",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07017",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07018",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07022",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07023",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07027",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07028",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07029",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07032",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07033",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07034",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07037",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07038",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07042",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07043",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07047",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07048",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07052",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07053",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07057",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07058",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07062",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07063",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07067",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07068",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07069",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07072",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07073",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07077",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07078",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07082",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07083",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07087",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07088",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07092",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07093",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07097",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07098",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07102",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07103",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07107",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07108",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07112",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07113",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07117",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07118",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07122",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07123",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07124",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07126",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07127",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07128",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07130",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07131",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07132",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07134",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07135",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07139",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07140",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07144",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07145",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07150",
+    "source_sha256": "6e4dc72e8de85bb1e49d52cd6f736c9b3d35ddd345b557b648619ad15a116248",
+    "ko": "*상태 변경 (동적 메뉴)"
+  },
+  {
+    "id": "TXT_SimsObjects_07152",
+    "source_sha256": "659149f04ffe0d23f12f8a5023c44a90c06e3a8ea6e72d5c18cd06a0e22af6d1",
+    "ko": "수확 ????"
+  },
+  {
+    "id": "TXT_SimsObjects_07153",
+    "source_sha256": "26d96df4fb12ae85ab53a09752a5ed6faca2e8437f0f8c3fdc6e0fbc3fbddce4",
+    "ko": "알려진 것 수확 (동적 텍스트)"
+  },
+  {
+    "id": "TXT_SimsObjects_07155",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07156",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07159",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07160",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07164",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07167",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07168",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07170",
+    "source_sha256": "3055a78ee5dc29255642d0cfc55e778ca46eeebda31e5eaad2a822dd740e59b1",
+    "ko": "디버그 - 상태 변경"
+  },
+  {
+    "id": "TXT_SimsObjects_07173",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07174",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07177",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07178",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07181",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07182",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07185",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07186",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07189",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07190",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07193",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07194",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07202",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07205",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07206",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07209",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07210",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07213",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07214",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07217",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07218",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07221",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07222",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07225",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07226",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07229",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07230",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07233",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07234",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07237",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07238",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07241",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07242",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07245",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07246",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07249",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07250",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07253",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07254",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07258",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07261",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07262",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07265",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07266",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07269",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07270",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07271",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07273",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07274",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07277",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07278",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07279",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07281",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07282",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07285",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07286",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07289",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07290",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07293",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07294",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07297",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07298",
+    "source_sha256": "1d10188a7d0cbfcab8581f8d233b45ea963ecb8182878665590d6ba90b511710",
+    "ko": "임시 *상호작용 없음"
+  },
+  {
+    "id": "TXT_SimsObjects_07299",
+    "source_sha256": "3fef2c72f389ab3e314f12856ed9741eae88f644dc85f2871f8346d085aebc14",
+    "ko": "디버그 맛보기"
+  },
+  {
+    "id": "TXT_SimsObjects_07311",
+    "source_sha256": "417c84e3961826e1819d58ee18a644e9a2640ce0ac025ff375bd5ef83dd9b182",
+    "ko": "디버그 이것을 내 추모비로 지정"
+  },
+  {
+    "id": "TXT_SimsObjects_07312",
+    "source_sha256": "6b32cbab871da6136d5b5dccb968f3f5c6f92d52a259b06594a32a09c7056a3b",
+    "ko": "디버그 유령 전환"
+  },
+  {
+    "id": "TXT_SimsObjects_07314",
+    "source_sha256": "417c84e3961826e1819d58ee18a644e9a2640ce0ac025ff375bd5ef83dd9b182",
+    "ko": "디버그 이것을 내 추모비로 지정"
+  },
+  {
+    "id": "TXT_SimsObjects_07315",
+    "source_sha256": "6b32cbab871da6136d5b5dccb968f3f5c6f92d52a259b06594a32a09c7056a3b",
+    "ko": "디버그 유령 전환"
+  },
+  {
+    "id": "TXT_SimsObjects_07373",
+    "source_sha256": "c236a38569fea4dc21fc33773ddc3c9f0a8f9103b43ddfcc09fe6393874b3486",
+    "ko": "나에게 피해 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_07397",
+    "source_sha256": "eeaaca1117902482795c109216aff21e061eb06194cf1b4cd4a1fec750bb3583",
+    "ko": "임시 *미사용 (X 부지로 이동)"
+  },
+  {
+    "id": "TXT_SimsObjects_07399",
+    "source_sha256": "b4ba284a7c6febe4f917ba619f11409f6a6b696c1056ecb898d8d21eba183834",
+    "ko": "이동 (동적 메뉴)"
+  }
+]

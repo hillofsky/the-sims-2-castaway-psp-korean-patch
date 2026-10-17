@@ -1,0 +1,6 @@
+﻿asset_id	asset_type	container	resource	source_rows	translated_drafts	notes
+TEXT_CreateASim	quickdat UTF16 string table	/PSP_GAME/USRDIR/data/quickdat.arc	CreateASim	30	12	Character/animal labels; runtime clone in datasets.arc introload.
+TEXT_SimsCareers	quickdat UTF16 string table	/PSP_GAME/USRDIR/data/quickdat.arc	SimsCareers	624	0	Career text; includes legacy material.
+TEXT_SimsObjects	quickdat UTF16 string table	/PSP_GAME/USRDIR/data/quickdat.arc	SimsObjects	12863	1401	Object names/descriptions, recipes, interactions, story notifications. Runtime clone in datasets.arc mainmenu.
+TEXT_SimsTiles	quickdat UTF16 string table	/PSP_GAME/USRDIR/data/quickdat.arc	SimsTiles	104	0	Tile labels; untranslated material remains.
+TEXT_urbzui	quickdat UTF16 string table	/PSP_GAME/USRDIR/data/quickdat.arc	urbzui	2929	731	UI, goal books, alerts; loading_please_wait translated. Runtime clone in datasets.arc introload.

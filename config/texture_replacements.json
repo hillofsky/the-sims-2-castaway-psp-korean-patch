@@ -1,0 +1,14 @@
+[
+  {
+    "resource": "logo_sims_castaway_en",
+    "asset": "translation/images/logo_sims_castaway_ko_v1.png"
+  },
+  {
+    "resource": "pet_toy_chewtoy_squeaky_newspaper",
+    "asset": "translation/images/newspaper_toy_ko_v1.png"
+  },
+  {
+    "resource": "floor_editoggler",
+    "asset": "translation/images/floor_editoggler_ko_v1.png"
+  }
+]

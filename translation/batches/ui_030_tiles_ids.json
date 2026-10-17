@@ -1,0 +1,522 @@
+[
+  {
+    "id": "TXT_SimsTiles_00000",
+    "source_sha256": "1c8cdc5a05a187000f726ed7fe4c1f9fc5c26f09c07bc49803fbb46254ed70c3",
+    "ko": "슬림의 말뚝 울타리"
+  },
+  {
+    "id": "TXT_SimsTiles_00001",
+    "source_sha256": "4579a4424d33dc312150082475aafefa41644644738651b81384726823eeaf05",
+    "ko": "우정의 아치 울타리"
+  },
+  {
+    "id": "TXT_SimsTiles_00002",
+    "source_sha256": "41a9a8fd5d6cf14fa1e3c316fed1f3495306204374e7e1c0c0e39361f13697d5",
+    "ko": "일본식 울타리"
+  },
+  {
+    "id": "TXT_SimsTiles_00003",
+    "source_sha256": "472687ddfbeb51001a8909af94629fbc06672a0c73e698bd1ab1d2ec7922272d",
+    "ko": "고급 울타리"
+  },
+  {
+    "id": "TXT_SimsTiles_00004",
+    "source_sha256": "84573c57ccfd9f917927ae26bdab90099806d545cec30f8300252625cbe9883e",
+    "ko": "잔디"
+  },
+  {
+    "id": "TXT_SimsTiles_00005",
+    "source_sha256": "a6e01fd7bfbc815339f4caa1e4bda3db003cbc7b768a429e1fa0effacc26bf5e",
+    "ko": "DEBUG 편집 전환기"
+  },
+  {
+    "id": "TXT_SimsTiles_00006",
+    "source_sha256": "7629fde9dc5bfc8280026fce2542dbeb9fb8dd7dda530151132e3db0002e1cf3",
+    "ko": "DEBUG 경로 전환기"
+  },
+  {
+    "id": "TXT_SimsTiles_00007",
+    "source_sha256": "3beb832a05a73c59dcb3e2f3c8ac1436df5d94b1e2879984f2e8864842dc679f",
+    "ko": "투명 타일 - 콘크리트"
+  },
+  {
+    "id": "TXT_SimsTiles_00008",
+    "source_sha256": "eedb4287c3b5cbd68e878d17850beff0ec3b8b21582c27988a51eeb47d61acc0",
+    "ko": "DEBUG NPC 광고 전환기"
+  },
+  {
+    "id": "TXT_SimsTiles_00009",
+    "source_sha256": "3d9ad61bb7037e76c1d7f2db43d06891aa3671bf19ddfc0efac876db67942b1e",
+    "ko": "포스트모던 도시 스모그 석고벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00010",
+    "source_sha256": "00cd44305db014710dc49de7af32685ba9313f9580916aab877dcd75f82941c8",
+    "ko": "보금자리의 줄무늬"
+  },
+  {
+    "id": "TXT_SimsTiles_00011",
+    "source_sha256": "5b49112283d24f18f9c73fb8de77d34abdb105de484657f2dcb4d0ef0dd030f7",
+    "ko": "뼈다귀네 따라잡기"
+  },
+  {
+    "id": "TXT_SimsTiles_00012",
+    "source_sha256": "bc210fd8cc7dc74b81f15228d78973da0801913c1d02c9f0fa45d998657691ef",
+    "ko": "페인트·나무·벽돌·돌 앙상블"
+  },
+  {
+    "id": "TXT_SimsTiles_00013",
+    "source_sha256": "e0d78404e95f4eab27b088f45fce59597fa2d3bfde12ce778dd0a3bbae680686",
+    "ko": "달빛 별 풍경"
+  },
+  {
+    "id": "TXT_SimsTiles_00014",
+    "source_sha256": "4b36569ef4115e226ff0abbeb78b8406f043d3f54f6a166041144422e68ee7db",
+    "ko": "내일을 위한 슬레이트"
+  },
+  {
+    "id": "TXT_SimsTiles_00015",
+    "source_sha256": "dbe29e22f70c0955f711cc0ef7eb17f878de62ac91de5c91f99c3550b335d976",
+    "ko": "오클라호마 들판을 지나"
+  },
+  {
+    "id": "TXT_SimsTiles_00016",
+    "source_sha256": "9906a832800a5b8e182ca71321e36140459bbfe4dda137b16a82fe8b73981956",
+    "ko": "로든 오두막 개울 외벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00017",
+    "source_sha256": "adbba5ee8d80999c3591606a35dfe9a4b3cb01765c9364e33ee20e360bb0b841",
+    "ko": "잭슨 돌담"
+  },
+  {
+    "id": "TXT_SimsTiles_00018",
+    "source_sha256": "cb6ac79a3e1a5ae59c7f427f3b6519b2bdded70dec37615d416dc7edcf0f24e5",
+    "ko": "현대 도시 계획 패널 A"
+  },
+  {
+    "id": "TXT_SimsTiles_00019",
+    "source_sha256": "28d27933f9bf60bd8278aae98194bf5b036b3fbf6a054fbf15f79d9829bd9baf",
+    "ko": "현대 도시 계획 패널 B"
+  },
+  {
+    "id": "TXT_SimsTiles_00020",
+    "source_sha256": "6dbdbf581286b9e4b439ae00f8d56ef7bf56589438bcdc67657cc2acb28919e2",
+    "ko": "스프루스 스파고 외벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00021",
+    "source_sha256": "2468a4d745d3c782e809c92fd1e7322f97473ec271f0f35037aea2a585f90379",
+    "ko": "민박집 돌벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00022",
+    "source_sha256": "8cc8639f0e411b7e6fe1c9e45ec398bf476a8f49c6e2797576e393aa6e248af5",
+    "ko": "나무풍 비닐 패널"
+  },
+  {
+    "id": "TXT_SimsTiles_00023",
+    "source_sha256": "9f4b4c7ca8ce2bc67fa63656502b502bafa38ff068ae8b45c117749b319ee5b3",
+    "ko": "정어리 트레일러 외벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00024",
+    "source_sha256": "25134d2af3da29f8d819826adc9cc16ef90e11a4470cbb41e33fab9ddbdc7775",
+    "ko": "어울리는 삼나무 널판"
+  },
+  {
+    "id": "TXT_SimsTiles_00025",
+    "source_sha256": "e295fc7cae0635b4c680711a38d2fbf295d4351207f72c619f141e45a9a014e1",
+    "ko": "유로블루 다마스크"
+  },
+  {
+    "id": "TXT_SimsTiles_00026",
+    "source_sha256": "125bb867a43753f28dabf8f4958cb905ca0a5213cebcbbb2fefd6936893f2ae6",
+    "ko": "바틀비의 벽돌벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00027",
+    "source_sha256": "1a5f3c3a21efe48eb34fcb7239b09197d4cad0e24e0f67f9c513aaebe19e1c95",
+    "ko": "벨벳 뒤편 커튼"
+  },
+  {
+    "id": "TXT_SimsTiles_00028",
+    "source_sha256": "ffc63dea69aa3952e14d11632864aedca5775756fa168884066ed488f2adb745",
+    "ko": "이탄 습지 찬가 석고벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00029",
+    "source_sha256": "661ae933f3b1b2fd6363ac912d2926d1732c29233be696017546010af69f3d47",
+    "ko": "우아함 벽 마감재"
+  },
+  {
+    "id": "TXT_SimsTiles_00030",
+    "source_sha256": "31e1d7bab0e0927a6374d85334e05f9225760dd818b56973e992ef32edc5e70e",
+    "ko": "럭소 프락티코 허리벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00031",
+    "source_sha256": "3d33459abdc04ed3650127ca0c844dd4f7a08f882d0dd19e67bd750f5414cc93",
+    "ko": "양분된 현대성 스테인드글라스"
+  },
+  {
+    "id": "TXT_SimsTiles_00032",
+    "source_sha256": "29e154e6c6fbeedf6344a419dec7d7017ea1a4f68c85800e3caa7a038e6516b7",
+    "ko": "풍성한 참나무 패널"
+  },
+  {
+    "id": "TXT_SimsTiles_00033",
+    "source_sha256": "a81a97a6ba4c9ed5bf1305c42bc6201e68f35d6cf3bd3b57a293851aabcbd244",
+    "ko": "풍선껌 반짝이"
+  },
+  {
+    "id": "TXT_SimsTiles_00034",
+    "source_sha256": "a13695830fae2691f29f64cce002ecf3f0a15d63f72f0bd597f9876fa7575fbd",
+    "ko": "들보 사이로 비치는 외벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00035",
+    "source_sha256": "95ac82b8405c1ad1e9333afb78cb70474b95b679cab018147c4627b28ee2aa10",
+    "ko": "원자력 훌라 장글 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00036",
+    "source_sha256": "9c58287f9336a908fe3c03e737500b18176da4199cff07584f702842d696a28b",
+    "ko": "서부의 영광 허리벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00037",
+    "source_sha256": "ad3761be713e9c08df691137f69faeb466b9de2913f625337c0e3b178a2bab4b",
+    "ko": "두 원소 벽 마감재"
+  },
+  {
+    "id": "TXT_SimsTiles_00038",
+    "source_sha256": "4a04ea97491b23074ed2dd4b94895ed62ea9e2d94ea51316a61dd5c0e21e748a",
+    "ko": "티크 톡 외벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00039",
+    "source_sha256": "8cc1694cb87449a7524eaa660e504986e644620cb9b9b0c13787a857f5cb82ef",
+    "ko": "이진 임무 패널"
+  },
+  {
+    "id": "TXT_SimsTiles_00040",
+    "source_sha256": "9afd3b202e7f21cd38da8966ebf2ed1db650ca32d9895cfb9c0a93053491df56",
+    "ko": "막소스모브나코프 청록 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00041",
+    "source_sha256": "db31ce8d9fbbed7394e91769354b70801587161656af5f28e86a654c09f70a12",
+    "ko": "호텔 머피텔 꽃무늬"
+  },
+  {
+    "id": "TXT_SimsTiles_00042",
+    "source_sha256": "44d9e0adb12fc0523c9d5d82de95110acc9aa6c371a979120f720f353c05dbee",
+    "ko": "쇼트 스톱 나무 판자"
+  },
+  {
+    "id": "TXT_SimsTiles_00043",
+    "source_sha256": "8a1d640ff045eb000d8fceb4b9db64892fc33939d8dbe1de3b26aa1bcfd697a0",
+    "ko": "성숙한 남색 석고벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00044",
+    "source_sha256": "8c978ff9f66a5985944758f83b0de09f658f07322fc6d6320eb371c2aac1f863",
+    "ko": "네 고양이의 적갈색 석고벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00045",
+    "source_sha256": "9c691dd34875c971b5368419745238599faed08335bad73e50bab7a1cdbc2bd0",
+    "ko": "여름 캠프 포이즌오크 외벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00046",
+    "source_sha256": "92c5e4deee62e22c7198846b27dabdc41b204e2bedae42d7a5bc157dddc13a0a",
+    "ko": "호밀 위 제과점 파란 줄무늬"
+  },
+  {
+    "id": "TXT_SimsTiles_00047",
+    "source_sha256": "21f56e68a91a5be45946fae44aef5967cd017919f12267397306f3b81028fff1",
+    "ko": "고양이 없는 적갈색 석고벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00048",
+    "source_sha256": "4027383d19d1b94beafce8a5d5f85849a5304aefdccf43eb8bb282d9cb58deaf",
+    "ko": "베이지 잎사귀 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00049",
+    "source_sha256": "57e30ac2f0d160887c62b4b88031d30afa6936745339a32213c1646ccdf7d5b2",
+    "ko": "왕실 오디세이 벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00050",
+    "source_sha256": "38b518f00b05fd5e4d7169ef29009c356af290a5fb7bba68be44a040e4c4940b",
+    "ko": "알레르게시움 다마스크"
+  },
+  {
+    "id": "TXT_SimsTiles_00051",
+    "source_sha256": "f555a8bc33792c18c0a5235baf8b38c9af930e2e80d2501dce8c7eee9c7531c8",
+    "ko": "아쿠아 포 때 방지 타일"
+  },
+  {
+    "id": "TXT_SimsTiles_00052",
+    "source_sha256": "f81b11564a37925d0f6c3c8fcb0b4b4af3f6e765727d85f4d90cb9f3c264f4be",
+    "ko": "고양이의 환희 커튼, 연어색"
+  },
+  {
+    "id": "TXT_SimsTiles_00053",
+    "source_sha256": "f7bbd5042413e900f1f45c169d146986f270b663ea90b24f50b2beeb4b0f7831",
+    "ko": "고양이의 환희 커튼, 허리벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00054",
+    "source_sha256": "bd478829a419efee9750a59f734a5ecf336870d1842709ea5d7b21d9b61b11fe",
+    "ko": "그린우드 재무 임원 벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00055",
+    "source_sha256": "f1d6dc7f7acd3d8569b3a887df68d06c33955a95bbdeff484c2c7f08b18c3d80",
+    "ko": "러스티크 은금 테두리"
+  },
+  {
+    "id": "TXT_SimsTiles_00056",
+    "source_sha256": "06d1b2fdab52271fb78f8ff844a712f066c866185a6b4e75127e4c0d2a31c2f9",
+    "ko": "왕실 지중해 타일"
+  },
+  {
+    "id": "TXT_SimsTiles_00057",
+    "source_sha256": "b82a56bd01382e4e36aa9166cfb0a6506a12343aa9c4b194853971d581c9d0e0",
+    "ko": "머리 위 뼈다귀 석고벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00058",
+    "source_sha256": "2a5bf2b26472c37b28bcf5e878de4fa63166afd23e138818cb528ad5d3b86b64",
+    "ko": "삼중 사각 마호가니 패널"
+  },
+  {
+    "id": "TXT_SimsTiles_00059",
+    "source_sha256": "e258350d181482a6736175362ed94b44c6f26f7f4a60466ae5010efbce6b0fff",
+    "ko": "멋쟁이 고양이와 원자력 강아지 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00060",
+    "source_sha256": "7c0ef3ecf21b050bcc2174a333a81ee1311749c2ae153069e252c7fde01fab0d",
+    "ko": "세 가지 스타일의 놀라운 나무벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00061",
+    "source_sha256": "1e31845631187f0d1de47d93335f4f5fe9d33be30a2c058aaaccf9868d4d989f",
+    "ko": "막소스모브나코프 직물 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00062",
+    "source_sha256": "ad5e0e77efbbfc74bd88696219e600cdd9a5f9cb7b9e13e7f0a3f0452805e142",
+    "ko": "러스티크 하늘과 땅 테두리"
+  },
+  {
+    "id": "TXT_SimsTiles_00063",
+    "source_sha256": "043f0bfefe6596649a94831077003ecad4f38ad4149d26254396e0a18e57d1d3",
+    "ko": "화창한 반려동물 열풍 타일"
+  },
+  {
+    "id": "TXT_SimsTiles_00064",
+    "source_sha256": "91e657db0c463cbb3560e51367b63b9e68ca366a426af43f67054662aec221bd",
+    "ko": "장식용 종이 창문 패널"
+  },
+  {
+    "id": "TXT_SimsTiles_00065",
+    "source_sha256": "6e687dc27da3786e7315035d6395d622ad18b9492c80c7a3a7797133f8f713ad",
+    "ko": "자홍색 표범 콘크리트 타일"
+  },
+  {
+    "id": "TXT_SimsTiles_00066",
+    "source_sha256": "786f59976623594f25c12ba16356b5da85e11d87e6859e2694e891b1929128f4",
+    "ko": "곧바로 업무 패널"
+  },
+  {
+    "id": "TXT_SimsTiles_00067",
+    "source_sha256": "7e20704d498c9fa363929a27c97eae6a3720794aaf8ee2e6bcb73a3d3dbf9d4c",
+    "ko": "쌓인 사암"
+  },
+  {
+    "id": "TXT_SimsTiles_00068",
+    "source_sha256": "ae9b960ba4392a61719a9e075eafafe36287445bd9bf990ea40a93190d87cbda",
+    "ko": "얌전한 월플라워 벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00069",
+    "source_sha256": "b58548a2168286507714b4a15ace7e6471873e6959c0bd5da6815c0e3d2b6070",
+    "ko": "소박한 유산의 돌"
+  },
+  {
+    "id": "TXT_SimsTiles_00070",
+    "source_sha256": "46c7749e7a7181f75b6f21b6e7cc6609e6212bc58a1f212b51da7f308311c744",
+    "ko": "이끼 널판 벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00071",
+    "source_sha256": "a2534913a914f5012be615fcf9e02cc87fcbbbfd6ee8951f9dbfd207c05be3fe",
+    "ko": "딩고 문 깨진 돌벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00072",
+    "source_sha256": "f6b985d5a654fd535d958c278862f9399880584d1e85cddf30528195aa1bb8b4",
+    "ko": "수줍은 갈매기 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00073",
+    "source_sha256": "4dd7ee18b5efd3613231459d6c9b8d85139236bdd096f022a5fa6b149dd9d741",
+    "ko": "블랜다나 벽 마감재"
+  },
+  {
+    "id": "TXT_SimsTiles_00074",
+    "source_sha256": "d83d51cc11914fead39cd6b1f2438a2037f4facf8f055c896b7fd91c8146eee0",
+    "ko": "하얀 광기의 나무벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00075",
+    "source_sha256": "b093dd4dbb5d56c8774be25cfd81f437fbd0f8a080ef28318f2908d3d5ea313a",
+    "ko": "화강암 테두리 파스텔 넥타이 타일"
+  },
+  {
+    "id": "TXT_SimsTiles_00076",
+    "source_sha256": "c23a7833ed3f56d91521872718397e4649a819deed7f3d859a52f268a8d673f6",
+    "ko": "아빠의 파스텔 넥타이 타일"
+  },
+  {
+    "id": "TXT_SimsTiles_00077",
+    "source_sha256": "2bb97d9f6073b743fb494263a357d9f9ee3bdd1cbe8f66ece5c5bf8b9836f382",
+    "ko": "황철석 탐사 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00078",
+    "source_sha256": "379ddf0cf626d7eff1698b6480f337dccbd2d8ffc6a37105e57254ae373c59ee",
+    "ko": "벽 위를 걷는 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00079",
+    "source_sha256": "e9b150dc73f02890f5dd57c0451bb03599c78027a8970fa1e6c7dea8599850ad",
+    "ko": "완두콩 바다 갈매기 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00080",
+    "source_sha256": "09fd4567c3c36d0f9c88a915ed7f7b6ab3c412452e3e50433f689a2e3160b688",
+    "ko": "종이학 환각 벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00081",
+    "source_sha256": "192e30744165f3ef7d36b181e7087ca512440e1f0d79cdb0cab9d3e5d25c6e35",
+    "ko": "티크 톡 복제 외벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00082",
+    "source_sha256": "f4af1267199a3008da215c0b96892cc6b8ed8c7aa8c746a7cc065e8221409dc6",
+    "ko": "티크 삼중 벨벳 상감"
+  },
+  {
+    "id": "TXT_SimsTiles_00083",
+    "source_sha256": "328a6aab944501f1d7373e1673e3deeb67883ecbde5cd7da9a73ae241207ba4b",
+    "ko": "콘크리트 유산 타일"
+  },
+  {
+    "id": "TXT_SimsTiles_00084",
+    "source_sha256": "0817cd3cb19c0fce35971b849136d5e4f1706311c45a87f71b11e1a7060c6343",
+    "ko": "검은 줄눈 깨진 돌벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00085",
+    "source_sha256": "6d6217083cc13680e924f7eb6376b3f1b1d09daf04ee2c7ce2a3a1b366e5d1e9",
+    "ko": "까칠한 고독 나무 패널"
+  },
+  {
+    "id": "TXT_SimsTiles_00086",
+    "source_sha256": "4faf67e6ad8143824c4d6da698e73fc12c8a6987f6c48958ec6687411a990ec6",
+    "ko": "거칠게 깎은 자작나무 패널"
+  },
+  {
+    "id": "TXT_SimsTiles_00087",
+    "source_sha256": "6fd5ab91b82d02985ee94e411978476b27c447dcbe0de519c55703e9891168be",
+    "ko": "양키 두들 댄디 석고벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00088",
+    "source_sha256": "f798524938c8bbb0604221e05c7b41fae1590d88cb08d1ffe52d03caa83d3fdc",
+    "ko": "대나무 하이쿠 위의 종이학"
+  },
+  {
+    "id": "TXT_SimsTiles_00089",
+    "source_sha256": "2915bda230bed599005bd2e21293d0a12f8439cdfda8b0e1a7e393781fe2b409",
+    "ko": "반짝 한순간 타일"
+  },
+  {
+    "id": "TXT_SimsTiles_00090",
+    "source_sha256": "1bb4914be5a5da8714b352253acc05de4dbeb85e23ded00739bf6ce20d846924",
+    "ko": "허리케인 갈매기 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00091",
+    "source_sha256": "9cca22198cc454f4a775fc31299e0c66e819d80063e20a3c5d7755c2ea62ebc4",
+    "ko": "위협적이지 않은 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00092",
+    "source_sha256": "5454078a6e433d56713c0cc1da2e033b66afaced800cd67893a16381658c42db",
+    "ko": "소박한 벚나무 패널"
+  },
+  {
+    "id": "TXT_SimsTiles_00093",
+    "source_sha256": "8336be54bcd3aa948692e3f318e6c21590c10e97607474da4a2e14cd0d05d73d",
+    "ko": "모래 오두막 출입구 패널"
+  },
+  {
+    "id": "TXT_SimsTiles_00094",
+    "source_sha256": "ca107fb7e6e64897bc3997e9cfa80b58257be6557b52d6cc890dd72f78756af4",
+    "ko": "전원풍 소나무 패널"
+  },
+  {
+    "id": "TXT_SimsTiles_00095",
+    "source_sha256": "df2c87cbc528296e0e1109ce5c0f8758bfd5acd72ef22f6b96e6a21e3669cda9",
+    "ko": "세이지색 발자국 꽃무늬"
+  },
+  {
+    "id": "TXT_SimsTiles_00096",
+    "source_sha256": "c13012a24664b3a3e5b3ef9a6d74e27d359c1a89e1fd92175c1677cfb6da02fd",
+    "ko": "허리벽이 있는 발자국 꽃무늬"
+  },
+  {
+    "id": "TXT_SimsTiles_00097",
+    "source_sha256": "84c2b4b951d63e9a9bab1faf98dd47516120196f141f8ebfad5ce6e34fae8120",
+    "ko": "정돈된 황토색 갈매기 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00098",
+    "source_sha256": "70a1efe895956b1997e585b378c6dfefa55f127ba014536002f28c7cb4fb1742",
+    "ko": "꿈틀대는 사각 돌벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00099",
+    "source_sha256": "86a4bb072a4bcee1de644b7c047523d7627ae472a95e5b33ef2745e5eb586755",
+    "ko": "연하늘색 시작 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00100",
+    "source_sha256": "608f4dcee0c34a20cc1730e14a23ad8e7249e3c6a358dda6dd0762719cda1830",
+    "ko": "줄무늬 귀리겨 석고벽"
+  },
+  {
+    "id": "TXT_SimsTiles_00101",
+    "source_sha256": "c8adf12a12ce8e97e4dd924f6a3e5935fc2e59bf05c88af790a1f015b922220f",
+    "ko": "커피 케이크 코 무늬 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00102",
+    "source_sha256": "3379e5ada4d845c1045295bcc220a8ce95b34bdc937844e220dd283dabb05bdd",
+    "ko": "라벤더 사랑 발자국 벽지"
+  },
+  {
+    "id": "TXT_SimsTiles_00103",
+    "source_sha256": "63e6b833d3e062284a2af4280148fcc0c8c8fc5a434edc3c8371fa71f6347630",
+    "ko": "말라카이트 산책 벽지"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "build": "STEP022",
+    "path": "runtime/instances/castaway_STEP010_20261017_081440_822/step022_intro_message.png",
+    "result": "LIMITED_PASS",
+    "scope": "SimsObjects9489/9490: Korean shipwreck heading, line breaks and body"
+  },
+  {
+    "build": "STEP022",
+    "path": "runtime/instances/castaway_STEP010_20261017_081440_822/step022_tip_followup.png",
+    "result": "LIMITED_PASS",
+    "scope": "SimsObjects10528: Korean tutorial book question and buttons"
+  },
+  {
+    "build": "STEP022",
+    "path": "runtime/instances/castaway_STEP010_20261017_081440_822/step022_tutorial1.png",
+    "result": "LIMITED_PASS",
+    "scope": "Camera tutorial: Korean and button glyphs"
+  },
+  {
+    "build": "STEP022",
+    "path": "runtime/instances/castaway_STEP010_20261017_081440_822/step022_game_menu.png",
+    "result": "LIMITED_PASS",
+    "scope": "Gather tutorial paragraph wraps"
+  },
+  {
+    "build": "STEP022",
+    "path": "runtime/instances/castaway_STEP010_20261017_081440_822/step022_save_written.png",
+    "result": "LIMITED_PASS",
+    "scope": "New test save complete"
+  },
+  {
+    "build": "STEP023",
+    "path": "runtime/instances/castaway_STEP010_20261017_082244_686/step023_title.png",
+    "result": "LIMITED_PASS",
+    "scope": "Korean START prompt,512px font atlas"
+  },
+  {
+    "build": "STEP023",
+    "path": "runtime/instances/castaway_STEP010_20261017_082244_686/step023_menu.png",
+    "result": "LIMITED_PASS",
+    "scope": "Korean main menu,512px title font"
+  },
+  {
+    "build": "STEP023",
+    "path": "runtime/instances/castaway_STEP010_20261017_082244_686/step023_load_confirm.png",
+    "result": "LIMITED_PASS",
+    "scope": "STEP022 save loaded complete"
+  },
+  {
+    "build": "STEP023",
+    "path": "runtime/instances/castaway_STEP010_20261017_082244_686/step023_world_loaded.png",
+    "result": "LIMITED_PASS",
+    "scope": "Loaded world and Korean tutorial"
+  },
+  {
+    "build": "STEP023",
+    "path": "runtime/instances/castaway_STEP010_20261017_082244_686/step023_pause.png",
+    "result": "LIMITED_PASS",
+    "scope": "Pause menu: fashion/help Korean"
+  },
+  {
+    "build": "STEP023",
+    "path": "runtime/instances/castaway_STEP010_20261017_082244_686/step023_options_panel.png",
+    "result": "LIMITED_PASS",
+    "scope": "Fashion panel Korean"
+  },
+  {
+    "build": "STEP024",
+    "path": "runtime/instances/castaway_STEP010_20261017_082655_436/step024_pause.png",
+    "result": "LIMITED_PASS",
+    "scope": "Korean pause title, menu/fashion/help after loading STEP022 save"
+  },
+  {
+    "build": "STEP026",
+    "path": "runtime/instances/castaway_STEP010_20261017_083339_994/step026_menu.png",
+    "result": "LIMITED_PASS",
+    "scope": "Boot/main menu with534-character font build; recipe text not verified"
+  },
+  {
+    "build": "STEP028",
+    "path": "runtime/instances/castaway_STEP010_20261017_083833_575/step028_inventory_open.png",
+    "result": "LIMITED_PASS",
+    "scope": "Loaded test save; Korean skills page renders with580-character font. Inventory/tool text NOT verified."
+  }
+]

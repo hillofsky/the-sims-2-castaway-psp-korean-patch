@@ -1,0 +1,2772 @@
+[
+  {
+    "id": "TXT_SimsObjects_04570",
+    "source_sha256": "6ba53b19974d82eda56c66bbcf1d1ec483d337761f23d1c36f1f0cfb553167a4",
+    "ko": "디버그 - 피망 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04571",
+    "source_sha256": "947d30e13253790ef7f627bfed955e09b18544928fcc61c138ea8c55f11ea247",
+    "ko": "임시 피망 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04572",
+    "source_sha256": "c021a55e40b01f9c640cb05b0ddb4d4cf1c0ca91c47778e68e2e0b9b17510dae",
+    "ko": "피망 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04573",
+    "source_sha256": "6ba53b19974d82eda56c66bbcf1d1ec483d337761f23d1c36f1f0cfb553167a4",
+    "ko": "디버그 - 피망 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04574",
+    "source_sha256": "947d30e13253790ef7f627bfed955e09b18544928fcc61c138ea8c55f11ea247",
+    "ko": "임시 피망 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04575",
+    "source_sha256": "c021a55e40b01f9c640cb05b0ddb4d4cf1c0ca91c47778e68e2e0b9b17510dae",
+    "ko": "피망 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04576",
+    "source_sha256": "2dacdc7995d8919188e8ab1dcefc8108f371e19d6d3582996df7c62b580ad3e8",
+    "ko": "디버그 - 블랙베리 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04577",
+    "source_sha256": "9f2729344c27fa746cd614ea61687a5fa6dc059b5a377b0815be5a34236c3107",
+    "ko": "임시 블랙베리 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04578",
+    "source_sha256": "2245991c1a4d32758f68d7cf122ec863eb0e325e26535c9575bcbb79da98e24b",
+    "ko": "정체불명의 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04579",
+    "source_sha256": "2dacdc7995d8919188e8ab1dcefc8108f371e19d6d3582996df7c62b580ad3e8",
+    "ko": "디버그 - 블랙베리 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04580",
+    "source_sha256": "9f2729344c27fa746cd614ea61687a5fa6dc059b5a377b0815be5a34236c3107",
+    "ko": "임시 블랙베리 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04581",
+    "source_sha256": "fc585f9c09d067a4d9f9b1726e3154fcf47d3c39f4988214a25423a299d9f4de",
+    "ko": "블랙베리 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04582",
+    "source_sha256": "72449c025e4468cf748166154533a0b701f14f2ea9807db27bea2ee47a96c86d",
+    "ko": "디버그 - 체리 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04583",
+    "source_sha256": "15e074340e98b5d36932f07a801f33bae7bbd9be62ef47401045caeb23cff6b5",
+    "ko": "임시 체리 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04584",
+    "source_sha256": "7dccc48f85d756ba4ab8684e44b24a0bec1b93ed13b24e966aec6edffd0d598f",
+    "ko": "체리 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04585",
+    "source_sha256": "72449c025e4468cf748166154533a0b701f14f2ea9807db27bea2ee47a96c86d",
+    "ko": "디버그 - 체리 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04586",
+    "source_sha256": "15e074340e98b5d36932f07a801f33bae7bbd9be62ef47401045caeb23cff6b5",
+    "ko": "임시 체리 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04587",
+    "source_sha256": "7dccc48f85d756ba4ab8684e44b24a0bec1b93ed13b24e966aec6edffd0d598f",
+    "ko": "체리 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04588",
+    "source_sha256": "c2dac0817468c47cfb0c7022ed87bb97e9b41ed098dbc2fbc79f05a5f7dbb943",
+    "ko": "디버그 - 고추 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04589",
+    "source_sha256": "9bca778a27e5936c38e36ebff592a0fbbb9cffa427461d08321aa1fde0c200f8",
+    "ko": "임시 고추 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04590",
+    "source_sha256": "839402cfba1a182d984d17e7dff1215b471d2a7550f537fc38ed99e3acf84b57",
+    "ko": "정체불명의 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04591",
+    "source_sha256": "c2dac0817468c47cfb0c7022ed87bb97e9b41ed098dbc2fbc79f05a5f7dbb943",
+    "ko": "디버그 - 고추 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04592",
+    "source_sha256": "9bca778a27e5936c38e36ebff592a0fbbb9cffa427461d08321aa1fde0c200f8",
+    "ko": "임시 고추 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04593",
+    "source_sha256": "047085452594ccbbcd3fec9236718df0b45c2d137b78eff5fa849ca0a80ca1eb",
+    "ko": "고추 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04594",
+    "source_sha256": "544718f01b3c61e85e7937da0fe376d518274ddfac72edc69473352f52048788",
+    "ko": "디버그 - 커피 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04595",
+    "source_sha256": "35f9fe1dbf18afc7c28d2fb5194130bded5cc754603ec2b5deac5a89b1ae4f1d",
+    "ko": "임시 커피 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04596",
+    "source_sha256": "2245991c1a4d32758f68d7cf122ec863eb0e325e26535c9575bcbb79da98e24b",
+    "ko": "정체불명의 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04597",
+    "source_sha256": "544718f01b3c61e85e7937da0fe376d518274ddfac72edc69473352f52048788",
+    "ko": "디버그 - 커피 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04598",
+    "source_sha256": "35f9fe1dbf18afc7c28d2fb5194130bded5cc754603ec2b5deac5a89b1ae4f1d",
+    "ko": "임시 커피 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04599",
+    "source_sha256": "4a499a9a13dbcb780a4a3247e04f7e21ed2c60a5c52e8f6a6c25340324669212",
+    "ko": "커피 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04600",
+    "source_sha256": "c86b5360d6b7fe04d30834ca8f22b4b270bcfb778de03d6d385ea74a17ab61b2",
+    "ko": "디버그 - 목화 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04601",
+    "source_sha256": "c2c2af691b16078a79902f3b05ae8d124f973025cf42781fffacf0d145b43572",
+    "ko": "임시 목화 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04602",
+    "source_sha256": "d77fa0b89a99b9d07d09097455f1d9afbacad68b772ac53d6872c72b36634e87",
+    "ko": "목화 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04603",
+    "source_sha256": "c86b5360d6b7fe04d30834ca8f22b4b270bcfb778de03d6d385ea74a17ab61b2",
+    "ko": "디버그 - 목화 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04604",
+    "source_sha256": "c2c2af691b16078a79902f3b05ae8d124f973025cf42781fffacf0d145b43572",
+    "ko": "임시 목화 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04605",
+    "source_sha256": "d77fa0b89a99b9d07d09097455f1d9afbacad68b772ac53d6872c72b36634e87",
+    "ko": "목화 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04606",
+    "source_sha256": "acc814d843ae2b0be38f9066f474a2998deeec4dbb4429ee725a5137b07e6f4a",
+    "ko": "디버그 - 과라나 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04607",
+    "source_sha256": "2d741f4ae5485181e0e88940bbb2b9bb5d05a74df583da1fd11358adb2883637",
+    "ko": "임시 과라나 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04608",
+    "source_sha256": "2245991c1a4d32758f68d7cf122ec863eb0e325e26535c9575bcbb79da98e24b",
+    "ko": "정체불명의 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04609",
+    "source_sha256": "acc814d843ae2b0be38f9066f474a2998deeec4dbb4429ee725a5137b07e6f4a",
+    "ko": "디버그 - 과라나 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04610",
+    "source_sha256": "2d741f4ae5485181e0e88940bbb2b9bb5d05a74df583da1fd11358adb2883637",
+    "ko": "임시 과라나 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04611",
+    "source_sha256": "858cf524c8fe96cbb790451487940bc4f8c8add508d920782badfe9b617a703e",
+    "ko": "과라나 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04612",
+    "source_sha256": "304d82484353d8975ff19799cf882c8d04e817e5be1c6fa878564bb53183b60d",
+    "ko": "디버그 - 정체불명의 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04614",
+    "source_sha256": "2245991c1a4d32758f68d7cf122ec863eb0e325e26535c9575bcbb79da98e24b",
+    "ko": "정체불명의 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04615",
+    "source_sha256": "fa39351c7d181c932acddc1db0e117ed9d386531500352e2c4819d9767078fa5",
+    "ko": "디버그 - 자리공 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04616",
+    "source_sha256": "9fbd103542dac2db279edc2dffa574b93a677a27ef2441ce5994e337c5696948",
+    "ko": "임시 자리공 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04617",
+    "source_sha256": "567e917f083f7c968c51d0a91a21b9a7be8e0582c27e06bb4fb199ee1c4bd7ee",
+    "ko": "자리공 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04618",
+    "source_sha256": "c8ec370ece79fa3a523d875e82b29f06d9b1369f16c5c802cc13fd44b6870433",
+    "ko": "디버그 - 쥐똥나무 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04619",
+    "source_sha256": "11135e806c4b219041b75fb7d6e12bb8779f5329bec6c04597062eab7714020c",
+    "ko": "임시 쥐똥나무 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04620",
+    "source_sha256": "2245991c1a4d32758f68d7cf122ec863eb0e325e26535c9575bcbb79da98e24b",
+    "ko": "정체불명의 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04621",
+    "source_sha256": "c8ec370ece79fa3a523d875e82b29f06d9b1369f16c5c802cc13fd44b6870433",
+    "ko": "디버그 - 쥐똥나무 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04622",
+    "source_sha256": "11135e806c4b219041b75fb7d6e12bb8779f5329bec6c04597062eab7714020c",
+    "ko": "임시 쥐똥나무 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04623",
+    "source_sha256": "3d7718f9912ed909de127aa8f3f073bbd1f04f01b10b65cba7a5e61f0fb40b13",
+    "ko": "쥐똥나무 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04624",
+    "source_sha256": "448283056c118847d7bea1193d84f223d8866b4afde6f0b88c0fc0b81081c827",
+    "ko": "디버그 - 산딸기 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04625",
+    "source_sha256": "b5fe70e0b8dd9fb29df3e46784764db8615937d54657b76b75c98fb4c605941d",
+    "ko": "임시 산딸기 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04626",
+    "source_sha256": "2245991c1a4d32758f68d7cf122ec863eb0e325e26535c9575bcbb79da98e24b",
+    "ko": "정체불명의 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04627",
+    "source_sha256": "448283056c118847d7bea1193d84f223d8866b4afde6f0b88c0fc0b81081c827",
+    "ko": "디버그 - 산딸기 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04628",
+    "source_sha256": "b5fe70e0b8dd9fb29df3e46784764db8615937d54657b76b75c98fb4c605941d",
+    "ko": "임시 산딸기 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04629",
+    "source_sha256": "cf7d7e1dd004866236edc870e2c437cca3fd154a661f2d5bc6c4ac7109bc990c",
+    "ko": "산딸기 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04630",
+    "source_sha256": "8db28a8989d0c4e53a14770b94908acfa216d79230ae275aca05139df41fa31a",
+    "ko": "디버그 - 스노베리 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04631",
+    "source_sha256": "9024057bbda39640b9fea66de52f4232bf53118d6e5462bf5965c2ba2e0e816d",
+    "ko": "임시 스노베리 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04632",
+    "source_sha256": "2245991c1a4d32758f68d7cf122ec863eb0e325e26535c9575bcbb79da98e24b",
+    "ko": "정체불명의 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04633",
+    "source_sha256": "8db28a8989d0c4e53a14770b94908acfa216d79230ae275aca05139df41fa31a",
+    "ko": "디버그 - 스노베리 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04634",
+    "source_sha256": "9024057bbda39640b9fea66de52f4232bf53118d6e5462bf5965c2ba2e0e816d",
+    "ko": "임시 스노베리 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04635",
+    "source_sha256": "103c5a9df72a05f80fa9d33e04b98ab13d6ccaf0feb22dc2993e1ea161c2113b",
+    "ko": "스노베리 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04636",
+    "source_sha256": "9a6a543c6e9a1752ed353038418e85bc8f8d1ecbf5c9a02ac3ff9f799027bee2",
+    "ko": "디버그 - 콩 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04637",
+    "source_sha256": "98c3d6286e84def633b79d6ad86ad571e885d80048a0dafc4f035c2a8c7c14a5",
+    "ko": "임시 콩 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04638",
+    "source_sha256": "2245991c1a4d32758f68d7cf122ec863eb0e325e26535c9575bcbb79da98e24b",
+    "ko": "정체불명의 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04639",
+    "source_sha256": "9a6a543c6e9a1752ed353038418e85bc8f8d1ecbf5c9a02ac3ff9f799027bee2",
+    "ko": "디버그 - 콩 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04640",
+    "source_sha256": "98c3d6286e84def633b79d6ad86ad571e885d80048a0dafc4f035c2a8c7c14a5",
+    "ko": "임시 콩 덤불 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04641",
+    "source_sha256": "72e84dfb0848d46a3b17c91067cac4ec76af06d6362d6157588eec676636cf0b",
+    "ko": "콩 덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_04644",
+    "source_sha256": "d5dce12e33c3b6deabfd98cc19d08e64b12a912da462707bc75e5312c61e3789",
+    "ko": "디버그 - 점토 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04645",
+    "source_sha256": "2b7a031f081b68e8cbf7d2cd571496174cb00812f989f42e5737f92710ade7f7",
+    "ko": "임시 점토 광상 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04646",
+    "source_sha256": "8b8a2b3a55fe4e65ade6dbca334974a6a70510c5a562cc075ce073b1753e7dad",
+    "ko": "점토 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04647",
+    "source_sha256": "d5dce12e33c3b6deabfd98cc19d08e64b12a912da462707bc75e5312c61e3789",
+    "ko": "디버그 - 점토 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04648",
+    "source_sha256": "2b7a031f081b68e8cbf7d2cd571496174cb00812f989f42e5737f92710ade7f7",
+    "ko": "임시 점토 광상 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04649",
+    "source_sha256": "8b8a2b3a55fe4e65ade6dbca334974a6a70510c5a562cc075ce073b1753e7dad",
+    "ko": "점토 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04650",
+    "source_sha256": "da78fef4759efacd58dd4f124c8daa4eaa4cc03b2020cc5012959d88e8ec9ab9",
+    "ko": "디버그 - 흑요석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04651",
+    "source_sha256": "8ffb2c4ae4d8973da5c8d827d5b43b6ed41b27a927304f0d86c67225d2165614",
+    "ko": "임시 흑요석 광상 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04652",
+    "source_sha256": "ae833ab30e01b0857b890c5977601a22cb95ff47074e135483a5d217d3c4ff25",
+    "ko": "흑요석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04653",
+    "source_sha256": "da78fef4759efacd58dd4f124c8daa4eaa4cc03b2020cc5012959d88e8ec9ab9",
+    "ko": "디버그 - 흑요석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04654",
+    "source_sha256": "8ffb2c4ae4d8973da5c8d827d5b43b6ed41b27a927304f0d86c67225d2165614",
+    "ko": "임시 흑요석 광상 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04655",
+    "source_sha256": "ae833ab30e01b0857b890c5977601a22cb95ff47074e135483a5d217d3c4ff25",
+    "ko": "흑요석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04656",
+    "source_sha256": "da78fef4759efacd58dd4f124c8daa4eaa4cc03b2020cc5012959d88e8ec9ab9",
+    "ko": "디버그 - 흑요석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04657",
+    "source_sha256": "8ffb2c4ae4d8973da5c8d827d5b43b6ed41b27a927304f0d86c67225d2165614",
+    "ko": "임시 흑요석 광상 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04658",
+    "source_sha256": "ae833ab30e01b0857b890c5977601a22cb95ff47074e135483a5d217d3c4ff25",
+    "ko": "흑요석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04659",
+    "source_sha256": "da78fef4759efacd58dd4f124c8daa4eaa4cc03b2020cc5012959d88e8ec9ab9",
+    "ko": "디버그 - 흑요석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04660",
+    "source_sha256": "8ffb2c4ae4d8973da5c8d827d5b43b6ed41b27a927304f0d86c67225d2165614",
+    "ko": "임시 흑요석 광상 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04661",
+    "source_sha256": "ae833ab30e01b0857b890c5977601a22cb95ff47074e135483a5d217d3c4ff25",
+    "ko": "흑요석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04662",
+    "source_sha256": "fd87609ad37198c14b2495f7d421724f1e4d459ca8bfdb53c2b902f285452c43",
+    "ko": "디버그 - 광석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04663",
+    "source_sha256": "9ebc177959b1ba9828bdbb4d0e6552da64bc39b1d9f140766ce59c4dab3aa9aa",
+    "ko": "임시 광석 광상 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04664",
+    "source_sha256": "b5fb0a9d49280bc2cebdc1723113f93cac60326f52bf36a8119add3e24bb74c5",
+    "ko": "광석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04665",
+    "source_sha256": "fd87609ad37198c14b2495f7d421724f1e4d459ca8bfdb53c2b902f285452c43",
+    "ko": "디버그 - 광석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04666",
+    "source_sha256": "9ebc177959b1ba9828bdbb4d0e6552da64bc39b1d9f140766ce59c4dab3aa9aa",
+    "ko": "임시 광석 광상 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04667",
+    "source_sha256": "b5fb0a9d49280bc2cebdc1723113f93cac60326f52bf36a8119add3e24bb74c5",
+    "ko": "광석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04668",
+    "source_sha256": "4a389a5a7eeec5da4cbd8f62497951c4ad4d93814ec800e73c0cce82003d9592",
+    "ko": "디버그 - 부석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04669",
+    "source_sha256": "b67886ee08b40ee95530acde3a7ece6241bd84843a538d52159690bfc6bec7b2",
+    "ko": "임시 부석 광상 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04670",
+    "source_sha256": "31b038803a87fe06ce14e13feff922861543f332d665814b7cb19c0d6f6e0802",
+    "ko": "부석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04671",
+    "source_sha256": "4a389a5a7eeec5da4cbd8f62497951c4ad4d93814ec800e73c0cce82003d9592",
+    "ko": "디버그 - 부석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04672",
+    "source_sha256": "b67886ee08b40ee95530acde3a7ece6241bd84843a538d52159690bfc6bec7b2",
+    "ko": "임시 부석 광상 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04673",
+    "source_sha256": "31b038803a87fe06ce14e13feff922861543f332d665814b7cb19c0d6f6e0802",
+    "ko": "부석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04674",
+    "source_sha256": "4a389a5a7eeec5da4cbd8f62497951c4ad4d93814ec800e73c0cce82003d9592",
+    "ko": "디버그 - 부석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04675",
+    "source_sha256": "b67886ee08b40ee95530acde3a7ece6241bd84843a538d52159690bfc6bec7b2",
+    "ko": "임시 부석 광상 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04676",
+    "source_sha256": "31b038803a87fe06ce14e13feff922861543f332d665814b7cb19c0d6f6e0802",
+    "ko": "부석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04677",
+    "source_sha256": "4a389a5a7eeec5da4cbd8f62497951c4ad4d93814ec800e73c0cce82003d9592",
+    "ko": "디버그 - 부석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04678",
+    "source_sha256": "b67886ee08b40ee95530acde3a7ece6241bd84843a538d52159690bfc6bec7b2",
+    "ko": "임시 부석 광상 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04679",
+    "source_sha256": "31b038803a87fe06ce14e13feff922861543f332d665814b7cb19c0d6f6e0802",
+    "ko": "부석 광상"
+  },
+  {
+    "id": "TXT_SimsObjects_04680",
+    "source_sha256": "83b939b748e41ef68017b57f5759cab255c3d48f736ed4ea8fda93134a5082e5",
+    "ko": "디버그 - 고운 모래 퇴적층"
+  },
+  {
+    "id": "TXT_SimsObjects_04681",
+    "source_sha256": "2fc5b9079300d1fd74bce4c7c3ddf6daef46fad7085731dc94fe0a09e9a0bacd",
+    "ko": "임시 고운 모래 퇴적층 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04682",
+    "source_sha256": "4dc9e015e01625fbfc1a18a154e42c97adaa53d1234c7d71a43d68a0bcc87380",
+    "ko": "고운 모래 퇴적층"
+  },
+  {
+    "id": "TXT_SimsObjects_04683",
+    "source_sha256": "83b939b748e41ef68017b57f5759cab255c3d48f736ed4ea8fda93134a5082e5",
+    "ko": "디버그 - 고운 모래 퇴적층"
+  },
+  {
+    "id": "TXT_SimsObjects_04684",
+    "source_sha256": "2fc5b9079300d1fd74bce4c7c3ddf6daef46fad7085731dc94fe0a09e9a0bacd",
+    "ko": "임시 고운 모래 퇴적층 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04685",
+    "source_sha256": "4dc9e015e01625fbfc1a18a154e42c97adaa53d1234c7d71a43d68a0bcc87380",
+    "ko": "고운 모래 퇴적층"
+  },
+  {
+    "id": "TXT_SimsObjects_04686",
+    "source_sha256": "a478831f7111cd5286478004cf37b62768b79961c4fcf313cef7ccc7dedb0f67",
+    "ko": "디버그 - 주황색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04687",
+    "source_sha256": "094db72373cc86e2d802f8267fdfe2fdaca31b3b69e667010964df1e7560aff7",
+    "ko": "임시 주황색 히비스커스 꽃 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04688",
+    "source_sha256": "7443de4b7500ef2ba6a6a6b0ec733f91eac46fd7cab40f08898a0a817059079b",
+    "ko": "주황색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04689",
+    "source_sha256": "a478831f7111cd5286478004cf37b62768b79961c4fcf313cef7ccc7dedb0f67",
+    "ko": "디버그 - 주황색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04690",
+    "source_sha256": "094db72373cc86e2d802f8267fdfe2fdaca31b3b69e667010964df1e7560aff7",
+    "ko": "임시 주황색 히비스커스 꽃 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04691",
+    "source_sha256": "7443de4b7500ef2ba6a6a6b0ec733f91eac46fd7cab40f08898a0a817059079b",
+    "ko": "주황색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04692",
+    "source_sha256": "2ebf9d666e572bc84a59c9a77b20a01cfc8affc364441f150ea5978e1a64689c",
+    "ko": "디버그 - 빨간색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04693",
+    "source_sha256": "b48a105334cb0a40e1df5b7247395e6d76681fe8b5d0344ad2d27011bf42ac76",
+    "ko": "임시 빨간색 히비스커스 꽃 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04694",
+    "source_sha256": "bc7aae9bcc5b18e89798f0fc125acbe165681e9204d1a7084669a2ef1b64717c",
+    "ko": "빨간색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04695",
+    "source_sha256": "2ebf9d666e572bc84a59c9a77b20a01cfc8affc364441f150ea5978e1a64689c",
+    "ko": "디버그 - 빨간색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04696",
+    "source_sha256": "b48a105334cb0a40e1df5b7247395e6d76681fe8b5d0344ad2d27011bf42ac76",
+    "ko": "임시 빨간색 히비스커스 꽃 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04697",
+    "source_sha256": "bc7aae9bcc5b18e89798f0fc125acbe165681e9204d1a7084669a2ef1b64717c",
+    "ko": "빨간색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04698",
+    "source_sha256": "99983f09bde61a04e7f6c2219c3649418acbd3b65fa0a07dbee84ac9afe4e270",
+    "ko": "디버그 - 흰색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04699",
+    "source_sha256": "8e6c86fb666faa6ea82fdc48817595c5e715df65a902416a781ad85454405251",
+    "ko": "임시 흰색 히비스커스 꽃 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04700",
+    "source_sha256": "29c4c9865978dbd6d786b6c6d73b8306482744170831d2885077bdf45589e938",
+    "ko": "흰색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04701",
+    "source_sha256": "99983f09bde61a04e7f6c2219c3649418acbd3b65fa0a07dbee84ac9afe4e270",
+    "ko": "디버그 - 흰색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04702",
+    "source_sha256": "8e6c86fb666faa6ea82fdc48817595c5e715df65a902416a781ad85454405251",
+    "ko": "임시 흰색 히비스커스 꽃 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04703",
+    "source_sha256": "29c4c9865978dbd6d786b6c6d73b8306482744170831d2885077bdf45589e938",
+    "ko": "흰색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04704",
+    "source_sha256": "80673fa48605a24d9565f585222258b4d5a0665029b66933bfe9d42bb7a6be73",
+    "ko": "디버그 - 노란색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04705",
+    "source_sha256": "edcf7e4c0dba53d3c5581f77aa38dc8035ee159eda11d3555407605301952b63",
+    "ko": "임시 노란색 히비스커스 꽃 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04706",
+    "source_sha256": "e9fbe140a9a4e1fe3b235c009622b436fbb44ede2c28899ff58cde98c7affeac",
+    "ko": "노란색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04707",
+    "source_sha256": "80673fa48605a24d9565f585222258b4d5a0665029b66933bfe9d42bb7a6be73",
+    "ko": "디버그 - 노란색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04708",
+    "source_sha256": "edcf7e4c0dba53d3c5581f77aa38dc8035ee159eda11d3555407605301952b63",
+    "ko": "임시 노란색 히비스커스 꽃 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04709",
+    "source_sha256": "e9fbe140a9a4e1fe3b235c009622b436fbb44ede2c28899ff58cde98c7affeac",
+    "ko": "노란색 히비스커스 꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04710",
+    "source_sha256": "b319d6e5d198a8445497cc89bca31267eca0eb31fff454a062115acd0863f9d8",
+    "ko": "디버그 - 붓꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04711",
+    "source_sha256": "2a987451a45de7adcc56c89b6161ea8a0307fb91e27e1483c10df9888c520a2b",
+    "ko": "임시 붓꽃 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04713",
+    "source_sha256": "b319d6e5d198a8445497cc89bca31267eca0eb31fff454a062115acd0863f9d8",
+    "ko": "디버그 - 붓꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04714",
+    "source_sha256": "2a987451a45de7adcc56c89b6161ea8a0307fb91e27e1483c10df9888c520a2b",
+    "ko": "임시 붓꽃 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04716",
+    "source_sha256": "ba5e5211583aae3fc145119e3ee3af74aef6f3c108101eb91693eae10bfb3426",
+    "ko": "디버그 - 파란 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04717",
+    "source_sha256": "07f1a67bd359e578a8b1684208a868ffe80ba7dce295aff5d29d5807fdf14abe",
+    "ko": "임시 파란 난초 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04719",
+    "source_sha256": "ba5e5211583aae3fc145119e3ee3af74aef6f3c108101eb91693eae10bfb3426",
+    "ko": "디버그 - 파란 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04720",
+    "source_sha256": "07f1a67bd359e578a8b1684208a868ffe80ba7dce295aff5d29d5807fdf14abe",
+    "ko": "임시 파란 난초 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04722",
+    "source_sha256": "0f3250a5bc9f023cbfeb2e67b68274fcc7513748cffd5887e1f02e0863007455",
+    "ko": "디버그 - 분홍 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04723",
+    "source_sha256": "3d9f2dcdf481220fa397a050d86b228e36e9df2cd7137537a0c1bfcc69ef45fe",
+    "ko": "임시 분홍 난초 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04725",
+    "source_sha256": "0f3250a5bc9f023cbfeb2e67b68274fcc7513748cffd5887e1f02e0863007455",
+    "ko": "디버그 - 분홍 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04726",
+    "source_sha256": "3d9f2dcdf481220fa397a050d86b228e36e9df2cd7137537a0c1bfcc69ef45fe",
+    "ko": "임시 분홍 난초 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04728",
+    "source_sha256": "5f4fca126a38ee75284b12474c703ff761b7693e1e2724fa840544fe20a972bc",
+    "ko": "디버그 - 보라색 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04729",
+    "source_sha256": "d05fd3e8bdf03b592d8535724bae77d1fcb31ca9f901c8576e01f27073d92479",
+    "ko": "임시 보라색 난초 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04731",
+    "source_sha256": "5f4fca126a38ee75284b12474c703ff761b7693e1e2724fa840544fe20a972bc",
+    "ko": "디버그 - 보라색 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04732",
+    "source_sha256": "d05fd3e8bdf03b592d8535724bae77d1fcb31ca9f901c8576e01f27073d92479",
+    "ko": "임시 보라색 난초 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04734",
+    "source_sha256": "c1cbaf04590cf47c5adcae6109dd53a98cd9c1dc29f5c71d5737a1eb597a1517",
+    "ko": "디버그 - 빨간 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04735",
+    "source_sha256": "0eb20090c9733e18a87d80e995dc556193477dd3d8c3208f402c2b6840cdb12e",
+    "ko": "임시 빨간 난초 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04737",
+    "source_sha256": "ba5e5211583aae3fc145119e3ee3af74aef6f3c108101eb91693eae10bfb3426",
+    "ko": "디버그 - 파란 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04738",
+    "source_sha256": "07f1a67bd359e578a8b1684208a868ffe80ba7dce295aff5d29d5807fdf14abe",
+    "ko": "임시 파란 난초 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04739",
+    "source_sha256": "dda4e527557612537e0064d5fde662c1fed6e32146b3cb1479e93325f4a756b1",
+    "ko": "디버그 - 흰 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04740",
+    "source_sha256": "4a91f76fb991450a5d3de6831bf111f8dc11cbd3894932c5e2e15d1998ef97ea",
+    "ko": "임시 흰 난초 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04742",
+    "source_sha256": "dda4e527557612537e0064d5fde662c1fed6e32146b3cb1479e93325f4a756b1",
+    "ko": "디버그 - 흰 난초"
+  },
+  {
+    "id": "TXT_SimsObjects_04743",
+    "source_sha256": "4a91f76fb991450a5d3de6831bf111f8dc11cbd3894932c5e2e15d1998ef97ea",
+    "ko": "임시 흰 난초 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04745",
+    "source_sha256": "a878fca39a44817c9aa5636c0fea230c0c21e9b0956d6ec53e360cafb4e6d748",
+    "ko": "디버그 - 조개 바위"
+  },
+  {
+    "id": "TXT_SimsObjects_04746",
+    "source_sha256": "3dce8905f902ec7d57edf0dd2ad008bddb06096c06f20ab5c55d78c110104490",
+    "ko": "임시 조개 바위 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04747",
+    "source_sha256": "ac30c7a7d387e96c8f18384cff1ed704fe5e351b2d6574ec003c194cf10dde61",
+    "ko": "조개 바위"
+  },
+  {
+    "id": "TXT_SimsObjects_04748",
+    "source_sha256": "a878fca39a44817c9aa5636c0fea230c0c21e9b0956d6ec53e360cafb4e6d748",
+    "ko": "디버그 - 조개 바위"
+  },
+  {
+    "id": "TXT_SimsObjects_04749",
+    "source_sha256": "3dce8905f902ec7d57edf0dd2ad008bddb06096c06f20ab5c55d78c110104490",
+    "ko": "임시 조개 바위 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04750",
+    "source_sha256": "ac30c7a7d387e96c8f18384cff1ed704fe5e351b2d6574ec003c194cf10dde61",
+    "ko": "조개 바위"
+  },
+  {
+    "id": "TXT_SimsObjects_04751",
+    "source_sha256": "9a647ba2f1e4ff840ea75f1ce17a931ecb8c9f4556788e8cb5935ae508ba128e",
+    "ko": "디버그 - 물고기 떼"
+  },
+  {
+    "id": "TXT_SimsObjects_04752",
+    "source_sha256": "b79d014e13f3e2d008da381c4ecab47412f167b194a8a5e1c9642c6fc285ed72",
+    "ko": "임시 물고기 떼 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04753",
+    "source_sha256": "58a5c9a7b43a6a8e4ef2d8585271e8d333a5a1752c9b299b07ca610edd1f7711",
+    "ko": "물고기 떼"
+  },
+  {
+    "id": "TXT_SimsObjects_04757",
+    "source_sha256": "7b2382434570751ac6aaba78690bd04f51cb7648cff530fd86ca16e235d4172e",
+    "ko": "디버그 - 대나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04758",
+    "source_sha256": "398705f5f3e5f11c170dabf96a5ab4208c14dfef9e8e5132977219f492867a04",
+    "ko": "임시 대나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04760",
+    "source_sha256": "7b2382434570751ac6aaba78690bd04f51cb7648cff530fd86ca16e235d4172e",
+    "ko": "디버그 - 대나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04761",
+    "source_sha256": "398705f5f3e5f11c170dabf96a5ab4208c14dfef9e8e5132977219f492867a04",
+    "ko": "임시 대나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04763",
+    "source_sha256": "324a723ca39de3d3553aa207c12d3a3160b3086bf781c6806585467c451653d9",
+    "ko": "디버그 - 칸탈루프 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04764",
+    "source_sha256": "fb37840850110258da2cf8662910e0db4d48e233f26ddc94c65272ceaf77b1c6",
+    "ko": "임시 칸탈루프 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04765",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04766",
+    "source_sha256": "324a723ca39de3d3553aa207c12d3a3160b3086bf781c6806585467c451653d9",
+    "ko": "디버그 - 칸탈루프 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04767",
+    "source_sha256": "fb37840850110258da2cf8662910e0db4d48e233f26ddc94c65272ceaf77b1c6",
+    "ko": "임시 칸탈루프 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04768",
+    "source_sha256": "1a9132c7c6ef4d08e846d29b78d0921aa8c9cd6b1ac65d1e30ee4a8253d97639",
+    "ko": "칸탈루프 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04769",
+    "source_sha256": "6cf309bb1c935a6dd80973d9b860896096c8a350bfced6fca5c144114b7a01f2",
+    "ko": "디버그 - 당근 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04770",
+    "source_sha256": "a9fd23630036804805ef30091589f7b6ef46124559bd3bdafbaf97157b5c2fc2",
+    "ko": "임시 당근 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04771",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04772",
+    "source_sha256": "6cf309bb1c935a6dd80973d9b860896096c8a350bfced6fca5c144114b7a01f2",
+    "ko": "디버그 - 당근 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04773",
+    "source_sha256": "a9fd23630036804805ef30091589f7b6ef46124559bd3bdafbaf97157b5c2fc2",
+    "ko": "임시 당근 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04774",
+    "source_sha256": "76453ab20d570994f1a5f9484202a7125a58a3a49be9a54302260e92bd036533",
+    "ko": "당근 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04775",
+    "source_sha256": "18a92ef7cf1330218fff999bda3761a02dd1872004c1c3a3419750bbca717a1c",
+    "ko": "디버그 - 옥수수 줄기"
+  },
+  {
+    "id": "TXT_SimsObjects_04776",
+    "source_sha256": "ad6d1516f09c4776f602f2473a4b2729cadb0911ba3bb62a3c73fa6233b95b7f",
+    "ko": "임시 옥수수 줄기 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04777",
+    "source_sha256": "81a3acb6b1069de85885ddcfecc779500c91951a9d56f67437fe216275b57110",
+    "ko": "옥수수 줄기"
+  },
+  {
+    "id": "TXT_SimsObjects_04778",
+    "source_sha256": "18a92ef7cf1330218fff999bda3761a02dd1872004c1c3a3419750bbca717a1c",
+    "ko": "디버그 - 옥수수 줄기"
+  },
+  {
+    "id": "TXT_SimsObjects_04779",
+    "source_sha256": "ad6d1516f09c4776f602f2473a4b2729cadb0911ba3bb62a3c73fa6233b95b7f",
+    "ko": "임시 옥수수 줄기 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04780",
+    "source_sha256": "81a3acb6b1069de85885ddcfecc779500c91951a9d56f67437fe216275b57110",
+    "ko": "옥수수 줄기"
+  },
+  {
+    "id": "TXT_SimsObjects_04781",
+    "source_sha256": "b9206f6d03a04e1c8d351efc29f1dbeedfab5462fb6b4551e9cbcf8120b1875b",
+    "ko": "디버그 - 오이 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04782",
+    "source_sha256": "8f61d01b35752e3d150570110b91aede09a825824c41220f6e765ec859f2164d",
+    "ko": "임시 오이 식물 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04783",
+    "source_sha256": "02044c2c16accc03422c53daeb58bf366458375ddd5740c4c1b57c6fc5c66b17",
+    "ko": "오이 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04784",
+    "source_sha256": "b9206f6d03a04e1c8d351efc29f1dbeedfab5462fb6b4551e9cbcf8120b1875b",
+    "ko": "디버그 - 오이 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04785",
+    "source_sha256": "8f61d01b35752e3d150570110b91aede09a825824c41220f6e765ec859f2164d",
+    "ko": "임시 오이 식물 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04786",
+    "source_sha256": "02044c2c16accc03422c53daeb58bf366458375ddd5740c4c1b57c6fc5c66b17",
+    "ko": "오이 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04787",
+    "source_sha256": "3a795dd72399a1b1bbafb4820b755b621a0a2a519ff067607d2c0336d9b23ad3",
+    "ko": "디버그 - 마늘 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04788",
+    "source_sha256": "0dd9ea011f8113fb6311ea7136ced74b5c73742a92faeb2d12a7b5f5f4946300",
+    "ko": "임시 마늘 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04789",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04790",
+    "source_sha256": "3a795dd72399a1b1bbafb4820b755b621a0a2a519ff067607d2c0336d9b23ad3",
+    "ko": "디버그 - 마늘 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04791",
+    "source_sha256": "0dd9ea011f8113fb6311ea7136ced74b5c73742a92faeb2d12a7b5f5f4946300",
+    "ko": "임시 마늘 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04792",
+    "source_sha256": "b3b461673721f79847b4756742d060422b201cc9bb9315a4aa4b974edbc0e5f7",
+    "ko": "마늘 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04793",
+    "source_sha256": "f5ac067aa893d663e354591bb2c22a1c9067e78546f1717e7f61dde4e8c68b79",
+    "ko": "디버그 - 생강"
+  },
+  {
+    "id": "TXT_SimsObjects_04794",
+    "source_sha256": "e237ce42acf6ca0663891422e3ab6267126dfe889f28231c5733421458da6e9a",
+    "ko": "임시 생강 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04795",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04796",
+    "source_sha256": "f5ac067aa893d663e354591bb2c22a1c9067e78546f1717e7f61dde4e8c68b79",
+    "ko": "디버그 - 생강"
+  },
+  {
+    "id": "TXT_SimsObjects_04797",
+    "source_sha256": "e237ce42acf6ca0663891422e3ab6267126dfe889f28231c5733421458da6e9a",
+    "ko": "임시 생강 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04799",
+    "source_sha256": "cb1c3710f810b39ff73e8603ca9f75130153c08280e342f0c64506f972bebacf",
+    "ko": "디버그 - 풀"
+  },
+  {
+    "id": "TXT_SimsObjects_04800",
+    "source_sha256": "9e8e4d3bc4a81554b99e74cd8204a8d208121d551b0c926157556f5aa495b9b7",
+    "ko": "임시 풀 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04803",
+    "source_sha256": "9e8e4d3bc4a81554b99e74cd8204a8d208121d551b0c926157556f5aa495b9b7",
+    "ko": "임시 풀 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04805",
+    "source_sha256": "423e1d66d9869d8987f99624d83b879677f7b1a838bde71ea81925bf44e67c9f",
+    "ko": "디버그 - 쪽 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04806",
+    "source_sha256": "9a9bab5e656936668aea515cd309ef474020aa0e1f28bac6422299dc97289645",
+    "ko": "임시 쪽 식물 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04807",
+    "source_sha256": "ec9642de570f58eb7b044953aab060e7381a0e140b7629bbb4f491cce78a7e6e",
+    "ko": "쪽 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04808",
+    "source_sha256": "423e1d66d9869d8987f99624d83b879677f7b1a838bde71ea81925bf44e67c9f",
+    "ko": "디버그 - 쪽 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04809",
+    "source_sha256": "9a9bab5e656936668aea515cd309ef474020aa0e1f28bac6422299dc97289645",
+    "ko": "임시 쪽 식물 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04810",
+    "source_sha256": "ec9642de570f58eb7b044953aab060e7381a0e140b7629bbb4f491cce78a7e6e",
+    "ko": "쪽 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04811",
+    "source_sha256": "3b6fd95a424d82ae68ffdcc1afd3c3e90d1fb5889f25f392e7967af8fc433207",
+    "ko": "디버그 - 줄콩 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04812",
+    "source_sha256": "a06653c71c04307ea1c019dbb8a02a52143d3fbfa9338df7548fef67f00b20f8",
+    "ko": "임시 줄콩 식물 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04813",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04814",
+    "source_sha256": "3b6fd95a424d82ae68ffdcc1afd3c3e90d1fb5889f25f392e7967af8fc433207",
+    "ko": "디버그 - 줄콩 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04815",
+    "source_sha256": "a06653c71c04307ea1c019dbb8a02a52143d3fbfa9338df7548fef67f00b20f8",
+    "ko": "임시 줄콩 식물 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04816",
+    "source_sha256": "47b6347d456f1ab1ad5068337a370149417e7058881f21efc1ffcc6cf3598e55",
+    "ko": "줄콩 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04817",
+    "source_sha256": "4491e82853bbdaa370e630e3418b715878a13d677e428e2a8b6c3fa546c45a26",
+    "ko": "디버그 - 맨드레이크 뿌리"
+  },
+  {
+    "id": "TXT_SimsObjects_04818",
+    "source_sha256": "36ad21598e978798a730c95f4114a6cd743182ddd326a28251d3f74e11914275",
+    "ko": "임시 맨드레이크 뿌리 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04819",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04820",
+    "source_sha256": "4491e82853bbdaa370e630e3418b715878a13d677e428e2a8b6c3fa546c45a26",
+    "ko": "디버그 - 맨드레이크 뿌리"
+  },
+  {
+    "id": "TXT_SimsObjects_04821",
+    "source_sha256": "36ad21598e978798a730c95f4114a6cd743182ddd326a28251d3f74e11914275",
+    "ko": "임시 맨드레이크 뿌리 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04823",
+    "source_sha256": "0436ca8512c91b5ddce00f86b0e053dc45fa1dc2da5825a2b88236ac2ee2e388",
+    "ko": "디버그 - 양파 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04824",
+    "source_sha256": "7638500872642c23062311ae2f9185b276c380625409538fb0e6c3499b52a377",
+    "ko": "임시 양파 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04825",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04826",
+    "source_sha256": "0436ca8512c91b5ddce00f86b0e053dc45fa1dc2da5825a2b88236ac2ee2e388",
+    "ko": "디버그 - 양파 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04827",
+    "source_sha256": "7638500872642c23062311ae2f9185b276c380625409538fb0e6c3499b52a377",
+    "ko": "임시 양파 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04828",
+    "source_sha256": "3f4975639a916f7b7e5451e5daf261139e32e7e44086c4d581143c1b62199ac3",
+    "ko": "양파 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04829",
+    "source_sha256": "b500f993210e43f9053860926043e558fa93f752414a5d1c1dc25648ad51b092",
+    "ko": "디버그 - 파인애플 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04830",
+    "source_sha256": "a8803b546121d1a59f2c2beefebca0d271820c64af82cd849fd634acd5058aa8",
+    "ko": "임시 파인애플 식물 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04831",
+    "source_sha256": "f0f2c16be9391d08872c907b2a453f607d16ef6975da70017ee87eb3ae21f968",
+    "ko": "파인애플 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04832",
+    "source_sha256": "b500f993210e43f9053860926043e558fa93f752414a5d1c1dc25648ad51b092",
+    "ko": "디버그 - 파인애플 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04833",
+    "source_sha256": "a8803b546121d1a59f2c2beefebca0d271820c64af82cd849fd634acd5058aa8",
+    "ko": "임시 파인애플 식물 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04834",
+    "source_sha256": "f0f2c16be9391d08872c907b2a453f607d16ef6975da70017ee87eb3ae21f968",
+    "ko": "파인애플 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04835",
+    "source_sha256": "980660194700d8ac6d7ef46af60313f139e4e2cbb4b32f4a36636376ab2dcbd0",
+    "ko": "디버그 - 호박 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04836",
+    "source_sha256": "bb343dac824b4d00c22aa1823012dca4e8d67f207cfe71681bccd4d29d10737a",
+    "ko": "임시 호박 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04837",
+    "source_sha256": "bd8affa98c307dd3bd5f23901ca206c3f6a8682062c916d4d8b3259ee2f2e185",
+    "ko": "호박 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04838",
+    "source_sha256": "980660194700d8ac6d7ef46af60313f139e4e2cbb4b32f4a36636376ab2dcbd0",
+    "ko": "디버그 - 호박 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04839",
+    "source_sha256": "bb343dac824b4d00c22aa1823012dca4e8d67f207cfe71681bccd4d29d10737a",
+    "ko": "임시 호박 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04840",
+    "source_sha256": "bd8affa98c307dd3bd5f23901ca206c3f6a8682062c916d4d8b3259ee2f2e185",
+    "ko": "호박 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04841",
+    "source_sha256": "8daa60c4310965c09e04fcc873402515d622016ce39f74f1fb15e3aa63cf3b72",
+    "ko": "디버그 - 벼 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04842",
+    "source_sha256": "d849614a55f8dff10eb5754bdb4bc8365d9576ae3fc92f6c717989907c687e94",
+    "ko": "임시 벼 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04843",
+    "source_sha256": "1d1c95ef0240782ed5279352dc38ae6f464495f989374de2ea9717fe192f56ea",
+    "ko": "벼 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04844",
+    "source_sha256": "8daa60c4310965c09e04fcc873402515d622016ce39f74f1fb15e3aa63cf3b72",
+    "ko": "디버그 - 벼 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04845",
+    "source_sha256": "d849614a55f8dff10eb5754bdb4bc8365d9576ae3fc92f6c717989907c687e94",
+    "ko": "임시 벼 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04846",
+    "source_sha256": "1d1c95ef0240782ed5279352dc38ae6f464495f989374de2ea9717fe192f56ea",
+    "ko": "벼 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04847",
+    "source_sha256": "b6e8af8bb356ffe4d806365a10cae4271261b7b538c2b0beb9bbb668ccd51d57",
+    "ko": "디버그 - 사이잘삼"
+  },
+  {
+    "id": "TXT_SimsObjects_04848",
+    "source_sha256": "6adb908845bf5f99602fe4acc2642c9f804dcb617c8be8fc56b12d91edeea4d4",
+    "ko": "임시 사이잘삼 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04849",
+    "source_sha256": "1f6009315a564f9e64e0132f9eca7806feaa7ca111c7911a62612e522d256e9a",
+    "ko": "사이잘삼"
+  },
+  {
+    "id": "TXT_SimsObjects_04850",
+    "source_sha256": "b6e8af8bb356ffe4d806365a10cae4271261b7b538c2b0beb9bbb668ccd51d57",
+    "ko": "디버그 - 사이잘삼"
+  },
+  {
+    "id": "TXT_SimsObjects_04851",
+    "source_sha256": "6adb908845bf5f99602fe4acc2642c9f804dcb617c8be8fc56b12d91edeea4d4",
+    "ko": "임시 사이잘삼 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04852",
+    "source_sha256": "1f6009315a564f9e64e0132f9eca7806feaa7ca111c7911a62612e522d256e9a",
+    "ko": "사이잘삼"
+  },
+  {
+    "id": "TXT_SimsObjects_04853",
+    "source_sha256": "82160f77790ed429be4ef785e69a04cb9323db4758c3fa17c6c71b653525ea6f",
+    "ko": "디버그 - 비누 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04855",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04856",
+    "source_sha256": "82160f77790ed429be4ef785e69a04cb9323db4758c3fa17c6c71b653525ea6f",
+    "ko": "디버그 - 비누 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04859",
+    "source_sha256": "7f791caf9919c70f1b67db73ea416c26838a548f915dff848a81bfe6d83f398e",
+    "ko": "디버그 - 딸기 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04860",
+    "source_sha256": "973c3a8199a2031b7c0d21ca03f39ca2b1f0bfec7b7cd38aa7c1001080fe4451",
+    "ko": "임시 딸기 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04861",
+    "source_sha256": "7c0a622852df1c0f522fc4d422ca211a17dd1a41409467ae68084fbcba9a0a5c",
+    "ko": "딸기 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04862",
+    "source_sha256": "7f791caf9919c70f1b67db73ea416c26838a548f915dff848a81bfe6d83f398e",
+    "ko": "디버그 - 딸기 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04864",
+    "source_sha256": "7c0a622852df1c0f522fc4d422ca211a17dd1a41409467ae68084fbcba9a0a5c",
+    "ko": "딸기 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04865",
+    "source_sha256": "9d4d0a8e0e66804f3292dd9860f4c5dc6be3ffb09d177fb8aa5096305c766abe",
+    "ko": "디버그 - 사탕수수"
+  },
+  {
+    "id": "TXT_SimsObjects_04866",
+    "source_sha256": "d5864cd0fe734181b3a0f20bf656b2a78d53f612c10092aca94fe37e6dd50502",
+    "ko": "임시 사탕수수 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04867",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04868",
+    "source_sha256": "9d4d0a8e0e66804f3292dd9860f4c5dc6be3ffb09d177fb8aa5096305c766abe",
+    "ko": "디버그 - 사탕수수"
+  },
+  {
+    "id": "TXT_SimsObjects_04869",
+    "source_sha256": "d5864cd0fe734181b3a0f20bf656b2a78d53f612c10092aca94fe37e6dd50502",
+    "ko": "임시 사탕수수 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04870",
+    "source_sha256": "ad32d6a383557065fe1cf7ef0d04242ee86b6b12f08bebbcbd3f1219a0de91f1",
+    "ko": "사탕수수"
+  },
+  {
+    "id": "TXT_SimsObjects_04871",
+    "source_sha256": "017bac4209b80db0399b8a5417ba42a3dbfc275655062d35644981461b0bb059",
+    "ko": "디버그 - 토란 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04872",
+    "source_sha256": "b8493b39438be6eaba1587a980e7a726701f95644bf0ea6ff7b9c136958dfe0a",
+    "ko": "임시 토란 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04873",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04874",
+    "source_sha256": "017bac4209b80db0399b8a5417ba42a3dbfc275655062d35644981461b0bb059",
+    "ko": "디버그 - 토란 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04875",
+    "source_sha256": "b8493b39438be6eaba1587a980e7a726701f95644bf0ea6ff7b9c136958dfe0a",
+    "ko": "임시 토란 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04876",
+    "source_sha256": "4446fe835d3faf6ef1d58f995d18f4239ecfe720f01a841a5996933f1619a06a",
+    "ko": "토란 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04877",
+    "source_sha256": "1e951562653d912e2e31f43e6ce183c0076e50c26badebe281d05b5df8eafe3f",
+    "ko": "디버그 - 토마토 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04878",
+    "source_sha256": "bf85a98a1304fb2fece838589941da5c53425b3d48c14bb4976166046b43166c",
+    "ko": "임시 토마토 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04879",
+    "source_sha256": "0b2fbb9dbe9569604277c4d3cc03bd81485b5cd95dcec968370946d23643fbe3",
+    "ko": "토마토 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04880",
+    "source_sha256": "1e951562653d912e2e31f43e6ce183c0076e50c26badebe281d05b5df8eafe3f",
+    "ko": "디버그 - 토마토 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04881",
+    "source_sha256": "bf85a98a1304fb2fece838589941da5c53425b3d48c14bb4976166046b43166c",
+    "ko": "임시 토마토 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04882",
+    "source_sha256": "0b2fbb9dbe9569604277c4d3cc03bd81485b5cd95dcec968370946d23643fbe3",
+    "ko": "토마토 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04883",
+    "source_sha256": "5899935d4d850fcbc24f1a006940ba9591b5c1c4a4926c0b8bf76a169b79aa30",
+    "ko": "디버그 - 유인 재배 오이"
+  },
+  {
+    "id": "TXT_SimsObjects_04884",
+    "source_sha256": "eb22c275fe58efdf9bca6a9e5f20b7824a4aabbca4e4c8cf3de1d14e42ce112d",
+    "ko": "임시 유인 재배 오이 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04885",
+    "source_sha256": "02044c2c16accc03422c53daeb58bf366458375ddd5740c4c1b57c6fc5c66b17",
+    "ko": "오이 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04886",
+    "source_sha256": "5899935d4d850fcbc24f1a006940ba9591b5c1c4a4926c0b8bf76a169b79aa30",
+    "ko": "디버그 - 유인 재배 오이"
+  },
+  {
+    "id": "TXT_SimsObjects_04887",
+    "source_sha256": "eb22c275fe58efdf9bca6a9e5f20b7824a4aabbca4e4c8cf3de1d14e42ce112d",
+    "ko": "임시 유인 재배 오이 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04888",
+    "source_sha256": "02044c2c16accc03422c53daeb58bf366458375ddd5740c4c1b57c6fc5c66b17",
+    "ko": "오이 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04889",
+    "source_sha256": "2f2e55001c727518e64e99a24d932bbd1baa50360015a43a06e0ec8a6061db36",
+    "ko": "디버그 - 유인 재배 줄콩"
+  },
+  {
+    "id": "TXT_SimsObjects_04890",
+    "source_sha256": "cd31911ba49e654d8cd314edc508d0c31637e1d456e3426caf35d9c44f86b76f",
+    "ko": "임시 유인 재배 줄콩 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04891",
+    "source_sha256": "5d3b0881765bc16c4e59610b4656118014f36d70301e9629e7cfe2bb51ae88e8",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04892",
+    "source_sha256": "2f2e55001c727518e64e99a24d932bbd1baa50360015a43a06e0ec8a6061db36",
+    "ko": "디버그 - 유인 재배 줄콩"
+  },
+  {
+    "id": "TXT_SimsObjects_04893",
+    "source_sha256": "cd31911ba49e654d8cd314edc508d0c31637e1d456e3426caf35d9c44f86b76f",
+    "ko": "임시 유인 재배 줄콩 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04894",
+    "source_sha256": "cffef374d29497568e6e67f1e06fc1557d9283064b1a2080ea0d70fbf8638f85",
+    "ko": "줄콩"
+  },
+  {
+    "id": "TXT_SimsObjects_04895",
+    "source_sha256": "cf2c7ac1bc4ec025b0eb6d942bd6cdbe72c406666ded1b7ae56b0fad5e9ff9e5",
+    "ko": "디버그 - 유인 재배 딸기"
+  },
+  {
+    "id": "TXT_SimsObjects_04896",
+    "source_sha256": "687268a0981a15a88371f81ff6bc80c3d8da2a2b4a18b9d957107410ce3a4a18",
+    "ko": "임시 유인 재배 딸기 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04897",
+    "source_sha256": "387fe3ba020da494f6b919b38f5af6690effc79ed9108c9dee7956db9e269281",
+    "ko": "딸기"
+  },
+  {
+    "id": "TXT_SimsObjects_04898",
+    "source_sha256": "cf2c7ac1bc4ec025b0eb6d942bd6cdbe72c406666ded1b7ae56b0fad5e9ff9e5",
+    "ko": "디버그 - 유인 재배 딸기"
+  },
+  {
+    "id": "TXT_SimsObjects_04899",
+    "source_sha256": "687268a0981a15a88371f81ff6bc80c3d8da2a2b4a18b9d957107410ce3a4a18",
+    "ko": "임시 유인 재배 딸기 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04900",
+    "source_sha256": "387fe3ba020da494f6b919b38f5af6690effc79ed9108c9dee7956db9e269281",
+    "ko": "딸기"
+  },
+  {
+    "id": "TXT_SimsObjects_04901",
+    "source_sha256": "8eea500a67b69421548ec5de59d67e994583ec63d6721d5b1a34ec59250f119b",
+    "ko": "디버그 - 유인 재배 토마토"
+  },
+  {
+    "id": "TXT_SimsObjects_04902",
+    "source_sha256": "6d71b611df280fb648c46ff6dc02b6ba3f3319a8edc88d8a48945dff2e8b5f4a",
+    "ko": "임시 유인 재배 토마토 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04903",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04904",
+    "source_sha256": "8eea500a67b69421548ec5de59d67e994583ec63d6721d5b1a34ec59250f119b",
+    "ko": "디버그 - 유인 재배 토마토"
+  },
+  {
+    "id": "TXT_SimsObjects_04905",
+    "source_sha256": "6d71b611df280fb648c46ff6dc02b6ba3f3319a8edc88d8a48945dff2e8b5f4a",
+    "ko": "임시 유인 재배 토마토 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04906",
+    "source_sha256": "0b2fbb9dbe9569604277c4d3cc03bd81485b5cd95dcec968370946d23643fbe3",
+    "ko": "토마토 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04907",
+    "source_sha256": "cb605c1770bdfb9dc45a058ea2c649218297c182f5cb7d35cf3e5f24850210fa",
+    "ko": "디버그 - 강황 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04908",
+    "source_sha256": "94c80ee92a89353af59733b1d3aea07d0d2e9559f522f42fd0c7ebc082cea29f",
+    "ko": "임시 강황 식물 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04909",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04910",
+    "source_sha256": "cb605c1770bdfb9dc45a058ea2c649218297c182f5cb7d35cf3e5f24850210fa",
+    "ko": "디버그 - 강황 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04911",
+    "source_sha256": "94c80ee92a89353af59733b1d3aea07d0d2e9559f522f42fd0c7ebc082cea29f",
+    "ko": "임시 강황 식물 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04912",
+    "source_sha256": "30b0f46d1ae05e225df58d21c54fb2d0c2f26dfed9c67e4171413ed3ba0849cc",
+    "ko": "강황 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04913",
+    "source_sha256": "0085e4e5c1af51c73f537e4cd92ea1eb8348de5eedd030cf4fa1a83a52402706",
+    "ko": "디버그 - 덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_04914",
+    "source_sha256": "26428e5994a43d2a27363449f9f0f3ced9812731f348ca9a2dd63898bf50b5fa",
+    "ko": "임시 덩굴 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04916",
+    "source_sha256": "0085e4e5c1af51c73f537e4cd92ea1eb8348de5eedd030cf4fa1a83a52402706",
+    "ko": "디버그 - 덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_04917",
+    "source_sha256": "26428e5994a43d2a27363449f9f0f3ced9812731f348ca9a2dd63898bf50b5fa",
+    "ko": "임시 덩굴 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04919",
+    "source_sha256": "0085e4e5c1af51c73f537e4cd92ea1eb8348de5eedd030cf4fa1a83a52402706",
+    "ko": "디버그 - 덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_04920",
+    "source_sha256": "26428e5994a43d2a27363449f9f0f3ced9812731f348ca9a2dd63898bf50b5fa",
+    "ko": "임시 덩굴 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04922",
+    "source_sha256": "0085e4e5c1af51c73f537e4cd92ea1eb8348de5eedd030cf4fa1a83a52402706",
+    "ko": "디버그 - 덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_04923",
+    "source_sha256": "26428e5994a43d2a27363449f9f0f3ced9812731f348ca9a2dd63898bf50b5fa",
+    "ko": "임시 덩굴 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04925",
+    "source_sha256": "0085e4e5c1af51c73f537e4cd92ea1eb8348de5eedd030cf4fa1a83a52402706",
+    "ko": "디버그 - 덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_04926",
+    "source_sha256": "26428e5994a43d2a27363449f9f0f3ced9812731f348ca9a2dd63898bf50b5fa",
+    "ko": "임시 덩굴 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04928",
+    "source_sha256": "0085e4e5c1af51c73f537e4cd92ea1eb8348de5eedd030cf4fa1a83a52402706",
+    "ko": "디버그 - 덩굴"
+  },
+  {
+    "id": "TXT_SimsObjects_04929",
+    "source_sha256": "26428e5994a43d2a27363449f9f0f3ced9812731f348ca9a2dd63898bf50b5fa",
+    "ko": "임시 덩굴 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04931",
+    "source_sha256": "a5e39c5c563d83a3341344f1066b67b69ff55128ff361813a6418ea013cdee2f",
+    "ko": "디버그 - 수박 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04932",
+    "source_sha256": "87b718b29f00d0d11b91bdfadd957e443568483bcb5ece37756b3f95c944615c",
+    "ko": "임시 수박 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04934",
+    "source_sha256": "a5e39c5c563d83a3341344f1066b67b69ff55128ff361813a6418ea013cdee2f",
+    "ko": "디버그 - 수박 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04935",
+    "source_sha256": "87b718b29f00d0d11b91bdfadd957e443568483bcb5ece37756b3f95c944615c",
+    "ko": "임시 수박 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04937",
+    "source_sha256": "50b8befce3d1a07cc016ce5c846ce73fac1d56cdecd2b53fea777b8c6327a709",
+    "ko": "디버그 - 밀 줄기"
+  },
+  {
+    "id": "TXT_SimsObjects_04938",
+    "source_sha256": "30ddecceb83049c296ba9a868217ecde80ded1dab4baef2c564ebd880cb8b6bf",
+    "ko": "임시 밀 줄기 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04939",
+    "source_sha256": "565f3c70ae8d49ecf29cb45c6a6787834bc3c9961ddea6186de8a23e9d69aa39",
+    "ko": "밀 줄기"
+  },
+  {
+    "id": "TXT_SimsObjects_04940",
+    "source_sha256": "50b8befce3d1a07cc016ce5c846ce73fac1d56cdecd2b53fea777b8c6327a709",
+    "ko": "디버그 - 밀 줄기"
+  },
+  {
+    "id": "TXT_SimsObjects_04941",
+    "source_sha256": "30ddecceb83049c296ba9a868217ecde80ded1dab4baef2c564ebd880cb8b6bf",
+    "ko": "임시 밀 줄기 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04942",
+    "source_sha256": "565f3c70ae8d49ecf29cb45c6a6787834bc3c9961ddea6186de8a23e9d69aa39",
+    "ko": "밀 줄기"
+  },
+  {
+    "id": "TXT_SimsObjects_04943",
+    "source_sha256": "7078246233dfc684f417f150ac24720b15cc2fe95265dcac41b6a1c221c98413",
+    "ko": "디버그 - 참마 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04944",
+    "source_sha256": "ed80aac87cf7f3ee16983f3a45be1c57ac9e45715af693e33ee95fbdfc04138f",
+    "ko": "임시 참마 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04945",
+    "source_sha256": "1d3adb7c993df6dfa773844f41bd469fe0522383cfd0ba71c43335abcbeea7e2",
+    "ko": "정체불명의 식물"
+  },
+  {
+    "id": "TXT_SimsObjects_04946",
+    "source_sha256": "7078246233dfc684f417f150ac24720b15cc2fe95265dcac41b6a1c221c98413",
+    "ko": "디버그 - 참마 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04947",
+    "source_sha256": "ed80aac87cf7f3ee16983f3a45be1c57ac9e45715af693e33ee95fbdfc04138f",
+    "ko": "임시 참마 밭 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04948",
+    "source_sha256": "97cafe9b20a0eff09786e8b1a1f4bd4600cfed4f0ffe85caa1dc1ee675619a09",
+    "ko": "참마 밭"
+  },
+  {
+    "id": "TXT_SimsObjects_04952",
+    "source_sha256": "ee4aff42a7ad090e56cd63a6220cf6bab085f7a43437de3c7621e7506de601a6",
+    "ko": "디버그 - 아몬드나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04953",
+    "source_sha256": "2265a8f1f9b626b1c014079ef6189fff9489c56f561611a2b9eb93fa6f621a1a",
+    "ko": "임시 아몬드나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04954",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04955",
+    "source_sha256": "ee4aff42a7ad090e56cd63a6220cf6bab085f7a43437de3c7621e7506de601a6",
+    "ko": "디버그 - 아몬드나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04956",
+    "source_sha256": "2265a8f1f9b626b1c014079ef6189fff9489c56f561611a2b9eb93fa6f621a1a",
+    "ko": "임시 아몬드나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04957",
+    "source_sha256": "8d8e1a1645e98df237069a1b220ff2368fe7e85d5899db8fe3b4505e0acadf91",
+    "ko": "아몬드나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04958",
+    "source_sha256": "e7efed703192bc1f256198fded72fe7364be3389ecea8ef8ef4767b6832c48e7",
+    "ko": "디버그 - 아보카도나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04959",
+    "source_sha256": "746bef9ee62a90645e0309cd3fe2147c4846c52e7f2d76ad6ba204bec77dd029",
+    "ko": "임시 아보카도나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04960",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04961",
+    "source_sha256": "e7efed703192bc1f256198fded72fe7364be3389ecea8ef8ef4767b6832c48e7",
+    "ko": "디버그 - 아보카도나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04962",
+    "source_sha256": "746bef9ee62a90645e0309cd3fe2147c4846c52e7f2d76ad6ba204bec77dd029",
+    "ko": "임시 아보카도나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04963",
+    "source_sha256": "d0f0e677a929143980cf1f46198e93d238f0c0b43204a6fe6dc4772622bb70c2",
+    "ko": "아보카도나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04964",
+    "source_sha256": "9c1c99d5a2e9b3bb2cfa1bc1281e9419fd814fa52aaca9f344cbe29ef8b191b9",
+    "ko": "디버그 - 바나나나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04965",
+    "source_sha256": "2e1adccf53d1b3d0623a1ca0ccecd2b6cd97fac32e457f3c080d42d985d6fc0e",
+    "ko": "임시 바나나나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04967",
+    "source_sha256": "9c1c99d5a2e9b3bb2cfa1bc1281e9419fd814fa52aaca9f344cbe29ef8b191b9",
+    "ko": "디버그 - 바나나나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04968",
+    "source_sha256": "2e1adccf53d1b3d0623a1ca0ccecd2b6cd97fac32e457f3c080d42d985d6fc0e",
+    "ko": "임시 바나나나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04970",
+    "source_sha256": "251ee3723cdc1560f898f6984f99592bc8ddcf156349b7017ee169d91624bd7a",
+    "ko": "디버그 - 벌집 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04971",
+    "source_sha256": "380d08f97b6e46271e4adbb81068c2144a3407a8c409f754f855ce8f560a05c2",
+    "ko": "임시 벌집 나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04972",
+    "source_sha256": "5bfd7471472be1a4d39d73139d6eaf8f60ca570cc360b233ac6a266acdd28d3f",
+    "ko": "벌집 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04973",
+    "source_sha256": "251ee3723cdc1560f898f6984f99592bc8ddcf156349b7017ee169d91624bd7a",
+    "ko": "디버그 - 벌집 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04974",
+    "source_sha256": "380d08f97b6e46271e4adbb81068c2144a3407a8c409f754f855ce8f560a05c2",
+    "ko": "임시 벌집 나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04975",
+    "source_sha256": "5bfd7471472be1a4d39d73139d6eaf8f60ca570cc360b233ac6a266acdd28d3f",
+    "ko": "벌집 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04976",
+    "source_sha256": "b488e0c80b013dcf80a1857d8d69c10ecf040c70f2dbc475f186615d0a77398f",
+    "ko": "디버그 - 블러드 오렌지나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04977",
+    "source_sha256": "84dc6d9b3b4a22916ca380391f260175b2bf0423dbf9194d0dded2feedc7de87",
+    "ko": "임시 블러드 오렌지나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04978",
+    "source_sha256": "bd451c2a968f026e770882db08479261e13272b25a85534da0997612273d1a0d",
+    "ko": "블러드 오렌지나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04979",
+    "source_sha256": "b488e0c80b013dcf80a1857d8d69c10ecf040c70f2dbc475f186615d0a77398f",
+    "ko": "디버그 - 블러드 오렌지나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04980",
+    "source_sha256": "84dc6d9b3b4a22916ca380391f260175b2bf0423dbf9194d0dded2feedc7de87",
+    "ko": "임시 블러드 오렌지나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04981",
+    "source_sha256": "bd451c2a968f026e770882db08479261e13272b25a85534da0997612273d1a0d",
+    "ko": "블러드 오렌지나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04982",
+    "source_sha256": "972eefb81ef862c6ad6943a11b0698c1d279299a9ea043017f01cd45b90e13aa",
+    "ko": "디버그 - 브라질너트나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04983",
+    "source_sha256": "95c41922ba4d455ec5dae209a0ddbf10af2614bc2fffcb841fcbf80a07fc0821",
+    "ko": "임시 브라질너트나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04984",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04985",
+    "source_sha256": "972eefb81ef862c6ad6943a11b0698c1d279299a9ea043017f01cd45b90e13aa",
+    "ko": "디버그 - 브라질너트나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04986",
+    "source_sha256": "95c41922ba4d455ec5dae209a0ddbf10af2614bc2fffcb841fcbf80a07fc0821",
+    "ko": "임시 브라질너트나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04987",
+    "source_sha256": "2c3448d50ae79a3dfc97db3878566c8471ae03dbf9ebfad599e194d346cf7c0e",
+    "ko": "브라질너트나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04988",
+    "source_sha256": "e737fe90e54ab05c752f61ead929c6cc011faa9b8ac4408415e423d37a941e64",
+    "ko": "디버그 - 빵나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04989",
+    "source_sha256": "b72de13710c16f084a56d623360c653c1643970615ad817df8d4b3f1b033ec1d",
+    "ko": "임시 빵나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04990",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04991",
+    "source_sha256": "e737fe90e54ab05c752f61ead929c6cc011faa9b8ac4408415e423d37a941e64",
+    "ko": "디버그 - 빵나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04992",
+    "source_sha256": "b72de13710c16f084a56d623360c653c1643970615ad817df8d4b3f1b033ec1d",
+    "ko": "임시 빵나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04993",
+    "source_sha256": "8195f824429928d1e5987e19f93525e432003247aaead1e67e8ae7d0f47cb014",
+    "ko": "빵나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04994",
+    "source_sha256": "72d60d95a2d29ccc671cf956518420b5dbb83f6c58194b87409b40c4dd2b10f6",
+    "ko": "디버그 - 카카오나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04995",
+    "source_sha256": "e288181cba37ede9917f95477d2570b746e3258256e27c7278c640b08c938f4b",
+    "ko": "임시 카카오나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04996",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04997",
+    "source_sha256": "72d60d95a2d29ccc671cf956518420b5dbb83f6c58194b87409b40c4dd2b10f6",
+    "ko": "디버그 - 카카오나무"
+  },
+  {
+    "id": "TXT_SimsObjects_04998",
+    "source_sha256": "e288181cba37ede9917f95477d2570b746e3258256e27c7278c640b08c938f4b",
+    "ko": "임시 카카오나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_04999",
+    "source_sha256": "25c3c27db7f3fb1d0d0c4807acba3355de588dbe63dcab271b20e8ced170b804",
+    "ko": "카카오나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05000",
+    "source_sha256": "14d9fe288acbd32074cf513704b96f85d9c7fc271e1dbcb89520868594e79658",
+    "ko": "디버그 - 캐논볼나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05001",
+    "source_sha256": "6527567be28f9289595f4c0e6f610621ebc3c2b3d50d8380b529173c2bf2aab2",
+    "ko": "임시 캐논볼나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05002",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05003",
+    "source_sha256": "14d9fe288acbd32074cf513704b96f85d9c7fc271e1dbcb89520868594e79658",
+    "ko": "디버그 - 캐논볼나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05004",
+    "source_sha256": "6527567be28f9289595f4c0e6f610621ebc3c2b3d50d8380b529173c2bf2aab2",
+    "ko": "임시 캐논볼나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05005",
+    "source_sha256": "627cd86d6499e1b462293ba8cbf6b46342b06b464feef7ca5ec72996b1b47843",
+    "ko": "캐논볼나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05006",
+    "source_sha256": "f9bec4f089508c7c6bc679c576b6b488e67d1dae0495b75c78fcacbf5af3a280",
+    "ko": "디버그 - 캐슈나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05007",
+    "source_sha256": "9caaff4b6d4ea1d1d2b55c15a41fad770e5c794e8ff82d1e31a12284bfa728ab",
+    "ko": "임시 캐슈나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05008",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05009",
+    "source_sha256": "f9bec4f089508c7c6bc679c576b6b488e67d1dae0495b75c78fcacbf5af3a280",
+    "ko": "디버그 - 캐슈나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05010",
+    "source_sha256": "9caaff4b6d4ea1d1d2b55c15a41fad770e5c794e8ff82d1e31a12284bfa728ab",
+    "ko": "임시 캐슈나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05011",
+    "source_sha256": "a20e73fd033b4a4ecba49c988899d6d38a10531ffc97f8c0c434d935817c8411",
+    "ko": "캐슈나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05012",
+    "source_sha256": "742d8825ea2e47154a6f0f064e6a26c474255635fab352fde7e5f68645cec3dd",
+    "ko": "디버그 - 코코넛 야자나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05013",
+    "source_sha256": "0f639e16bcbe6fb255193e1b9566a8f0d6370dbe7c151d934372b365bdaed591",
+    "ko": "임시 코코넛 야자나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05015",
+    "source_sha256": "742d8825ea2e47154a6f0f064e6a26c474255635fab352fde7e5f68645cec3dd",
+    "ko": "디버그 - 코코넛 야자나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05016",
+    "source_sha256": "0f639e16bcbe6fb255193e1b9566a8f0d6370dbe7c151d934372b365bdaed591",
+    "ko": "임시 코코넛 야자나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05018",
+    "source_sha256": "5c1fe2c4d1b78124a8e1e1d1832143c80b1a67d9bd4ef02c8c817bfedd7a1182",
+    "ko": "디버그 - 대추야자나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05019",
+    "source_sha256": "23c3c14b544099836bd97339e7180bc9b24a1fb1742377f51a12744090379656",
+    "ko": "임시 대추야자나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05020",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05021",
+    "source_sha256": "5c1fe2c4d1b78124a8e1e1d1832143c80b1a67d9bd4ef02c8c817bfedd7a1182",
+    "ko": "디버그 - 대추야자나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05022",
+    "source_sha256": "23c3c14b544099836bd97339e7180bc9b24a1fb1742377f51a12744090379656",
+    "ko": "임시 대추야자나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05023",
+    "source_sha256": "5786b1e8616209d6cf99667283cd05965797092878b0b31329c1df31806c8ba3",
+    "ko": "대추야자"
+  },
+  {
+    "id": "TXT_SimsObjects_05024",
+    "source_sha256": "a8698b242111aebe138a5eb02075522c93799f6fc67bcb1e49a6130282c73308",
+    "ko": "디버그 - 자몽나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05025",
+    "source_sha256": "ea1dc971fb26c96624c640b8ca1f029db746e407331c1bdcbb0a3a673cdef920",
+    "ko": "임시 자몽나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05026",
+    "source_sha256": "8253da81a5cdb2c6e30fa649d170a7bf072e333308b8d681f0dc2fba7b169a24",
+    "ko": "자몽나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05027",
+    "source_sha256": "a8698b242111aebe138a5eb02075522c93799f6fc67bcb1e49a6130282c73308",
+    "ko": "디버그 - 자몽나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05028",
+    "source_sha256": "ea1dc971fb26c96624c640b8ca1f029db746e407331c1bdcbb0a3a673cdef920",
+    "ko": "임시 자몽나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05029",
+    "source_sha256": "8253da81a5cdb2c6e30fa649d170a7bf072e333308b8d681f0dc2fba7b169a24",
+    "ko": "자몽나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05030",
+    "source_sha256": "6b018f1036d96c102b8bf3e2106c618caba58a588ea4e489580ef1b430657dc3",
+    "ko": "디버그 - 구아바나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05031",
+    "source_sha256": "dce553f8a82c972d769ad37306e8ca9ca1227be9fb2f943b75f3209836575ac8",
+    "ko": "임시 구아바나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05032",
+    "source_sha256": "6cb464455149948299ce69242499f18ef24f7ec33ac139240c0fca6e83977200",
+    "ko": "구아바나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05033",
+    "source_sha256": "6b018f1036d96c102b8bf3e2106c618caba58a588ea4e489580ef1b430657dc3",
+    "ko": "디버그 - 구아바나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05034",
+    "source_sha256": "dce553f8a82c972d769ad37306e8ca9ca1227be9fb2f943b75f3209836575ac8",
+    "ko": "임시 구아바나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05035",
+    "source_sha256": "6cb464455149948299ce69242499f18ef24f7ec33ac139240c0fca6e83977200",
+    "ko": "구아바나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05036",
+    "source_sha256": "f2037ae33120fe6f61e96682c0138c3270fa76de1ae9107c3f7af74ba857cb22",
+    "ko": "디버그 - 자트로파나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05037",
+    "source_sha256": "8324800ae5841350417daa2985a9a5077c2022e6962747f5f557024f367c85ca",
+    "ko": "임시 자트로파나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05038",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05039",
+    "source_sha256": "f2037ae33120fe6f61e96682c0138c3270fa76de1ae9107c3f7af74ba857cb22",
+    "ko": "디버그 - 자트로파나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05040",
+    "source_sha256": "8324800ae5841350417daa2985a9a5077c2022e6962747f5f557024f367c85ca",
+    "ko": "임시 자트로파나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05041",
+    "source_sha256": "546e76a889868a36b43a4abe5627113761775f807ff01586476a732dc13326c7",
+    "ko": "자트로파나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05042",
+    "source_sha256": "65fd9f7eb3b20b1883f6fa9073732f6aa2219ff58db7ff7ccf657b1b2b2f78d5",
+    "ko": "디버그 - 코아나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05043",
+    "source_sha256": "ab407a3fed36478c02848919f612fb7959e2aa257637efa8c452ce13138c8d7e",
+    "ko": "임시 코아나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05044",
+    "source_sha256": "3921ac7cb2ee06b19239d3d8329036a4373dc51ad8c0651e8c5315e49163be62",
+    "ko": "코아나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05045",
+    "source_sha256": "65fd9f7eb3b20b1883f6fa9073732f6aa2219ff58db7ff7ccf657b1b2b2f78d5",
+    "ko": "디버그 - 코아나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05046",
+    "source_sha256": "ab407a3fed36478c02848919f612fb7959e2aa257637efa8c452ce13138c8d7e",
+    "ko": "임시 코아나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05047",
+    "source_sha256": "3921ac7cb2ee06b19239d3d8329036a4373dc51ad8c0651e8c5315e49163be62",
+    "ko": "코아나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05048",
+    "source_sha256": "f8245f92cc7bc5dbd0d421a01aa402bc3021c08a16dcaba3b5e574f9704812e2",
+    "ko": "디버그 - 쿠쿠이나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05049",
+    "source_sha256": "2683afb2b142e8a22c29186b00e98e965fa90833af6a6272dda33a2aae9dfc4d",
+    "ko": "임시 쿠쿠이나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05050",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05051",
+    "source_sha256": "f8245f92cc7bc5dbd0d421a01aa402bc3021c08a16dcaba3b5e574f9704812e2",
+    "ko": "디버그 - 쿠쿠이나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05052",
+    "source_sha256": "2683afb2b142e8a22c29186b00e98e965fa90833af6a6272dda33a2aae9dfc4d",
+    "ko": "임시 쿠쿠이나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05053",
+    "source_sha256": "cdeefe6edfac30fc45f632512594e21eac1d0c4637fc809bbf2ad82c88a1d4f1",
+    "ko": "쿠쿠이나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05054",
+    "source_sha256": "943e6e101d6c1c67cb317d4d2c333dcf8a43eba6d90ee5f5c3529ce0fcc0cc0a",
+    "ko": "디버그 - 레몬나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05055",
+    "source_sha256": "3d19e91b5f5bc646df2e04d87e92cb70f64f6e1b87d18efd73c39a1bd1ae48e2",
+    "ko": "임시 레몬나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05056",
+    "source_sha256": "5b61ecbc391fdb7024b06327bfa2ae13a9680640c73246c2877710f4dc276733",
+    "ko": "레몬나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05057",
+    "source_sha256": "943e6e101d6c1c67cb317d4d2c333dcf8a43eba6d90ee5f5c3529ce0fcc0cc0a",
+    "ko": "디버그 - 레몬나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05058",
+    "source_sha256": "3d19e91b5f5bc646df2e04d87e92cb70f64f6e1b87d18efd73c39a1bd1ae48e2",
+    "ko": "임시 레몬나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05059",
+    "source_sha256": "5b61ecbc391fdb7024b06327bfa2ae13a9680640c73246c2877710f4dc276733",
+    "ko": "레몬나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05060",
+    "source_sha256": "f91c81b506530c54c62c41c2e19591b9c23d2d1b0cb5aec33b997b90fca675bf",
+    "ko": "디버그 - 라임나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05061",
+    "source_sha256": "74b0a9148456edfcf962ea290991c0e989c9f2a10ffd61062cea37314a65ab12",
+    "ko": "임시 라임나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05062",
+    "source_sha256": "b39ae820895d8119d26e497b18b4c87cd19b24608fbef3c31f71844b893c0a89",
+    "ko": "라임나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05063",
+    "source_sha256": "f91c81b506530c54c62c41c2e19591b9c23d2d1b0cb5aec33b997b90fca675bf",
+    "ko": "디버그 - 라임나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05064",
+    "source_sha256": "74b0a9148456edfcf962ea290991c0e989c9f2a10ffd61062cea37314a65ab12",
+    "ko": "임시 라임나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05065",
+    "source_sha256": "b39ae820895d8119d26e497b18b4c87cd19b24608fbef3c31f71844b893c0a89",
+    "ko": "라임나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05066",
+    "source_sha256": "33bb3144b65b926baf87ed230d65f45e554b76f6c47aaadca17d590ac3b6cffe",
+    "ko": "디버그 - 리치나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05067",
+    "source_sha256": "1c14cdd2f651e76022457a26497df6af48ffa6fc8a3dd4580b96dd25cd677d1b",
+    "ko": "임시 리치나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05068",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05069",
+    "source_sha256": "33bb3144b65b926baf87ed230d65f45e554b76f6c47aaadca17d590ac3b6cffe",
+    "ko": "디버그 - 리치나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05070",
+    "source_sha256": "1c14cdd2f651e76022457a26497df6af48ffa6fc8a3dd4580b96dd25cd677d1b",
+    "ko": "임시 리치나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05071",
+    "source_sha256": "8485d1e947443dbdbba97c133ff47f2a99fb5841b2d7b8024791b5c6fabc88c3",
+    "ko": "리치나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05072",
+    "source_sha256": "629d9e4ee2415944c8380abb9d022bdf89b20798289e4476a59a0f83c2314519",
+    "ko": "디버그 - 마카다미아나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05073",
+    "source_sha256": "36b5774021f8ebc94b352dbdabc2d1909946c253c2eeb4660c469e86f38c2a40",
+    "ko": "임시 마카다미아나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05074",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05075",
+    "source_sha256": "629d9e4ee2415944c8380abb9d022bdf89b20798289e4476a59a0f83c2314519",
+    "ko": "디버그 - 마카다미아나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05076",
+    "source_sha256": "36b5774021f8ebc94b352dbdabc2d1909946c253c2eeb4660c469e86f38c2a40",
+    "ko": "임시 마카다미아나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05077",
+    "source_sha256": "01c62a383c1a61748b046f50bc949718d4daa9aebb3199ab0113319d767bbaf7",
+    "ko": "마카다미아나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05078",
+    "source_sha256": "6f42caa99bbac2105b7629d5ac77e1232e4e32603337863fb37c794ef6a5699d",
+    "ko": "디버그 - 맨치닐나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05079",
+    "source_sha256": "20ccb4971d0ee566fb9ec8c16d11145aad724755a715ccf7f9fae52f10b88793",
+    "ko": "임시 맨치닐나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05080",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05081",
+    "source_sha256": "6f42caa99bbac2105b7629d5ac77e1232e4e32603337863fb37c794ef6a5699d",
+    "ko": "디버그 - 맨치닐나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05082",
+    "source_sha256": "20ccb4971d0ee566fb9ec8c16d11145aad724755a715ccf7f9fae52f10b88793",
+    "ko": "임시 맨치닐나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05083",
+    "source_sha256": "3b5c333dd6ce65939d9a8871b065f635383b79541d7216135e166253ebf92abd",
+    "ko": "맨치닐나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05084",
+    "source_sha256": "e47143127e343f63e4afa36edc537a5401900a8be5c2029de723a9a4f34ac79a",
+    "ko": "임시 망고나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05085",
+    "source_sha256": "9dbdc5ec4df6b2a13f36c644943578c78531d45a361f6c62e95fe1ebc29b9d1a",
+    "ko": "임시 망고나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05086",
+    "source_sha256": "38d0676036517b4d6d2c0348aaac3006f5114791e71f8a50fd073b8943bc3137",
+    "ko": "망고나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05087",
+    "source_sha256": "e47143127e343f63e4afa36edc537a5401900a8be5c2029de723a9a4f34ac79a",
+    "ko": "임시 망고나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05088",
+    "source_sha256": "9dbdc5ec4df6b2a13f36c644943578c78531d45a361f6c62e95fe1ebc29b9d1a",
+    "ko": "임시 망고나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05089",
+    "source_sha256": "38d0676036517b4d6d2c0348aaac3006f5114791e71f8a50fd073b8943bc3137",
+    "ko": "망고나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05091",
+    "source_sha256": "f853c0c2e4c9caafb2b96515609aeacb319b9172b2449a5251f2781c02ff7402",
+    "ko": "임시 망고스틴나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05092",
+    "source_sha256": "9badaaed8212ca1f5695fa66256a70adc986422c4c2d589c913773c5dac67ce6",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05093",
+    "source_sha256": "a73b82f533eb885cd164903828b9e5a7096dbc6de4e3f68aac1e1ad484cf7b4a",
+    "ko": "망고스틴나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05094",
+    "source_sha256": "f853c0c2e4c9caafb2b96515609aeacb319b9172b2449a5251f2781c02ff7402",
+    "ko": "임시 망고스틴나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05095",
+    "source_sha256": "a73b82f533eb885cd164903828b9e5a7096dbc6de4e3f68aac1e1ad484cf7b4a",
+    "ko": "망고스틴나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05096",
+    "source_sha256": "7135df08a3cbdb539bb7fec5f7b143ed080fe155031312a19107c066cc9e2efb",
+    "ko": "디버그 - 오쿠메나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05097",
+    "source_sha256": "27bf5c0a5f10d898df48e1bbea14847bb7eea2cd3435ae895383c202c5d43adf",
+    "ko": "임시 오쿠메나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05098",
+    "source_sha256": "6c001ecb664998d75a67ea1179b78d41dddd3191fe9de126d959575e581bd7b7",
+    "ko": "오쿠메나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05099",
+    "source_sha256": "7135df08a3cbdb539bb7fec5f7b143ed080fe155031312a19107c066cc9e2efb",
+    "ko": "디버그 - 오쿠메나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05100",
+    "source_sha256": "27bf5c0a5f10d898df48e1bbea14847bb7eea2cd3435ae895383c202c5d43adf",
+    "ko": "임시 오쿠메나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05101",
+    "source_sha256": "6c001ecb664998d75a67ea1179b78d41dddd3191fe9de126d959575e581bd7b7",
+    "ko": "오쿠메나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05102",
+    "source_sha256": "9c40dcc3ff5ce80d706f5aabd6a0dc97c095287961bb461b8ecf30462e308d54",
+    "ko": "디버그 - 파파야나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05103",
+    "source_sha256": "b8de67a0d9c60cdb36a63c72c8a9884548564a5aa7507f29eb53b4b3c831097e",
+    "ko": "임시 파파야나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05104",
+    "source_sha256": "6ec4f92d65569698929424e754dbc561e0d3542a0e168e13540432d95935d3d8",
+    "ko": "파파야나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05105",
+    "source_sha256": "9c40dcc3ff5ce80d706f5aabd6a0dc97c095287961bb461b8ecf30462e308d54",
+    "ko": "디버그 - 파파야나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05106",
+    "source_sha256": "b8de67a0d9c60cdb36a63c72c8a9884548564a5aa7507f29eb53b4b3c831097e",
+    "ko": "임시 파파야나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05107",
+    "source_sha256": "6ec4f92d65569698929424e754dbc561e0d3542a0e168e13540432d95935d3d8",
+    "ko": "파파야나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05108",
+    "source_sha256": "480cf3520114febdffacc1c48af51589b9deb2971cedf8500a5ee69af8c7f252",
+    "ko": "디버그 - 복숭아나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05109",
+    "source_sha256": "54cd8085a9db69873b04d54508f5d0aa4fbe30252b6ee6cb839fe336b08c54a9",
+    "ko": "임시 복숭아나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05110",
+    "source_sha256": "e936b268c12c408ed0d0a160dfb76051ff8391527246db53c4885739c0919ee0",
+    "ko": "복숭아나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05111",
+    "source_sha256": "480cf3520114febdffacc1c48af51589b9deb2971cedf8500a5ee69af8c7f252",
+    "ko": "디버그 - 복숭아나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05112",
+    "source_sha256": "54cd8085a9db69873b04d54508f5d0aa4fbe30252b6ee6cb839fe336b08c54a9",
+    "ko": "임시 복숭아나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05113",
+    "source_sha256": "e936b268c12c408ed0d0a160dfb76051ff8391527246db53c4885739c0919ee0",
+    "ko": "복숭아나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05114",
+    "source_sha256": "8f7720da1ffaa9bad1cad47ffa218e96dc76057f3ec86d215a1ba330fbf40442",
+    "ko": "디버그 - 감나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05115",
+    "source_sha256": "8a45fc7c10b3dc10a47feb7ab29aab3f0a58945a075cb975579fad429cc21098",
+    "ko": "임시 감나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05116",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05117",
+    "source_sha256": "8f7720da1ffaa9bad1cad47ffa218e96dc76057f3ec86d215a1ba330fbf40442",
+    "ko": "디버그 - 감나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05118",
+    "source_sha256": "8a45fc7c10b3dc10a47feb7ab29aab3f0a58945a075cb975579fad429cc21098",
+    "ko": "임시 감나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05119",
+    "source_sha256": "112d6f9b31d26e4144dd1c9e2a4a07555e52b5889854561e5c76e2cfc2ee5808",
+    "ko": "감나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05120",
+    "source_sha256": "2f9db26087f22b14cc53ac59e17745945fbbe1f1494c69fa1bdf9ea2851be631",
+    "ko": "디버그 - 라탄 야자나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05121",
+    "source_sha256": "7584be738ed32f88d9416f255be465e4f6addaa361002b8ce06088c795758851",
+    "ko": "임시 라탄 야자나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05122",
+    "source_sha256": "f002c4fc830b6bef195bebdf25f5563524f207324ae80aa15902ce25d6cec24f",
+    "ko": "라탄 야자"
+  },
+  {
+    "id": "TXT_SimsObjects_05123",
+    "source_sha256": "2f9db26087f22b14cc53ac59e17745945fbbe1f1494c69fa1bdf9ea2851be631",
+    "ko": "디버그 - 라탄 야자나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05124",
+    "source_sha256": "7584be738ed32f88d9416f255be465e4f6addaa361002b8ce06088c795758851",
+    "ko": "임시 라탄 야자나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05125",
+    "source_sha256": "f002c4fc830b6bef195bebdf25f5563524f207324ae80aa15902ce25d6cec24f",
+    "ko": "라탄 야자"
+  },
+  {
+    "id": "TXT_SimsObjects_05126",
+    "source_sha256": "eebb9aa7fe726cc3feda83026716c837374d14323faa5caa07d189c662e7aeeb",
+    "ko": "디버그 - 럼베리나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05127",
+    "source_sha256": "12da48ffd49224dfb1c0f87de2b4e6fe4d88ff13ef1fa6e88a85ead79cb5e6e1",
+    "ko": "임시 럼베리나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05128",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05129",
+    "source_sha256": "eebb9aa7fe726cc3feda83026716c837374d14323faa5caa07d189c662e7aeeb",
+    "ko": "디버그 - 럼베리나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05130",
+    "source_sha256": "12da48ffd49224dfb1c0f87de2b4e6fe4d88ff13ef1fa6e88a85ead79cb5e6e1",
+    "ko": "임시 럼베리나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05131",
+    "source_sha256": "464cb2adf71f45dd5d8a3f03d476b73b4c46ce175e0ec81014e99337835d8848",
+    "ko": "럼베리나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05132",
+    "source_sha256": "9f146f0f097e3804f7d48fc52e26b2a276cc225f2fb6d801ed4b14e38b051a10",
+    "ko": "디버그 - 백단나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05133",
+    "source_sha256": "c0901599bf7c576ee795ed2d2d7253cdbe82d777372cec080f92523e224808f8",
+    "ko": "임시 백단나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05134",
+    "source_sha256": "883f4080f1e83409faa3c3cf17dfa0055b3cc1b2dbdc4d326c005f1efcb9482a",
+    "ko": "백단나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05135",
+    "source_sha256": "9f146f0f097e3804f7d48fc52e26b2a276cc225f2fb6d801ed4b14e38b051a10",
+    "ko": "디버그 - 백단나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05136",
+    "source_sha256": "c0901599bf7c576ee795ed2d2d7253cdbe82d777372cec080f92523e224808f8",
+    "ko": "임시 백단나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05137",
+    "source_sha256": "883f4080f1e83409faa3c3cf17dfa0055b3cc1b2dbdc4d326c005f1efcb9482a",
+    "ko": "백단나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05138",
+    "source_sha256": "3ae55fbc39948829d0b9d5eb6fc17a51d0d58f431d36eccc7650e39e6c9cc5b7",
+    "ko": "디버그 - 스타프루트나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05139",
+    "source_sha256": "ca4ad98148f2e3d620adb64a0dbcd8910dd7057d6a291f57a535703c64e46387",
+    "ko": "임시 스타프루트나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05140",
+    "source_sha256": "e201376484db80b4e66f6d77c3c933dded9f8818d5f31213c76fc6cfeeb771b2",
+    "ko": "정체불명의 나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05141",
+    "source_sha256": "3ae55fbc39948829d0b9d5eb6fc17a51d0d58f431d36eccc7650e39e6c9cc5b7",
+    "ko": "디버그 - 스타프루트나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05142",
+    "source_sha256": "ca4ad98148f2e3d620adb64a0dbcd8910dd7057d6a291f57a535703c64e46387",
+    "ko": "임시 스타프루트나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05143",
+    "source_sha256": "d124c336f9df206a8277a2593e0f561f9ef4410a4d3168c485bf366bf7a385bb",
+    "ko": "스타프루트나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05144",
+    "source_sha256": "739acb24219e7d4fc83cc9b7a96bcf58f21176102ca9c439a3fd4bb09a8aebfe",
+    "ko": "디버그 - 스트리크닌나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05145",
+    "source_sha256": "dcdaeb7a1edb0c1ec4091a1472600f4f4bd767b60c010b6f54ceb7e24d2729e1",
+    "ko": "임시 스트리크닌나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05146",
+    "source_sha256": "da97b3cb22a460bbaee5326a45781bf54acbea75a36d8ee36c604c0df7a3036a",
+    "ko": "스트리크닌나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05147",
+    "source_sha256": "739acb24219e7d4fc83cc9b7a96bcf58f21176102ca9c439a3fd4bb09a8aebfe",
+    "ko": "디버그 - 스트리크닌나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05148",
+    "source_sha256": "dcdaeb7a1edb0c1ec4091a1472600f4f4bd767b60c010b6f54ceb7e24d2729e1",
+    "ko": "임시 스트리크닌나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05149",
+    "source_sha256": "da97b3cb22a460bbaee5326a45781bf54acbea75a36d8ee36c604c0df7a3036a",
+    "ko": "스트리크닌나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05150",
+    "source_sha256": "55845f40d8868cdd091fe3e233c18f731f78ecd8fd82017b551704c2d83e163e",
+    "ko": "디버그 - 귤나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05151",
+    "source_sha256": "b25ee5458ec15f41022230341bc631cfcd072edbf4da5185a7225c2bbd2f5cfa",
+    "ko": "임시 귤나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05152",
+    "source_sha256": "507e0175118c4374d1a21b90b2ceeff8b19c98548dc350e986812eccad0886b9",
+    "ko": "귤나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05153",
+    "source_sha256": "55845f40d8868cdd091fe3e233c18f731f78ecd8fd82017b551704c2d83e163e",
+    "ko": "디버그 - 귤나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05154",
+    "source_sha256": "b25ee5458ec15f41022230341bc631cfcd072edbf4da5185a7225c2bbd2f5cfa",
+    "ko": "임시 귤나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05155",
+    "source_sha256": "507e0175118c4374d1a21b90b2ceeff8b19c98548dc350e986812eccad0886b9",
+    "ko": "귤나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05156",
+    "source_sha256": "1fe65470808adcdc55674bf62e0a1175e1cca0b31a2a3dc4fb7ae2450950fa3c",
+    "ko": "디버그 - 티나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05157",
+    "source_sha256": "2556ea6f02d14b5c1352ef295c85a6f5f4684fbc201a25dba98931d8b2e3c91b",
+    "ko": "임시 티나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05158",
+    "source_sha256": "89df36c98c2f8c7ba0ee3ec1cd7748501ef78b040edb93325168fb91193aeb3b",
+    "ko": "티나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05159",
+    "source_sha256": "1fe65470808adcdc55674bf62e0a1175e1cca0b31a2a3dc4fb7ae2450950fa3c",
+    "ko": "디버그 - 티나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05160",
+    "source_sha256": "2556ea6f02d14b5c1352ef295c85a6f5f4684fbc201a25dba98931d8b2e3c91b",
+    "ko": "임시 티나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05161",
+    "source_sha256": "89df36c98c2f8c7ba0ee3ec1cd7748501ef78b040edb93325168fb91193aeb3b",
+    "ko": "티나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05162",
+    "source_sha256": "9cd1e4e947f969e6153c419ea9743b813bad62f276b6bbc84c2f2d28146081a2",
+    "ko": "디버그 - 티크나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05163",
+    "source_sha256": "76f23ba49c78cc67e713586406dd9b2092cf172edb500ed0042cb0fd1db139e1",
+    "ko": "임시 티크나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05164",
+    "source_sha256": "7a6b05090170d9350677b49fbbdae49d11f7d8b5c00f139cc87f46c1dad99a45",
+    "ko": "티크나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05165",
+    "source_sha256": "9cd1e4e947f969e6153c419ea9743b813bad62f276b6bbc84c2f2d28146081a2",
+    "ko": "디버그 - 티크나무"
+  },
+  {
+    "id": "TXT_SimsObjects_05166",
+    "source_sha256": "76f23ba49c78cc67e713586406dd9b2092cf172edb500ed0042cb0fd1db139e1",
+    "ko": "임시 티크나무 설명"
+  },
+  {
+    "id": "TXT_SimsObjects_05167",
+    "source_sha256": "7a6b05090170d9350677b49fbbdae49d11f7d8b5c00f139cc87f46c1dad99a45",
+    "ko": "티크나무"
+  }
+]

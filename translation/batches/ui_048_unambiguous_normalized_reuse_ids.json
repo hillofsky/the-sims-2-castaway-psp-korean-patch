@@ -1,0 +1,1657 @@
+[
+  {
+    "id": "TXT_SimsObjects_03683",
+    "source_sha256": "bc559dd42a0d0ed6f0ac46f6deca41bdb9c237d586bdd1cf10d97938968da6ed",
+    "ko": "라마 왕관"
+  },
+  {
+    "id": "TXT_SimsObjects_03787",
+    "source_sha256": "0df8c902fd6966f5b352acb59b56516f7369e65006a845cc9517e45ee13e7c88",
+    "ko": "식물"
+  },
+  {
+    "id": "TXT_SimsObjects_03884",
+    "source_sha256": "ea1f019fec62e4912210ccd3a047a3b9b10e0769d2f8a0563ffb5e8a53f2a30e",
+    "ko": "가시덤불"
+  },
+  {
+    "id": "TXT_SimsObjects_03926",
+    "source_sha256": "e3e6a5c31ef4a050ab236d39c9eaf1f427ded711b6f468a184d12ea715bf1cb1",
+    "ko": "협곡"
+  },
+  {
+    "id": "TXT_SimsObjects_04464",
+    "source_sha256": "a3b6cb52ce986ff4ca5baa8a1051a42b2748d06b0f33b93a75a87add2a7d74d2",
+    "ko": "꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04485",
+    "source_sha256": "a3b6cb52ce986ff4ca5baa8a1051a42b2748d06b0f33b93a75a87add2a7d74d2",
+    "ko": "꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_04503",
+    "source_sha256": "9f30204fe5977421c094ff1048545c498cc00c5dfb77785ebe46d42a188bd402",
+    "ko": "냄새 맡기"
+  },
+  {
+    "id": "TXT_SimsObjects_04509",
+    "source_sha256": "9f30204fe5977421c094ff1048545c498cc00c5dfb77785ebe46d42a188bd402",
+    "ko": "냄새 맡기"
+  },
+  {
+    "id": "TXT_SimsObjects_05249",
+    "source_sha256": "6301dd9106e3be1b7939ea8135d6af1e7a34ad31f40e00d387b0a96a0660db5d",
+    "ko": "나무 낚싯대"
+  },
+  {
+    "id": "TXT_SimsObjects_05282",
+    "source_sha256": "8e3ada0eda962e7705ef09b37191dfac4d4cd56d72d3a6c962de82655f0e5737",
+    "ko": "흑요석 창"
+  },
+  {
+    "id": "TXT_SimsObjects_05283",
+    "source_sha256": "8e3ada0eda962e7705ef09b37191dfac4d4cd56d72d3a6c962de82655f0e5737",
+    "ko": "흑요석 창"
+  },
+  {
+    "id": "TXT_SimsObjects_05456",
+    "source_sha256": "461f92a0717f1b7016409be26a87982c1cb815e97c435ef4409e7000389516e5",
+    "ko": "출근하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05458",
+    "source_sha256": "2bf140fe8a484ee5f385a520636eea22122de06a8717f556f44e63612720f051",
+    "ko": "여기로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_05470",
+    "source_sha256": "fd662b352d5174407308f5318ca9b28cf50b9e58f451ab1238bb9b6739376b2e",
+    "ko": "냄새 맡기"
+  },
+  {
+    "id": "TXT_SimsObjects_05471",
+    "source_sha256": "436e61016e26fcb773b9725745cbbf0afe7f001ea26041a814a7712c2925c442",
+    "ko": "놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_05518",
+    "source_sha256": "8222e3b75889624c665cd9ce2e20218a6a9a855daf669f234e5840788da14dc3",
+    "ko": "떠나 달라고 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05556",
+    "source_sha256": "ff72d2f38ccd6a691b2f232a928f7f263098aeda18c0d7c33f20a760cedd4e7c",
+    "ko": "대답하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05665",
+    "source_sha256": "6755fb53dec943ba2ea045d217fcc7f8f6f93653323fa3428471d74b752b3ef8",
+    "ko": "꺼내기"
+  },
+  {
+    "id": "TXT_SimsObjects_05676",
+    "source_sha256": "50975d65719ed8f36853d40b54332f80c21845cc49d37122d5cba6da731c180d",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05679",
+    "source_sha256": "fd662b352d5174407308f5318ca9b28cf50b9e58f451ab1238bb9b6739376b2e",
+    "ko": "냄새 맡기"
+  },
+  {
+    "id": "TXT_SimsObjects_05682",
+    "source_sha256": "4cd548f3cc29cf9c99a0134a971b1be03c8f6bf80ba8f03e174e030b0d292396",
+    "ko": "공격하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05683",
+    "source_sha256": "dd18cfad128d12b71ca5f01d2a28db1a53e87b79dd3a90a8361df5492a0f8ded",
+    "ko": "소리 내기"
+  },
+  {
+    "id": "TXT_SimsObjects_05698",
+    "source_sha256": "6d10065bf4269015d66319e2202ed185bdb00f30507a8beb81f115127a476e34",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05701",
+    "source_sha256": "6d10065bf4269015d66319e2202ed185bdb00f30507a8beb81f115127a476e34",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05704",
+    "source_sha256": "6d10065bf4269015d66319e2202ed185bdb00f30507a8beb81f115127a476e34",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05707",
+    "source_sha256": "6d10065bf4269015d66319e2202ed185bdb00f30507a8beb81f115127a476e34",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05710",
+    "source_sha256": "6d10065bf4269015d66319e2202ed185bdb00f30507a8beb81f115127a476e34",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05713",
+    "source_sha256": "6d10065bf4269015d66319e2202ed185bdb00f30507a8beb81f115127a476e34",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05716",
+    "source_sha256": "6d10065bf4269015d66319e2202ed185bdb00f30507a8beb81f115127a476e34",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05719",
+    "source_sha256": "6d10065bf4269015d66319e2202ed185bdb00f30507a8beb81f115127a476e34",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05720",
+    "source_sha256": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+    "ko": "읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_05722",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_05723",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05724",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05725",
+    "source_sha256": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+    "ko": "읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_05727",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_05729",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05730",
+    "source_sha256": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+    "ko": "읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_05732",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_05733",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05734",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05735",
+    "source_sha256": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+    "ko": "읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_05737",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_05738",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05739",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05740",
+    "source_sha256": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+    "ko": "읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_05742",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_05743",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05744",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05745",
+    "source_sha256": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+    "ko": "읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_05747",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_05748",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05749",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05750",
+    "source_sha256": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+    "ko": "읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_05752",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_05753",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05754",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05755",
+    "source_sha256": "9b9a8d05a7ec353bda84f9c1bb3178c299de3001b5e970508ddc889c487f92ca",
+    "ko": "읽기"
+  },
+  {
+    "id": "TXT_SimsObjects_05757",
+    "source_sha256": "0720ec30a2a007ba4e2f2f34230fe4c7aa5650d1a085c3858d66af6d41672763",
+    "ko": "치우기"
+  },
+  {
+    "id": "TXT_SimsObjects_05758",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05759",
+    "source_sha256": "cea930027cd226797110e0adf3d0172aff107ada716d2ae0903d5237ea38d2c5",
+    "ko": "물어뜯기"
+  },
+  {
+    "id": "TXT_SimsObjects_05760",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05762",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05764",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05767",
+    "source_sha256": "6d10065bf4269015d66319e2202ed185bdb00f30507a8beb81f115127a476e34",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05768",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05770",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05772",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05774",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05776",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05778",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05780",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05829",
+    "source_sha256": "436e61016e26fcb773b9725745cbbf0afe7f001ea26041a814a7712c2925c442",
+    "ko": "놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_05853",
+    "source_sha256": "09b1798b222179dfa2dd292afa2b4b9f7c7fbe357d340a6d37746799d42175e0",
+    "ko": "끄기"
+  },
+  {
+    "id": "TXT_SimsObjects_05857",
+    "source_sha256": "23d2d73543f9d7d92ac704296e5ee744037f5f4c938e21abf2c17002c4e9ba71",
+    "ko": "춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_05860",
+    "source_sha256": "fd30fe681b4b2d9e55f851cb34641f907401aa43e9d80f5b1e14ce714ef00497",
+    "ko": "함께하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05874",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05875",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_05876",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05888",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05889",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_05890",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05902",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05903",
+    "source_sha256": "4d52c856e6bcdbe9d7c36acdca59dfe29b33bd958ba7f921f472fc6d9a01901b",
+    "ko": "여럿이 먹을 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_05904",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05916",
+    "source_sha256": "30c9bc3cbcf686244adcb1bd3a5837c7b843a7b36665c310dbb9f85f7ad7f102",
+    "ko": "설거지하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05938",
+    "source_sha256": "eda549226ed70deac4ddae928c81619128ae9eb5fecce539e04024b341ae9708",
+    "ko": "요리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05939",
+    "source_sha256": "411e3bfbf32798ab65649d72177f675bddb70bddaa254595379789fe82c85d49",
+    "ko": "여럿이 먹을 식사"
+  },
+  {
+    "id": "TXT_SimsObjects_05940",
+    "source_sha256": "bcf686d39beed93c01c5987957e7b5156c6616578cd34a0f94d8b59f5b69c7ae",
+    "ko": "앉기"
+  },
+  {
+    "id": "TXT_SimsObjects_05953",
+    "source_sha256": "fd30fe681b4b2d9e55f851cb34641f907401aa43e9d80f5b1e14ce714ef00497",
+    "ko": "함께하기"
+  },
+  {
+    "id": "TXT_SimsObjects_05954",
+    "source_sha256": "65f257033d80c9f429dbed83860e2391d13a7c844a2330af659030048948d6c8",
+    "ko": "이리 오라고 부르기"
+  },
+  {
+    "id": "TXT_SimsObjects_05999",
+    "source_sha256": "24f4f9a490731e1e6e61bebfe719c68ed3670feef9022d580cfaf7cd848535ec",
+    "ko": "코 비비기"
+  },
+  {
+    "id": "TXT_SimsObjects_06074",
+    "source_sha256": "7f687506479e5da6079768d975fe0189552ee7bde17d4560de79b6ede1842d9c",
+    "ko": "침팬지 유인하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06079",
+    "source_sha256": "5bba39a0b831e82979c3c893cab26b3ed8c2dec237f53e1a6b0d7172b587e361",
+    "ko": "쫓아내기"
+  },
+  {
+    "id": "TXT_SimsObjects_06283",
+    "source_sha256": "50975d65719ed8f36853d40b54332f80c21845cc49d37122d5cba6da731c180d",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06290",
+    "source_sha256": "50975d65719ed8f36853d40b54332f80c21845cc49d37122d5cba6da731c180d",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06297",
+    "source_sha256": "50975d65719ed8f36853d40b54332f80c21845cc49d37122d5cba6da731c180d",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06320",
+    "source_sha256": "fc7d0cda803a4097ddd210528d2838b2f365e7ba4b1a2105106e492038345c7e",
+    "ko": "샤워하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06321",
+    "source_sha256": "e120e8b7e2217d91bb1a7b10836d531d154d6d5d35cbe88e186f20df160e8b4a",
+    "ko": "청소하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06322",
+    "source_sha256": "0da88e20ccda56e6d1aa1c01155d14876edd0aeaa8418d18ed01ac0d673ac25d",
+    "ko": "수리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06336",
+    "source_sha256": "2e56d498ec36cd1f3837bb5f54f3ede4fdab5183c7563aaa9e08a5169529a86f",
+    "ko": "손 씻기"
+  },
+  {
+    "id": "TXT_SimsObjects_06338",
+    "source_sha256": "0da88e20ccda56e6d1aa1c01155d14876edd0aeaa8418d18ed01ac0d673ac25d",
+    "ko": "수리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06339",
+    "source_sha256": "338b0bd95669347c95439f48708e2f2e5ca8b6ed13f6b0404b1fe9d0dc0bd6b2",
+    "ko": "설거지하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06345",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06359",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06361",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06363",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06366",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06368",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06370",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06372",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06374",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06376",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06378",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06379",
+    "source_sha256": "65f4f37ad93c0abbcaf18e91f34dd00e3aea06b0f56ced8e9a611bcf96a0eed5",
+    "ko": "부지 떠나기"
+  },
+  {
+    "id": "TXT_SimsObjects_06394",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06398",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06400",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06402",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06404",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06406",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06408",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06411",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06413",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06415",
+    "source_sha256": "6760bff634e8511352d4d9259d6736ce21f9c595c538b0dc194914352a570205",
+    "ko": "도착하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06596",
+    "source_sha256": "09bc8f5554f09e60de7bf459fc7832a2cf445ae98d0db6293457eda9e26df0fb",
+    "ko": "긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_06597",
+    "source_sha256": "046ec770d8ed13aead3422456d4051c2ddbf8cb22ab4b6fd9c8d1892d58c7537",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06598",
+    "source_sha256": "09bc8f5554f09e60de7bf459fc7832a2cf445ae98d0db6293457eda9e26df0fb",
+    "ko": "긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_06599",
+    "source_sha256": "2bf140fe8a484ee5f385a520636eea22122de06a8717f556f44e63612720f051",
+    "ko": "여기로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_06600",
+    "source_sha256": "2bf140fe8a484ee5f385a520636eea22122de06a8717f556f44e63612720f051",
+    "ko": "여기로 이동"
+  },
+  {
+    "id": "TXT_SimsObjects_06602",
+    "source_sha256": "142426329b4770ea131abf296c7b4e794ef4b4b6c8623ba67bfa7a960828505c",
+    "ko": "잠자기"
+  },
+  {
+    "id": "TXT_SimsObjects_06604",
+    "source_sha256": "046ec770d8ed13aead3422456d4051c2ddbf8cb22ab4b6fd9c8d1892d58c7537",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06609",
+    "source_sha256": "142426329b4770ea131abf296c7b4e794ef4b4b6c8623ba67bfa7a960828505c",
+    "ko": "잠자기"
+  },
+  {
+    "id": "TXT_SimsObjects_06610",
+    "source_sha256": "09bc8f5554f09e60de7bf459fc7832a2cf445ae98d0db6293457eda9e26df0fb",
+    "ko": "긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_06611",
+    "source_sha256": "046ec770d8ed13aead3422456d4051c2ddbf8cb22ab4b6fd9c8d1892d58c7537",
+    "ko": "휴식하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06612",
+    "source_sha256": "09bc8f5554f09e60de7bf459fc7832a2cf445ae98d0db6293457eda9e26df0fb",
+    "ko": "긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_06624",
+    "source_sha256": "09bc8f5554f09e60de7bf459fc7832a2cf445ae98d0db6293457eda9e26df0fb",
+    "ko": "긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_06626",
+    "source_sha256": "09bc8f5554f09e60de7bf459fc7832a2cf445ae98d0db6293457eda9e26df0fb",
+    "ko": "긁기"
+  },
+  {
+    "id": "TXT_SimsObjects_06654",
+    "source_sha256": "50975d65719ed8f36853d40b54332f80c21845cc49d37122d5cba6da731c180d",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06656",
+    "source_sha256": "50975d65719ed8f36853d40b54332f80c21845cc49d37122d5cba6da731c180d",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06657",
+    "source_sha256": "50975d65719ed8f36853d40b54332f80c21845cc49d37122d5cba6da731c180d",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06658",
+    "source_sha256": "50975d65719ed8f36853d40b54332f80c21845cc49d37122d5cba6da731c180d",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_06659",
+    "source_sha256": "50975d65719ed8f36853d40b54332f80c21845cc49d37122d5cba6da731c180d",
+    "ko": "사용하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07819",
+    "source_sha256": "dc1a1f8e71f7af62c23c4163e439b802d0a88e875cc908ebec8c0b2f64ac7f95",
+    "ko": "대화하기.../의상 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_07820",
+    "source_sha256": "2fad809e7dc86354ddd1d97a84d002ceceecdd88e2666e4394ee674efa1a2652",
+    "ko": "대화하기.../스포츠 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_07821",
+    "source_sha256": "1db476728d9bba2eef538118445c339e341714e1b3a8204cf7d458b1a7ad02e9",
+    "ko": "대화하기.../음식 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_07822",
+    "source_sha256": "2353c3ec5b8dbd7e69f5635a07d3db9f633dafef13df3cb76b07e50131b1c42b",
+    "ko": "대화하기.../범죄 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_07823",
+    "source_sha256": "3a436098f927723a5909773430bb447b597b665c569d1c0c7032d5d003c8f84b",
+    "ko": "대화하기.../정치 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_07824",
+    "source_sha256": "43f7cc38ab3b005a9780651d90bb72ac6a4b8ecd096cf7d997d4a12ef72d2c7d",
+    "ko": "대화하기.../우주 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_07825",
+    "source_sha256": "9185e8a8cf564ba9779d37883036a327cd3402c6c1e25d067a4eb7f06d238d58",
+    "ko": "대화하기.../건강 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_07826",
+    "source_sha256": "d7e4dc5a59423e4a1369b09c815359ff60362d9e0f723175ed1c1845de795bad",
+    "ko": "대화하기.../여행 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_07827",
+    "source_sha256": "51b58f7fedb78277679b6158c0c542767a224bd4a31d176050e0a43b83bad14e",
+    "ko": "대화하기.../시몰레온 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_07828",
+    "source_sha256": "cb9e20b6c46117762ab9c3f7fa9157a5b88dc8dfc2b6759ea5449db46cac6fad",
+    "ko": "대화하기.../일 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_07829",
+    "source_sha256": "94c135cad99d97fe7571f9c1809ffe0b49967e539c34d00ecff490b9156dea53",
+    "ko": "대화하기.../날씨 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_07830",
+    "source_sha256": "91135d5ff6afbd988ca807b57105d06694b5c29952bed1d3e6bab81e87faf2f2",
+    "ko": "대화하기.../동물 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_07831",
+    "source_sha256": "570d098dd5caf2d51576943227ef04fe594a4d6b5050948882697841b69ebd0e",
+    "ko": "대화하기.../초자연 현상 이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_08587",
+    "source_sha256": "bf477239c4f437d13d0725c4786bf5d508f029a9c00194beb00806f74d79d2f4",
+    "ko": "초대하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08588",
+    "source_sha256": "449f5a775762cdc561ee231300af1b02be67c56b81e503058a1c777ea1dc8b55",
+    "ko": "대화하기"
+  },
+  {
+    "id": "TXT_SimsObjects_08643",
+    "source_sha256": "92e3574ed692eff32fb9a3e58817c2e4cd222664a025f399c9c3b73e61afd8bf",
+    "ko": "원예 서비스"
+  },
+  {
+    "id": "TXT_SimsObjects_08645",
+    "source_sha256": "31fe397a7e1d6d3dd36b66753d88e5f785b18b7a27a7fbedcc25d7b72c8de213",
+    "ko": "수리 서비스"
+  },
+  {
+    "id": "TXT_SimsObjects_08654",
+    "source_sha256": "fc22050cff9d78f8b83a8669557d79aebae79e25c3e595af9c835c7f4a7e83ff",
+    "ko": "소방서"
+  },
+  {
+    "id": "TXT_SimsObjects_08659",
+    "source_sha256": "d677a7f2608768bb1b365291433b8be94cfedcb8dadcbc93778b43b02af12bfc",
+    "ko": "정신 건강"
+  },
+  {
+    "id": "TXT_SimsObjects_08671",
+    "source_sha256": "f38c72bbac49384060029e941297bcf657d1c62a744c6cf198410806fe0bac60",
+    "ko": "마음대로 일을 빠져도 되는 줄 알아?!? 한 번만 더 이러면 해고야!!!"
+  },
+  {
+    "id": "TXT_SimsObjects_08672",
+    "source_sha256": "2301845535aebe3029cffe059e1aaaead21ee2c5084f714a4b130290bc19611d",
+    "ko": "자네 직장이 있다는 걸 잊었나??? 잊었다고? 잘됐군. 이제 없으니까!"
+  },
+  {
+    "id": "TXT_SimsObjects_08674",
+    "source_sha256": "8752891c1ecedcd64af01049e0c9c1fd926c95290f04d573867c7f28778a442c",
+    "ko": "전화가 왔습니다 ..."
+  },
+  {
+    "id": "TXT_SimsObjects_08675",
+    "source_sha256": "25d9087a56a2f4fda884da991b20f115458a9761cdd2f788fddd14371b74e76a",
+    "ko": "구급대원 부르기"
+  },
+  {
+    "id": "TXT_SimsObjects_08730",
+    "source_sha256": "b374a6f22cd072958f148f95e2bb885025c261976d9ddd8b0c245a3fc64a0ed7",
+    "ko": "재료 가져오기"
+  },
+  {
+    "id": "TXT_SimsObjects_08734",
+    "source_sha256": "28b08e27bbe2aa64a107ce2bbf5eea882c01697ac302231f0016ad8e9508fc22",
+    "ko": "일반 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_08738",
+    "source_sha256": "b374a6f22cd072958f148f95e2bb885025c261976d9ddd8b0c245a3fc64a0ed7",
+    "ko": "재료 가져오기"
+  },
+  {
+    "id": "TXT_SimsObjects_08742",
+    "source_sha256": "28b08e27bbe2aa64a107ce2bbf5eea882c01697ac302231f0016ad8e9508fc22",
+    "ko": "일반 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_08746",
+    "source_sha256": "b374a6f22cd072958f148f95e2bb885025c261976d9ddd8b0c245a3fc64a0ed7",
+    "ko": "재료 가져오기"
+  },
+  {
+    "id": "TXT_SimsObjects_08750",
+    "source_sha256": "28b08e27bbe2aa64a107ce2bbf5eea882c01697ac302231f0016ad8e9508fc22",
+    "ko": "일반 요리 만들기"
+  },
+  {
+    "id": "TXT_SimsObjects_08796",
+    "source_sha256": "ff7f5ba7203c69cb6bbef08bb8aa3cf8aca3659d279febe2b981656b598f0af1",
+    "ko": "축하합니다! 새 요리법을 배웠습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_08848",
+    "source_sha256": "ce2d0cedd3b2c47d189c9fde4cd94b94244c2047273bd49ec97e948e246a35dc",
+    "ko": "놀아 주기.../안아 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_08849",
+    "source_sha256": "dab2d4dad528d8020ae40d9197c716f38a0d0ea52e650883e45dd7b45b32a4d4",
+    "ko": "놀아 주기.../쓰다듬기"
+  },
+  {
+    "id": "TXT_SimsObjects_08850",
+    "source_sha256": "c87c5601f8bdfa42b50e1cfa8de811859c3648fc5aa751245b9a6e23deb66da5",
+    "ko": "놀아 주기.../통통 튀겨 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_08851",
+    "source_sha256": "4ebd33815d2c999a50466344c6d3e6f41f823c945d4564a8dfae473a14d9c4d5",
+    "ko": "놀아 주기.../꼭 안아 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_08852",
+    "source_sha256": "d3526afa63c6fe5fb46e3b7809ea3be463927ea3cb26fd5aea832d0b6dd5d0bf",
+    "ko": "놀아 주기.../간지럽히기"
+  },
+  {
+    "id": "TXT_SimsObjects_09488",
+    "source_sha256": "6b0f3e76ed74ecd1f1b708ecd5123b4a4e86d871b76d893cccd7f19116bef868",
+    "ko": "클래식 모드에서는 커서로 심에게 명령을 내리고 행동을 지켜보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09491",
+    "source_sha256": "93dfda06d2b27b6c69828a6f65d9ada79d3b52adb04c49b8679883c8af2d7b5c",
+    "ko": "반려동물에게도 소망이 있습니다. <BUTTON_03> 버튼의 왼쪽을 누르면 확인할 수 있습니다. 소망을 이루어 주면 마을 광장에서 쓸 반려동물 점수를 얻습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09492",
+    "source_sha256": "5fd044d7db0d46d037750be6d43f41000fa221df2474470a36e7111cbf107f73",
+    "ko": "반려동물을 훈련하세요. 명령에 따라 재주를 부리도록 가르치고 잘못하면 꾸짖으세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_09493",
+    "source_sha256": "5440f88e578bca77431f0f4e38a991c658c59c31ebbe370c1a4b50aadabd16c9",
+    "ko": "즐겨 찾는 가게가 개선됐습니다! 여기서 멈추지 마세요! 마을 광장의 모든 가게가 새로운 모습과 더 다양한 상품을 갖출 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09500",
+    "source_sha256": "2e4b28a395e10131a1ff7cead1358f94d6e7400a1eb435256953ac2d904181c3",
+    "ko": "반려동물이 원하는 모든 것을 찾아 쇼핑하세요. 좋아하는 가게에서 충분히 구매하고 성장하는 모습을 지켜보세요! "
+  },
+  {
+    "id": "TXT_SimsObjects_09501",
+    "source_sha256": "84db91a78ba546c4212eee312809b37e596e6081410c4992619375245774cf93",
+    "ko": "좋은 상품이 너무 많아 과소비하기 쉽습니다. 이 기계에서 시몰레온을 반려동물 점수로 바꿀 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09502",
+    "source_sha256": "4a762907242e40be6208ff7e397f237d3443dbedff249b2fa565b129b0faa579",
+    "ko": "안녕하세요, 친구. 저는 이 동네 조련사입니다. 시간당 요금을 내시면 반려동물이 챔피언처럼 재주를 부리도록 가르쳐 드리죠."
+  },
+  {
+    "id": "TXT_SimsObjects_09503",
+    "source_sha256": "f55d95b9fb49dd0b3bd4d1f8fd2f3e023d7b38dafad6a6361fbd3c0ef1e55d35",
+    "ko": "경제가 호황을 맞아 마을이 성장하고 있습니다. 흡족해진 시장이 선물한 마을 광장의 새 시설을 즐기세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09504",
+    "source_sha256": "3d19403df303eefaaa1744e812963d08c68ff0fb903e288d68fa87ce3c4c4c9e",
+    "ko": "환영해요, 이웃님! 정착하고 나면 보도의 화살표를 이용해 마을 광장으로 오세요. 반려동물을 위한 모든 것이 있으며 사교를 즐기기에도 좋답니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09510",
+    "source_sha256": "aea204b8594fbc9867dbee5dda9f6cb6d500bb461bf5c6d3188d2ea61990432e",
+    "ko": "클래식 모드에서는 커서로 심에게 명령을 내리고 행동을 지켜보세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09512",
+    "source_sha256": "2ac817eaffdac90c6ad86f0d3bed7a6307636deb8b72786ccaf4e8cfe2eef756",
+    "ko": "반려동물도 심처럼 음식과 잠, 재미가 필요합니다. 자세한 내용은 심 전환 기능으로 반려동물을 선택하고 욕구를 확인하세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09513",
+    "source_sha256": "2040208e697deeb66997a9878479097bb5024e7109775cb10dce48efb0d73aa6",
+    "ko": "반려동물에게도 소망이 있습니다. <BUTTON_03> 버튼의 왼쪽을 누르면 확인할 수 있습니다. 소망을 이루어 주면 마을 광장에서 쓸 반려동물 점수를 얻습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09514",
+    "source_sha256": "9f8673a279a09dbf4c90d5cddeae81358acc3e7b916f23ca344c3d997917df8b",
+    "ko": "반려동물을 훈련하세요. 명령에 따라 재주를 부리도록 가르치고 잘못하면 꾸짖으세요.\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_09515",
+    "source_sha256": "367ae0be78526f034ea553bb8021d727de557331dd807407c7a5cfc9a946789b",
+    "ko": "즐겨 찾는 가게가 개선됐습니다! 여기서 멈추지 마세요! 마을 광장의 모든 가게가 새로운 모습과 더 다양한 상품을 갖출 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09522",
+    "source_sha256": "3539e1dfe88866a0604ee164e8be4c91eea3cd33a4963129b555badc6bbc070a",
+    "ko": "반려동물이 원하는 모든 것을 찾아 쇼핑하세요. 좋아하는 가게에서 충분히 구매하고 성장하는 모습을 지켜보세요! "
+  },
+  {
+    "id": "TXT_SimsObjects_09523",
+    "source_sha256": "df8592fb08136551fce10684766ea90fa982b9295fb880be8670673919c662c7",
+    "ko": "좋은 상품이 너무 많아 과소비하기 쉽습니다. 이 기계에서 시몰레온을 반려동물 점수로 바꿀 수 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_09524",
+    "source_sha256": "c95add7449d3aebcf50cc204d02c210223ec367c1bd5bbd9925984664277b2fd",
+    "ko": "안녕하세요, 친구. 저는 이 동네 조련사입니다. 시간당 요금을 내시면 반려동물이 챔피언처럼 재주를 부리도록 가르쳐 드리죠."
+  },
+  {
+    "id": "TXT_SimsObjects_09525",
+    "source_sha256": "7196ad222c31661344187d5f28197dcc16f89485befb76680c73d773589f4a88",
+    "ko": "경제가 호황을 맞아 마을이 성장하고 있습니다. 흡족해진 시장이 선물한 마을 광장의 새 시설을 즐기세요."
+  },
+  {
+    "id": "TXT_SimsObjects_09526",
+    "source_sha256": "88e5ff4c882f2755b9cb8c7f3af17bfb7241c14d1e27d6bbe71e879568468bcc",
+    "ko": "환영해요, 이웃님! 정착하고 나면 보도의 화살표를 이용해 마을 광장으로 오세요. 반려동물을 위한 모든 것이 있으며 사교를 즐기기에도 좋답니다."
+  },
+  {
+    "id": "TXT_SimsObjects_10647",
+    "source_sha256": "b565ffb05f9130e499f2018802a14e1528ef2c295c05f56e5174a6fdb40d2976",
+    "ko": "모든 기술 통달하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10648",
+    "source_sha256": "10c1f6cc3399a62e8a141dc9a9b775547482cdb7e5cc6a1736649759af569aa6",
+    "ko": "모든 기술 통달하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10649",
+    "source_sha256": "10c1f6cc3399a62e8a141dc9a9b775547482cdb7e5cc6a1736649759af569aa6",
+    "ko": "모든 기술 통달하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10901",
+    "source_sha256": "d75d854fcc6c9c71298916c1302e71220aed60862c8306c20a33bdb09c92a35a",
+    "ko": "결근하기"
+  },
+  {
+    "id": "TXT_SimsObjects_10903",
+    "source_sha256": "d75d854fcc6c9c71298916c1302e71220aed60862c8306c20a33bdb09c92a35a",
+    "ko": "결근하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11100",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_11101",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_11179",
+    "source_sha256": "1ef93d656186fc4fc499a3ef429cc7b0f09c2ed4127f29135155c25306c98cd8",
+    "ko": "옷 갈아입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11180",
+    "source_sha256": "e6743105a3473ea4be628930a7263ac0fbfbf1c15ba3dbc905bef1c375bf480d",
+    "ko": "옷 갈아입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11181",
+    "source_sha256": "e6743105a3473ea4be628930a7263ac0fbfbf1c15ba3dbc905bef1c375bf480d",
+    "ko": "옷 갈아입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11182",
+    "source_sha256": "e6743105a3473ea4be628930a7263ac0fbfbf1c15ba3dbc905bef1c375bf480d",
+    "ko": "옷 갈아입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11183",
+    "source_sha256": "e6743105a3473ea4be628930a7263ac0fbfbf1c15ba3dbc905bef1c375bf480d",
+    "ko": "옷 갈아입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11185",
+    "source_sha256": "c1f9c20f419e92e404360b38b9b6cf0c313921e4f9b5b0cd4fb4615459e37f7c",
+    "ko": "옷 갈아입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11187",
+    "source_sha256": "c1f9c20f419e92e404360b38b9b6cf0c313921e4f9b5b0cd4fb4615459e37f7c",
+    "ko": "옷 갈아입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11189",
+    "source_sha256": "c1f9c20f419e92e404360b38b9b6cf0c313921e4f9b5b0cd4fb4615459e37f7c",
+    "ko": "옷 갈아입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11191",
+    "source_sha256": "c1f9c20f419e92e404360b38b9b6cf0c313921e4f9b5b0cd4fb4615459e37f7c",
+    "ko": "옷 갈아입기"
+  },
+  {
+    "id": "TXT_SimsObjects_11246",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_11247",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_11339",
+    "source_sha256": "545a889f144de37fe4824c93e55001d9f82cc24ab4fcfaa56d793e54a57a28d2",
+    "ko": "출근하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11377",
+    "source_sha256": "7ed36864d18dfbc060594eb0970342c8e0134047206e00691e45103ef73862e4",
+    "ko": "먹기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11385",
+    "source_sha256": "eb1383aa7e90ecfc7ebc5f71458c31f372c7180a8f316f750338d218cc290dad",
+    "ko": "집으로 가기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11401",
+    "source_sha256": "a45134bc331f27ae027d8f42e7213a9a98778edf0ad9e93edd250a394a944bd7",
+    "ko": "놀기"
+  },
+  {
+    "id": "TXT_SimsObjects_11473",
+    "source_sha256": "23db7d0aa279ba7a198ca660663fa9fafb25842d034c248d0b9954a2395703ba",
+    "ko": "\r\n      집으로 가기\r\n    "
+  },
+  {
+    "id": "TXT_SimsObjects_11474",
+    "source_sha256": "e097176a689322d8f8da6d3a3aab20c6ea9af425e3b54aaa46beb2b51556cda6",
+    "ko": "집으로 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11475",
+    "source_sha256": "e097176a689322d8f8da6d3a3aab20c6ea9af425e3b54aaa46beb2b51556cda6",
+    "ko": "집으로 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11476",
+    "source_sha256": "e097176a689322d8f8da6d3a3aab20c6ea9af425e3b54aaa46beb2b51556cda6",
+    "ko": "집으로 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11477",
+    "source_sha256": "e097176a689322d8f8da6d3a3aab20c6ea9af425e3b54aaa46beb2b51556cda6",
+    "ko": "집으로 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11479",
+    "source_sha256": "90af9bfdcc75f27cb2cb1d8d00050e75b7aa9fcf11736f52c165cd0bbd058477",
+    "ko": "집으로 가기"
+  },
+  {
+    "id": "TXT_SimsObjects_11535",
+    "source_sha256": "a27b24abdf9c6b5f8e6ec6fdbe9728f6e1f96e0323ecceabee92592345931ed9",
+    "ko": "잠자기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11575",
+    "source_sha256": "c0978554d89b6cfade4249e2248b4bc2d1876b8a45cdd0025cd02a4b0b19bf60",
+    "ko": "불"
+  },
+  {
+    "id": "TXT_SimsObjects_11576",
+    "source_sha256": "136890f661dcc6066f89415a33678fd054d86d225e7f2015f19ee698e8b7afe6",
+    "ko": "불"
+  },
+  {
+    "id": "TXT_SimsObjects_11577",
+    "source_sha256": "136890f661dcc6066f89415a33678fd054d86d225e7f2015f19ee698e8b7afe6",
+    "ko": "불"
+  },
+  {
+    "id": "TXT_SimsObjects_11578",
+    "source_sha256": "136890f661dcc6066f89415a33678fd054d86d225e7f2015f19ee698e8b7afe6",
+    "ko": "불"
+  },
+  {
+    "id": "TXT_SimsObjects_11579",
+    "source_sha256": "136890f661dcc6066f89415a33678fd054d86d225e7f2015f19ee698e8b7afe6",
+    "ko": "불"
+  },
+  {
+    "id": "TXT_SimsObjects_11581",
+    "source_sha256": "c0978554d89b6cfade4249e2248b4bc2d1876b8a45cdd0025cd02a4b0b19bf60",
+    "ko": "불"
+  },
+  {
+    "id": "TXT_SimsObjects_11582",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_11583",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_11922",
+    "source_sha256": "baaa7747a467fbe18de29c38e99102818b495170b83901899646f3aa7aec3008",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_11923",
+    "source_sha256": "baaa7747a467fbe18de29c38e99102818b495170b83901899646f3aa7aec3008",
+    "ko": "수다 떨기"
+  },
+  {
+    "id": "TXT_SimsObjects_11936",
+    "source_sha256": "4d195625b3f38919d3fc6e6038c00ef82bc1ae5d3af4c98160ba0dafb5382254",
+    "ko": "말다툼하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11937",
+    "source_sha256": "4d195625b3f38919d3fc6e6038c00ef82bc1ae5d3af4c98160ba0dafb5382254",
+    "ko": "말다툼하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11944",
+    "source_sha256": "0f11661c932f8bf3eb76f7e795a1e7dca5bd2064ccd0cb0fe9a0022647c83eb7",
+    "ko": "잔소리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11945",
+    "source_sha256": "0f11661c932f8bf3eb76f7e795a1e7dca5bd2064ccd0cb0fe9a0022647c83eb7",
+    "ko": "잔소리하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11947",
+    "source_sha256": "10a697f7feb0391841036d4ce2d92e2b4aa55e6e42598b875afcd28f549580f6",
+    "ko": "자랑하기\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_11952",
+    "source_sha256": "07a45fb52b11cc56025f5c49fde475abc46c066e0882be5d8fb1b3a625072ac4",
+    "ko": "자랑하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11953",
+    "source_sha256": "07a45fb52b11cc56025f5c49fde475abc46c066e0882be5d8fb1b3a625072ac4",
+    "ko": "자랑하기"
+  },
+  {
+    "id": "TXT_SimsObjects_11968",
+    "source_sha256": "0ca42376e6e436f3d7906bb261ca0c0b7ed629abc05dfe2584e218916f893aa1",
+    "ko": "즐겁게 해 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_11969",
+    "source_sha256": "0ca42376e6e436f3d7906bb261ca0c0b7ed629abc05dfe2584e218916f893aa1",
+    "ko": "즐겁게 해 주기"
+  },
+  {
+    "id": "TXT_SimsObjects_12000",
+    "source_sha256": "7733419a1fd0d7e80e3f9b196574f2cc0640e649e9ee1723023fb1d4d0e9aa93",
+    "ko": "모욕하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12001",
+    "source_sha256": "7733419a1fd0d7e80e3f9b196574f2cc0640e649e9ee1723023fb1d4d0e9aa93",
+    "ko": "모욕하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12008",
+    "source_sha256": "3d392080c81682c98b91a8d0ea137cdc53ba07f36aa6e147c79e1ffd9b9f5ce6",
+    "ko": "성가시게 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12009",
+    "source_sha256": "3d392080c81682c98b91a8d0ea137cdc53ba07f36aa6e147c79e1ffd9b9f5ce6",
+    "ko": "성가시게 하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12104",
+    "source_sha256": "59ac3c92eb124c70f6f21d2b5a1a984205360db4dbe557b8847cfecf1feaea4f",
+    "ko": "$category 청소하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12106",
+    "source_sha256": "59ac3c92eb124c70f6f21d2b5a1a984205360db4dbe557b8847cfecf1feaea4f",
+    "ko": "$category 청소하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12183",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12184",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12185",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12186",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12187",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12188",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12189",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12190",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12191",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12192",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12193",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12194",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12195",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12196",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12197",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12198",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12199",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12200",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12220",
+    "source_sha256": "a1450a744a08de85b23543253a1c4db73d32bb7903e115e474631f93e9953c2b",
+    "ko": "출근하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12271",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12272",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12419",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12420",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12421",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12422",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12423",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12424",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12530",
+    "source_sha256": "d14f28cd1ff8d79fecaa6046bd3270714eb718c4eb87fb776a5820fd55447de9",
+    "ko": "춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_12531",
+    "source_sha256": "eec5feb3793fe04348e178088b5ca73bb75262b9c293828d49fd37b185107389",
+    "ko": "춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_12532",
+    "source_sha256": "eec5feb3793fe04348e178088b5ca73bb75262b9c293828d49fd37b185107389",
+    "ko": "춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_12533",
+    "source_sha256": "eec5feb3793fe04348e178088b5ca73bb75262b9c293828d49fd37b185107389",
+    "ko": "춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_12534",
+    "source_sha256": "eec5feb3793fe04348e178088b5ca73bb75262b9c293828d49fd37b185107389",
+    "ko": "춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_12536",
+    "source_sha256": "d14f28cd1ff8d79fecaa6046bd3270714eb718c4eb87fb776a5820fd55447de9",
+    "ko": "춤추기"
+  },
+  {
+    "id": "TXT_SimsObjects_12537",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12538",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12615",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12616",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12650",
+    "source_sha256": "e006710bab93dca323ad85cc54d38ae8c09f0a034577b9b471eda15815750d0a",
+    "ko": "허풍 이야기하기"
+  },
+  {
+    "id": "TXT_SimsObjects_12715",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12716",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12815",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_SimsObjects_12816",
+    "source_sha256": "6c3fa70547cb7288672e223ae0918e169bb1c8d784deb894aa50733d740272e0",
+    "ko": "이야기"
+  },
+  {
+    "id": "TXT_urbzui_00809",
+    "source_sha256": "8c3741220e33e6588ebb5c9838b5b2e914e09ac73e39c7a29ddc39894d2342d3",
+    "ko": "저장"
+  },
+  {
+    "id": "TXT_urbzui_00841",
+    "source_sha256": "b0bdbe2e8da4dbfdb361ff1e78db03b3bf6a52e1f941266e456c993acccc2254",
+    "ko": "신체"
+  },
+  {
+    "id": "TXT_urbzui_00927",
+    "source_sha256": "579781974486885a3a0859df6eb4d99fb201855fd2d9c158cf70b984e3db7d41",
+    "ko": "창의력"
+  },
+  {
+    "id": "TXT_urbzui_01077",
+    "source_sha256": "e4fdcbf7927d3fa441710fc9992a5a832f848078bab6e0496466a770e90517cf",
+    "ko": "아랫가슴"
+  },
+  {
+    "id": "TXT_urbzui_01132",
+    "source_sha256": "32baa9606e6b3ff4d1186d26ccaed076e94349bfbb02b4af55a3c9aa29418a3f",
+    "ko": "컨트롤러를 다시 연결하고 START 버튼을 눌러 계속하세요. "
+  },
+  {
+    "id": "TXT_urbzui_01182",
+    "source_sha256": "d5644e73d95db14aed90e0cadaacabee5c24ce1945f4daff880a21679c0a8f83",
+    "ko": "부동산 사무소"
+  },
+  {
+    "id": "TXT_urbzui_01946",
+    "source_sha256": "5b200e28f172d6edcd61c8b7304e59bd1b99c24a055086a2e7149c42faa83386",
+    "ko": "꾸미기"
+  },
+  {
+    "id": "TXT_urbzui_02078",
+    "source_sha256": "c0007d126d97a106caaea3c8cf6c6d3f4dbf6a8fcf1d395ad4dd1208375baede",
+    "ko": "바닥재"
+  },
+  {
+    "id": "TXT_urbzui_02132",
+    "source_sha256": "45704c76a224f21711869e6ec2857de5bd2f827e174a17a7c2fe2097c81c19de",
+    "ko": "반려동물 호텔"
+  },
+  {
+    "id": "TXT_urbzui_02161",
+    "source_sha256": "160434255ab5f47e7b8b613fd41ca831aa6be5353c0ef7ae7fd1fdead4c3c61f",
+    "ko": "소망"
+  },
+  {
+    "id": "TXT_urbzui_02175",
+    "source_sha256": "3f8d59b8a14d6845d09c870770276285c7dde77a6d558474b36185e11ab95a40",
+    "ko": "구입"
+  },
+  {
+    "id": "TXT_urbzui_02190",
+    "source_sha256": "887a204db725505ef73b761f216956fc98dcc1ed9d37eaa9957ea7bff6ac31c1",
+    "ko": "특별 사교"
+  },
+  {
+    "id": "TXT_urbzui_02200",
+    "source_sha256": "a952e5ebfb60985548c59408b05a0a4d06029a2b8281d2f0ab989243ca64f88b",
+    "ko": "판매"
+  },
+  {
+    "id": "TXT_urbzui_02206",
+    "source_sha256": "0b7b24989f9cea97a8f32b48000ddb8d3646cca11429ba782a956388a5f66439",
+    "ko": "벽지"
+  },
+  {
+    "id": "TXT_urbzui_02411",
+    "source_sha256": "f609499e9db435407bb48284c5a5eb58b4b108d362ac870b05e905f1b14fa1fa",
+    "ko": "네온 이스트"
+  },
+  {
+    "id": "TXT_urbzui_02412",
+    "source_sha256": "7158a586a580b86724af9e12de056d00daa10d14d81c7908d46494a362c36a31",
+    "ko": "코즈모 스트리트"
+  },
+  {
+    "id": "TXT_urbzui_02413",
+    "source_sha256": "ce87390741fac94d490ef3bd6fd55382ccce5800defc3d5ec0d1dc2e5cf9decf",
+    "ko": "다이아몬드 하이츠"
+  },
+  {
+    "id": "TXT_urbzui_02415",
+    "source_sha256": "2e287358e2ab8b952b3c0ce5bb975b4255df98b127354d3ea42892fbe417996b",
+    "ko": "스카이라인 해변"
+  },
+  {
+    "id": "TXT_urbzui_02416",
+    "source_sha256": "1c7be11f30589ec2872791b1ef1569e8a4a62ead20404816a2a1de75feda31d1",
+    "ko": "가솔린 로"
+  },
+  {
+    "id": "TXT_urbzui_02417",
+    "source_sha256": "50d4a40a4561cf027f26b2b61135ba48fec281c78602de5a3da75021bb2c1f19",
+    "ko": "중앙역"
+  },
+  {
+    "id": "TXT_urbzui_02418",
+    "source_sha256": "6180573df1052a453995e42427d68e770f277796382d0cc35e8efcaff4b66238",
+    "ko": "킥테일 공원"
+  },
+  {
+    "id": "TXT_urbzui_02419",
+    "source_sha256": "4976e42be5019ffbb749e810c30c23cff4ce531990ae98a7d66e6df0d0c416af",
+    "ko": "주조소"
+  },
+  {
+    "id": "TXT_urbzui_02480",
+    "source_sha256": "4a197c29969a87bb21d8abd1850ef0933ad19eb4394da019dd83607cfe874666",
+    "ko": "뉴비"
+  },
+  {
+    "id": "TXT_urbzui_02483",
+    "source_sha256": "4a197c29969a87bb21d8abd1850ef0933ad19eb4394da019dd83607cfe874666",
+    "ko": "뉴비"
+  },
+  {
+    "id": "TXT_urbzui_02492",
+    "source_sha256": "4a197c29969a87bb21d8abd1850ef0933ad19eb4394da019dd83607cfe874666",
+    "ko": "뉴비"
+  },
+  {
+    "id": "TXT_urbzui_02612",
+    "source_sha256": "4a197c29969a87bb21d8abd1850ef0933ad19eb4394da019dd83607cfe874666",
+    "ko": "뉴비"
+  },
+  {
+    "id": "TXT_urbzui_02742",
+    "source_sha256": "bba718ada320019d32595a782e03097c458bce4ce855388f10357d84973b0ca4",
+    "ko": "네온 이스트"
+  },
+  {
+    "id": "TXT_urbzui_02743",
+    "source_sha256": "96418984494d6b68f9a45220969391507383833b84b2c184a420f311bf98a69d",
+    "ko": "코즈모 스트리트"
+  },
+  {
+    "id": "TXT_urbzui_02744",
+    "source_sha256": "4796e0f0ae6788ef115e8595f8e238a8ba5d019a67766c27def684c54a579d1e",
+    "ko": "다이아몬드 하이츠"
+  },
+  {
+    "id": "TXT_urbzui_02745",
+    "source_sha256": "8f64d1504581cd207d84d7cd8deccf7fa318129710115c1201e7e3970b1b59d3",
+    "ko": "사우스사이드 브리지"
+  },
+  {
+    "id": "TXT_urbzui_02746",
+    "source_sha256": "ecbd67b2d19d57df424434f91ce026634a75c7d184a996bc952ee2b785f77acb",
+    "ko": "스카이라인 해변"
+  },
+  {
+    "id": "TXT_urbzui_02747",
+    "source_sha256": "d6b9b3cc2f70b7a2a04da9dfbee56248416b05bfde4386fc97cb83213d8ba780",
+    "ko": "가솔린 로"
+  },
+  {
+    "id": "TXT_urbzui_02748",
+    "source_sha256": "69fa46e5ae27b9b694ab65914ef1cf48e503e5063705f929739491f0178c1d26",
+    "ko": "중앙역"
+  },
+  {
+    "id": "TXT_urbzui_02749",
+    "source_sha256": "45e02dec1dea85b264f62254c98f59e9d030a6f313700ec42e5b7df8b4df0a82",
+    "ko": "킥테일 공원"
+  },
+  {
+    "id": "TXT_urbzui_02750",
+    "source_sha256": "362fb20e40da16bc89afb2032684f0adbbdc752f3154e1eb21620c4074734d6c",
+    "ko": "주조소"
+  },
+  {
+    "id": "TXT_urbzui_02751",
+    "source_sha256": "76324ec560e6030ff0fd5a07cdfba3bb1180aff0703d8fc81ce806e37f6bb79c",
+    "ko": "98번가 3층"
+  },
+  {
+    "id": "TXT_urbzui_02752",
+    "source_sha256": "9f7898eacbd0a1142e0850acf79d5d4ef1c470e9eb78c6ac22797cb8d0932cbc",
+    "ko": "블랭크우드 타워"
+  },
+  {
+    "id": "TXT_urbzui_02753",
+    "source_sha256": "037bbbee4c74c36c15272879c53a734a82c69dd0ffce2e715f0436cf5cce0545",
+    "ko": "다리우스의 펜트하우스"
+  }
+]

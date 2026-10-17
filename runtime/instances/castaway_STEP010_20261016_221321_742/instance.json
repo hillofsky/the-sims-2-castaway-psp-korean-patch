@@ -1,0 +1,12 @@
+﻿{
+    "executable":  "D:\\심즈2캐스트어웨이\\work\\ppsspp_1.20.4\\CASTAWAYEMU.exe",
+    "expected_game_id":  "ULUS10296",
+    "iso":  "D:\\?ъ쫰2罹먯뒪?몄뼱?⑥씠\\build\\CASTAWAY_STEP010_ASCII.iso",
+    "config":  "D:\\심즈2캐스트어웨이\\runtime\\instances\\castaway_STEP010_20261016_221321_742\\ppsspp.ini",
+    "pid":  38892,
+    "started_by_this_script":  true,
+    "run_id":  "castaway_STEP010_20261016_221321_742",
+    "status":  "STARTING",
+    "process_start":  "2026-10-16T22:13:21.8561754+09:00",
+    "port":  26480
+}

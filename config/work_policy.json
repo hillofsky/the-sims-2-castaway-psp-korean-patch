@@ -1,0 +1,23 @@
+{
+  "scope": "translate_all_assets",
+  "runtime_qa_owner": "user",
+  "usage_threshold_remaining_percent": 5,
+  "threshold_operator": "less_than",
+  "on_threshold": "build_final_work_iso_and_handoff",
+  "last_usage_primary_remaining": 9,
+  "last_usage_weekly_remaining": 31,
+  "do_not_launch_emulator": true,
+  "current_translation_rows": 13430,
+  "current_character_count": 1224,
+  "threshold_reached": false,
+  "threshold_checked_at": "2026-10-17T16:50:57.203439+09:00",
+  "final_work_build": "FINAL_20261017_R5",
+  "all_assets_translated": false,
+  "active_step": "FIX_084",
+  "last_applied_batch": "081_remaining_duplicate.json",
+  "supplemental_translation_rows": 52,
+  "movie_captions": 1,
+  "all_identified_linguistic_assets_drafted": true,
+  "work_status": "RENDER_FIX_DRAFT_USER_QA_PENDING",
+  "build_reason": "user_screenshot_render_fixes"
+}

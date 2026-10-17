@@ -1,0 +1,2282 @@
+[
+  {
+    "id": "TXT_SimsCareers_00000",
+    "source_sha256": "bb2c39bfc9f4d9411b7cef20e47459595ad80bf35d17ab25a20f10739ed8a9a4",
+    "ko": "임시 공예"
+  },
+  {
+    "id": "TXT_SimsCareers_00001",
+    "source_sha256": "3d110bc3f3742678a9190e947f7530a93a926066861330148aeb452acee2a8f0",
+    "ko": "임시 공예 직업군:  "
+  },
+  {
+    "id": "TXT_SimsCareers_00002",
+    "source_sha256": "6bcddf7a7d1f0906236e3b4589cc30a55b203ac50f24cefeb960dd100dcaef04",
+    "ko": "임시 공예"
+  },
+  {
+    "id": "TXT_SimsCareers_00003",
+    "source_sha256": "195193696fa94dcd1c3e00b1be1100203a3a24b09853f07ca3d49c5c1351f4a6",
+    "ko": "임시 법률"
+  },
+  {
+    "id": "TXT_SimsCareers_00004",
+    "source_sha256": "e6dae48e6dddb6034602012311ea2626eee4742468843a0bfc78bc8ef1e701d6",
+    "ko": "임시 경찰 직업군: "
+  },
+  {
+    "id": "TXT_SimsCareers_00005",
+    "source_sha256": "4258a4ef744524a4b10328da2116896ad69570def0b94b8ea18873e677fdaf80",
+    "ko": "임시 경찰"
+  },
+  {
+    "id": "TXT_SimsCareers_00006",
+    "source_sha256": "938d7e8e052c474833e1a90845d0238edb4292daf7485b0cfe9059a36d57c80a",
+    "ko": "임시 의류 판매"
+  },
+  {
+    "id": "TXT_SimsCareers_00007",
+    "source_sha256": "025e0656b326d2b4bc6a246a44767ea17666e1f1c451ff8a58552974690203f6",
+    "ko": "임시 의류 판매 직업군: "
+  },
+  {
+    "id": "TXT_SimsCareers_00008",
+    "source_sha256": "938d7e8e052c474833e1a90845d0238edb4292daf7485b0cfe9059a36d57c80a",
+    "ko": "임시 의류 판매"
+  },
+  {
+    "id": "TXT_SimsCareers_00009",
+    "source_sha256": "f365bf37b5828069ebc5fb78a7d34179cb05b451dc8c743b1746c508b756b83b",
+    "ko": "임시 건설"
+  },
+  {
+    "id": "TXT_SimsCareers_00010",
+    "source_sha256": "895f038b8094f158b6c413f065f69aebe5d474329cdf1c94a2e967fbc3fdc1d4",
+    "ko": "임시 건설 직업군:"
+  },
+  {
+    "id": "TXT_SimsCareers_00011",
+    "source_sha256": "f365bf37b5828069ebc5fb78a7d34179cb05b451dc8c743b1746c508b756b83b",
+    "ko": "임시 건설"
+  },
+  {
+    "id": "TXT_SimsCareers_00012",
+    "source_sha256": "f20efee283e0b3ec3631cc6f90b95db3c2f38dbb3eb18df80b598d4e7d103d2b",
+    "ko": "임시 의학"
+  },
+  {
+    "id": "TXT_SimsCareers_00013",
+    "source_sha256": "0bb354f5c1bf3bcfeffb2811f7dfb40edc73d038b2f08ccc41e31cf20def9f88",
+    "ko": "임시 의료 직업군: "
+  },
+  {
+    "id": "TXT_SimsCareers_00014",
+    "source_sha256": "dd7c36d16c69dffdc31191f628cbb7b22f225822db49bf63fed18857ddb9295d",
+    "ko": "임시 의료"
+  },
+  {
+    "id": "TXT_SimsCareers_00015",
+    "source_sha256": "2c4f2a5035695eb41cfd3cccdc2db310d9f0ee7b0c1feb996ebd98aa4318a2be",
+    "ko": "임시 스포츠 지도"
+  },
+  {
+    "id": "TXT_SimsCareers_00016",
+    "source_sha256": "1f62bcdd8e655a5d86caaa0902fc9c535a434c121c22887d7d01599e94409e09",
+    "ko": "임시 스포츠 지도 직업군: "
+  },
+  {
+    "id": "TXT_SimsCareers_00017",
+    "source_sha256": "79d0ef47ab7f6fa77bba9c7a8774724567c0ef22d2d4feff0501bcf521d16692",
+    "ko": "임시 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00018",
+    "source_sha256": "dab8446bdbdf8b14546b23b8baca6972731fa7a9afb91d4d8d351e4b52ee285e",
+    "ko": "임시 교육"
+  },
+  {
+    "id": "TXT_SimsCareers_00019",
+    "source_sha256": "b8d0879567829748e57fd792d23ccc9fc76f2b324652c5ec0e19d254e836be01",
+    "ko": "임시 교육 직업군: "
+  },
+  {
+    "id": "TXT_SimsCareers_00020",
+    "source_sha256": "dab8446bdbdf8b14546b23b8baca6972731fa7a9afb91d4d8d351e4b52ee285e",
+    "ko": "임시 교육"
+  },
+  {
+    "id": "TXT_SimsCareers_00021",
+    "source_sha256": "065ed24b16fcd056068c1be5b03a80039291bd5c32d57e0766a7d5f92a05af03",
+    "ko": "임시 행정"
+  },
+  {
+    "id": "TXT_SimsCareers_00022",
+    "source_sha256": "a39c1ce070ae67059e143da7a10e41b7279c1fe07f1b22f268c0964564366314",
+    "ko": "임시 행정 직업군: "
+  },
+  {
+    "id": "TXT_SimsCareers_00023",
+    "source_sha256": "065ed24b16fcd056068c1be5b03a80039291bd5c32d57e0766a7d5f92a05af03",
+    "ko": "임시 행정"
+  },
+  {
+    "id": "TXT_SimsCareers_00024",
+    "source_sha256": "9ca14d2a47cabd2d2beded50791eb37e9adb3a9a2d0696492364bfabf9758fa4",
+    "ko": "임시 공원 및 여가"
+  },
+  {
+    "id": "TXT_SimsCareers_00025",
+    "source_sha256": "446ca265792f39de422bf8d769b0fe63bc28ec9a80a531c275fad759dfb6eeb4",
+    "ko": "임시 공원 및 여가 직업군: "
+  },
+  {
+    "id": "TXT_SimsCareers_00026",
+    "source_sha256": "60d4c9dbca9a1f396ad5a4a2bb3edbc63c81093e253b7424cfacb7f6efada184",
+    "ko": "임시 공원 및 여가"
+  },
+  {
+    "id": "TXT_SimsCareers_00030",
+    "source_sha256": "01c06285e82719e9279da7c222591eb27340b73754ae720bae1605adf4abbd77",
+    "ko": "임시 사업"
+  },
+  {
+    "id": "TXT_SimsCareers_00031",
+    "source_sha256": "eaec34036c41b2345c0ea6cec0567ea422f986daa0833d20c5d221696c5c5ed9",
+    "ko": "임시 사업 직업군: "
+  },
+  {
+    "id": "TXT_SimsCareers_00032",
+    "source_sha256": "01c06285e82719e9279da7c222591eb27340b73754ae720bae1605adf4abbd77",
+    "ko": "임시 사업"
+  },
+  {
+    "id": "TXT_SimsCareers_00033",
+    "source_sha256": "7682507dab43c91a9a67f43d240bdcb438a5b221c9f53eabb64d4e90d850ea78",
+    "ko": "임시 풀 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00034",
+    "source_sha256": "7682507dab43c91a9a67f43d240bdcb438a5b221c9f53eabb64d4e90d850ea78",
+    "ko": "임시 풀 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00035",
+    "source_sha256": "7682507dab43c91a9a67f43d240bdcb438a5b221c9f53eabb64d4e90d850ea78",
+    "ko": "임시 풀 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00036",
+    "source_sha256": "7682507dab43c91a9a67f43d240bdcb438a5b221c9f53eabb64d4e90d850ea78",
+    "ko": "임시 풀 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00038",
+    "source_sha256": "c4e3c5d2515f5fdf41f5dce56bad17f650e678f02c799f3c5ebd2afbd75fca4f",
+    "ko": "임시 붓 세척원"
+  },
+  {
+    "id": "TXT_SimsCareers_00039",
+    "source_sha256": "c4e3c5d2515f5fdf41f5dce56bad17f650e678f02c799f3c5ebd2afbd75fca4f",
+    "ko": "임시 붓 세척원"
+  },
+  {
+    "id": "TXT_SimsCareers_00040",
+    "source_sha256": "c4e3c5d2515f5fdf41f5dce56bad17f650e678f02c799f3c5ebd2afbd75fca4f",
+    "ko": "임시 붓 세척원"
+  },
+  {
+    "id": "TXT_SimsCareers_00041",
+    "source_sha256": "c4e3c5d2515f5fdf41f5dce56bad17f650e678f02c799f3c5ebd2afbd75fca4f",
+    "ko": "임시 붓 세척원"
+  },
+  {
+    "id": "TXT_SimsCareers_00043",
+    "source_sha256": "326f0c24e2134b95c30960e851b6368d05a4b8136ca1c5b4d9a673cc17770122",
+    "ko": "임시 간판 화가"
+  },
+  {
+    "id": "TXT_SimsCareers_00044",
+    "source_sha256": "326f0c24e2134b95c30960e851b6368d05a4b8136ca1c5b4d9a673cc17770122",
+    "ko": "임시 간판 화가"
+  },
+  {
+    "id": "TXT_SimsCareers_00045",
+    "source_sha256": "326f0c24e2134b95c30960e851b6368d05a4b8136ca1c5b4d9a673cc17770122",
+    "ko": "임시 간판 화가"
+  },
+  {
+    "id": "TXT_SimsCareers_00046",
+    "source_sha256": "326f0c24e2134b95c30960e851b6368d05a4b8136ca1c5b4d9a673cc17770122",
+    "ko": "임시 간판 화가"
+  },
+  {
+    "id": "TXT_SimsCareers_00048",
+    "source_sha256": "43893aacd4cb43169fb61b03fb176be0f696df01b758a945b1dfc1de14824851",
+    "ko": "임시 벽화 화가"
+  },
+  {
+    "id": "TXT_SimsCareers_00049",
+    "source_sha256": "b198cebb49c83553b39b9058246a00b0cccfd156e8de07925dcc40efecb2839d",
+    "ko": "임시 벽화 화가\r\n"
+  },
+  {
+    "id": "TXT_SimsCareers_00050",
+    "source_sha256": "43893aacd4cb43169fb61b03fb176be0f696df01b758a945b1dfc1de14824851",
+    "ko": "임시 벽화 화가"
+  },
+  {
+    "id": "TXT_SimsCareers_00051",
+    "source_sha256": "43893aacd4cb43169fb61b03fb176be0f696df01b758a945b1dfc1de14824851",
+    "ko": "임시 벽화 화가"
+  },
+  {
+    "id": "TXT_SimsCareers_00053",
+    "source_sha256": "8cb4739b478e04e9ea88d359eaed2765b68f86c283d60eb10f03a6b17137a722",
+    "ko": "임시 졸업 무도회 장식가"
+  },
+  {
+    "id": "TXT_SimsCareers_00054",
+    "source_sha256": "8cb4739b478e04e9ea88d359eaed2765b68f86c283d60eb10f03a6b17137a722",
+    "ko": "임시 졸업 무도회 장식가"
+  },
+  {
+    "id": "TXT_SimsCareers_00055",
+    "source_sha256": "8cb4739b478e04e9ea88d359eaed2765b68f86c283d60eb10f03a6b17137a722",
+    "ko": "임시 졸업 무도회 장식가"
+  },
+  {
+    "id": "TXT_SimsCareers_00056",
+    "source_sha256": "8cb4739b478e04e9ea88d359eaed2765b68f86c283d60eb10f03a6b17137a722",
+    "ko": "임시 졸업 무도회 장식가"
+  },
+  {
+    "id": "TXT_SimsCareers_00058",
+    "source_sha256": "6d7340989bdbeaac9c3e43500025ae576ca05e0f94d624e75b4e9c8a5ca3a307",
+    "ko": "임시 미술 보조 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00059",
+    "source_sha256": "6d7340989bdbeaac9c3e43500025ae576ca05e0f94d624e75b4e9c8a5ca3a307",
+    "ko": "임시 미술 보조 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00060",
+    "source_sha256": "6d7340989bdbeaac9c3e43500025ae576ca05e0f94d624e75b4e9c8a5ca3a307",
+    "ko": "임시 미술 보조 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00061",
+    "source_sha256": "6d7340989bdbeaac9c3e43500025ae576ca05e0f94d624e75b4e9c8a5ca3a307",
+    "ko": "임시 미술 보조 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00063",
+    "source_sha256": "a92ecbd350db8b69f8fa88f79bbaf56855fdc3ec0378833edc77caff03770ac6",
+    "ko": "임시 미술 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00064",
+    "source_sha256": "a92ecbd350db8b69f8fa88f79bbaf56855fdc3ec0378833edc77caff03770ac6",
+    "ko": "임시 미술 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00065",
+    "source_sha256": "a92ecbd350db8b69f8fa88f79bbaf56855fdc3ec0378833edc77caff03770ac6",
+    "ko": "임시 미술 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00066",
+    "source_sha256": "a92ecbd350db8b69f8fa88f79bbaf56855fdc3ec0378833edc77caff03770ac6",
+    "ko": "임시 미술 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00068",
+    "source_sha256": "eefb38766beb72bc1ddb27fac1be47ca990d0d3dd6db9c82ef7e1ec8088e324f",
+    "ko": "임시 예술 위원회 위원"
+  },
+  {
+    "id": "TXT_SimsCareers_00069",
+    "source_sha256": "eefb38766beb72bc1ddb27fac1be47ca990d0d3dd6db9c82ef7e1ec8088e324f",
+    "ko": "임시 예술 위원회 위원"
+  },
+  {
+    "id": "TXT_SimsCareers_00070",
+    "source_sha256": "eefb38766beb72bc1ddb27fac1be47ca990d0d3dd6db9c82ef7e1ec8088e324f",
+    "ko": "임시 예술 위원회 위원"
+  },
+  {
+    "id": "TXT_SimsCareers_00071",
+    "source_sha256": "eefb38766beb72bc1ddb27fac1be47ca990d0d3dd6db9c82ef7e1ec8088e324f",
+    "ko": "임시 예술 위원회 위원"
+  },
+  {
+    "id": "TXT_SimsCareers_00073",
+    "source_sha256": "9f7dba71f1a8ae049d339ca7309fa5a2f7109da92e7cb24293c196c2879ac058",
+    "ko": "임시 예술 위원회 의장"
+  },
+  {
+    "id": "TXT_SimsCareers_00074",
+    "source_sha256": "9f7dba71f1a8ae049d339ca7309fa5a2f7109da92e7cb24293c196c2879ac058",
+    "ko": "임시 예술 위원회 의장"
+  },
+  {
+    "id": "TXT_SimsCareers_00075",
+    "source_sha256": "9f7dba71f1a8ae049d339ca7309fa5a2f7109da92e7cb24293c196c2879ac058",
+    "ko": "임시 예술 위원회 의장"
+  },
+  {
+    "id": "TXT_SimsCareers_00076",
+    "source_sha256": "9f7dba71f1a8ae049d339ca7309fa5a2f7109da92e7cb24293c196c2879ac058",
+    "ko": "임시 예술 위원회 의장"
+  },
+  {
+    "id": "TXT_SimsCareers_00078",
+    "source_sha256": "5bd238de0daf24c62826a19123759b1fe1988100d0c6bf27498620e5d058fa51",
+    "ko": "임시 미술관 주인"
+  },
+  {
+    "id": "TXT_SimsCareers_00079",
+    "source_sha256": "5bd238de0daf24c62826a19123759b1fe1988100d0c6bf27498620e5d058fa51",
+    "ko": "임시 미술관 주인"
+  },
+  {
+    "id": "TXT_SimsCareers_00080",
+    "source_sha256": "5bd238de0daf24c62826a19123759b1fe1988100d0c6bf27498620e5d058fa51",
+    "ko": "임시 미술관 주인"
+  },
+  {
+    "id": "TXT_SimsCareers_00081",
+    "source_sha256": "5bd238de0daf24c62826a19123759b1fe1988100d0c6bf27498620e5d058fa51",
+    "ko": "임시 미술관 주인"
+  },
+  {
+    "id": "TXT_SimsCareers_00083",
+    "source_sha256": "3f7547c114688bf1b694d5f9017ad094d339e168c6e79a40878f67e0ed402f5a",
+    "ko": "임시 횡단보도 안전요원"
+  },
+  {
+    "id": "TXT_SimsCareers_00084",
+    "source_sha256": "3f7547c114688bf1b694d5f9017ad094d339e168c6e79a40878f67e0ed402f5a",
+    "ko": "임시 횡단보도 안전요원"
+  },
+  {
+    "id": "TXT_SimsCareers_00085",
+    "source_sha256": "3f7547c114688bf1b694d5f9017ad094d339e168c6e79a40878f67e0ed402f5a",
+    "ko": "임시 횡단보도 안전요원"
+  },
+  {
+    "id": "TXT_SimsCareers_00086",
+    "source_sha256": "3f7547c114688bf1b694d5f9017ad094d339e168c6e79a40878f67e0ed402f5a",
+    "ko": "임시 횡단보도 안전요원"
+  },
+  {
+    "id": "TXT_SimsCareers_00088",
+    "source_sha256": "736332b15f14904bc5f21f51303440bd17e8d76282a632ccb900df370378d70d",
+    "ko": "임시 경비원"
+  },
+  {
+    "id": "TXT_SimsCareers_00089",
+    "source_sha256": "736332b15f14904bc5f21f51303440bd17e8d76282a632ccb900df370378d70d",
+    "ko": "임시 경비원"
+  },
+  {
+    "id": "TXT_SimsCareers_00090",
+    "source_sha256": "736332b15f14904bc5f21f51303440bd17e8d76282a632ccb900df370378d70d",
+    "ko": "임시 경비원"
+  },
+  {
+    "id": "TXT_SimsCareers_00091",
+    "source_sha256": "736332b15f14904bc5f21f51303440bd17e8d76282a632ccb900df370378d70d",
+    "ko": "임시 경비원"
+  },
+  {
+    "id": "TXT_SimsCareers_00093",
+    "source_sha256": "8dc65f20db63d9a13dd6cb2f92ad146333cf170965d570c7e7b99b23db770216",
+    "ko": "임시 경찰 후보생"
+  },
+  {
+    "id": "TXT_SimsCareers_00094",
+    "source_sha256": "8dc65f20db63d9a13dd6cb2f92ad146333cf170965d570c7e7b99b23db770216",
+    "ko": "임시 경찰 후보생"
+  },
+  {
+    "id": "TXT_SimsCareers_00095",
+    "source_sha256": "8dc65f20db63d9a13dd6cb2f92ad146333cf170965d570c7e7b99b23db770216",
+    "ko": "임시 경찰 후보생"
+  },
+  {
+    "id": "TXT_SimsCareers_00096",
+    "source_sha256": "8dc65f20db63d9a13dd6cb2f92ad146333cf170965d570c7e7b99b23db770216",
+    "ko": "임시 경찰 후보생"
+  },
+  {
+    "id": "TXT_SimsCareers_00098",
+    "source_sha256": "f39f3663e298b382e85ee85edb5fcdb29ff9f736f97759a0c866ad483afcb7b5",
+    "ko": "임시 출동 지령원"
+  },
+  {
+    "id": "TXT_SimsCareers_00099",
+    "source_sha256": "f39f3663e298b382e85ee85edb5fcdb29ff9f736f97759a0c866ad483afcb7b5",
+    "ko": "임시 출동 지령원"
+  },
+  {
+    "id": "TXT_SimsCareers_00100",
+    "source_sha256": "f39f3663e298b382e85ee85edb5fcdb29ff9f736f97759a0c866ad483afcb7b5",
+    "ko": "임시 출동 지령원"
+  },
+  {
+    "id": "TXT_SimsCareers_00101",
+    "source_sha256": "f39f3663e298b382e85ee85edb5fcdb29ff9f736f97759a0c866ad483afcb7b5",
+    "ko": "임시 출동 지령원"
+  },
+  {
+    "id": "TXT_SimsCareers_00103",
+    "source_sha256": "b9a507b4fa263f1a54f136098eac848031bd7ab3edafdcdfbe117e69d219b9b7",
+    "ko": "임시 순찰 경찰관"
+  },
+  {
+    "id": "TXT_SimsCareers_00104",
+    "source_sha256": "b9a507b4fa263f1a54f136098eac848031bd7ab3edafdcdfbe117e69d219b9b7",
+    "ko": "임시 순찰 경찰관"
+  },
+  {
+    "id": "TXT_SimsCareers_00105",
+    "source_sha256": "b9a507b4fa263f1a54f136098eac848031bd7ab3edafdcdfbe117e69d219b9b7",
+    "ko": "임시 순찰 경찰관"
+  },
+  {
+    "id": "TXT_SimsCareers_00106",
+    "source_sha256": "b9a507b4fa263f1a54f136098eac848031bd7ab3edafdcdfbe117e69d219b9b7",
+    "ko": "임시 순찰 경찰관"
+  },
+  {
+    "id": "TXT_SimsCareers_00108",
+    "source_sha256": "630a6f1fa765f9852825f249328d00e56ba92ecae37689cecebef8a449219b5d",
+    "ko": "임시 내근 경사"
+  },
+  {
+    "id": "TXT_SimsCareers_00109",
+    "source_sha256": "630a6f1fa765f9852825f249328d00e56ba92ecae37689cecebef8a449219b5d",
+    "ko": "임시 내근 경사"
+  },
+  {
+    "id": "TXT_SimsCareers_00110",
+    "source_sha256": "630a6f1fa765f9852825f249328d00e56ba92ecae37689cecebef8a449219b5d",
+    "ko": "임시 내근 경사"
+  },
+  {
+    "id": "TXT_SimsCareers_00111",
+    "source_sha256": "630a6f1fa765f9852825f249328d00e56ba92ecae37689cecebef8a449219b5d",
+    "ko": "임시 내근 경사"
+  },
+  {
+    "id": "TXT_SimsCareers_00113",
+    "source_sha256": "94ba28636c1e565942414070982ccacabd9dc6054fc497a5fef2889055174d24",
+    "ko": "임시 형사"
+  },
+  {
+    "id": "TXT_SimsCareers_00114",
+    "source_sha256": "94ba28636c1e565942414070982ccacabd9dc6054fc497a5fef2889055174d24",
+    "ko": "임시 형사"
+  },
+  {
+    "id": "TXT_SimsCareers_00115",
+    "source_sha256": "94ba28636c1e565942414070982ccacabd9dc6054fc497a5fef2889055174d24",
+    "ko": "임시 형사"
+  },
+  {
+    "id": "TXT_SimsCareers_00116",
+    "source_sha256": "94ba28636c1e565942414070982ccacabd9dc6054fc497a5fef2889055174d24",
+    "ko": "임시 형사"
+  },
+  {
+    "id": "TXT_SimsCareers_00118",
+    "source_sha256": "8ea163a8016c2c866334c9dbbef538243a3a434cb217e296f11f4383274d236d",
+    "ko": "임시 경위"
+  },
+  {
+    "id": "TXT_SimsCareers_00119",
+    "source_sha256": "8ea163a8016c2c866334c9dbbef538243a3a434cb217e296f11f4383274d236d",
+    "ko": "임시 경위"
+  },
+  {
+    "id": "TXT_SimsCareers_00120",
+    "source_sha256": "8ea163a8016c2c866334c9dbbef538243a3a434cb217e296f11f4383274d236d",
+    "ko": "임시 경위"
+  },
+  {
+    "id": "TXT_SimsCareers_00121",
+    "source_sha256": "8ea163a8016c2c866334c9dbbef538243a3a434cb217e296f11f4383274d236d",
+    "ko": "임시 경위"
+  },
+  {
+    "id": "TXT_SimsCareers_00123",
+    "source_sha256": "771761da4502ec16df6747558e9bc381ce2ec4d498bae2f424d830c042151060",
+    "ko": "임시 수사과장"
+  },
+  {
+    "id": "TXT_SimsCareers_00124",
+    "source_sha256": "771761da4502ec16df6747558e9bc381ce2ec4d498bae2f424d830c042151060",
+    "ko": "임시 수사과장"
+  },
+  {
+    "id": "TXT_SimsCareers_00125",
+    "source_sha256": "771761da4502ec16df6747558e9bc381ce2ec4d498bae2f424d830c042151060",
+    "ko": "임시 수사과장"
+  },
+  {
+    "id": "TXT_SimsCareers_00126",
+    "source_sha256": "771761da4502ec16df6747558e9bc381ce2ec4d498bae2f424d830c042151060",
+    "ko": "임시 수사과장"
+  },
+  {
+    "id": "TXT_SimsCareers_00128",
+    "source_sha256": "532985ea5285119195096e55dd0375a0ff2a551b35b0847d6ff06a4e0b578e46",
+    "ko": "임시 경찰서장"
+  },
+  {
+    "id": "TXT_SimsCareers_00129",
+    "source_sha256": "532985ea5285119195096e55dd0375a0ff2a551b35b0847d6ff06a4e0b578e46",
+    "ko": "임시 경찰서장"
+  },
+  {
+    "id": "TXT_SimsCareers_00130",
+    "source_sha256": "532985ea5285119195096e55dd0375a0ff2a551b35b0847d6ff06a4e0b578e46",
+    "ko": "임시 경찰서장"
+  },
+  {
+    "id": "TXT_SimsCareers_00131",
+    "source_sha256": "532985ea5285119195096e55dd0375a0ff2a551b35b0847d6ff06a4e0b578e46",
+    "ko": "임시 경찰서장"
+  },
+  {
+    "id": "TXT_SimsCareers_00133",
+    "source_sha256": "5641252ad02923075c9fe096c8d8d62f6cdaf3a84630a31a3fe6f96cd4e41aff",
+    "ko": "임시 보풀 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00134",
+    "source_sha256": "5641252ad02923075c9fe096c8d8d62f6cdaf3a84630a31a3fe6f96cd4e41aff",
+    "ko": "임시 보풀 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00135",
+    "source_sha256": "5641252ad02923075c9fe096c8d8d62f6cdaf3a84630a31a3fe6f96cd4e41aff",
+    "ko": "임시 보풀 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00136",
+    "source_sha256": "5641252ad02923075c9fe096c8d8d62f6cdaf3a84630a31a3fe6f96cd4e41aff",
+    "ko": "임시 보풀 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00138",
+    "source_sha256": "97b1c029ba10a52155e9c1df14669ff4c910e09396122067f1662f466c578707",
+    "ko": "임시 마네킹 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00139",
+    "source_sha256": "97b1c029ba10a52155e9c1df14669ff4c910e09396122067f1662f466c578707",
+    "ko": "임시 마네킹 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00140",
+    "source_sha256": "97b1c029ba10a52155e9c1df14669ff4c910e09396122067f1662f466c578707",
+    "ko": "임시 마네킹 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00141",
+    "source_sha256": "97b1c029ba10a52155e9c1df14669ff4c910e09396122067f1662f466c578707",
+    "ko": "임시 마네킹 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00143",
+    "source_sha256": "54fa6732d96faa0ae03d420ca41480ce9c1e323d780f5d5de427abd508f6ee13",
+    "ko": "임시 재고 관리원"
+  },
+  {
+    "id": "TXT_SimsCareers_00144",
+    "source_sha256": "54fa6732d96faa0ae03d420ca41480ce9c1e323d780f5d5de427abd508f6ee13",
+    "ko": "임시 재고 관리원"
+  },
+  {
+    "id": "TXT_SimsCareers_00145",
+    "source_sha256": "54fa6732d96faa0ae03d420ca41480ce9c1e323d780f5d5de427abd508f6ee13",
+    "ko": "임시 재고 관리원"
+  },
+  {
+    "id": "TXT_SimsCareers_00146",
+    "source_sha256": "54fa6732d96faa0ae03d420ca41480ce9c1e323d780f5d5de427abd508f6ee13",
+    "ko": "임시 재고 관리원"
+  },
+  {
+    "id": "TXT_SimsCareers_00148",
+    "source_sha256": "7736f3816770c9e9b18b7d5b72dda99e29a7942f1bf51cff844455a81977fcb5",
+    "ko": "임시 계산원"
+  },
+  {
+    "id": "TXT_SimsCareers_00149",
+    "source_sha256": "7736f3816770c9e9b18b7d5b72dda99e29a7942f1bf51cff844455a81977fcb5",
+    "ko": "임시 계산원"
+  },
+  {
+    "id": "TXT_SimsCareers_00150",
+    "source_sha256": "7736f3816770c9e9b18b7d5b72dda99e29a7942f1bf51cff844455a81977fcb5",
+    "ko": "임시 계산원"
+  },
+  {
+    "id": "TXT_SimsCareers_00151",
+    "source_sha256": "7736f3816770c9e9b18b7d5b72dda99e29a7942f1bf51cff844455a81977fcb5",
+    "ko": "임시 계산원"
+  },
+  {
+    "id": "TXT_SimsCareers_00153",
+    "source_sha256": "ee28d99de4ade4ad83e124713b7c87bcc2f868c9c0b33712bf4f588583397539",
+    "ko": "임시 의류 수선 및 재봉"
+  },
+  {
+    "id": "TXT_SimsCareers_00154",
+    "source_sha256": "ee28d99de4ade4ad83e124713b7c87bcc2f868c9c0b33712bf4f588583397539",
+    "ko": "임시 의류 수선 및 재봉"
+  },
+  {
+    "id": "TXT_SimsCareers_00155",
+    "source_sha256": "e96f272cc71767a06e961d3db01dce52026234f0770a4d125bf9c49b8e692c31",
+    "ko": "임시 재봉사"
+  },
+  {
+    "id": "TXT_SimsCareers_00156",
+    "source_sha256": "e96f272cc71767a06e961d3db01dce52026234f0770a4d125bf9c49b8e692c31",
+    "ko": "임시 재봉사"
+  },
+  {
+    "id": "TXT_SimsCareers_00158",
+    "source_sha256": "fdada5728b5d6c0a299040b9da26a20e8506462e862e0e90803de9087dbc3279",
+    "ko": "임시 고객 상담원"
+  },
+  {
+    "id": "TXT_SimsCareers_00159",
+    "source_sha256": "fdada5728b5d6c0a299040b9da26a20e8506462e862e0e90803de9087dbc3279",
+    "ko": "임시 고객 상담원"
+  },
+  {
+    "id": "TXT_SimsCareers_00160",
+    "source_sha256": "fdada5728b5d6c0a299040b9da26a20e8506462e862e0e90803de9087dbc3279",
+    "ko": "임시 고객 상담원"
+  },
+  {
+    "id": "TXT_SimsCareers_00161",
+    "source_sha256": "fdada5728b5d6c0a299040b9da26a20e8506462e862e0e90803de9087dbc3279",
+    "ko": "임시 고객 상담원"
+  },
+  {
+    "id": "TXT_SimsCareers_00163",
+    "source_sha256": "f5c91ed5ac9eec9a506ee8b77fc09309ed53be4d3158f31222c3d8a654aed4cb",
+    "ko": "임시 부점장"
+  },
+  {
+    "id": "TXT_SimsCareers_00164",
+    "source_sha256": "f5c91ed5ac9eec9a506ee8b77fc09309ed53be4d3158f31222c3d8a654aed4cb",
+    "ko": "임시 부점장"
+  },
+  {
+    "id": "TXT_SimsCareers_00165",
+    "source_sha256": "f5c91ed5ac9eec9a506ee8b77fc09309ed53be4d3158f31222c3d8a654aed4cb",
+    "ko": "임시 부점장"
+  },
+  {
+    "id": "TXT_SimsCareers_00166",
+    "source_sha256": "f5c91ed5ac9eec9a506ee8b77fc09309ed53be4d3158f31222c3d8a654aed4cb",
+    "ko": "임시 부점장"
+  },
+  {
+    "id": "TXT_SimsCareers_00168",
+    "source_sha256": "72776c163b8cf0e161425d54a64d5c3e462af7b22867bc5196789431af23c478",
+    "ko": "임시 점장"
+  },
+  {
+    "id": "TXT_SimsCareers_00169",
+    "source_sha256": "72776c163b8cf0e161425d54a64d5c3e462af7b22867bc5196789431af23c478",
+    "ko": "임시 점장"
+  },
+  {
+    "id": "TXT_SimsCareers_00170",
+    "source_sha256": "72776c163b8cf0e161425d54a64d5c3e462af7b22867bc5196789431af23c478",
+    "ko": "임시 점장"
+  },
+  {
+    "id": "TXT_SimsCareers_00171",
+    "source_sha256": "72776c163b8cf0e161425d54a64d5c3e462af7b22867bc5196789431af23c478",
+    "ko": "임시 점장"
+  },
+  {
+    "id": "TXT_SimsCareers_00173",
+    "source_sha256": "734ef2174a794d5611021570ca4f4586d7324367293c42ed3a9f984108dbdf10",
+    "ko": "임시 구매 담당자"
+  },
+  {
+    "id": "TXT_SimsCareers_00174",
+    "source_sha256": "734ef2174a794d5611021570ca4f4586d7324367293c42ed3a9f984108dbdf10",
+    "ko": "임시 구매 담당자"
+  },
+  {
+    "id": "TXT_SimsCareers_00175",
+    "source_sha256": "734ef2174a794d5611021570ca4f4586d7324367293c42ed3a9f984108dbdf10",
+    "ko": "임시 구매 담당자"
+  },
+  {
+    "id": "TXT_SimsCareers_00176",
+    "source_sha256": "734ef2174a794d5611021570ca4f4586d7324367293c42ed3a9f984108dbdf10",
+    "ko": "임시 구매 담당자"
+  },
+  {
+    "id": "TXT_SimsCareers_00178",
+    "source_sha256": "2dc7ddf93ea37556179fa65e6b1c1e40e652280db570fe2b2bbe6ecea72ee25a",
+    "ko": "임시 의상실 주인"
+  },
+  {
+    "id": "TXT_SimsCareers_00179",
+    "source_sha256": "2dc7ddf93ea37556179fa65e6b1c1e40e652280db570fe2b2bbe6ecea72ee25a",
+    "ko": "임시 의상실 주인"
+  },
+  {
+    "id": "TXT_SimsCareers_00180",
+    "source_sha256": "5d3bb1890b0ad6c4306e60181af232c985fb30e4b91c597c5b294c24b35307e6",
+    "ko": "임시 의상실 주인"
+  },
+  {
+    "id": "TXT_SimsCareers_00181",
+    "source_sha256": "2dc7ddf93ea37556179fa65e6b1c1e40e652280db570fe2b2bbe6ecea72ee25a",
+    "ko": "임시 의상실 주인"
+  },
+  {
+    "id": "TXT_SimsCareers_00183",
+    "source_sha256": "f0ad34ef49d01367f4873a24423ca45b771b6f72a3c55601a956178361aa1aef",
+    "ko": "임시 도랑 작업원"
+  },
+  {
+    "id": "TXT_SimsCareers_00184",
+    "source_sha256": "f0ad34ef49d01367f4873a24423ca45b771b6f72a3c55601a956178361aa1aef",
+    "ko": "임시 도랑 작업원"
+  },
+  {
+    "id": "TXT_SimsCareers_00185",
+    "source_sha256": "f0ad34ef49d01367f4873a24423ca45b771b6f72a3c55601a956178361aa1aef",
+    "ko": "임시 도랑 작업원"
+  },
+  {
+    "id": "TXT_SimsCareers_00186",
+    "source_sha256": "f0ad34ef49d01367f4873a24423ca45b771b6f72a3c55601a956178361aa1aef",
+    "ko": "임시 도랑 작업원"
+  },
+  {
+    "id": "TXT_SimsCareers_00188",
+    "source_sha256": "67f416d537ed4669b6265cdff622992e6854023839fcfa4926b2063a249ad73a",
+    "ko": "임시 현장 청소원"
+  },
+  {
+    "id": "TXT_SimsCareers_00189",
+    "source_sha256": "67f416d537ed4669b6265cdff622992e6854023839fcfa4926b2063a249ad73a",
+    "ko": "임시 현장 청소원"
+  },
+  {
+    "id": "TXT_SimsCareers_00190",
+    "source_sha256": "67f416d537ed4669b6265cdff622992e6854023839fcfa4926b2063a249ad73a",
+    "ko": "임시 현장 청소원"
+  },
+  {
+    "id": "TXT_SimsCareers_00191",
+    "source_sha256": "67f416d537ed4669b6265cdff622992e6854023839fcfa4926b2063a249ad73a",
+    "ko": "임시 현장 청소원"
+  },
+  {
+    "id": "TXT_SimsCareers_00193",
+    "source_sha256": "a82d9825bdd1fc2d75ed2ce1f63b84be3ec5073d35c757c63d541b5592206d93",
+    "ko": "임시 지붕 시공사"
+  },
+  {
+    "id": "TXT_SimsCareers_00194",
+    "source_sha256": "a82d9825bdd1fc2d75ed2ce1f63b84be3ec5073d35c757c63d541b5592206d93",
+    "ko": "임시 지붕 시공사"
+  },
+  {
+    "id": "TXT_SimsCareers_00195",
+    "source_sha256": "a82d9825bdd1fc2d75ed2ce1f63b84be3ec5073d35c757c63d541b5592206d93",
+    "ko": "임시 지붕 시공사"
+  },
+  {
+    "id": "TXT_SimsCareers_00196",
+    "source_sha256": "a82d9825bdd1fc2d75ed2ce1f63b84be3ec5073d35c757c63d541b5592206d93",
+    "ko": "임시 지붕 시공사"
+  },
+  {
+    "id": "TXT_SimsCareers_00198",
+    "source_sha256": "60aea4e1985d07293359ac187b2efce9a4e22a72e7d1172455d3a45654ac979a",
+    "ko": "임시 석공"
+  },
+  {
+    "id": "TXT_SimsCareers_00199",
+    "source_sha256": "60aea4e1985d07293359ac187b2efce9a4e22a72e7d1172455d3a45654ac979a",
+    "ko": "임시 석공"
+  },
+  {
+    "id": "TXT_SimsCareers_00200",
+    "source_sha256": "60aea4e1985d07293359ac187b2efce9a4e22a72e7d1172455d3a45654ac979a",
+    "ko": "임시 석공"
+  },
+  {
+    "id": "TXT_SimsCareers_00201",
+    "source_sha256": "60aea4e1985d07293359ac187b2efce9a4e22a72e7d1172455d3a45654ac979a",
+    "ko": "임시 석공"
+  },
+  {
+    "id": "TXT_SimsCareers_00203",
+    "source_sha256": "3320f94b43ccbcfc3c1251a2cdd431f32f05ddb1303e31f178bf8913f02f43c5",
+    "ko": "임시 전기 기술자"
+  },
+  {
+    "id": "TXT_SimsCareers_00204",
+    "source_sha256": "3320f94b43ccbcfc3c1251a2cdd431f32f05ddb1303e31f178bf8913f02f43c5",
+    "ko": "임시 전기 기술자"
+  },
+  {
+    "id": "TXT_SimsCareers_00205",
+    "source_sha256": "3320f94b43ccbcfc3c1251a2cdd431f32f05ddb1303e31f178bf8913f02f43c5",
+    "ko": "임시 전기 기술자"
+  },
+  {
+    "id": "TXT_SimsCareers_00206",
+    "source_sha256": "3320f94b43ccbcfc3c1251a2cdd431f32f05ddb1303e31f178bf8913f02f43c5",
+    "ko": "임시 전기 기술자"
+  },
+  {
+    "id": "TXT_SimsCareers_00208",
+    "source_sha256": "078e44987c8f623611cb4774ebcf6f3d4029b77d285081839573ff89180da155",
+    "ko": "임시 현장 부반장"
+  },
+  {
+    "id": "TXT_SimsCareers_00209",
+    "source_sha256": "078e44987c8f623611cb4774ebcf6f3d4029b77d285081839573ff89180da155",
+    "ko": "임시 현장 부반장"
+  },
+  {
+    "id": "TXT_SimsCareers_00210",
+    "source_sha256": "078e44987c8f623611cb4774ebcf6f3d4029b77d285081839573ff89180da155",
+    "ko": "임시 현장 부반장"
+  },
+  {
+    "id": "TXT_SimsCareers_00211",
+    "source_sha256": "078e44987c8f623611cb4774ebcf6f3d4029b77d285081839573ff89180da155",
+    "ko": "임시 현장 부반장"
+  },
+  {
+    "id": "TXT_SimsCareers_00213",
+    "source_sha256": "abdfd5284d736c7f8e2047069fb42d96335cd7a9964bdf3338e42c1f32713ec8",
+    "ko": "임시 현장 반장"
+  },
+  {
+    "id": "TXT_SimsCareers_00214",
+    "source_sha256": "abdfd5284d736c7f8e2047069fb42d96335cd7a9964bdf3338e42c1f32713ec8",
+    "ko": "임시 현장 반장"
+  },
+  {
+    "id": "TXT_SimsCareers_00215",
+    "source_sha256": "abdfd5284d736c7f8e2047069fb42d96335cd7a9964bdf3338e42c1f32713ec8",
+    "ko": "임시 현장 반장"
+  },
+  {
+    "id": "TXT_SimsCareers_00216",
+    "source_sha256": "abdfd5284d736c7f8e2047069fb42d96335cd7a9964bdf3338e42c1f32713ec8",
+    "ko": "임시 현장 반장"
+  },
+  {
+    "id": "TXT_SimsCareers_00218",
+    "source_sha256": "5a35562a41b9a4903a618594b7e638917a4a8254166e473c9bc6fa49b8f81f93",
+    "ko": "임시 건설 도급업자"
+  },
+  {
+    "id": "TXT_SimsCareers_00219",
+    "source_sha256": "5a35562a41b9a4903a618594b7e638917a4a8254166e473c9bc6fa49b8f81f93",
+    "ko": "임시 건설 도급업자"
+  },
+  {
+    "id": "TXT_SimsCareers_00220",
+    "source_sha256": "5a35562a41b9a4903a618594b7e638917a4a8254166e473c9bc6fa49b8f81f93",
+    "ko": "임시 건설 도급업자"
+  },
+  {
+    "id": "TXT_SimsCareers_00221",
+    "source_sha256": "5a35562a41b9a4903a618594b7e638917a4a8254166e473c9bc6fa49b8f81f93",
+    "ko": "임시 건설 도급업자"
+  },
+  {
+    "id": "TXT_SimsCareers_00223",
+    "source_sha256": "c3445bed7e0567362b7c6284204bd9d617be3bb05baf3826a0cf2df45f35d2a8",
+    "ko": "임시 건축가"
+  },
+  {
+    "id": "TXT_SimsCareers_00224",
+    "source_sha256": "c3445bed7e0567362b7c6284204bd9d617be3bb05baf3826a0cf2df45f35d2a8",
+    "ko": "임시 건축가"
+  },
+  {
+    "id": "TXT_SimsCareers_00225",
+    "source_sha256": "c3445bed7e0567362b7c6284204bd9d617be3bb05baf3826a0cf2df45f35d2a8",
+    "ko": "임시 건축가"
+  },
+  {
+    "id": "TXT_SimsCareers_00226",
+    "source_sha256": "c3445bed7e0567362b7c6284204bd9d617be3bb05baf3826a0cf2df45f35d2a8",
+    "ko": "임시 건축가"
+  },
+  {
+    "id": "TXT_SimsCareers_00228",
+    "source_sha256": "2056beaed0d1e2e08bde5582f751720927b5572e81974b121cb1cb0707ec0569",
+    "ko": "임시 부동산 개발업자"
+  },
+  {
+    "id": "TXT_SimsCareers_00229",
+    "source_sha256": "2056beaed0d1e2e08bde5582f751720927b5572e81974b121cb1cb0707ec0569",
+    "ko": "임시 부동산 개발업자"
+  },
+  {
+    "id": "TXT_SimsCareers_00230",
+    "source_sha256": "2056beaed0d1e2e08bde5582f751720927b5572e81974b121cb1cb0707ec0569",
+    "ko": "임시 부동산 개발업자"
+  },
+  {
+    "id": "TXT_SimsCareers_00231",
+    "source_sha256": "2056beaed0d1e2e08bde5582f751720927b5572e81974b121cb1cb0707ec0569",
+    "ko": "임시 부동산 개발업자"
+  },
+  {
+    "id": "TXT_SimsCareers_00233",
+    "source_sha256": "b2c42c751fbafa3992cda7a82b2a114e784bc25b9c618fb59a1777544b8d0e09",
+    "ko": "임시 응급 의료 기술자"
+  },
+  {
+    "id": "TXT_SimsCareers_00234",
+    "source_sha256": "b2c42c751fbafa3992cda7a82b2a114e784bc25b9c618fb59a1777544b8d0e09",
+    "ko": "임시 응급 의료 기술자"
+  },
+  {
+    "id": "TXT_SimsCareers_00235",
+    "source_sha256": "b2c42c751fbafa3992cda7a82b2a114e784bc25b9c618fb59a1777544b8d0e09",
+    "ko": "임시 응급 의료 기술자"
+  },
+  {
+    "id": "TXT_SimsCareers_00236",
+    "source_sha256": "b2c42c751fbafa3992cda7a82b2a114e784bc25b9c618fb59a1777544b8d0e09",
+    "ko": "임시 응급 의료 기술자"
+  },
+  {
+    "id": "TXT_SimsCareers_00238",
+    "source_sha256": "92ef9778d59c71d620305ff903505eb48809b65a5fe2ce11a29228d3fb664afd",
+    "ko": "임시 응급 구조사"
+  },
+  {
+    "id": "TXT_SimsCareers_00239",
+    "source_sha256": "92ef9778d59c71d620305ff903505eb48809b65a5fe2ce11a29228d3fb664afd",
+    "ko": "임시 응급 구조사"
+  },
+  {
+    "id": "TXT_SimsCareers_00240",
+    "source_sha256": "92ef9778d59c71d620305ff903505eb48809b65a5fe2ce11a29228d3fb664afd",
+    "ko": "임시 응급 구조사"
+  },
+  {
+    "id": "TXT_SimsCareers_00241",
+    "source_sha256": "92ef9778d59c71d620305ff903505eb48809b65a5fe2ce11a29228d3fb664afd",
+    "ko": "임시 응급 구조사"
+  },
+  {
+    "id": "TXT_SimsCareers_00243",
+    "source_sha256": "593828f818e17351870541509c1ce83687024df21bff68415a1d55981d689eac",
+    "ko": "임시 간호사"
+  },
+  {
+    "id": "TXT_SimsCareers_00244",
+    "source_sha256": "593828f818e17351870541509c1ce83687024df21bff68415a1d55981d689eac",
+    "ko": "임시 간호사"
+  },
+  {
+    "id": "TXT_SimsCareers_00245",
+    "source_sha256": "593828f818e17351870541509c1ce83687024df21bff68415a1d55981d689eac",
+    "ko": "임시 간호사"
+  },
+  {
+    "id": "TXT_SimsCareers_00246",
+    "source_sha256": "593828f818e17351870541509c1ce83687024df21bff68415a1d55981d689eac",
+    "ko": "임시 간호사"
+  },
+  {
+    "id": "TXT_SimsCareers_00248",
+    "source_sha256": "67933d9d01294646ee4538c3a895972be3e9caec0ff13d04831b8f9b3cb7f20d",
+    "ko": "임시 인턴"
+  },
+  {
+    "id": "TXT_SimsCareers_00249",
+    "source_sha256": "67933d9d01294646ee4538c3a895972be3e9caec0ff13d04831b8f9b3cb7f20d",
+    "ko": "임시 인턴"
+  },
+  {
+    "id": "TXT_SimsCareers_00250",
+    "source_sha256": "67933d9d01294646ee4538c3a895972be3e9caec0ff13d04831b8f9b3cb7f20d",
+    "ko": "임시 인턴"
+  },
+  {
+    "id": "TXT_SimsCareers_00251",
+    "source_sha256": "67933d9d01294646ee4538c3a895972be3e9caec0ff13d04831b8f9b3cb7f20d",
+    "ko": "임시 인턴"
+  },
+  {
+    "id": "TXT_SimsCareers_00253",
+    "source_sha256": "06f5b2193644976b5de2f7ffe0b431336cce42ecd14badd2d83d79091deeeed2",
+    "ko": "임시 전공의"
+  },
+  {
+    "id": "TXT_SimsCareers_00254",
+    "source_sha256": "06f5b2193644976b5de2f7ffe0b431336cce42ecd14badd2d83d79091deeeed2",
+    "ko": "임시 전공의"
+  },
+  {
+    "id": "TXT_SimsCareers_00255",
+    "source_sha256": "06f5b2193644976b5de2f7ffe0b431336cce42ecd14badd2d83d79091deeeed2",
+    "ko": "임시 전공의"
+  },
+  {
+    "id": "TXT_SimsCareers_00256",
+    "source_sha256": "06f5b2193644976b5de2f7ffe0b431336cce42ecd14badd2d83d79091deeeed2",
+    "ko": "임시 전공의"
+  },
+  {
+    "id": "TXT_SimsCareers_00258",
+    "source_sha256": "5c28560ae64dc70ff901d74a78e639476f5b0c406148676345da6462eaf7da57",
+    "ko": "임시 일반의"
+  },
+  {
+    "id": "TXT_SimsCareers_00259",
+    "source_sha256": "5c28560ae64dc70ff901d74a78e639476f5b0c406148676345da6462eaf7da57",
+    "ko": "임시 일반의"
+  },
+  {
+    "id": "TXT_SimsCareers_00260",
+    "source_sha256": "5c28560ae64dc70ff901d74a78e639476f5b0c406148676345da6462eaf7da57",
+    "ko": "임시 일반의"
+  },
+  {
+    "id": "TXT_SimsCareers_00261",
+    "source_sha256": "5c28560ae64dc70ff901d74a78e639476f5b0c406148676345da6462eaf7da57",
+    "ko": "임시 일반의"
+  },
+  {
+    "id": "TXT_SimsCareers_00263",
+    "source_sha256": "470ae7a208196e359a37c47560d044b6a42cc0a92df7a52b86e09dc0bd837275",
+    "ko": "임시 전문의"
+  },
+  {
+    "id": "TXT_SimsCareers_00264",
+    "source_sha256": "470ae7a208196e359a37c47560d044b6a42cc0a92df7a52b86e09dc0bd837275",
+    "ko": "임시 전문의"
+  },
+  {
+    "id": "TXT_SimsCareers_00265",
+    "source_sha256": "470ae7a208196e359a37c47560d044b6a42cc0a92df7a52b86e09dc0bd837275",
+    "ko": "임시 전문의"
+  },
+  {
+    "id": "TXT_SimsCareers_00266",
+    "source_sha256": "470ae7a208196e359a37c47560d044b6a42cc0a92df7a52b86e09dc0bd837275",
+    "ko": "임시 전문의"
+  },
+  {
+    "id": "TXT_SimsCareers_00268",
+    "source_sha256": "84c38e0332752bbe0b6879f770cebb7754e6da855e498e5c12c245784f349df9",
+    "ko": "임시 외과의"
+  },
+  {
+    "id": "TXT_SimsCareers_00269",
+    "source_sha256": "84c38e0332752bbe0b6879f770cebb7754e6da855e498e5c12c245784f349df9",
+    "ko": "임시 외과의"
+  },
+  {
+    "id": "TXT_SimsCareers_00270",
+    "source_sha256": "84c38e0332752bbe0b6879f770cebb7754e6da855e498e5c12c245784f349df9",
+    "ko": "임시 외과의"
+  },
+  {
+    "id": "TXT_SimsCareers_00271",
+    "source_sha256": "84c38e0332752bbe0b6879f770cebb7754e6da855e498e5c12c245784f349df9",
+    "ko": "임시 외과의"
+  },
+  {
+    "id": "TXT_SimsCareers_00273",
+    "source_sha256": "0e73238c88dac9362706aecc09fb3f93276a4cf2824bb03b6ebecfc10626f00d",
+    "ko": "임시 의학 연구원"
+  },
+  {
+    "id": "TXT_SimsCareers_00274",
+    "source_sha256": "0e73238c88dac9362706aecc09fb3f93276a4cf2824bb03b6ebecfc10626f00d",
+    "ko": "임시 의학 연구원"
+  },
+  {
+    "id": "TXT_SimsCareers_00275",
+    "source_sha256": "0e73238c88dac9362706aecc09fb3f93276a4cf2824bb03b6ebecfc10626f00d",
+    "ko": "임시 의학 연구원"
+  },
+  {
+    "id": "TXT_SimsCareers_00276",
+    "source_sha256": "0e73238c88dac9362706aecc09fb3f93276a4cf2824bb03b6ebecfc10626f00d",
+    "ko": "임시 의학 연구원"
+  },
+  {
+    "id": "TXT_SimsCareers_00278",
+    "source_sha256": "2701bb9e3e3f25531f2e274fc8231204ec8fa64a9318c5bad5f346c7788842a6",
+    "ko": "임시 의료부장"
+  },
+  {
+    "id": "TXT_SimsCareers_00279",
+    "source_sha256": "2701bb9e3e3f25531f2e274fc8231204ec8fa64a9318c5bad5f346c7788842a6",
+    "ko": "임시 의료부장"
+  },
+  {
+    "id": "TXT_SimsCareers_00280",
+    "source_sha256": "2701bb9e3e3f25531f2e274fc8231204ec8fa64a9318c5bad5f346c7788842a6",
+    "ko": "임시 의료부장"
+  },
+  {
+    "id": "TXT_SimsCareers_00281",
+    "source_sha256": "2701bb9e3e3f25531f2e274fc8231204ec8fa64a9318c5bad5f346c7788842a6",
+    "ko": "임시 의료부장"
+  },
+  {
+    "id": "TXT_SimsCareers_00283",
+    "source_sha256": "166e19d31f612b58f8298537df4f51ad3622ad0e075f24828260e6472615a92a",
+    "ko": "임시 남자 급수 담당"
+  },
+  {
+    "id": "TXT_SimsCareers_00284",
+    "source_sha256": "83a49e2454b7f21bf38fb62b50644de0604422f88503edf8ce262840342a1dd0",
+    "ko": "임시 여자 급수 담당"
+  },
+  {
+    "id": "TXT_SimsCareers_00285",
+    "source_sha256": "166e19d31f612b58f8298537df4f51ad3622ad0e075f24828260e6472615a92a",
+    "ko": "임시 남자 급수 담당"
+  },
+  {
+    "id": "TXT_SimsCareers_00286",
+    "source_sha256": "83a49e2454b7f21bf38fb62b50644de0604422f88503edf8ce262840342a1dd0",
+    "ko": "임시 여자 급수 담당"
+  },
+  {
+    "id": "TXT_SimsCareers_00288",
+    "source_sha256": "480c06623a49071e87cc6d3c758756300132f13643e677c5a8f23879b5d7c1a8",
+    "ko": "임시 남자 수건 담당"
+  },
+  {
+    "id": "TXT_SimsCareers_00289",
+    "source_sha256": "9cb7398fb60d84747109d4bdebd91419a021040683ac8d356bc7c73d85db0155",
+    "ko": "임시 여자 수건 담당"
+  },
+  {
+    "id": "TXT_SimsCareers_00290",
+    "source_sha256": "480c06623a49071e87cc6d3c758756300132f13643e677c5a8f23879b5d7c1a8",
+    "ko": "임시 남자 수건 담당"
+  },
+  {
+    "id": "TXT_SimsCareers_00291",
+    "source_sha256": "9cb7398fb60d84747109d4bdebd91419a021040683ac8d356bc7c73d85db0155",
+    "ko": "임시 여자 수건 담당"
+  },
+  {
+    "id": "TXT_SimsCareers_00293",
+    "source_sha256": "5a0ea1cb3f7a85561571efeff96c8139ebbfabdde1ec74859baeb66a059c253d",
+    "ko": "임시 마스코트 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00294",
+    "source_sha256": "5a0ea1cb3f7a85561571efeff96c8139ebbfabdde1ec74859baeb66a059c253d",
+    "ko": "임시 마스코트 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00295",
+    "source_sha256": "5a0ea1cb3f7a85561571efeff96c8139ebbfabdde1ec74859baeb66a059c253d",
+    "ko": "임시 마스코트 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00296",
+    "source_sha256": "5a0ea1cb3f7a85561571efeff96c8139ebbfabdde1ec74859baeb66a059c253d",
+    "ko": "임시 마스코트 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00298",
+    "source_sha256": "beacf2240a336dc92808d0180879badbf341092a8b680169ad5cc151732ec1f5",
+    "ko": "임시 팀 마스코트"
+  },
+  {
+    "id": "TXT_SimsCareers_00299",
+    "source_sha256": "beacf2240a336dc92808d0180879badbf341092a8b680169ad5cc151732ec1f5",
+    "ko": "임시 팀 마스코트"
+  },
+  {
+    "id": "TXT_SimsCareers_00300",
+    "source_sha256": "beacf2240a336dc92808d0180879badbf341092a8b680169ad5cc151732ec1f5",
+    "ko": "임시 팀 마스코트"
+  },
+  {
+    "id": "TXT_SimsCareers_00301",
+    "source_sha256": "beacf2240a336dc92808d0180879badbf341092a8b680169ad5cc151732ec1f5",
+    "ko": "임시 팀 마스코트"
+  },
+  {
+    "id": "TXT_SimsCareers_00303",
+    "source_sha256": "69b6973db6fdc2932047a7eab9b66282ff13e6b2561b9a443189c4f4c019d002",
+    "ko": "임시 어린이 야구팀 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00304",
+    "source_sha256": "69b6973db6fdc2932047a7eab9b66282ff13e6b2561b9a443189c4f4c019d002",
+    "ko": "임시 어린이 야구팀 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00305",
+    "source_sha256": "69b6973db6fdc2932047a7eab9b66282ff13e6b2561b9a443189c4f4c019d002",
+    "ko": "임시 어린이 야구팀 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00306",
+    "source_sha256": "69b6973db6fdc2932047a7eab9b66282ff13e6b2561b9a443189c4f4c019d002",
+    "ko": "임시 어린이 야구팀 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00308",
+    "source_sha256": "f94b8d3057b288b18c62a1a2d330766fe594fa414c6a23d305df94258df8f97d",
+    "ko": "임시 스카우트"
+  },
+  {
+    "id": "TXT_SimsCareers_00309",
+    "source_sha256": "f94b8d3057b288b18c62a1a2d330766fe594fa414c6a23d305df94258df8f97d",
+    "ko": "임시 스카우트"
+  },
+  {
+    "id": "TXT_SimsCareers_00310",
+    "source_sha256": "f94b8d3057b288b18c62a1a2d330766fe594fa414c6a23d305df94258df8f97d",
+    "ko": "임시 스카우트"
+  },
+  {
+    "id": "TXT_SimsCareers_00311",
+    "source_sha256": "f94b8d3057b288b18c62a1a2d330766fe594fa414c6a23d305df94258df8f97d",
+    "ko": "임시 스카우트"
+  },
+  {
+    "id": "TXT_SimsCareers_00313",
+    "source_sha256": "13630a080b7edd9211cefe5d4719e5074735a46ebf843bc304067efab7ff2cf8",
+    "ko": "임시 보조 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00314",
+    "source_sha256": "13630a080b7edd9211cefe5d4719e5074735a46ebf843bc304067efab7ff2cf8",
+    "ko": "임시 보조 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00315",
+    "source_sha256": "13630a080b7edd9211cefe5d4719e5074735a46ebf843bc304067efab7ff2cf8",
+    "ko": "임시 보조 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00316",
+    "source_sha256": "13630a080b7edd9211cefe5d4719e5074735a46ebf843bc304067efab7ff2cf8",
+    "ko": "임시 보조 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00318",
+    "source_sha256": "4f13705aff72ce87c331a08e2616000ded23f6f231a5f429e47a896ace852c2b",
+    "ko": "임시 후보 선수단 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00319",
+    "source_sha256": "4f13705aff72ce87c331a08e2616000ded23f6f231a5f429e47a896ace852c2b",
+    "ko": "임시 후보 선수단 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00320",
+    "source_sha256": "4f13705aff72ce87c331a08e2616000ded23f6f231a5f429e47a896ace852c2b",
+    "ko": "임시 후보 선수단 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00321",
+    "source_sha256": "4f13705aff72ce87c331a08e2616000ded23f6f231a5f429e47a896ace852c2b",
+    "ko": "임시 후보 선수단 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00323",
+    "source_sha256": "576d674c7dad6e0184cae62116edbcc5d74d1dddd6c9b6a26af54913cf02ba6f",
+    "ko": "임시 대표 선수단 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00324",
+    "source_sha256": "576d674c7dad6e0184cae62116edbcc5d74d1dddd6c9b6a26af54913cf02ba6f",
+    "ko": "임시 대표 선수단 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00325",
+    "source_sha256": "576d674c7dad6e0184cae62116edbcc5d74d1dddd6c9b6a26af54913cf02ba6f",
+    "ko": "임시 대표 선수단 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00326",
+    "source_sha256": "576d674c7dad6e0184cae62116edbcc5d74d1dddd6c9b6a26af54913cf02ba6f",
+    "ko": "임시 대표 선수단 코치"
+  },
+  {
+    "id": "TXT_SimsCareers_00328",
+    "source_sha256": "7e2eaeff3035adf3ca12011c573b6bc798099f49aaaebd1754c579ddc7b9825c",
+    "ko": "임시 체육부장"
+  },
+  {
+    "id": "TXT_SimsCareers_00329",
+    "source_sha256": "7e2eaeff3035adf3ca12011c573b6bc798099f49aaaebd1754c579ddc7b9825c",
+    "ko": "임시 체육부장"
+  },
+  {
+    "id": "TXT_SimsCareers_00330",
+    "source_sha256": "7e2eaeff3035adf3ca12011c573b6bc798099f49aaaebd1754c579ddc7b9825c",
+    "ko": "임시 체육부장"
+  },
+  {
+    "id": "TXT_SimsCareers_00331",
+    "source_sha256": "7e2eaeff3035adf3ca12011c573b6bc798099f49aaaebd1754c579ddc7b9825c",
+    "ko": "임시 체육부장"
+  },
+  {
+    "id": "TXT_SimsCareers_00333",
+    "source_sha256": "c1c460947aa1af3f78016fa71d3709125de6846f2ddb95a11ae95ad7b64b040b",
+    "ko": "임시 과외 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00334",
+    "source_sha256": "c1c460947aa1af3f78016fa71d3709125de6846f2ddb95a11ae95ad7b64b040b",
+    "ko": "임시 과외 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00335",
+    "source_sha256": "c1c460947aa1af3f78016fa71d3709125de6846f2ddb95a11ae95ad7b64b040b",
+    "ko": "임시 과외 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00336",
+    "source_sha256": "c1c460947aa1af3f78016fa71d3709125de6846f2ddb95a11ae95ad7b64b040b",
+    "ko": "임시 과외 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00338",
+    "source_sha256": "3d2f652ecb34c3930a5ad8b88ba06d0e49860f6344ab1019d840570bf23fb516",
+    "ko": "임시 대체 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00339",
+    "source_sha256": "3d2f652ecb34c3930a5ad8b88ba06d0e49860f6344ab1019d840570bf23fb516",
+    "ko": "임시 대체 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00340",
+    "source_sha256": "3d2f652ecb34c3930a5ad8b88ba06d0e49860f6344ab1019d840570bf23fb516",
+    "ko": "임시 대체 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00341",
+    "source_sha256": "3d2f652ecb34c3930a5ad8b88ba06d0e49860f6344ab1019d840570bf23fb516",
+    "ko": "임시 대체 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00343",
+    "source_sha256": "67933d9d01294646ee4538c3a895972be3e9caec0ff13d04831b8f9b3cb7f20d",
+    "ko": "임시 인턴"
+  },
+  {
+    "id": "TXT_SimsCareers_00344",
+    "source_sha256": "67933d9d01294646ee4538c3a895972be3e9caec0ff13d04831b8f9b3cb7f20d",
+    "ko": "임시 인턴"
+  },
+  {
+    "id": "TXT_SimsCareers_00345",
+    "source_sha256": "67933d9d01294646ee4538c3a895972be3e9caec0ff13d04831b8f9b3cb7f20d",
+    "ko": "임시 인턴"
+  },
+  {
+    "id": "TXT_SimsCareers_00346",
+    "source_sha256": "67933d9d01294646ee4538c3a895972be3e9caec0ff13d04831b8f9b3cb7f20d",
+    "ko": "임시 인턴"
+  },
+  {
+    "id": "TXT_SimsCareers_00348",
+    "source_sha256": "a50c9af745b8083cfd1beff1e78f2989dedf829b146069f1232c80be1931f3a9",
+    "ko": "임시 시험 감독관"
+  },
+  {
+    "id": "TXT_SimsCareers_00349",
+    "source_sha256": "a50c9af745b8083cfd1beff1e78f2989dedf829b146069f1232c80be1931f3a9",
+    "ko": "임시 시험 감독관"
+  },
+  {
+    "id": "TXT_SimsCareers_00350",
+    "source_sha256": "a50c9af745b8083cfd1beff1e78f2989dedf829b146069f1232c80be1931f3a9",
+    "ko": "임시 시험 감독관"
+  },
+  {
+    "id": "TXT_SimsCareers_00351",
+    "source_sha256": "a50c9af745b8083cfd1beff1e78f2989dedf829b146069f1232c80be1931f3a9",
+    "ko": "임시 시험 감독관"
+  },
+  {
+    "id": "TXT_SimsCareers_00353",
+    "source_sha256": "b61809685409ba49ae332c6336af7e4a58a3f38fbaeb772f657a3fd39d366107",
+    "ko": "임시 교사 보조원"
+  },
+  {
+    "id": "TXT_SimsCareers_00354",
+    "source_sha256": "b61809685409ba49ae332c6336af7e4a58a3f38fbaeb772f657a3fd39d366107",
+    "ko": "임시 교사 보조원"
+  },
+  {
+    "id": "TXT_SimsCareers_00355",
+    "source_sha256": "b61809685409ba49ae332c6336af7e4a58a3f38fbaeb772f657a3fd39d366107",
+    "ko": "임시 교사 보조원"
+  },
+  {
+    "id": "TXT_SimsCareers_00356",
+    "source_sha256": "b61809685409ba49ae332c6336af7e4a58a3f38fbaeb772f657a3fd39d366107",
+    "ko": "임시 교사 보조원"
+  },
+  {
+    "id": "TXT_SimsCareers_00358",
+    "source_sha256": "292f57e63a152a6135f967aa66bad5d157b9139b579570fd03d674cc1acee308",
+    "ko": "임시 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00359",
+    "source_sha256": "292f57e63a152a6135f967aa66bad5d157b9139b579570fd03d674cc1acee308",
+    "ko": "임시 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00360",
+    "source_sha256": "292f57e63a152a6135f967aa66bad5d157b9139b579570fd03d674cc1acee308",
+    "ko": "임시 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00361",
+    "source_sha256": "292f57e63a152a6135f967aa66bad5d157b9139b579570fd03d674cc1acee308",
+    "ko": "임시 교사"
+  },
+  {
+    "id": "TXT_SimsCareers_00363",
+    "source_sha256": "947d24b0350b0755b4e20fd2477df2bfda47881df49adb5d9d6e01004a0ec2c5",
+    "ko": "임시 학과장"
+  },
+  {
+    "id": "TXT_SimsCareers_00364",
+    "source_sha256": "947d24b0350b0755b4e20fd2477df2bfda47881df49adb5d9d6e01004a0ec2c5",
+    "ko": "임시 학과장"
+  },
+  {
+    "id": "TXT_SimsCareers_00365",
+    "source_sha256": "947d24b0350b0755b4e20fd2477df2bfda47881df49adb5d9d6e01004a0ec2c5",
+    "ko": "임시 학과장"
+  },
+  {
+    "id": "TXT_SimsCareers_00366",
+    "source_sha256": "947d24b0350b0755b4e20fd2477df2bfda47881df49adb5d9d6e01004a0ec2c5",
+    "ko": "임시 학과장"
+  },
+  {
+    "id": "TXT_SimsCareers_00368",
+    "source_sha256": "6a882571d86f64427ce21e908b13f463ebf853b07857577c2d56e73ea544cdbb",
+    "ko": "임시 교감"
+  },
+  {
+    "id": "TXT_SimsCareers_00369",
+    "source_sha256": "6a882571d86f64427ce21e908b13f463ebf853b07857577c2d56e73ea544cdbb",
+    "ko": "임시 교감"
+  },
+  {
+    "id": "TXT_SimsCareers_00370",
+    "source_sha256": "6a882571d86f64427ce21e908b13f463ebf853b07857577c2d56e73ea544cdbb",
+    "ko": "임시 교감"
+  },
+  {
+    "id": "TXT_SimsCareers_00371",
+    "source_sha256": "6a882571d86f64427ce21e908b13f463ebf853b07857577c2d56e73ea544cdbb",
+    "ko": "임시 교감"
+  },
+  {
+    "id": "TXT_SimsCareers_00373",
+    "source_sha256": "186034fcbd27c8f11ef93d056787a319a6c8afbace95da4c05701593a26ab707",
+    "ko": "임시 교장"
+  },
+  {
+    "id": "TXT_SimsCareers_00374",
+    "source_sha256": "186034fcbd27c8f11ef93d056787a319a6c8afbace95da4c05701593a26ab707",
+    "ko": "임시 교장"
+  },
+  {
+    "id": "TXT_SimsCareers_00375",
+    "source_sha256": "186034fcbd27c8f11ef93d056787a319a6c8afbace95da4c05701593a26ab707",
+    "ko": "임시 교장"
+  },
+  {
+    "id": "TXT_SimsCareers_00376",
+    "source_sha256": "186034fcbd27c8f11ef93d056787a319a6c8afbace95da4c05701593a26ab707",
+    "ko": "임시 교장"
+  },
+  {
+    "id": "TXT_SimsCareers_00378",
+    "source_sha256": "be37eec2a88d8b3836e34e7621fd9b197f97e97f3719708bd3fae3aaf3837ba2",
+    "ko": "임시 교육감"
+  },
+  {
+    "id": "TXT_SimsCareers_00379",
+    "source_sha256": "be37eec2a88d8b3836e34e7621fd9b197f97e97f3719708bd3fae3aaf3837ba2",
+    "ko": "임시 교육감"
+  },
+  {
+    "id": "TXT_SimsCareers_00380",
+    "source_sha256": "be37eec2a88d8b3836e34e7621fd9b197f97e97f3719708bd3fae3aaf3837ba2",
+    "ko": "임시 교육감"
+  },
+  {
+    "id": "TXT_SimsCareers_00381",
+    "source_sha256": "be37eec2a88d8b3836e34e7621fd9b197f97e97f3719708bd3fae3aaf3837ba2",
+    "ko": "임시 교육감"
+  },
+  {
+    "id": "TXT_SimsCareers_00383",
+    "source_sha256": "43975a6b159260b33aa818c6d54004d2d076df92d7525ae9dfbaac85a1a1c8fc",
+    "ko": "임시 선거 운동원"
+  },
+  {
+    "id": "TXT_SimsCareers_00384",
+    "source_sha256": "43975a6b159260b33aa818c6d54004d2d076df92d7525ae9dfbaac85a1a1c8fc",
+    "ko": "임시 선거 운동원"
+  },
+  {
+    "id": "TXT_SimsCareers_00385",
+    "source_sha256": "43975a6b159260b33aa818c6d54004d2d076df92d7525ae9dfbaac85a1a1c8fc",
+    "ko": "임시 선거 운동원"
+  },
+  {
+    "id": "TXT_SimsCareers_00386",
+    "source_sha256": "43975a6b159260b33aa818c6d54004d2d076df92d7525ae9dfbaac85a1a1c8fc",
+    "ko": "임시 선거 운동원"
+  },
+  {
+    "id": "TXT_SimsCareers_00388",
+    "source_sha256": "67933d9d01294646ee4538c3a895972be3e9caec0ff13d04831b8f9b3cb7f20d",
+    "ko": "임시 인턴"
+  },
+  {
+    "id": "TXT_SimsCareers_00389",
+    "source_sha256": "67933d9d01294646ee4538c3a895972be3e9caec0ff13d04831b8f9b3cb7f20d",
+    "ko": "임시 인턴"
+  },
+  {
+    "id": "TXT_SimsCareers_00390",
+    "source_sha256": "67933d9d01294646ee4538c3a895972be3e9caec0ff13d04831b8f9b3cb7f20d",
+    "ko": "임시 인턴"
+  },
+  {
+    "id": "TXT_SimsCareers_00391",
+    "source_sha256": "67933d9d01294646ee4538c3a895972be3e9caec0ff13d04831b8f9b3cb7f20d",
+    "ko": "임시 인턴"
+  },
+  {
+    "id": "TXT_SimsCareers_00393",
+    "source_sha256": "a27ec21e3fd3df3bfbdc8244dea8832a78e783d30eca2f61c7883b091587c38b",
+    "ko": "임시 자원봉사 조정관"
+  },
+  {
+    "id": "TXT_SimsCareers_00394",
+    "source_sha256": "a27ec21e3fd3df3bfbdc8244dea8832a78e783d30eca2f61c7883b091587c38b",
+    "ko": "임시 자원봉사 조정관"
+  },
+  {
+    "id": "TXT_SimsCareers_00395",
+    "source_sha256": "a27ec21e3fd3df3bfbdc8244dea8832a78e783d30eca2f61c7883b091587c38b",
+    "ko": "임시 자원봉사 조정관"
+  },
+  {
+    "id": "TXT_SimsCareers_00396",
+    "source_sha256": "a27ec21e3fd3df3bfbdc8244dea8832a78e783d30eca2f61c7883b091587c38b",
+    "ko": "임시 자원봉사 조정관"
+  },
+  {
+    "id": "TXT_SimsCareers_00398",
+    "source_sha256": "3beb50ea66a1c0b3d3e34831e503de30fa302919e37f442b306f6fc4053109c0",
+    "ko": "임시 선거 사무장"
+  },
+  {
+    "id": "TXT_SimsCareers_00399",
+    "source_sha256": "3beb50ea66a1c0b3d3e34831e503de30fa302919e37f442b306f6fc4053109c0",
+    "ko": "임시 선거 사무장"
+  },
+  {
+    "id": "TXT_SimsCareers_00400",
+    "source_sha256": "3beb50ea66a1c0b3d3e34831e503de30fa302919e37f442b306f6fc4053109c0",
+    "ko": "임시 선거 사무장"
+  },
+  {
+    "id": "TXT_SimsCareers_00401",
+    "source_sha256": "3beb50ea66a1c0b3d3e34831e503de30fa302919e37f442b306f6fc4053109c0",
+    "ko": "임시 선거 사무장"
+  },
+  {
+    "id": "TXT_SimsCareers_00403",
+    "source_sha256": "e8dbab1e21652a144c48e9e2604f4c3cf49089ebb510231d766820a33eae0e6f",
+    "ko": "임시 시의원"
+  },
+  {
+    "id": "TXT_SimsCareers_00404",
+    "source_sha256": "e8dbab1e21652a144c48e9e2604f4c3cf49089ebb510231d766820a33eae0e6f",
+    "ko": "임시 시의원"
+  },
+  {
+    "id": "TXT_SimsCareers_00405",
+    "source_sha256": "e8dbab1e21652a144c48e9e2604f4c3cf49089ebb510231d766820a33eae0e6f",
+    "ko": "임시 시의원"
+  },
+  {
+    "id": "TXT_SimsCareers_00406",
+    "source_sha256": "e8dbab1e21652a144c48e9e2604f4c3cf49089ebb510231d766820a33eae0e6f",
+    "ko": "임시 시의원"
+  },
+  {
+    "id": "TXT_SimsCareers_00408",
+    "source_sha256": "ccb50cf26e7d9754c4aeb02d149c8adb9009c4d03916ae91d684fc7783645687",
+    "ko": "임시 도시 계획 위원"
+  },
+  {
+    "id": "TXT_SimsCareers_00409",
+    "source_sha256": "ccb50cf26e7d9754c4aeb02d149c8adb9009c4d03916ae91d684fc7783645687",
+    "ko": "임시 도시 계획 위원"
+  },
+  {
+    "id": "TXT_SimsCareers_00410",
+    "source_sha256": "ccb50cf26e7d9754c4aeb02d149c8adb9009c4d03916ae91d684fc7783645687",
+    "ko": "임시 도시 계획 위원"
+  },
+  {
+    "id": "TXT_SimsCareers_00411",
+    "source_sha256": "ccb50cf26e7d9754c4aeb02d149c8adb9009c4d03916ae91d684fc7783645687",
+    "ko": "임시 도시 계획 위원"
+  },
+  {
+    "id": "TXT_SimsCareers_00413",
+    "source_sha256": "c04cd8d42b5313b5dbe834ea6ae07b5756afea1d25a5563c5a079bf15c112781",
+    "ko": "임시 시정 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00414",
+    "source_sha256": "c04cd8d42b5313b5dbe834ea6ae07b5756afea1d25a5563c5a079bf15c112781",
+    "ko": "임시 시정 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00415",
+    "source_sha256": "c04cd8d42b5313b5dbe834ea6ae07b5756afea1d25a5563c5a079bf15c112781",
+    "ko": "임시 시정 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00416",
+    "source_sha256": "c04cd8d42b5313b5dbe834ea6ae07b5756afea1d25a5563c5a079bf15c112781",
+    "ko": "임시 시정 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00418",
+    "source_sha256": "aad7d6767b71cd182d0ab86a510f093b4a91f83b55aba300d96a190d92e37db2",
+    "ko": "임시 회계 감사관"
+  },
+  {
+    "id": "TXT_SimsCareers_00419",
+    "source_sha256": "aad7d6767b71cd182d0ab86a510f093b4a91f83b55aba300d96a190d92e37db2",
+    "ko": "임시 회계 감사관"
+  },
+  {
+    "id": "TXT_SimsCareers_00420",
+    "source_sha256": "aad7d6767b71cd182d0ab86a510f093b4a91f83b55aba300d96a190d92e37db2",
+    "ko": "임시 회계 감사관"
+  },
+  {
+    "id": "TXT_SimsCareers_00421",
+    "source_sha256": "aad7d6767b71cd182d0ab86a510f093b4a91f83b55aba300d96a190d92e37db2",
+    "ko": "임시 회계 감사관"
+  },
+  {
+    "id": "TXT_SimsCareers_00423",
+    "source_sha256": "70409d4c94d17e3eeb951a7b7c41b5a99b047f91c702d4726984a111f9f6de07",
+    "ko": "임시 판사"
+  },
+  {
+    "id": "TXT_SimsCareers_00424",
+    "source_sha256": "70409d4c94d17e3eeb951a7b7c41b5a99b047f91c702d4726984a111f9f6de07",
+    "ko": "임시 판사"
+  },
+  {
+    "id": "TXT_SimsCareers_00425",
+    "source_sha256": "70409d4c94d17e3eeb951a7b7c41b5a99b047f91c702d4726984a111f9f6de07",
+    "ko": "임시 판사"
+  },
+  {
+    "id": "TXT_SimsCareers_00426",
+    "source_sha256": "70409d4c94d17e3eeb951a7b7c41b5a99b047f91c702d4726984a111f9f6de07",
+    "ko": "임시 판사"
+  },
+  {
+    "id": "TXT_SimsCareers_00428",
+    "source_sha256": "b8406f6214968b38620491954d68ca296033ebd3181fbf24e9c423d6a36d5a04",
+    "ko": "임시 시장"
+  },
+  {
+    "id": "TXT_SimsCareers_00429",
+    "source_sha256": "b8406f6214968b38620491954d68ca296033ebd3181fbf24e9c423d6a36d5a04",
+    "ko": "임시 시장"
+  },
+  {
+    "id": "TXT_SimsCareers_00430",
+    "source_sha256": "b8406f6214968b38620491954d68ca296033ebd3181fbf24e9c423d6a36d5a04",
+    "ko": "임시 시장"
+  },
+  {
+    "id": "TXT_SimsCareers_00431",
+    "source_sha256": "b8406f6214968b38620491954d68ca296033ebd3181fbf24e9c423d6a36d5a04",
+    "ko": "임시 시장"
+  },
+  {
+    "id": "TXT_SimsCareers_00433",
+    "source_sha256": "e772dc1d82d6cd5e562f46850d9c31a09e5b590305e858c154d8d5be665f79d8",
+    "ko": "임시 쓰레기 수거원"
+  },
+  {
+    "id": "TXT_SimsCareers_00434",
+    "source_sha256": "e772dc1d82d6cd5e562f46850d9c31a09e5b590305e858c154d8d5be665f79d8",
+    "ko": "임시 쓰레기 수거원"
+  },
+  {
+    "id": "TXT_SimsCareers_00435",
+    "source_sha256": "e772dc1d82d6cd5e562f46850d9c31a09e5b590305e858c154d8d5be665f79d8",
+    "ko": "임시 쓰레기 수거원"
+  },
+  {
+    "id": "TXT_SimsCareers_00436",
+    "source_sha256": "e772dc1d82d6cd5e562f46850d9c31a09e5b590305e858c154d8d5be665f79d8",
+    "ko": "임시 쓰레기 수거원"
+  },
+  {
+    "id": "TXT_SimsCareers_00438",
+    "source_sha256": "dde3a1ef9450832fd54b5e9c64bbe81a1174c1520903f083032916513dc44b0a",
+    "ko": "임시 조경 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00439",
+    "source_sha256": "dde3a1ef9450832fd54b5e9c64bbe81a1174c1520903f083032916513dc44b0a",
+    "ko": "임시 조경 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00440",
+    "source_sha256": "dde3a1ef9450832fd54b5e9c64bbe81a1174c1520903f083032916513dc44b0a",
+    "ko": "임시 조경 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00441",
+    "source_sha256": "dde3a1ef9450832fd54b5e9c64bbe81a1174c1520903f083032916513dc44b0a",
+    "ko": "임시 조경 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00443",
+    "source_sha256": "fd405b61985931ea1131c316ddcfe9a32c37feca119f28935391aeb0746361da",
+    "ko": "임시 시설 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00444",
+    "source_sha256": "fd405b61985931ea1131c316ddcfe9a32c37feca119f28935391aeb0746361da",
+    "ko": "임시 시설 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00445",
+    "source_sha256": "fd405b61985931ea1131c316ddcfe9a32c37feca119f28935391aeb0746361da",
+    "ko": "임시 시설 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00446",
+    "source_sha256": "fd405b61985931ea1131c316ddcfe9a32c37feca119f28935391aeb0746361da",
+    "ko": "임시 시설 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00448",
+    "source_sha256": "157dc31de90d3c543c59c97b4a7cab589af3d3ecc800ffd583d919e97314a1fa",
+    "ko": "임시 자원봉사 기획자"
+  },
+  {
+    "id": "TXT_SimsCareers_00449",
+    "source_sha256": "157dc31de90d3c543c59c97b4a7cab589af3d3ecc800ffd583d919e97314a1fa",
+    "ko": "임시 자원봉사 기획자"
+  },
+  {
+    "id": "TXT_SimsCareers_00450",
+    "source_sha256": "157dc31de90d3c543c59c97b4a7cab589af3d3ecc800ffd583d919e97314a1fa",
+    "ko": "임시 자원봉사 기획자"
+  },
+  {
+    "id": "TXT_SimsCareers_00451",
+    "source_sha256": "157dc31de90d3c543c59c97b4a7cab589af3d3ecc800ffd583d919e97314a1fa",
+    "ko": "임시 자원봉사 기획자"
+  },
+  {
+    "id": "TXT_SimsCareers_00453",
+    "source_sha256": "571d529d524b32d56e40301ed579e1a45a9488b0500282bcf2172cc023b16ca8",
+    "ko": "임시 지역 체육 조정관"
+  },
+  {
+    "id": "TXT_SimsCareers_00454",
+    "source_sha256": "571d529d524b32d56e40301ed579e1a45a9488b0500282bcf2172cc023b16ca8",
+    "ko": "임시 지역 체육 조정관"
+  },
+  {
+    "id": "TXT_SimsCareers_00455",
+    "source_sha256": "571d529d524b32d56e40301ed579e1a45a9488b0500282bcf2172cc023b16ca8",
+    "ko": "임시 지역 체육 조정관"
+  },
+  {
+    "id": "TXT_SimsCareers_00456",
+    "source_sha256": "571d529d524b32d56e40301ed579e1a45a9488b0500282bcf2172cc023b16ca8",
+    "ko": "임시 지역 체육 조정관"
+  },
+  {
+    "id": "TXT_SimsCareers_00458",
+    "source_sha256": "59c49ab7bee4ea2395e39716e0907924ce90b573de1d2b1b1e27c84ea51c2e2b",
+    "ko": "임시 행사 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00459",
+    "source_sha256": "59c49ab7bee4ea2395e39716e0907924ce90b573de1d2b1b1e27c84ea51c2e2b",
+    "ko": "임시 행사 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00460",
+    "source_sha256": "59c49ab7bee4ea2395e39716e0907924ce90b573de1d2b1b1e27c84ea51c2e2b",
+    "ko": "임시 행사 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00461",
+    "source_sha256": "59c49ab7bee4ea2395e39716e0907924ce90b573de1d2b1b1e27c84ea51c2e2b",
+    "ko": "임시 행사 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00463",
+    "source_sha256": "ad07b6a068b70c94b8bd1ec41bf372ace98dcefbe2517ffa4cc988e4e5331fa4",
+    "ko": "임시 대외 업무 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00464",
+    "source_sha256": "ad07b6a068b70c94b8bd1ec41bf372ace98dcefbe2517ffa4cc988e4e5331fa4",
+    "ko": "임시 대외 업무 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00465",
+    "source_sha256": "ad07b6a068b70c94b8bd1ec41bf372ace98dcefbe2517ffa4cc988e4e5331fa4",
+    "ko": "임시 대외 업무 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00466",
+    "source_sha256": "ad07b6a068b70c94b8bd1ec41bf372ace98dcefbe2517ffa4cc988e4e5331fa4",
+    "ko": "임시 대외 업무 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00468",
+    "source_sha256": "817471dad0a18816c9bc781edffa92d992351ab94f23e3b48274c60c5ef23540",
+    "ko": "임시 원예사"
+  },
+  {
+    "id": "TXT_SimsCareers_00469",
+    "source_sha256": "817471dad0a18816c9bc781edffa92d992351ab94f23e3b48274c60c5ef23540",
+    "ko": "임시 원예사"
+  },
+  {
+    "id": "TXT_SimsCareers_00470",
+    "source_sha256": "817471dad0a18816c9bc781edffa92d992351ab94f23e3b48274c60c5ef23540",
+    "ko": "임시 원예사"
+  },
+  {
+    "id": "TXT_SimsCareers_00471",
+    "source_sha256": "817471dad0a18816c9bc781edffa92d992351ab94f23e3b48274c60c5ef23540",
+    "ko": "임시 원예사"
+  },
+  {
+    "id": "TXT_SimsCareers_00473",
+    "source_sha256": "38de3d5d8c58f3471602d80dcee070afd49446e8fab7db68ba3524a3f466b26e",
+    "ko": "임시 자연 연구가"
+  },
+  {
+    "id": "TXT_SimsCareers_00474",
+    "source_sha256": "38de3d5d8c58f3471602d80dcee070afd49446e8fab7db68ba3524a3f466b26e",
+    "ko": "임시 자연 연구가"
+  },
+  {
+    "id": "TXT_SimsCareers_00475",
+    "source_sha256": "38de3d5d8c58f3471602d80dcee070afd49446e8fab7db68ba3524a3f466b26e",
+    "ko": "임시 자연 연구가"
+  },
+  {
+    "id": "TXT_SimsCareers_00476",
+    "source_sha256": "38de3d5d8c58f3471602d80dcee070afd49446e8fab7db68ba3524a3f466b26e",
+    "ko": "임시 자연 연구가"
+  },
+  {
+    "id": "TXT_SimsCareers_00478",
+    "source_sha256": "9a9d3c9a255d3d6c58273375e0c1fb5d62d4599f10b0658ccb742420698bfcd7",
+    "ko": "임시 공원 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00479",
+    "source_sha256": "9a9d3c9a255d3d6c58273375e0c1fb5d62d4599f10b0658ccb742420698bfcd7",
+    "ko": "임시 공원 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00480",
+    "source_sha256": "9a9d3c9a255d3d6c58273375e0c1fb5d62d4599f10b0658ccb742420698bfcd7",
+    "ko": "임시 공원 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00481",
+    "source_sha256": "9a9d3c9a255d3d6c58273375e0c1fb5d62d4599f10b0658ccb742420698bfcd7",
+    "ko": "임시 공원 관리인"
+  },
+  {
+    "id": "TXT_SimsCareers_00548",
+    "source_sha256": "51e2520072a009f8d13cd4a1a40e0fbc97f7b1f7d74de19c0606d40449cce8c7",
+    "ko": "임시 군사 학교 생도"
+  },
+  {
+    "id": "TXT_SimsCareers_00549",
+    "source_sha256": "51e2520072a009f8d13cd4a1a40e0fbc97f7b1f7d74de19c0606d40449cce8c7",
+    "ko": "임시 군사 학교 생도"
+  },
+  {
+    "id": "TXT_SimsCareers_00550",
+    "source_sha256": "51e2520072a009f8d13cd4a1a40e0fbc97f7b1f7d74de19c0606d40449cce8c7",
+    "ko": "임시 군사 학교 생도"
+  },
+  {
+    "id": "TXT_SimsCareers_00551",
+    "source_sha256": "51e2520072a009f8d13cd4a1a40e0fbc97f7b1f7d74de19c0606d40449cce8c7",
+    "ko": "임시 군사 학교 생도"
+  },
+  {
+    "id": "TXT_SimsCareers_00552",
+    "source_sha256": "51e2520072a009f8d13cd4a1a40e0fbc97f7b1f7d74de19c0606d40449cce8c7",
+    "ko": "임시 군사 학교 생도"
+  },
+  {
+    "id": "TXT_SimsCareers_00553",
+    "source_sha256": "1fe94e9f3343e93ce81a446e9731b37808468901ca2932a537c28e029edfc974",
+    "ko": "임시 우편실 직원"
+  },
+  {
+    "id": "TXT_SimsCareers_00554",
+    "source_sha256": "1fe94e9f3343e93ce81a446e9731b37808468901ca2932a537c28e029edfc974",
+    "ko": "임시 우편실 직원"
+  },
+  {
+    "id": "TXT_SimsCareers_00555",
+    "source_sha256": "1fe94e9f3343e93ce81a446e9731b37808468901ca2932a537c28e029edfc974",
+    "ko": "임시 우편실 직원"
+  },
+  {
+    "id": "TXT_SimsCareers_00556",
+    "source_sha256": "1fe94e9f3343e93ce81a446e9731b37808468901ca2932a537c28e029edfc974",
+    "ko": "임시 우편실 직원"
+  },
+  {
+    "id": "TXT_SimsCareers_00558",
+    "source_sha256": "1444fdceb24f94c4a46c512ef1402238626e49c74edcd3c658786b4d8c4cf5c7",
+    "ko": "임시 임원 비서"
+  },
+  {
+    "id": "TXT_SimsCareers_00559",
+    "source_sha256": "1444fdceb24f94c4a46c512ef1402238626e49c74edcd3c658786b4d8c4cf5c7",
+    "ko": "임시 임원 비서"
+  },
+  {
+    "id": "TXT_SimsCareers_00560",
+    "source_sha256": "1444fdceb24f94c4a46c512ef1402238626e49c74edcd3c658786b4d8c4cf5c7",
+    "ko": "임시 임원 비서"
+  },
+  {
+    "id": "TXT_SimsCareers_00561",
+    "source_sha256": "1444fdceb24f94c4a46c512ef1402238626e49c74edcd3c658786b4d8c4cf5c7",
+    "ko": "임시 임원 비서"
+  },
+  {
+    "id": "TXT_SimsCareers_00563",
+    "source_sha256": "76924b40b918df11509236d72bb98d7695f7e43bbe2f79229654f9b6c28ef3bc",
+    "ko": "임시 외근 영업 사원"
+  },
+  {
+    "id": "TXT_SimsCareers_00564",
+    "source_sha256": "76924b40b918df11509236d72bb98d7695f7e43bbe2f79229654f9b6c28ef3bc",
+    "ko": "임시 외근 영업 사원"
+  },
+  {
+    "id": "TXT_SimsCareers_00565",
+    "source_sha256": "c94b2812a7d300bd1c31c92428191c68ace86e3f6d28ced2991fe7709eb6a456",
+    "ko": "임시 외근 영업 사원"
+  },
+  {
+    "id": "TXT_SimsCareers_00566",
+    "source_sha256": "c94b2812a7d300bd1c31c92428191c68ace86e3f6d28ced2991fe7709eb6a456",
+    "ko": "임시 외근 영업 사원"
+  },
+  {
+    "id": "TXT_SimsCareers_00568",
+    "source_sha256": "de4b60664d5255b2f11ffaf6fc2d4b7d4b8d39caf876689a22770e3323fc5bc0",
+    "ko": "임시 초급 간부"
+  },
+  {
+    "id": "TXT_SimsCareers_00569",
+    "source_sha256": "de4b60664d5255b2f11ffaf6fc2d4b7d4b8d39caf876689a22770e3323fc5bc0",
+    "ko": "임시 초급 간부"
+  },
+  {
+    "id": "TXT_SimsCareers_00570",
+    "source_sha256": "de4b60664d5255b2f11ffaf6fc2d4b7d4b8d39caf876689a22770e3323fc5bc0",
+    "ko": "임시 초급 간부"
+  },
+  {
+    "id": "TXT_SimsCareers_00571",
+    "source_sha256": "de4b60664d5255b2f11ffaf6fc2d4b7d4b8d39caf876689a22770e3323fc5bc0",
+    "ko": "임시 초급 간부"
+  },
+  {
+    "id": "TXT_SimsCareers_00573",
+    "source_sha256": "735ece35de788b88764d0840b4c3ffc0662aac7c87b49cfd030e0ac21133e338",
+    "ko": "임시 간부"
+  },
+  {
+    "id": "TXT_SimsCareers_00574",
+    "source_sha256": "735ece35de788b88764d0840b4c3ffc0662aac7c87b49cfd030e0ac21133e338",
+    "ko": "임시 간부"
+  },
+  {
+    "id": "TXT_SimsCareers_00575",
+    "source_sha256": "735ece35de788b88764d0840b4c3ffc0662aac7c87b49cfd030e0ac21133e338",
+    "ko": "임시 간부"
+  },
+  {
+    "id": "TXT_SimsCareers_00576",
+    "source_sha256": "735ece35de788b88764d0840b4c3ffc0662aac7c87b49cfd030e0ac21133e338",
+    "ko": "임시 간부"
+  },
+  {
+    "id": "TXT_SimsCareers_00578",
+    "source_sha256": "e0d3d97f12a1770378181acea9f5f45f1fd850c899f12139ca3ec422c0615311",
+    "ko": "임시 고위 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00579",
+    "source_sha256": "e0d3d97f12a1770378181acea9f5f45f1fd850c899f12139ca3ec422c0615311",
+    "ko": "임시 고위 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00580",
+    "source_sha256": "e0d3d97f12a1770378181acea9f5f45f1fd850c899f12139ca3ec422c0615311",
+    "ko": "임시 고위 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00581",
+    "source_sha256": "e0d3d97f12a1770378181acea9f5f45f1fd850c899f12139ca3ec422c0615311",
+    "ko": "임시 고위 관리자"
+  },
+  {
+    "id": "TXT_SimsCareers_00583",
+    "source_sha256": "2739671299fc66ab21454f6c42e209fbbafaf52a6dac0df1e5f2df235b743cc2",
+    "ko": "임시 부사장"
+  },
+  {
+    "id": "TXT_SimsCareers_00584",
+    "source_sha256": "2739671299fc66ab21454f6c42e209fbbafaf52a6dac0df1e5f2df235b743cc2",
+    "ko": "임시 부사장"
+  },
+  {
+    "id": "TXT_SimsCareers_00585",
+    "source_sha256": "2739671299fc66ab21454f6c42e209fbbafaf52a6dac0df1e5f2df235b743cc2",
+    "ko": "임시 부사장"
+  },
+  {
+    "id": "TXT_SimsCareers_00586",
+    "source_sha256": "2739671299fc66ab21454f6c42e209fbbafaf52a6dac0df1e5f2df235b743cc2",
+    "ko": "임시 부사장"
+  },
+  {
+    "id": "TXT_SimsCareers_00588",
+    "source_sha256": "65c7400c141862637d3f6de776f55e9c86ae883d2fc12bfd8a501d53732425d8",
+    "ko": "임시 사장"
+  },
+  {
+    "id": "TXT_SimsCareers_00589",
+    "source_sha256": "65c7400c141862637d3f6de776f55e9c86ae883d2fc12bfd8a501d53732425d8",
+    "ko": "임시 사장"
+  },
+  {
+    "id": "TXT_SimsCareers_00590",
+    "source_sha256": "65c7400c141862637d3f6de776f55e9c86ae883d2fc12bfd8a501d53732425d8",
+    "ko": "임시 사장"
+  },
+  {
+    "id": "TXT_SimsCareers_00591",
+    "source_sha256": "65c7400c141862637d3f6de776f55e9c86ae883d2fc12bfd8a501d53732425d8",
+    "ko": "임시 사장"
+  },
+  {
+    "id": "TXT_SimsCareers_00593",
+    "source_sha256": "3a8d7271a3546b69d25489e6e83063eda5ede7d651976c0a3275cd5db24f5de3",
+    "ko": "임시 최고 경영자"
+  },
+  {
+    "id": "TXT_SimsCareers_00594",
+    "source_sha256": "3a8d7271a3546b69d25489e6e83063eda5ede7d651976c0a3275cd5db24f5de3",
+    "ko": "임시 최고 경영자"
+  },
+  {
+    "id": "TXT_SimsCareers_00595",
+    "source_sha256": "3a8d7271a3546b69d25489e6e83063eda5ede7d651976c0a3275cd5db24f5de3",
+    "ko": "임시 최고 경영자"
+  },
+  {
+    "id": "TXT_SimsCareers_00596",
+    "source_sha256": "3a8d7271a3546b69d25489e6e83063eda5ede7d651976c0a3275cd5db24f5de3",
+    "ko": "임시 최고 경영자"
+  },
+  {
+    "id": "TXT_SimsCareers_00598",
+    "source_sha256": "c6357af58df8f9f1033c905325f3c83f7e966135f6220027ff7cfbadcb3cafef",
+    "ko": "임시 사업계의 거물"
+  },
+  {
+    "id": "TXT_SimsCareers_00599",
+    "source_sha256": "c6357af58df8f9f1033c905325f3c83f7e966135f6220027ff7cfbadcb3cafef",
+    "ko": "임시 사업계의 거물"
+  },
+  {
+    "id": "TXT_SimsCareers_00600",
+    "source_sha256": "c6357af58df8f9f1033c905325f3c83f7e966135f6220027ff7cfbadcb3cafef",
+    "ko": "임시 사업계의 거물"
+  },
+  {
+    "id": "TXT_SimsCareers_00601",
+    "source_sha256": "c6357af58df8f9f1033c905325f3c83f7e966135f6220027ff7cfbadcb3cafef",
+    "ko": "임시 사업계의 거물"
+  },
+  {
+    "id": "TXT_SimsCareers_00603",
+    "source_sha256": "2cb2649725b952b75c010ad58299e974c4bc5d4ac03515f693527934534ac8e1",
+    "ko": "임시 A+"
+  },
+  {
+    "id": "TXT_SimsCareers_00604",
+    "source_sha256": "b95a26730b275618d8fc2e4391ffc24b5b6e87feef264a071cc1427fedbaacf5",
+    "ko": "임시 A"
+  },
+  {
+    "id": "TXT_SimsCareers_00605",
+    "source_sha256": "5fd434d6cfdfab17946e361b04a5d524cf2bdacd69053554cd540f41974adc23",
+    "ko": "임시 A-"
+  },
+  {
+    "id": "TXT_SimsCareers_00606",
+    "source_sha256": "4d44fb2222ef425e635ebecbf65ec63f269b053837504d3278e65285f927bde8",
+    "ko": "임시 B+"
+  },
+  {
+    "id": "TXT_SimsCareers_00607",
+    "source_sha256": "bb730a2099f81ef5d70f9e166cecb85058f81f64fa48d8dc013363b854c93b66",
+    "ko": "임시 B"
+  },
+  {
+    "id": "TXT_SimsCareers_00608",
+    "source_sha256": "110341f7be895051b5727c7a9eac4da112b092375bd6c338e32c22d20d2c13d2",
+    "ko": "임시 B-"
+  },
+  {
+    "id": "TXT_SimsCareers_00609",
+    "source_sha256": "61474989155410e3b6bf2fe557aa2af34e6e8a5e9be89a035ee289ddc0277628",
+    "ko": "임시 C+"
+  },
+  {
+    "id": "TXT_SimsCareers_00610",
+    "source_sha256": "8b8ed479148f8f44d562773ecca971fe52de8715cb8c1153d9dc43f203fa0532",
+    "ko": "임시 C"
+  },
+  {
+    "id": "TXT_SimsCareers_00611",
+    "source_sha256": "e06ebc442eef6d06145d4f1cd1bab61a266c6dfdd417d64c253db49339b8f64e",
+    "ko": "임시 C-"
+  },
+  {
+    "id": "TXT_SimsCareers_00612",
+    "source_sha256": "17d61b99b653d994465b04f07e61faac076dd000c9985321053f6f6118323a80",
+    "ko": "임시 D+"
+  },
+  {
+    "id": "TXT_SimsCareers_00613",
+    "source_sha256": "0619058673e75772d7f57461a3d1ac09e514a7356f11de24d7b6aac3ec82b8c5",
+    "ko": "임시 D"
+  },
+  {
+    "id": "TXT_SimsCareers_00614",
+    "source_sha256": "2ec20f174ec12126a5c5f9d27378e5f734c2058b2349bd64be54a41436255062",
+    "ko": "임시 D-"
+  },
+  {
+    "id": "TXT_SimsCareers_00615",
+    "source_sha256": "bef4ee157de958727eb599bb4803a0013fdb020d7ca8d9732557af6dc0155cc6",
+    "ko": "임시 F"
+  },
+  {
+    "id": "TXT_SimsCareers_00616",
+    "source_sha256": "bef4ee157de958727eb599bb4803a0013fdb020d7ca8d9732557af6dc0155cc6",
+    "ko": "임시 F"
+  },
+  {
+    "id": "TXT_SimsCareers_00617",
+    "source_sha256": "c61a5f49b1691bec1cc2c022325ba862d690f57bf6d6f3a4ef3c973592c31bcf",
+    "ko": "임시 F (군사 학교 입학 위기)"
+  },
+  {
+    "id": "TXT_SimsCareers_00618",
+    "source_sha256": "d353446474dffb6b745e8d43d9ae3523e53c1b6ac88a6492482d255a7ccbfa5b",
+    "ko": "임시 F (군사 학교로 떠남)"
+  },
+  {
+    "id": "TXT_SimsCareers_00619",
+    "source_sha256": "0bc504b78bfc47fd4088874f702eb08324f47c572172aa5cef66fbfd24b3fda7",
+    "ko": "임시 매우 나쁨"
+  },
+  {
+    "id": "TXT_SimsCareers_00620",
+    "source_sha256": "37674973f16325f8c08d84365d2f48972f7927498b2eec615215eb288b441e91",
+    "ko": "임시 나쁨 - 변경 - 시험용 -"
+  },
+  {
+    "id": "TXT_SimsCareers_00621",
+    "source_sha256": "3f41f47d36caf3ad6329b185e65d1c0b51d6031db11537f27e73a60e38348d87",
+    "ko": "임시 보통"
+  },
+  {
+    "id": "TXT_SimsCareers_00622",
+    "source_sha256": "cb5d2d15de93e936cf2a6c83b5cd73955cd9a63df7b06385637902629df85706",
+    "ko": "임시 좋음"
+  },
+  {
+    "id": "TXT_SimsCareers_00623",
+    "source_sha256": "71d36aad3a0ccf10adf8c11eadfe317407cb0c5ae63b099d1d129372843f6218",
+    "ko": "임시 매우 좋음"
+  }
+]

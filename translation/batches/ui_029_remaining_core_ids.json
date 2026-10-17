@@ -1,0 +1,377 @@
+[
+  {
+    "id": "TXT_SimsObjects_00525",
+    "source_sha256": "745f3d7c49ec0adcdddc9daa21256d2865b3a8dbbec184a40a18f452c93e72ca",
+    "ko": "무슈"
+  },
+  {
+    "id": "TXT_SimsObjects_00526",
+    "source_sha256": "745f3d7c49ec0adcdddc9daa21256d2865b3a8dbbec184a40a18f452c93e72ca",
+    "ko": "무슈"
+  },
+  {
+    "id": "TXT_SimsObjects_00529",
+    "source_sha256": "745f3d7c49ec0adcdddc9daa21256d2865b3a8dbbec184a40a18f452c93e72ca",
+    "ko": "무슈"
+  },
+  {
+    "id": "TXT_SimsObjects_01078",
+    "source_sha256": "5a7d892dc13509665540eed7d75e5b7d6126671930f46d9b6354da4bd6872fbc",
+    "ko": "치오피노"
+  },
+  {
+    "id": "TXT_SimsObjects_01079",
+    "source_sha256": "5a7d892dc13509665540eed7d75e5b7d6126671930f46d9b6354da4bd6872fbc",
+    "ko": "치오피노"
+  },
+  {
+    "id": "TXT_SimsObjects_01082",
+    "source_sha256": "5a7d892dc13509665540eed7d75e5b7d6126671930f46d9b6354da4bd6872fbc",
+    "ko": "치오피노"
+  },
+  {
+    "id": "TXT_SimsObjects_01106",
+    "source_sha256": "5a7d892dc13509665540eed7d75e5b7d6126671930f46d9b6354da4bd6872fbc",
+    "ko": "치오피노"
+  },
+  {
+    "id": "TXT_SimsObjects_01107",
+    "source_sha256": "5a7d892dc13509665540eed7d75e5b7d6126671930f46d9b6354da4bd6872fbc",
+    "ko": "치오피노"
+  },
+  {
+    "id": "TXT_SimsObjects_01110",
+    "source_sha256": "5a7d892dc13509665540eed7d75e5b7d6126671930f46d9b6354da4bd6872fbc",
+    "ko": "치오피노"
+  },
+  {
+    "id": "TXT_SimsObjects_03100",
+    "source_sha256": "7fc475a3c92cc3ca23289560dded2d376caf0bc8d6ae3aa06f9d658f5c8a6615",
+    "ko": "카누"
+  },
+  {
+    "id": "TXT_SimsObjects_03103",
+    "source_sha256": "919f7d779b71af23fe58ea3d60330079771a319ecbd8769773020508fc98bda1",
+    "ko": "쌍동선"
+  },
+  {
+    "id": "TXT_SimsObjects_03116",
+    "source_sha256": "3711c817270f4c16f4c80bc52b759b942f60659e43dcf5648c552621e33a5b4e",
+    "ko": "데이지"
+  },
+  {
+    "id": "TXT_SimsObjects_03118",
+    "source_sha256": "77dc2a655f8ea639869e6d7bf1b33900484efc9e186db21167302588f630a05a",
+    "ko": "꽃"
+  },
+  {
+    "id": "TXT_SimsObjects_03167",
+    "source_sha256": "7ec720b594e1a2584895f7039b9065c92c7dba9b51c2ef1ffd25f4e3105d3370",
+    "ko": "모래 친구"
+  },
+  {
+    "id": "TXT_SimsObjects_03169",
+    "source_sha256": "7ec720b594e1a2584895f7039b9065c92c7dba9b51c2ef1ffd25f4e3105d3370",
+    "ko": "모래 친구"
+  },
+  {
+    "id": "TXT_SimsObjects_03188",
+    "source_sha256": "417a97e79dbef0a647d19ee35422b50765c96bd8bb1d767ef64a559aba4427db",
+    "ko": "파리 "
+  },
+  {
+    "id": "TXT_SimsObjects_03191",
+    "source_sha256": "3bbdc6c9fb2c44d2ec3679fb1484e27beba9f59b8f0e57e32f3e8c76cef70f62",
+    "ko": "파리"
+  },
+  {
+    "id": "TXT_SimsObjects_03194",
+    "source_sha256": "5ae1a7ab506c4c31d58aae2056592af08adf6281aab3238858ee07ac8008ffa0",
+    "ko": "루파라바 왕"
+  },
+  {
+    "id": "TXT_SimsObjects_03195",
+    "source_sha256": "3a95f0333283b5904ed241a62f79f21e637f622db34ae2ac0f22b3cfa4be390c",
+    "ko": "루파라바 왕은 한때 눈에 보이는 모든 곳을 다스렸습니다. 비정상적으로 예리한 시력 덕분에 그 영토는 꽤 넓었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03196",
+    "source_sha256": "e94fb7a6eb4e43e795d27bfaa704854b4a93179ba041c4b9fa9d22b8185c59cd",
+    "ko": "조각상"
+  },
+  {
+    "id": "TXT_SimsObjects_03197",
+    "source_sha256": "f064f48a662e209b6ada484d308806545561fdddf5806f9a3ee065e147933779",
+    "ko": "루파라바 왕자"
+  },
+  {
+    "id": "TXT_SimsObjects_03198",
+    "source_sha256": "56bcd257d03e92c0eeeee8fa22213269a850ddc24a7f985d9d112c26065d3cb7",
+    "ko": "루파라바 왕자는 야릇한 모래 조각 만들기를 즐기는 악명 높은 한량이었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03199",
+    "source_sha256": "e94fb7a6eb4e43e795d27bfaa704854b4a93179ba041c4b9fa9d22b8185c59cd",
+    "ko": "조각상"
+  },
+  {
+    "id": "TXT_SimsObjects_03200",
+    "source_sha256": "10774b0117a10d2cc4d73536b6825a6738d603fcb0d228f6f7eeebf692ad7cb1",
+    "ko": "루파라바 공주"
+  },
+  {
+    "id": "TXT_SimsObjects_03201",
+    "source_sha256": "e69a6a5e95248d5a74efa5c2e817f3ee53b415824a046a3b7c4e5d895ff1b4ec",
+    "ko": "루파라바 공주의 이야기는 비극입니다. 요절한 공주의 최후는 뱀장어 저글링의 위험을 아이들에게 경고하는 교훈이 되었습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03202",
+    "source_sha256": "e94fb7a6eb4e43e795d27bfaa704854b4a93179ba041c4b9fa9d22b8185c59cd",
+    "ko": "조각상"
+  },
+  {
+    "id": "TXT_SimsObjects_03203",
+    "source_sha256": "a3a66deb1411e91a862a2b842b25d4c42cd9e2824b2a8e64fc7911660bb33a82",
+    "ko": "루파라바 여왕"
+  },
+  {
+    "id": "TXT_SimsObjects_03204",
+    "source_sha256": "b730a77ca22e8acf469bc500035375d82b146732d965b004924e1fc7f3481bf1",
+    "ko": "남편에게 루파라바 여왕은 무시무시한 잔소리꾼이었습니다. 신하들에게는 그보다 훨씬 더 끔찍한 존재였죠."
+  },
+  {
+    "id": "TXT_SimsObjects_03205",
+    "source_sha256": "e94fb7a6eb4e43e795d27bfaa704854b4a93179ba041c4b9fa9d22b8185c59cd",
+    "ko": "조각상"
+  },
+  {
+    "id": "TXT_SimsObjects_03206",
+    "source_sha256": "20688ec56d3c3c4843ba8aa9f87fb166f1f6a9d33ff6bdc50a03cd91a9456a7b",
+    "ko": "정원 요정 수상한 샘"
+  },
+  {
+    "id": "TXT_SimsObjects_03207",
+    "source_sha256": "ef82b4453cb194b0438b74cc95c18c41ff95e9ab44f96fb9812b594838326a2f",
+    "ko": "수상한 샘을 만나 보세요. 작다고 평범한 정원 요정으로 보면 오산입니다. 사악한 광대 과학자들은 명예를 잃은 인형을 갈아 만든 플라스틱과 윤리를 저버린 바이올린 줄의 사악한 직선성을 결합해 샘을 개발했습니다. 고객에게 현대적인 정원 요정 체험의 진수를 선사하기 위해서죠. 샘이 당신을 지켜보고 있습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_03208",
+    "source_sha256": "4ea2afcc4ab25c4abed0bf89cdc8f05e6e580f7f81c3799af18741d66cbe4534",
+    "ko": "정원 요정"
+  },
+  {
+    "id": "TXT_SimsObjects_03211",
+    "source_sha256": "3d62ff35f10f04ce4f13389cf5918e5457a3b017c91892f4b7a45ef556c3532e",
+    "ko": " 그림"
+  },
+  {
+    "id": "TXT_SimsObjects_03212",
+    "source_sha256": "9341ef1771801678b2a6bfce174f1a36f0687c230758d52396fa62bf438cfadc",
+    "ko": "테라 티키"
+  },
+  {
+    "id": "TXT_SimsObjects_03214",
+    "source_sha256": "e94fb7a6eb4e43e795d27bfaa704854b4a93179ba041c4b9fa9d22b8185c59cd",
+    "ko": "조각상"
+  },
+  {
+    "id": "TXT_SimsObjects_03215",
+    "source_sha256": "9debcd74095c8e5e693a87741fb98e4b4816ef5e9c97178a157fe216e2ef1fe2",
+    "ko": "플라밍고 소상"
+  },
+  {
+    "id": "TXT_SimsObjects_03217",
+    "source_sha256": "4ec94c2dc51a24a51d68517c7a165da66f3819fa52ac6c7402c16d476233700c",
+    "ko": "플라밍고"
+  },
+  {
+    "id": "TXT_SimsObjects_03218",
+    "source_sha256": "93559d5de95e8282d3dfd06c08fb56a17d76fba43b3fc080f743851572a99ead",
+    "ko": "공간 속의 형태\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03219",
+    "source_sha256": "bf4f8e8aa36cd269c2280d2ac66f448343eb7422e8fcad7be1e7f1362098aad3",
+    "ko": "\r\n당신의 원예 솜씨가 시들어 갈 때 정원사 조각상은 훌륭한 희생양이 됩니다\r\n"
+  },
+  {
+    "id": "TXT_SimsObjects_03220",
+    "source_sha256": "e94fb7a6eb4e43e795d27bfaa704854b4a93179ba041c4b9fa9d22b8185c59cd",
+    "ko": "조각상"
+  },
+  {
+    "id": "TXT_SimsObjects_07485",
+    "source_sha256": "90a72c9d3ddc910fea142c1064bc1450d0b4a4f7943e43673abe3ca35a4bd8bc",
+    "ko": "지금은 이 곡을 들어도 별로 즐겁지 않을 것 같아."
+  },
+  {
+    "id": "TXT_SimsObjects_07486",
+    "source_sha256": "926281f1f59a65f98e961aa72cdc52f5a72369e18b69f2afdff68573daa4ce7a",
+    "ko": "이제는 별로 재미가 없네. 나중에 해야겠어."
+  },
+  {
+    "id": "TXT_SimsObjects_07489",
+    "source_sha256": "9dca3d06da5605814b4e75e309ed8c76d93342e0e8404f652539a6a683c151ff",
+    "ko": "축하합니다! 새 요리법을 배웠습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07493",
+    "source_sha256": "9dca3d06da5605814b4e75e309ed8c76d93342e0e8404f652539a6a683c151ff",
+    "ko": "축하합니다! 새 요리법을 배웠습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07494",
+    "source_sha256": "03d561318bad367be40253c4481d9011ae6a6ee0155542376b446031564b777c",
+    "ko": "너무 우울해서 글을 쓸 수 없어."
+  },
+  {
+    "id": "TXT_SimsObjects_07497",
+    "source_sha256": "9dca3d06da5605814b4e75e309ed8c76d93342e0e8404f652539a6a683c151ff",
+    "ko": "축하합니다! 새 요리법을 배웠습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07498",
+    "source_sha256": "f9602e0e6d9259b92d2499c2e63ea844e5f2796c8fc1c07a91a4d822454c60d4",
+    "ko": "파티 참석자가 5명 미만입니다. 파티가 끝났습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07576",
+    "source_sha256": "cc2c851c99a1573ae04e161ea3450dace1068973cc7f538d94340c35cb1f164d",
+    "ko": "체포했습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07577",
+    "source_sha256": "6a9fac33b7c1e18c95bd33f3daeeb5dc4e9589257ad2ea8e1a6ee2bf2a9bb181",
+    "ko": "축하합니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07594",
+    "source_sha256": "9dca3d06da5605814b4e75e309ed8c76d93342e0e8404f652539a6a683c151ff",
+    "ko": "축하합니다! 새 요리법을 배웠습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07595",
+    "source_sha256": "ec36ef706a9a50f874532904da7f5d177c8dcab2ee6ff880368acaa320dda9d3",
+    "ko": "$Me이 친구들을 만나러 갑니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07596",
+    "source_sha256": "eff0ba8c14dde7f5a7a45aeed94c6d2d69bc4641327a7d2b4e3bf774dd8e75a8",
+    "ko": "$Me이 볼일을 보러 떠났습니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07598",
+    "source_sha256": "e5b9a94cdf2bc508a2ea8793bc01472268feadf9d24b7c587d3484053d6004c2",
+    "ko": "새 도구: 흑요석 도구"
+  },
+  {
+    "id": "TXT_SimsObjects_07599",
+    "source_sha256": "28b86fad41fb61c509b5d07fd5f653b46c2209b501b125bce233613d3889eb76",
+    "ko": "<COLOR_FF0B0077>새로운_목표: 생존하는 것과 보금자리를 만드는 것은 다릅니다. 이 목표들을 달성하면 심이 더 잘 살아갈 수 있습니다.\r\n\r\n<COLOR_FF0B0077>새로운_설계도: 판잣집 거처"
+  },
+  {
+    "id": "TXT_SimsObjects_07745",
+    "source_sha256": "1d96a1312d2fbaf135264b3381b6aa8072c2b4213857a6d4370ffe2de8de55e6",
+    "ko": "용변 욕구 활성화"
+  },
+  {
+    "id": "TXT_SimsObjects_07754",
+    "source_sha256": "4057083a0361ae3969b2e84c2199fa860b484eb1a292907e6772a5c1d243f64b",
+    "ko": "$Me이 불에 타 죽었습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07755",
+    "source_sha256": "38bf2c78d0cc811b16f99f3d5b5ddf63822cf5d727d758ccb656e9972f7969c0",
+    "ko": "$Me이 굶어 죽었습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07757",
+    "source_sha256": "a9f24f48a9d00924cb29fd772eb9c8f6b7a509b522dc6648994556781e6a970f",
+    "ko": "$Me이 물에 빠져 죽었습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07759",
+    "source_sha256": "ab397ab41e6850d42bd87b52019f5f52e741f58e3614ec56d596a24570956481",
+    "ko": "지금은 식물을 교체할 시몰레온이 부족합니다."
+  },
+  {
+    "id": "TXT_SimsObjects_07761",
+    "source_sha256": "c5e9f29f87fdc61fd80fefa58fe547aa91ad220dd2ecd9fcdb291b7e6767bd17",
+    "ko": "지금은 이 물건이 별로 재미없어."
+  },
+  {
+    "id": "TXT_SimsObjects_07762",
+    "source_sha256": "392592c5d433de6a9797cd28133ab281d54cce61b23b5bf86f3515dac8859561",
+    "ko": "이 물건은 이제 재미없어."
+  },
+  {
+    "id": "TXT_SimsObjects_07798",
+    "source_sha256": "c867e93b4c0a307ff4c7346b8a3a3fa7b2d88169089587fed26e1496eac6067a",
+    "ko": "신비한 좀비 원숭이 손이 용변 걱정을 덜어 줍니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07799",
+    "source_sha256": "b51088c548b310b57f775e05d72d0c22b8ed8f98f44b0fa19b3141387048b0d9",
+    "ko": "신비한 좀비 원숭이 손이 깨끗이 씻겨 줍니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07800",
+    "source_sha256": "09dad7c42af43a9ff15f9f9dfd70c9d7a17debd1bb183b0947c5b09c88d44ce4",
+    "ko": "신비한 좀비 원숭이 손이 어떤 허기든 달래 줍니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07801",
+    "source_sha256": "6469510c0f80b4144652665f1d9450549cc24a351f850f48ca388c29e6f07906",
+    "ko": "신비한 좀비 원숭이 손을 찾는 것보다 재미있는 일은 없습니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07802",
+    "source_sha256": "073db4076240288f2fab94433981055df6cf8a9ab9a6c05930d7ffca56cf3e45",
+    "ko": "신비한 좀비 원숭이 손은 어떤 에스프레소보다도 기운을 북돋웁니다!"
+  },
+  {
+    "id": "TXT_SimsObjects_07816",
+    "source_sha256": "7fe3928cde6995ee1ef4fd2f076513f5549c67aaf21774dbc19b63dc8743966a",
+    "ko": "심이 새 책을 찾았습니다. 섬에 관해 더 많은 것을 배우는 데 도움이 될 것입니다.\r\n\r\n새 설계도: 생존용 모닥불"
+  },
+  {
+    "id": "TXT_SimsObjects_07817",
+    "source_sha256": "0561f789eec52b6207d7c85e260c5e896ced78501c383231bc327ed988975d07",
+    "ko": "레지널드 스티키윅 경의 일지"
+  },
+  {
+    "id": "TXT_SimsObjects_07832",
+    "source_sha256": "82762c0085e13ba846e0510ffaf8ef271fdf71f8909ad6af29bc986d842c4f76",
+    "ko": "주기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07836",
+    "source_sha256": "82762c0085e13ba846e0510ffaf8ef271fdf71f8909ad6af29bc986d842c4f76",
+    "ko": "주기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07837",
+    "source_sha256": "99ab9b1725431e9580b52fdda32f4c7753aaddfebe9c21940c481ab9c5aba87f",
+    "ko": "하악질하기"
+  },
+  {
+    "id": "TXT_SimsObjects_07838",
+    "source_sha256": "fb6a8db52d79d4accd30b9b5aa5d65bc1101ab430428c725b852b8e3459b5dad",
+    "ko": "으르렁거리기"
+  },
+  {
+    "id": "TXT_SimsObjects_07839",
+    "source_sha256": "5c74939ceb0440c3571d2f5bcbc0a3f7c23701bc20dc698d84fbbe25de3f5dc4",
+    "ko": "이리 오기.../$Object"
+  },
+  {
+    "id": "TXT_SimsObjects_07840",
+    "source_sha256": "1f39bcf1d85a79f5370ea8ca7bebf5cb439782c2e42380022361d213b2b3e0dd",
+    "ko": "건설 부탁하기.../오두막"
+  },
+  {
+    "id": "TXT_SimsObjects_07853",
+    "source_sha256": "09911d6fa2916d46612523684bb34dd785ee323c2a1890ccab0df00a1c4387fa",
+    "ko": "해제"
+  }
+]
